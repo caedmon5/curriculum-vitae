@@ -166,9 +166,18 @@ _Last updated: 2025-04-19_
 - Teaching Development Fund, *The Unessay*, 2013–2014, $2,700
 - Internal SSHRC Grant, *Global Outlook::DH*, 2012, $5,000
 
-### Awards and Honours
+### Awards, Fellowships, and Honours
 
 - Honourable Mention, MLA Prize for a Scholarly Edition (*Cædmon’s Hymn*), 2007
+- Mellon Fellowship in the Humanities (Dissertation Fellowship), 1993–1994, US$11,000
+- SSHRC Doctoral Fellowship, 1992–1994, $14,000 per year
+- Yale University Fellowship, 1992–1993, US$16,000 + tuition
+- University of California, Los Angeles, University Fellowship, 1989–1993, US$36,000 + tuition (declined)
+- Mellon Fellowship in the Humanities, 1989–1991, US$22,000 + tuition
+- Yale University Fellowship, 1989–1991, US$16,000 + tuition (declined)
+- C.L. Burton In-course Scholarship, St. Michael’s College, University of Toronto, 1988–1989, $1,500 (declined)
+- In-course Scholarship, St. Michael’s College, University of Toronto, 1987–1988, $1,500 (declined)
+
 
 ## Publications  
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.

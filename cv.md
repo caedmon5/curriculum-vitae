@@ -40,6 +40,22 @@ _Last updated: 2025-04-19_
 ## Academic Positions
 **Summary**: Since 1997, O'Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at Saskatchewan and within the University Library.
 
+## Academic Positions
+
+**Summary**: Since 1997, O'Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at the University of Saskatchewan and within the University Library.
+
+- **Professor of English (Tenured)**, University of Lethbridge, 2010–present  
+- **Affiliate Member**, Prentice Institute for Global Population, 2020–  
+- **Adjunct Professor**, University of Saskatchewan (Graduate College), 2019–2024  
+- **Associate Member**, University Library Academic Staff, University of Lethbridge, 2015–  
+- **Professor of English (Offered and Declined)**, University of Saskatchewan, 2018  
+- **Associate Professor of English**, University of Lethbridge, 2002–2010  
+- **Assistant Professor of English**, University of Lethbridge, 1997–2002  
+- **Tutor**, University of York / Workers’ Educational Association (UK), 1997  
+- **Visiting Assistant Professor**, Louisiana State University, 1994–1995  
+- **Teaching Fellow**, Yale University, 1991–1992  
+- **Research Assistant**, Dictionary of Old English, University of Toronto, 1987–1989
+
 ## Academic Leadership
 **Summary**: O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge.
 

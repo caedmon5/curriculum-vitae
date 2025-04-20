@@ -24,6 +24,19 @@ _Last updated: 2025-04-19_
 ## Languages  
 **Summary**: O'Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (spoken and read), French (reading and conversational), and German (reading), as well as Old English, Old Norse, Latin, Old Frisian, and Gothic.
 
+- **Modern Languages**:  
+  - English (native)  
+  - Dutch (read, spoken, and aural)  
+  - French (reading and aural strong; improving spoken accuracy in preparation for CERF B2 certification)  
+  - German (reading)
+
+- **Classical and Medieval Languages**:  
+  - Old English  
+  - Latin  
+  - Old Frisian  
+  - Old Norse  
+  - Gothic
+
 ## Academic Positions
 **Summary**: Since 1997, O'Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at Saskatchewan and within the University Library.
 

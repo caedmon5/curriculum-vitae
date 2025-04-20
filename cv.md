@@ -14,7 +14,9 @@ _Last updated: 2025-04-19_
 ---
 
 ## Education  
+
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
+
 - *BA with distinction**, St. Michael’s College, University of Toronto, 1989  
 - *Specialisation*: English Language and Literature  
 - *Minors*: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded)
@@ -22,6 +24,7 @@ _Last updated: 2025-04-19_
 
 
 ## Languages  
+
 **Summary**: O'Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (spoken and read), French (reading and conversational), and German (reading), as well as Old English, Old Norse, Latin, Old Frisian, and Gothic.
 
 - **Modern Languages**:  
@@ -36,9 +39,6 @@ _Last updated: 2025-04-19_
   - Old Frisian  
   - Old Norse  
   - Gothic
-
-## Academic Positions
-**Summary**: Since 1997, O'Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at Saskatchewan and within the University Library.
 
 ## Academic Positions
 
@@ -57,7 +57,54 @@ _Last updated: 2025-04-19_
 - **Research Assistant**, Dictionary of Old English, University of Toronto, 1987–1989
 
 ## Academic Leadership
-**Summary**: O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge.
+
+**Summary**: O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has consistently taken leadership during moments of structural transition and policy change.
+
+- **Past President**, Confederation of Alberta Faculty Associations (CAFA), 2024–2025  
+  Continued strategic advocacy; transitioned president role following reorganisation.
+
+- **President**, CAFA, 2023–2024  
+  Led reorganisation after loss of major member (AASUA); founded Western Regional Council; initiated successful provincial lobbying on Bill 18.
+
+- **Past President**, University of Lethbridge Faculty Association (ULFA), 2023–2024  
+  Supported transition to new leadership; advised on grievance resolution and governance rebuilding.
+
+- **President**, ULFA, 2021–2023  
+  Led six-week job action (92% strike vote, 91% ratification); rebuilt faculty governance post-strike; expanded communication strategy.
+
+- **Vice-President**, ULFA, 2020–2021  
+  Developed internal governance models; supported bargaining team formation.
+
+- **Chief Spokesperson and Bargaining Chair**, ULFA, 2018–2021  
+  Negotiated multiple collective agreements (including Navitas MOU); launched and secured approval for job action fund.
+
+- **President**, Force11, 2018–2019  
+  Oversaw launch of FORCE11 Scholarly Communication Institute (FSCI); expanded global FAIR and Open Science policy advocacy.
+
+- **Vice-President**, Force11, 2013–2017  
+  Built global partnerships in scholarly communication and infrastructure.
+
+- **Founding Director**, Lethbridge Centre for the Study of Scholarly Communication, 2015–present  
+  Created institutional centre supporting interdisciplinary research and publication innovation.
+
+- **Founding Chair**, Global Outlook::Digital Humanities (GO::DH), 2012–2015  
+  Founded equity-centred digital humanities network; initiated multilingual and regional DH programs.
+
+- **Co-President**, Canadian Society for Digital Humanities (CSDH/SCHN), 2010–2013  
+  Coordinated national DH strategy and membership growth.
+
+- **Chair**, Digital Initiatives Advisory Board, Medieval Academy of America, 2009–2012  
+  Guided MAA infrastructure strategy; advised on journal and archive digitisation.
+
+- **Chair and CEO**, Text Encoding Initiative (TEI), 2006–2011  
+  Restructured TEI governance; launched member-led consortium; resolved internal staff conflict; published revised TEI Guidelines.
+
+- **Founding Director**, Digital Medievalist Project, 2003–2009  
+  Established peer-reviewed journal and infrastructure for medievalists working in digital media.
+
+- **Chair**, Department of English, University of Lethbridge, 2005–2008, 2023–present  
+  Led department through curriculum overhaul, review, and hiring plan during institutional crisis; implemented new governance model.
+
 
 ## Current Major Projects
 **Summary**: O'Donnell is currently involved in several funded and proposed research projects in scholarly communication, digital infrastructure, and academic governance, including SSHRC-funded initiatives such as the Visionary Cross Project and Journal Incubator, as well as collaborative work with CERN, DARIAH, and CARL.

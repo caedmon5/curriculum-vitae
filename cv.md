@@ -131,30 +131,30 @@ _Last updated: 2025-04-19_
 
 ## Funding and Prizes
 
-**Summary**: O'Donnell has received over $1.6 million in research funding as Principal Investigator and Co-applicant since 2000, primarily through SSHRC, with additional support from Mitacs, Sloan, Mellon, and other agencies. His work spans scholarly communication, Anglo-Saxon studies, research infrastructure, and innovation in academic publishing.
+**Summary**: O'Donnell has received almost CA$4 million in research funding as Principal Investigator and Co-applicant (CA$2 million as PI) from external agencies since 2000. His work spans scholarly communication, early Medieval English studies, research infrastructure, and innovation in academic publishing.
 
 ### External Research Grants
 
-- SSHRC Insight Grant, *Resistance to Data*, 2025–2029, PI, $300,000 (435-2025-0705)
+- SSHRC Insight Grant (435-2025-0705), *Resistance to Data: Understanding Data Use, Data Management, and Data Infrastructure in the "Traditional" Humanities through Historical, Comparative, and Ethnographic Study*, 2025–2029, PI, $300,000
 - SSHRC Insight Grant, *Canterbury Tales Project*, 2021–2026, Co-applicant, $340,000
-- SSHRC Partnership Development Grant, *Good Things Come in Small Packages*, 2021–2023, PI, $200,000 (890-2020-0095)
-- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2022–2025, PI, $30,000 (651-2021-0150)
-- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2019–2022, PI, $90,000 (651-2018-0062)
-- SSHRC Connections Grant, *Canada-LATAM Workshop on Open and Inclusive Access*, 2020–2021, PI, $25,000 (611-2019-0499)
-- Sloan Foundation, *Developing Open Science during COVID*, 2020–2021, PI, US$50,000 (G-2020-13999)
-- SSHRC Partnership Development Grant, *Future Commons*, 2017–2019, PI, $200,000 (890-2016-0081)
-- SSHRC Insight Grant, *What Goes Around: Visionary Cross*, 2015–2019, PI, $233,224 (435-2015-1119)
+- SSHRC Partnership Development Grant (890-2020-0095), *Good Things Come in Small Packages: A Grassroots Community of Practice for Open and FAIR Humanities Data Practices*, 2021–2023, PI, $200,000
+- SSHRC Aid to Scholarly Journals (651-2021-0150), *Digital Studies / Le champ numérique*, 2022–2025, PI, $30,000
+- SSHRC Aid to Scholarly Journals (651-2018-0062), *Digital Studies / Le champ numérique*, 2019–2022, PI, $90,000
+- SSHRC Connections Grant (611-2019-0499), *Canada-LATAM Workshop on Open and Inclusive Access to research*, 2020–2021, PI, $25,000
+- Sloan Foundation (G-2020-13999), *Developing Open Science during the COVID emergency: A community-based investigation and support network: Reimagining Education Practices for Open (REPO)*, 2020–2021, PI, US$50,000
+- SSHRC Partnership Development Grant (890-2016-0081), *Future Commons: Transforming Scholarly Communication through Collective Action*, 2017–2019, PI, $200,000
+- CFI John R. Evans Leaders Fund (32819), *What Goes Around: The Visionary Cross Digital Library*, 2017-2019, PI, $86,937
+- SSHRC Insight Grant (435-2015-1119), *What Goes Around: Editing the Anglo-Saxon Visionary Cross Cultural Matrix*, 2015–2019, PI, $233,224
 - Mellon Foundation, *Reading Peer Review*, 2017–2018, Co-PI, US$99,000
-- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2014–2017, PI, $46,225 (651-2014-0138)
+- SSHRC Aid to Scholarly Journals (651-2014-0138), *Digital Studies / Le champ numérique*, 2014–2017, PI, $46,225
 - SSHRC Insight Grant, *Canterbury Tales Project Phase 2*, 2013–2017, Co-applicant, $471,000
 - Helmsley Charitable Trust (via Force11), 2015, drafting applicant, US$424,000
 - Mitacs GlobalLink (Visionary Cross), 2015, In-kind
 - Gordon and Betty Moore Foundation (Force11), 2014–2015, Co-applicant, US$150,000
-- GRAND Startup Grant, *DigiCultH*, 2014–2015, Co-PI, $9,640 (G-CI-14-LB-01)
-- SSHRC Standard Research Grant, *Crossroads: Visionary Cross*, 2010–2014, PI, $62,430 (410-2010-1474)
-- SSHRC Standard Research Grant, *Cædmon’s Hymn*, 2005–2008, PI, $62,000
-- SSHRC ITST Grant, *Digital Medievalist*, 2005–2006, PI, $27,490 (849-2003-0003)
-- Mellon Foundation, *Scholarly Communications*, 2008, PI, US$30,723
+- GRAND Startup Grant (G-CI-14-LB-01), *DigiCultH: Engaging with Digital Cultural Heritage Objects*, 2014–2015, Co-PI, $9,640
+- SSHRC Standard Research Grant (410-2010-1474), *Crossroads: editing the Visionary Cross Matrix in Anglo-Saxon England*, 2010–2014, PI, $62,430
+- Mellon Foundation, Scholarly Communications Program (GP1.2008), *TEI Tite: Creating a Benefit of Membership to Support Standards Development*, 2008, PI, US$30,723
+- SSHRC ITST Grant (849-2003-0003), *The Digital Medievalist Project: A Community of Practice Network for Image, Text, Sound and Technology Research*, 2005–2006, PI, $27,490
 
 ### Internal and Institutional Grants (selected)
 

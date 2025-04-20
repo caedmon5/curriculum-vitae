@@ -130,7 +130,45 @@ _Last updated: 2025-04-19_
   A long-running digital edition and visualisation project focused on the Ruthwell Cross and related Insular artefacts. Integrates philological, archaeological, and imaging methodologies to interpret monumental Old English inscriptions. Outputs include multi-format visualisation environments, digital philology, and graduate student training.
 
 ## Funding and Prizes
-**Summary**: O'Donnell has received sustained SSHRC support as principal investigator and co-investigator since 2000, alongside other national and international funding. He was awarded an Honourable Mention from the MLA for his edition of *Cædmon’s Hymn*.
+
+**Summary**: O'Donnell has received over $1.6 million in research funding as Principal Investigator and Co-applicant since 2000, primarily through SSHRC, with additional support from Mitacs, Sloan, Mellon, and other agencies. His work spans scholarly communication, Anglo-Saxon studies, research infrastructure, and innovation in academic publishing.
+
+### External Research Grants
+
+- SSHRC Insight Grant, *Resistance to Data*, 2025–2029, PI, $300,000 (435-2025-0705)
+- SSHRC Insight Grant, *Canterbury Tales Project*, 2021–2026, Co-applicant, $340,000
+- SSHRC Partnership Development Grant, *Good Things Come in Small Packages*, 2021–2023, PI, $200,000 (890-2020-0095)
+- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2022–2025, PI, $30,000 (651-2021-0150)
+- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2019–2022, PI, $90,000 (651-2018-0062)
+- SSHRC Connections Grant, *Canada-LATAM Workshop on Open and Inclusive Access*, 2020–2021, PI, $25,000 (611-2019-0499)
+- Sloan Foundation, *Developing Open Science during COVID*, 2020–2021, PI, US$50,000 (G-2020-13999)
+- SSHRC Partnership Development Grant, *Future Commons*, 2017–2019, PI, $200,000 (890-2016-0081)
+- SSHRC Insight Grant, *What Goes Around: Visionary Cross*, 2015–2019, PI, $233,224 (435-2015-1119)
+- Mellon Foundation, *Reading Peer Review*, 2017–2018, Co-PI, US$99,000
+- SSHRC Aid to Scholarly Journals, *Digital Studies / Le champ numérique*, 2014–2017, PI, $46,225 (651-2014-0138)
+- SSHRC Insight Grant, *Canterbury Tales Project Phase 2*, 2013–2017, Co-applicant, $471,000
+- Helmsley Charitable Trust (via Force11), 2015, drafting applicant, US$424,000
+- Mitacs GlobalLink (Visionary Cross), 2015, In-kind
+- Gordon and Betty Moore Foundation (Force11), 2014–2015, Co-applicant, US$150,000
+- GRAND Startup Grant, *DigiCultH*, 2014–2015, Co-PI, $9,640 (G-CI-14-LB-01)
+- SSHRC Standard Research Grant, *Crossroads: Visionary Cross*, 2010–2014, PI, $62,430 (410-2010-1474)
+- SSHRC Standard Research Grant, *Cædmon’s Hymn*, 2005–2008, PI, $62,000
+- SSHRC ITST Grant, *Digital Medievalist*, 2005–2006, PI, $27,490 (849-2003-0003)
+- Mellon Foundation, *Scholarly Communications*, 2008, PI, US$30,723
+
+### Internal and Institutional Grants (selected)
+
+- UCLA (Force11 Scholarly Communications Institute), 2020–2022, PI, US$190,000
+- CREDO Grant, *Visionary Cross*, 2008–2010, $23,000
+- CREDO Grant, *Humanities Data*, 2019–2022, $25,000
+- Lethbridge Journal Incubator RAships (multiple years), in-kind, $21,900–$29,200 per round
+- University of Lethbridge Internal SSHRC and Research Fund awards, various years
+- Teaching Development Fund, *The Unessay*, 2013–2014, $2,700
+- Internal SSHRC Grant, *Global Outlook::DH*, 2012, $5,000
+
+### Awards and Honours
+
+- Honourable Mention, MLA Prize for a Scholarly Edition (*Cædmon’s Hymn*), 2007
 
 ## Publications  
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.

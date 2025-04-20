@@ -105,9 +105,29 @@ _Last updated: 2025-04-19_
 - **Chair**, Department of English, University of Lethbridge, 2005–2008, 2023–present  
   Led department through curriculum overhaul, review, and hiring plan during institutional crisis; implemented new governance model.
 
-
 ## Current Major Projects
-**Summary**: O'Donnell is currently involved in several funded and proposed research projects in scholarly communication, digital infrastructure, and academic governance, including SSHRC-funded initiatives such as the Visionary Cross Project and Journal Incubator, as well as collaborative work with CERN, DARIAH, and CARL.
+
+**Summary**: O'Donnell is Principal Investigator on several research initiatives focused on scholarly communication, data infrastructure, and academic governance. These projects are supported by SSHRC and international partners including CERN, DARIAH, and CARL. His current work addresses how humanities research resists or reimagines dominant models of data, infrastructure, and institutional accountability.
+
+- **Resistance to Data: Humanities Approaches to Research Classification and Infrastructure**  
+  *(2022–present; SSHRC Insight Grant 2025–2029, PI, $300,000; SSHRC Partnership Development Grant 2022–2025, PI, $200,000)*  
+  Umbrella initiative investigating epistemic and institutional resistance to structured data in the humanities. Incorporates and extends the earlier *Good Things Come in Small Packages* project. Includes strands in multilingual infrastructure, human-centred metadata, and knowledge equity. Collaborative partners include CERN, CARL, and DARIAH-EU.
+
+- **#safespaces? Academic Freedom and Inclusivity in an Age of Polarisation**  
+  *(2024–2025; SSHRC Knowledge Synthesis Grant – applied, PI; SSHRC Insight Development Grant – applied, PI)*  
+  Investigates how political polarisation, identity politics, and campus speech discourses intersect with evolving interpretations of academic freedom in Canada and abroad.
+
+- **Humanities Innovation Lab**  
+  *(Internal initiative; PI)*  
+  Conceptual pilot adapting laboratory-based research models to the humanities. Emphasises collaborative supervision, research planning, and the integration of graduate students into structured team-based environments.
+
+- **Lethbridge Journal Incubator**  
+  *(2022–2024; SSHRC Aid to Scholarly Journals Grant, PI)*  
+  A training and mentorship initiative in scholarly communication. Offers graduate students editorial experience and exposure to open infrastructure and publishing innovation.
+
+- **The Visionary Cross in Anglo-Saxon England**  
+  *(2005–present; SSHRC Standard Research Grant 2005–2008, PI; SSHRC Insight Grant 2014–2017, PI, $282,190; Mitacs support; Chinook Summer Research Grant, Government of Alberta, $6,000, 2025)*  
+  A long-running digital edition and visualisation project focused on the Ruthwell Cross and related Insular artefacts. Integrates philological, archaeological, and imaging methodologies to interpret monumental Old English inscriptions. Outputs include multi-format visualisation environments, digital philology, and graduate student training.
 
 ## Funding and Prizes
 **Summary**: O'Donnell has received sustained SSHRC support as principal investigator and co-investigator since 2000, alongside other national and international funding. He was awarded an Honourable Mention from the MLA for his edition of *Cædmon’s Hymn*.

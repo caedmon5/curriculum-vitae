@@ -119,7 +119,7 @@ _Last updated: 2025-04-19_
   Umbrella initiative investigating epistemic and institutional resistance to structured data in the humanities. Incorporates and extends the earlier *Good Things Come in Small Packages* project. Includes strands in multilingual infrastructure, human-centred metadata, and knowledge equity. Collaborative partners include CERN, CARL, and DARIAH-EU.
 
 - **#safespaces? Academic Freedom and Inclusivity in an Age of Polarisation**  
-  *(2024–2025; SSHRC Knowledge Synthesis Grant – applied, PI; SSHRC Insight Development Grant – applied, PI)*  
+  *(2024–; SSHRC Insight Development Grant – applied for, PI)*  
   Investigates how political polarisation, identity politics, and campus speech discourses intersect with evolving interpretations of academic freedom in Canada and abroad.
 
 - **Humanities Innovation Lab**  
@@ -127,7 +127,7 @@ _Last updated: 2025-04-19_
   Conceptual pilot adapting laboratory-based research models to the humanities. Emphasises collaborative supervision, research planning, and the integration of graduate students into structured team-based environments.
 
 - **Lethbridge Journal Incubator**  
-  *(2022–2024; SSHRC Aid to Scholarly Journals Grant, PI)*  
+  *(2012–2024; SSHRC Aid to Scholarly Journals Grant, PI; internal funding)*  
   A training and mentorship initiative in scholarly communication. Offers graduate students editorial experience and exposure to open infrastructure and publishing innovation.
 
 - **The Visionary Cross in Anglo-Saxon England**  
@@ -136,10 +136,12 @@ _Last updated: 2025-04-19_
 
 ## Funding and Prizes
 
-**Summary**: O'Donnell has received almost CA$4 million in research funding as Principal Investigator and Co-applicant (CA$2 million as PI) from external agencies since 2000. His work spans scholarly communication, early Medieval English studies, research infrastructure, and innovation in academic publishing.
+**Summary**: O'Donnell has received approximately CA$4 million in research funding as Principal Investigator and Co-applicant from external agencies since 2000 (CA$2 million as PI). His work spans scholarly communication, early Medieval English studies, research infrastructure, and innovation in academic publishing.
 
-### External Research Grants
+### External Research Grants and Prizes
 
+- SSHRC Impact Prize (Connections) (780-2025-00021), Nominee. $50,000 (under review)
+- SSHRC Insight Development Grant, *#safespaces? Academic Freedom and Inclusivity in an Age of Polarisation*, 2025-2027, PI, $78,000 (under review)
 - SSHRC Insight Grant (435-2025-0705), *Resistance to Data: Understanding Data Use, Data Management, and Data Infrastructure in the "Traditional" Humanities through Historical, Comparative, and Ethnographic Study*, 2025–2029, PI, $300,000
 - SSHRC Insight Grant, *Canterbury Tales Project*, 2021–2026, Co-applicant, $340,000
 - SSHRC Partnership Development Grant (890-2020-0095), *Good Things Come in Small Packages: A Grassroots Community of Practice for Open and FAIR Humanities Data Practices*, 2021–2023, PI, $200,000

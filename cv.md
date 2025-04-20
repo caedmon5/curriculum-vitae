@@ -15,6 +15,11 @@ _Last updated: 2025-04-19_
 
 ## Education  
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
+- *BA with distinction**, St. Michael’s College, University of Toronto, 1989  
+- *Specialisation*: English Language and Literature  
+- *Minors*: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded)
+
+
 
 ## Languages  
 **Summary**: O'Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (spoken and read), French (reading and conversational), and German (reading), as well as Old English, Old Norse, Latin, Old Frisian, and Gothic.

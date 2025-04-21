@@ -147,6 +147,7 @@ _Last updated: 2025-04-19_
 
 ### Awards, Fellowships, and Honours
 
+- University of Lethbridge Teaching Award Nominee 2015–2016, 2016-2017.
 - Honourable Mention, MLA Prize for a Scholarly Edition (*Cædmon’s Hymn*), 2007
 - Mellon Fellowship in the Humanities (Dissertation Fellowship), 1993–1994, US$11,000
 - SSHRC Doctoral Fellowship, 1992–1994, $14,000 per year
@@ -301,6 +302,12 @@ _Last updated: 2025-04-19_
 - Interview on academic use of Wikipedia on CBC Radio One (Alberta), *Wild Rose Country*, February 12, 2008.
 - Interview about *Cædmon’s Hymn* and TEI work on CBC Radio One (Alberta), *Wild Rose Country*, December 21, 2006.
 - “Iraq War Coverage More Balanced than 1991: Prof.” *Lethbridge Herald*, April 3, 2003.
+
+### Creative Work
+
+- **Author**, *Glamour Boys / Once We Were Heroes*. A 105,000-word upmarket literary noir novel set primarily in 1960s Toronto. The work engages themes of post-war trauma, class, and self-deception through the investigation of war crimes and personal memory.
+- **Actor**, *Homo*, a Latin play produced by the medieval drama troupe *Poculi Ludisque Societas* (Centre for Medieval Studies, University of Toronto); performed at the International Association for Neo-Latin Studies Conference, Toronto, 1988.
+- **Editor, Producer, and Technician**, *Within the Hollow Crown: A Sad Story of the Death of Kings*. A radio adaptation of William Shakespeare’s *Richard II* and *Henry IV* parts 1 and 2. Adapted and produced by Dan O’Donnell. Directed by Ralph Joneikeiss. Broadcast on CIUT-FM (Toronto), March 22 and April 5, 1987. [http://bit.ly/a6wqIh](http://bit.ly/a6wqIh)
 
 ## Lectures and Conferences  
 **Summary**: O'Donnell has presented and organised sessions at national and international conferences across multiple disciplines, and regularly teaches and lectures at summer institutes such as DHSI and FSCI. He has given over 125 lectures to national and international audiences.
@@ -518,6 +525,101 @@ _Last updated: 2025-04-19_
 - “TEI/XML as a Production Language: The Case of the Digital Medievalist Project.” TEI Annual Meeting. Sofia, Bulgaria. October 28–29, 2005. (r)
 - “The Digital Medievalist Project: An Extensible Community of Practice for Medievalists.” Poster and abstract. Digital Resources in the Humanities Conference. University of Newcastle upon Tyne, UK. September 5–9, 2004. [3rd Prize winner in best poster competition (out of 22 entries)]. (r)
 
+### Teaching and Supervisory Experience
+
+Daniel Paul O’Donnell has taught undergraduate and graduate courses in English literature, medieval studies, English linguistics, textual scholarship, management information studies, mathematics, computer science, and the digital humanities. His teaching appointments have included Yale University, the Workers’ Educational Association (U.K.), the University of York (U.K.), Louisiana State University, and the University of Lethbridge, as well as invited roles with the International Society for Anglo-Saxonists. He has also supervised more than thirty M.A. and M.Sc. students in editorial, adjudication, and publication work through the *Meeting of Minds* Graduate Student Journal and his leadership of the University of Lethbridge Journal Incubator. He served as lead instructor for all courses unless otherwise indicated.
+
+#### University of Lethbridge (1997–)
+
+- *Meeting of Minds* Graduate Student Journal (2015–2016). Supervised and instructed graduate students in contemporary publication techniques. The work produced two student-co-authored articles.
+
+- English 1900. Introduction to English Language and Literature. (Undergraduate)
+- English 2100. Poetry. (1997–2007) (Undergraduate)
+- English 2450. English Literature Survey I (until 1800). (2011–) (Undergraduate)
+- English 2810. Grammar. (2000–) (Undergraduate)
+- English 2900. World Englishes. (1997–2005) (Undergraduate)
+- English 3401. Middle English. (1997–) (Undergraduate)
+- English 3450. Old English. (1997–) (Undergraduate)
+- English 3601. Chaucer. (1997–) (Undergraduate)
+- English 3901. History of English. (1997–) (Undergraduate)
+- English 3990. Independent Studies. (1997–) (Undergraduate)
+- English 4400/4600. Beowulf. (1997–) (Undergraduate)
+- English 4400. History of the Book. (1998–) (Undergraduate)
+- English 4400. Digital Humanities. (2005–) (Undergraduate)
+- English 4400. Scholarly Communication. (2017–) (Undergraduate)
+- English 4900. Independent Studies. (1997–) (Undergraduate)
+- Management 4900. Database Design. (1998) (Undergraduate)
+- English 5400. The New Humanities. (2013) (Graduate)
+- English 5400. Digital Humanities. (2005–) (Undergraduate)
+- English 5400. Scholarly Communication. (2017–) (Undergraduate)
+- English 5600. Beowulf. (2014) (Graduate)
+- English 5990. Graduate Independent Studies. (2002–) (Graduate)
+
+#### University of York (U.K.) (1996)
+
+- Middle English paper (Undergraduate)
+
+#### Louisiana State University (1994–1995)
+
+- Old English (Graduate)
+- Beowulf (Graduate)
+- Chaucer (Undergraduate)
+- History of English (Undergraduate)
+
+#### Yale University (1991–1992)
+
+- Introduction to the Novel (Teaching Assistant) (Undergraduate)
+- Age of Johnson (Teaching Assistant) (Undergraduate)
+- History of English (Teaching Assistant) (Undergraduate)
+
+#### Other
+
+- Workers’ Educational Association. Dark Age Tales (1996) (General Interest)
+- Co-director, with Martin Foys (Drew University). ISAS Pre-conference PhD Workshop in Digital Technology and New Media. July–August 2009.
+
+#### Supervision
+
+**Postdoctoral Supervision**
+
+- Nathan Woods. Humanities data. 2021–
+
+**PhD Supervision**
+
+- AKM Iftekhar Khalid. Tagorian English vs Large Language Models as Models of Hegemonic Discourse. CPST. Co-supervisor. 2024-  
+- Frank Onuh. Discourse analysis and hate speech. CPST. Co-supervisor. 2023–
+- Davide Pafumi. Discourse analysis and Medieval English. CPST. Co-supervisor. 2022–
+
+**M.A. Supervision**
+
+- Morgan Pearce. Chaucer. English. Co-supervisor. 2022–
+- Kirandeep Kaur. Language resources for lesser-supported languages. English. Supervisor. 2021–2023
+- AKM Iftekhar Khalid. The History of English in Bangladesh. English. Supervisor. 2021–2023
+- Virgil Grandfield. Creative Non-fiction. Multidisciplinary. Supervisor. 2015–2018 (medical withdrawal)
+- Gurpreet Singh. Crowdsourcing editions of Sikh religious texts. Multidisciplinary. Supervisor. 2014–2017 (medical withdrawal)
+- Rylan Spenrath. The Monstrous in Fiction. English. Supervisor. 2013–2016
+- Heather Hobma. Ruthwell Kirk. English. Supervisor. 2011–2014
+- Tania Bigthroat. Residential School Experience. Native American Studies. Co-supervisor. 2005–2008
+- Shelley Stigter. Native American Verbal Art. English. Supervisor. 2004–2006
+
+**Committee Membership (M.A. and M.Sc.)**
+
+- Mahsa Miri. Crediting Systems in Global Film. Modern Languages/Film Studies. 2015–2019
+- Titi Babalola. Absurd Realism. English. 2012–2014
+- Jessica Bay. Fan Fiction. English. 2012–2014
+- Fatima Rahman. Region query processing. Computer Science. 2013– (with interruptions)
+- Cody Rioux. Text Extraction in Digital Libraries. Computer Science. 2013–2015
+- Kent Aardse. Contemporary Digital Literatures. English. 2009–2011
+- Drew Luby. Magic in Renaissance England. English. 2009–2011
+- Leanne Little. Masculinity in Shakespeare. English. 2007–2009
+- Rob Meckelborg. Satanic Blake. English. 2006–2007
+- Angela Mlynarski. Text Summation in Digital Libraries. Computer Science. 2004–2006 (direction assumed during writing stage)
+- Laura Cappello. Jane Austen. English. 2002–2004
+
+## Consulting
+
+- Readex/Newsbank. Interactive Web. 2006-2009.
+- Citec. SGML. 1999.
+- Kawoosh! Productions/Stargate SG-1 [Television Producers]. Historical language use; pronunciation; archaeology. 1999.
 
 ## Organisational Roles  
 **Summary**: O'Donnell has served on boards, steering committees, and planning groups for scholarly organisations, journals, conferences, and research networks. His service includes leadership in the Text Encoding Initiative, Digital Medievalist, and advisory roles within the Medieval Academy of America, Canadian Society for Digital Humanities, and other infrastructure-building initiatives.

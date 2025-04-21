@@ -255,7 +255,7 @@ _Last updated: 2025-04-19_
 - O'Donnell, Daniel Paul. 2009. Review of Martin Foys, *Virtually Anglo-Saxon*. Florida University Press. *Review of English Studies* 60: 475–476. (i)
 - O'Donnell, Daniel Paul. 2011. Review of Jun Terasawa, *Old English Metre: An Introduction*. Toronto Anglo-Saxon Series. Toronto: University of Toronto Press. *The Medieval Review* 2011-09-28. https://scholarworks.iu.edu/dspace/bitstream/handle/2022/13595/11.09.28.html?sequence=1 (i)
 - O'Donnell, Daniel Paul. 2015. Review of *A Conspectus of Scribal Hands Writing in English, 960–1100*. *Journal of English and Germanic Philology* 114.2: 294–297. (i)
-- Copland, Colleen*, Stephen Carrell*, Gwendolyn Davidson*, Virgil Grandfield*, and Daniel Paul O'Donnell. 2016. Review of *Electronic Beowulf*. *Digital Medievalist* 10. https://doi.org/10.16995/dm.56. (rsc)
+- Copland, Colleen\*, Stephen Carrell\*, Gwendolyn Davidson\*, Virgil Grandfield\*, and Daniel Paul O'Donnell. 2016. Review of *Electronic Beowulf*. *Digital Medievalist* 10. https://doi.org/10.16995/dm.56. (rsc)
 
 ## Knowledge Mobilisation  
 **Summary**: Through public journalism, podcast interviews, and media commentary, O'Donnell engages broader audiences on issues related to academic freedom, digital infrastructure, and postsecondary governance.

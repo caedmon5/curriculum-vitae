@@ -163,12 +163,12 @@ _Last updated: 2025-04-19_
 **Note on Notation**: In publications, the following symbols are used: (r) = refereed article; (c) = corresponding author; (s) = student co-authors; (i) = invited submission. An asterisk after an author's name indicates the person was a student at the time of publication.
 ### Books and Editions
 
-- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore\*, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521  
+- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore\*, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521 (rs)
   ISBN: 9781108486637 (hardback); 9781108783521 (ebook)  
   - **Reviews**:  
     - *Public Understanding of Science* 31 (7): 892–894
 - O’Donnell, Daniel Paul. 2005. *Cædmon’s Hymn: A Multimedia Study, Edition and Archive*. SEENET A.8. Cambridge: D.S. Brewer / Medieval Academy of America. xxii + 261 pp. + CD-ROM.  
-  Internet reprint (2018): https://caedmon.seenet.org/  
+  Internet reprint (2018): https://caedmon.seenet.org/ (r)
   Codebase DOI: https://doi.org/10.5281/zenodo.1198856  
   - **Honourable Mention**: 2007 MLA Prize for a Distinguished Scholarly Edition (2005–2006)  
   - **Reviews**:  
@@ -237,7 +237,25 @@ _Last updated: 2025-04-19_
 - O’Donnell, Daniel Paul. 2012. “‘There’s No Next about It’: Stanley Fish, William Pannapacker, and the Digital Humanities as Paradiscipline.” *Digital Humanities Now*, Editors’ Choice, September. http://digitalhumanitiesnow.org/2012/09/editors-choice-theres-no-next-about-it-stanley-fish-william-pannapacker-and-the-digital-humanities-as-paradiscipline-dpod-blog/.
 - Earl, Jim, Pat Conner, Karen Jolly, Sarah Higley, Sarah Keefer, Connie Hieatt, Dan O’Donnell\*, et al. 1990. “Bi-Coastal Beowulfians of the ’90s: A Curious ANSAXNET Conversation [Excerpted from ANSAXNET, December 1990–February 1991].” *Old English Newsletter* 24 (1): 36–39. http://www.oenewsletter.org/OEN/archive/OEN24_1.pdf. [Author order by contribution]
 
-### Reviews
+### Working Papers
+
+- O’Donnell, Daniel Paul. 2016. “The DHSI Analogy: Rationale, Growth, History, and Business Model.” University of California San Diego, September 18.
+- Co-Author with the TEI Technical Council (esp. Peter Boot, Daniel Paul O'Donnell, Dot Porter, Gabriel Bodard, Arianna Ciula). 2009. “Response to: Request for Information Regarding the Weekly Notes of Dr. Wernher von Braun (NNH09CAO002L).” NASA (Space Operations Directorate), August 31.
+- O'Donnell, Daniel Paul, James Cummings, and Roberto Rosselli Del Turco. 2006. “Why Should I Write for Your Wiki?” Readex Community Academic Advisory Board, April 21.
+- O'Donnell, Daniel Paul. 1999. “An Undocumented Method of Filtering and Translating Structural SGML to HTML Using Citec Multidoc Pro Style Sheets.”
+
+### Reviews and Encyclopædia Entries
+
+- O'Donnell, Daniel Paul. “Cædmon.” *Wikipedia*. Featured article, June 2006–present. 
+    *Published on Wikipedia’s front page, July 7, 2006, after I did a complete revision. Approximately one in 10,000 articles receive featured status.*
+- O'Donnell, Daniel Paul. 1999. Review of Hal Momma, *The Composition of Old English Poetry* (Cambridge Studies in Anglo-Saxon England, 20). *Early Medieval Europe* 8.1: 163–166. (i)
+- O'Donnell, Daniel Paul. 2002. Review of Timothy Graham, ed., *The Recovery of Old English: Anglo-Saxon Studies in the Sixteenth and Seventeenth Centuries* (Publications of the Richard Rawlinson Center). *Early Medieval Europe* 11.1: 93–95. (i)
+- O'Donnell, Daniel Paul. 2002. Review of Donald Scragg and Carole Weinberg, eds., *Literary Appropriations of the Anglo-Saxons from the Thirteenth to the Twentieth Centuries* (Cambridge Studies in Anglo-Saxon England, 29). *Early Medieval Europe* 11.2. (i)
+- O'Donnell, Daniel Paul. 2008. Review of Thomas A. Bredehoft, *Early English Metre*. Toronto Old English Series. University of Toronto Press. *Heroic Age* 10. (i)
+- O'Donnell, Daniel Paul. 2009. Review of Martin Foys, *Virtually Anglo-Saxon*. Florida University Press. *Review of English Studies* 60: 475–476. (i)
+- O'Donnell, Daniel Paul. 2011. Review of Jun Terasawa, *Old English Metre: An Introduction*. Toronto Anglo-Saxon Series. Toronto: University of Toronto Press. *The Medieval Review* 2011-09-28. https://scholarworks.iu.edu/dspace/bitstream/handle/2022/13595/11.09.28.html?sequence=1 (i)
+- O'Donnell, Daniel Paul. 2015. Review of *A Conspectus of Scribal Hands Writing in English, 960–1100*. *Journal of English and Germanic Philology* 114.2: 294–297. (i)
+- Copland, Colleen*, Stephen Carrell*, Gwendolyn Davidson*, Virgil Grandfield*, and Daniel Paul O'Donnell. 2016. Review of *Electronic Beowulf*. *Digital Medievalist* 10. https://doi.org/10.16995/dm.56. (rsc)
 
 ## Knowledge Mobilisation  
 **Summary**: Through public journalism, podcast interviews, and media commentary, O'Donnell engages broader audiences on issues related to academic freedom, digital infrastructure, and postsecondary governance.

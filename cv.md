@@ -161,6 +161,7 @@ _Last updated: 2025-04-19_
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.
 
 **Note on Notation**: In publications, the following symbols are used: (r) = refereed article; (c) = corresponding author; (s) = student co-authors; (i) = invited submission. An asterisk after an author's name indicates the person was a student at the time of publication.
+
 ### Books and Editions
 
 - Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore\*, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521 (rs)
@@ -174,7 +175,7 @@ _Last updated: 2025-04-19_
   - **Reviews**:  
     - *e-data&research* 1 (2006): 1; *Medium Aevum* 75 (2006): 356–357; *Old English Newsletter* 40.1 (2006); *Speculum* 82 (2007): 223–224; *Journal of Ecclesiastical History* 58 (2007): 120–121; *Early Medieval Europe* 15 (2007): 466–469; *Textual Cultures* 2 (2007): 139–142; *JEGP* 107.2 (2008): 248–251; *Digital Medievalist* 5 (2009); *Leeds Medieval Studies* 3 (2023): 139–141
 
-### Invited and Peer-Reviewed Articles and Chapters 
+### Peer-Reviewed and Invited Articles and Chapters (Traditional)
 
 - Pafumi, Davide\*, Frank Onuh\*, AKM Iftekhar Khalid\*, Morgan Pearce\*, Barbara Bordalejo, and Daniel Paul O'Donnell. 2025. “Scarlet Cloak and the Forest Adventure”: A Preliminary Study of the Impact of AI on Commonly Used Writing Tools. *International Journal of Educational Technology in Higher Education*. https://doi.org/10.1186/s41239-025-00505-5. (r)
 - O’Donnell, Daniel Paul. 2021. “‘I Heard He Sang a Good Song’: Caedmon’s Inspiration and Medieval Dream Theory.” In *Sogni, visioni e profezie nella letteratura germanica medievale*, edited by Roberto Rosselli Del Turco, 147–172. Bibliotheca Germanica. Studi e testi 48. Allessandria: Edizioni del l’Orso. (i)
@@ -221,8 +222,6 @@ _Last updated: 2025-04-19_
 - O'Donnell, Daniel Paul\*. 1995. “Schoolbook Design in the Fifteenth Century.” *The Yale University Library Gazette* 70: 23–38. (r)
 - O'Donnell, Daniel Paul\*. 1991. “The Collective Sense of Concrete Singular Nouns in *Beowulf*: Emendations of Sense.” *Neuphilologische Mitteilungen* 92: 433–440. (r)
 
-### Alternate and Novel Forms of Dissemination  
-
 ### Novel Forms of Scholarly Dissemination
 
 - Eve, Martin Paul, Daniel Paul O’Donnell, Cameron Neylon, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2021. “Reading Peer Review – What a Dataset of Peer Review Reports Can Teach Us about Changing Research Culture.” *Impact of Social Sciences* (blog), March 31. https://blogs.lse.ac.uk/impactofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture/.
@@ -260,9 +259,52 @@ _Last updated: 2025-04-19_
 ## Knowledge Mobilisation  
 **Summary**: Through public journalism, podcast interviews, and media commentary, O'Donnell engages broader audiences on issues related to academic freedom, digital infrastructure, and postsecondary governance.
 
-### Public Journalism and Media  
-### Interviews and Appearances  
-### Working Papers and Preprints  
+### Scholarly Interviews with Me
+
+- Eve, Martin Paul, Daniel Paul O’Donnell, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2021. “Reading Peer Review: PLOS One and…” Podcast interview. *New Books Network*, June 1. https://newbooksnetwork.com/reading-peer-review
+- Cook, Eleanor I., and Daniel Paul O’Donnell. 2019. “An Interview with Daniel O’Donnell, Current President of FORCE11.” *The Serials Librarian* 76.1–2: 1–3. https://doi.org/10.1080/0361526X.2019.1643437 (ri)
+- Priego, Ernesto, and Daniel Paul O’Donnell. 2013. “Bringing Diversity of Experience Together: An Interview with Daniel O’Donnell.” *4Humanities*. Accessed May 9. http://4humanities.org/2013/05/interview-daniel-o-donnell/.  
+  - Also translated into Spanish: http://4humanities.org/2013/06/diversidad-y-experiencia-una-entrevista-con-daniel-odonnell/  
+  - And Japanese: http://www.jadh.org/godh (i)
+
+---
+
+### Journalism by Me
+
+- O’Donnell, Daniel Paul. 2024. “Communication and Leadership a Matter of Trust.” *Lethbridge Herald*, September 20. https://lethbridgeherald.com/commentary/opinions/2024/09/20/communication-and-leadership-a-matter-of-trust/
+- O’Donnell, Daniel Paul. 2024. “A Tale of Two Edmontons Seen at Awards.” *Lethbridge Herald*, October 4. https://lethbridgeherald.com/commentary/opinions/2024/10/04/a-tale-of-two-edmontons-seen-at-awards/
+- O’Donnell, Daniel Paul. 2024. “Has the University of Lethbridge Lost Its Soul?” *Lethbridge Herald*, September 6. https://lethbridgeherald.com/commentary/opinions/2024/09/06/has-the-university-of-lethbridge-lost-its-soul/
+- O’Donnell, Daniel Paul. 2023. “Reflections on the U of L a Year after Strike/Lockout.” *Lethbridge Herald*, March 21. https://lethbridgeherald.com/commentary/opinions/2023/03/21/reflections-on-the-u-of-l-a-year-after-strike-lockout/
+- O’Donnell, Daniel Paul. 2022. “When the Ivy Tower Is a Fishing Hole.” *Lethbridge Herald*, January 12. https://lethbridgeherald.com/commentary/opinions/2022/01/12/when-the-ivy-tower-is-a-fishing-hole/
+- O’Donnell, Daniel Paul. 2022. “Maybe We Need to Start Demonstrating Again.” *Lethbridge Herald*, January 29. https://lethbridgeherald.com/commentary/opinions/2021/12/08/maybe-we-need-to-start-demonstrating-again/
+- O’Donnell, Daniel Paul. 2021. “There Is Still Time to Turn Things Around at the U of L.” *Lethbridge Herald*, September 10. https://lethbridgeherald.com/commentary/opinions/2021/09/10/there-is-still-time-to-turn-things-around-at-u-of-l/
+- O’Donnell, Daniel Paul. 2016. “Customized Pronouns: A Good Idea That Makes No Sense.” *The Globe and Mail*, October 15. https://www.theglobeandmail.com/opinion/customized-pronouns-a-good-idea-that-makes-no-sense/article32373933/
+- O’Donnell, Daniel Paul. 2012. “Why Isn’t the Internet Obsolete?” *Lethbridge Herald*, February 18. http://www.lethbridgeherald.com/public-professor/why-isnt-the-internet-obsolete-21812.html
+- O’Donnell, Daniel Paul. 2010. “Gun-list Debate Way Off Target.” *The Globe and Mail*, September 14, A15. http://bit.ly/cxjGGZ
+- O’Donnell, Daniel Paul. 2010. “The Copy-and-Paste Generation.” *National Post*, September 7, A15. http://bit.ly/bMl5Nw
+- O’Donnell, Daniel Paul. 2010. “Humanities, Not Science, Key to New Web Frontier.” *Edmonton Journal*, July 21. http://bit.ly/aApodN
+- O’Donnell, Daniel Paul. 2004. “More Research Money Needed for Social Science & Humanities.” *CBC Radio One*, March 15. Transcript: http://bit.ly/akgKs9
+- O’Donnell, Daniel Paul. 1998. “Restoring Pages to a Sacred Text [The Diary of Anne Frank].” *The Globe and Mail*, November 17, Arts and Leisure, A17–A18.
+
+---
+
+### Journalism and Interviews About Me and My Work
+
+- Schmidt, Scott, Jeremy Appel, Mo Cranker, and Daniel O’Donnell. 2022. “ULFA on Strike with President Dan O’Donnell.” Podcast interview. *The Forgotten Corner*, Episode 63, March 17. https://www.forgottencornerpod.com/episodes/episode-63-ulfa-on-strike-with-president-dan-odonnell
+- Srivastava, Sanjay, Alexa Tullett, and Simine Vazire. 2017. “Excellence Adventures.” *The Black Goat*, April 19. https://www.theblackgoatpodcast.com/posts/excellence-adventures/
+- UNews. 2015. “U of L Researchers Benefit from Canada Foundation for Innovation Funding.” July 29. http://www.uleth.ca/unews/article/u-l-researchers-benefit-canada-foundation-innovation-funding
+- Carmichael, Joe. 2016. “Science Has an Excellence Problem.” *Inverse*, June 14. http://bit.ly/ExcellenceInverse
+- Matthews, David. 2016. “Focus on Research ‘Excellence’ Is ‘Damaging Science.’” *Times Higher Education Supplement*. https://www.timeshighereducation.com/news/focus-on-research-excellence-is-damaging-science
+- Cooney, Bob. 2012. “O’Donnell, Graham Bring 3D Imaging to Ancient Cross.” *UNews*, June 18. http://www.uleth.ca/unews/article/odonnell-graham-bring-3d-imaging-ancient-cross
+- “Centuries-Old Tale Gets Modern Twist.” *Dumfries and Galloway Standard*, April 20, 2012, p. 9.
+- Interview about “The Copy-and-Paste Generation” (*National Post*) on Shaw TV, Lethbridge, September 22, 2010.
+- Interview about “Gun-list Debate Way Off Target” (*Globe and Mail*) on CBC Radio One’s *Cross Country Checkup*, September 19, 2010. http://bit.ly/cFsK8B Podcast: http://bit.ly/d1EN3h (at ~32')
+- Interview about “Gun-list Debate Way Off Target” (*Globe and Mail*) on CBC Radio One (Winnipeg), *Information Radio*, September 15, 2010.
+- Interview about “The Copy-and-Paste Generation” (*National Post*) on CFAX 1070, September 8, 2010.
+- Interview on academic use of Wikipedia on CBC Radio One (British Columbia), *BC Almanac*, March 3, 2008.
+- Interview on academic use of Wikipedia on CBC Radio One (Alberta), *Wild Rose Country*, February 12, 2008.
+- Interview about *Cædmon’s Hymn* and TEI work on CBC Radio One (Alberta), *Wild Rose Country*, December 21, 2006.
+- “Iraq War Coverage More Balanced than 1991: Prof.” *Lethbridge Herald*, April 3, 2003.
 
 ## Teaching (Optional if needed)
 

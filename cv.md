@@ -249,6 +249,45 @@ ISBN: 9781108486637 (hardback); 9781108783521 (ebook)
 
 - O'Donnell, Daniel Paul. 2012. “Move Over: Learning to Read (and Write) with Novel Technology.” *Scholarly and Research Communication* 3 (4). https://doi.org/10.22230/src.2012v3n4a68. (r)
 
+- O'Donnell, Daniel Paul. 2010. “Different Strokes, Same Folk: Designing the Multi-form Digital Edition.” *Literature Compass* 7 (2). http://dx.doi.org/10.1111/j.1741-4113.2009.00683.x. (r)
+
+- O'Donnell, Daniel Paul. 2009. “Byte Me: Technological Education and the Humanities.” *Heroic Age* 12. http://www.mun.ca/mst/heroicage/issues/12/em.php. (i)
+
+- O'Donnell, Daniel Paul. 2009. “Back to the Future: What Digital Editors Can Learn from Print Editorial Practice.” *Literary and Linguistic Computing* 24: 113–125. https://doi.org/10.1093/llc%2Ffqn039. (r)
+
+- Lee, Stuart, and Daniel Paul O'Donnell. 2009. “From Manuscript to Computer.” In *Working with Anglo-Saxon Manuscripts*, edited by Gale R. Owen-Crocker, 253–284. Exeter: Exeter UP. (r)
+
+- O'Donnell, Daniel Paul. 2008. “Resisting the Tyranny of the Screen, or, Must a Digital Edition Be Electronic?” *Heroic Age* 11. http://www.heroicage.org/issues/11/em.php. (i)
+
+- Bodard, Gabriel, and Daniel Paul O'Donnell. 2008. “We Are All Together: On Publishing a Digital Classicist Issue of the *Digital Medievalist* Journal.” *Digital Medievalist* 4. http://doi.org/10.16995/dm.18. (ic)
+
+- O'Donnell, Daniel Paul. 2007. “Disciplinary Impact and Technological Obsolescence in Digital Medieval Studies.” In *A Companion to Digital Literary Studies*, edited by Ray Siemens and Susan Schreibman. Cambridge: Blackwell. https://doi.org/10.1002/9781405177504.ch3. (r)
+
+- O'Donnell, Daniel Paul. 2007. “Material Differences: The Place of Cædmon's Hymn in the History of Anglo-Saxon Vernacular Poetry.” In *Cædmon's Hymn and Material Culture in the World of Bede*, edited by Allen J. Frantzen and John Hines, 15–50. Morgantown VA: West Virginia University Press. (r)
+
+- O'Donnell, Daniel Paul. 2007. “If I Were ‘You’: How Academics Can Stop Worrying and Learn to Love ‘the Encyclopedia That Anyone Can Edit.’” *Heroic Age* 10. http://www.heroicage.org/issues/10/em.html. (i)
+
+- O'Donnell, Daniel Paul. 2005. “The Ghost in the Machine: Revisiting an Old Model for the Dynamic Generation of Digital Editions.” *HumanIT* 8 (1): 51–71. Offprint: https://zenodo.org/record/3596125. (i)
+
+- O'Donnell, Daniel Paul. 2005. “O Captain! My Captain! Using Technology to Guide Readers Through an Electronic Edition.” *Heroic Age* 8. http://www.heroicage.org/issues/8/em.html. (i)
+
+- O'Donnell, Daniel Paul. 2004. “The Digital Medievalist Project.” *Old English Newsletter* 37: 19–21. (i)
+
+- O'Donnell, Daniel Paul. 2004. “Bede’s Strategy in Paraphrasing Cædmon’s Hymn.” *JEGP* 103: 417–433. (r)
+
+- O'Donnell, Daniel Paul. 2004. “The Doomsday Machine, or, ‘If You Build It, Will They Still Come Ten Years From Now?’: What Medievalists Working in Digital Media Can Do to Ensure the Longevity of Their Research.” *Heroic Age* 7. http://www.heroicage.org/issues/7/ecolumn.html. (i)
+
+- O'Donnell, Daniel Paul. 2004. “Numeric and Geometric Patterning in Cædmon’s Hymn.” *ANQ* 17: 3–12. (r)
+
+- O'Donnell, Daniel Paul. 2003. “‘Pioneers! O Pioneers!’: Some Electronic Editing Do’s and Don’ts From Stijn Streuvels’s *De Teleurgang van den Waterhoek*.” *Literary and Linguistic Computing*. (r)
+
+- O'Donnell, Daniel Paul. 2002. “Junius’s Knowledge of the Old English Poem *Durham*.” *Anglo-Saxon England* 30: 231–245. (r)
+
+- O'Donnell, Daniel Paul. 2002. “The Accuracy of the St. Petersburg Bede.” *Notes and Queries* 247: 4–6. (r)
+
+- O'Donnell, Daniel Paul. 2001. “Fish and Fowl: Generic Expectations and the Relationship Between the Old English *Phoenix* Poem and Lactantius’s *De Ave Phoenice*.” In *Germanic Texts and Latin Models: Medieval Reconstructions*, edited by K.E. Olsen, A. Harbus, and T. Hofstra. *Germania Latina IV. Mediaevalia Groningana*, n.s. 2. Leuven, Paris and Sterling, VA: Peeters, 157–171. (r)
+
+- O'Donnell, Daniel Paul. 1999. “Hædre and Hædre Gehogode (Solomon and Saturn Line 62b and *Resignation* Line 63a).” *Notes and Queries* 244: 312–316. (r)
 
 ### Shorter or Invited Publications  
 ### Reviews

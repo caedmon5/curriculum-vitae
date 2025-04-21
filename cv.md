@@ -207,7 +207,49 @@ ISBN: 9781108486637 (hardback); 9781108783521 (ebook)
 
 - *Public Understanding of Science* 31 (7): 892–894
 
-### Peer-Reviewed Articles and Chapters  
+### Invited and Peer-Reviewed Articles and Chapters 
+
+- Pafumi, Davide\*, Frank Onuh\*, AKM Iftekhar Khalid\*, Morgan Pearce\*, Barbara Bordalejo, and Daniel Paul O'Donnell. 2025. “Scarlet Cloak and the Forest Adventure”: A Preliminary Study of the Impact of AI on Commonly Used Writing Tools. *International Journal of Educational Technology in Higher Education*. https://doi.org/10.1186/s41239-025-00505-5. (r)
+
+- O’Donnell, Daniel Paul. 2021. “‘I Heard He Sang a Good Song’: Caedmon’s Inspiration and Medieval Dream Theory.” In *Sogni, visioni e profezie nella letteratura germanica medievale*, edited by Roberto Rosselli Del Turco, 147–172. Bibliotheca Germanica. Studi e testi 48. Allessandria: Edizioni del l’Orso. (i)
+
+- Bliss, Heather, Inge Genee, Marie-Odile Junker, and Daniel Paul O’Donnell. 2020. “‘Credit Where Credit Is Due’: Authorship and Attribution in Algonquian Language Digital Resources.” *IDEAH*. https://doi.org/10.21428/f1f23564.3d64b2ed. (r)
+
+- O’Donnell, Daniel Paul. 2020. “Critical Mass: The Listserv and the Early Online Community as a Case Study in the Unanticipated Consequences of Innovation in Scholarly Communication.” In *Digital Technology and the Practices of Humanities Research*, edited by Jennifer Edmond, 184–206. Cambridge: Open Book Publishers. Offprint: https://doi.org/10.5281/ZENODO.3633429. (r)
+
+- O’Donnell, Daniel Paul. 2019. “All Along the Watchtower: Intersectional Diversity as a Core Intellectual Value in the Digital Humanities.” In *Intersectionality in Digital Humanities*, edited by Barbara Bordalejo and Roopika Risam. Amsterdam: ARC. Offprint: http://doi.org/10.5281/zenodo.3580235. (r)
+
+- Esau, Paul\*, Carey Viejou\*, Sylvia Chow\*, Kimberly Dohms\*, Steve Firth\*, Jarret McKinnon\*, Dorethea Morrison\*, Reed Parsons\*, Courtney Rieger\*, Vanja Spiric\*, Elaine Toth\*, Kayla Ueland\*, Rumi Graham, and Daniel Paul O’Donnell. 2018. “‘Let’s Start a Journal!’: The Multidisciplinary Graduate Student Journal as Educational Opportunity.” *The Journal of Electronic Publishing* 21 (1). https://doi.org/10.3998/3336451.0021.109. (rsc)
+
+- O’Donnell, Daniel Paul, Carey Viejou\*, Sylvia Chow\*, Kimberly Dohms\*, Paul Esau\*, Steve Firth\*, Rumi Graham, et al. 2018. “Zombie Journals: Designing a Technological Infrastructure for a Precarious Graduate Student Journal.” *Scholarly and Research Communication* 9 (2). https://src-online.ca/index.php/src/article/view/296/548. http://dx.doi.org/10.22230/src.2018v9n2a296. (rsc)
+
+- O’Donnell, Daniel Paul, Matteo Callieri, Marco Dellepiane, Catherine Karkov, Dot Porter, and Roberto Rosselli Del Turco. 2018. “Archaeology in the Study: Scanning Anglo-Saxon Artifacts in the Visionary Cross Project.” *Wiðowinde* 185 (Spring): 21–27. Offprint: https://doi.org/10.5281/zenodo.1208167. (ic)
+
+- Tennant, Jonathan P., Jonathan M. Dugan, Daniel Jacques Damien Graziotin, François Waldner, Daniel Mietchen, Yehia Elkhatib, Lauren B. Collister, et al. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” *F1000Research* 6 (1151). http://doi.org/10.12688/f1000research.12037.2. (rs)
+
+- Moore, Samuel\*, Cameron Neylon, Martin Paul Eve, Daniel Paul O’Donnell, and Damian Pattinson. 2017. “‘Excellence R Us’: University Research and the Fetishisation of Excellence.” *Palgrave Communications* 3 (January). Nature Publishing Group. http://doi.org/10.1057/palcomms.2016.105. (rs)
+
+- O’Donnell, Daniel Paul. 2016. “The Bird in Hand: Humanities Research in the Age of Open Data.” In *The State of Open Data: A Selection of Analyses and Articles about Open Data*, edited by Figshare, 34–35. London: Digital Science. Offprint: https://doi.org/10.5281/zenodo.1470821. (i)
+
+- O’Donnell, Daniel Paul, Jessica Bay\*, Emma Dering\*, Matt Gal\*, Virgil Grandfield\*, Heather Hobma\*, and Gurpreet Singh\*. 2016. “The Third Academic Freedom.” *Light on Teaching*, 4–9. Lethbridge: Teaching Centre. Offprint: http://doi.org/10.5281/zenodo.3596098. (rsc)
+
+- Hobma, Heather\*, Daniel Paul O'Donnell, Catherine Karkov, Sally Foster, James Graham, Wendy Osborn, Roberto Rosselli Del Turco, Robert Broatch, Susan Broatch, Marco Callieri, and Matteo Dellepiane. 2016. “Modern Impact on the Fabric of the Ruthwell Cross.” *Old English Newsletter* 46.1. http://www.oenewsletter.org/OEN/issue/ruthwell.php. (rsc)
+
+- Champieux, Robin, Bianca Kramer, Jeroen Bosman, Ian Bruno, Amy Buckland, Sarah Callaghan, Chris Chapman, Stephanie Hagstrom, MaryAnn E. Martone, and Daniel Paul O'Donnell. 2016. “Finding the Principles of the Commons: A Report of the Force11 Scholarly Communications Working Group.” *Collaborative Librarianship* 8 (2). http://digitalcommons.du.edu/collaborativelibrarianship/vol8/iss2/5. (r)
+
+- Kramer, Bianca, Jeroen Bosman, Marcin Ignac, Christina Kral, Tellervo Kalleinen, Pekko Koskinen, Ian Bruno, Amy Buckland, Sarah Callaghan, Robin Champieux, Chris Chapman, Stephanie Hagstrom, MaryAnn Martone, Fiona Murphy, and Daniel Paul O'Donnell. 2016. “Defining the Scholarly Commons – Reimagining Research Communication. Report of Force11 SCWG Workshop, Madrid, Spain, February 25–27, 2016.” *Research Ideas and Outcomes* 2 (May): e9340. http://dx.doi.org/10.3897/rio.2.e9340. (r)
+
+- O'Donnell, Daniel Paul, Alex Gil, Katherine Walters, and Neil Fraistat. 2015. “Only Connect: The Globalization of the Digital Humanities.” In *A New Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, and John Unsworth, 493–510. Wiley. https://doi.org/10.1002/9781118680605.ch34. (rc)
+
+- O'Donnell, Daniel Paul, Heather Hobma\*, Sandra Cowan, Gillian Ayers\*, Jessica Bay\*, Marinus Swanepoel, Wendy Merkley, Kelaine Devine\*, Emma Dering\*, and Inge Genee. 2015. “Aligning Open Access Publication with the Research and Teaching Missions of the Public University: The Case of the Lethbridge Journal Incubator (If 'if's and 'and's Were Pots and Pans).” *Journal of Electronic Publishing* 18 (3). http://dx.doi.org/10.3998/3336451.0018.309. (rsc)
+
+- Leoni, Chiara\*, Marco Callieri, Matteo Dellepiane, Daniel Paul O'Donnell, Roberto Rosselli Del Turco, and Roberto Scopigno. 2015. “The Dream and the Cross: A 3D Scanning Project to Bring 3D Content in a Digital Edition.” *Journal on Computing and Cultural Heritage*. February. https://doi.org/10.1145/2686873. (rs)
+
+- O'Donnell, Daniel Paul. 2013. “‘I Certainly Have Subjects in My Mind’: The Diary of Anne Frank as Bildungsroman.” *Canadian Journal of Netherlandic Studies* 32: 49–88. https://doi.org/10.5281/zenodo.3596110. (r)
+
+- O'Donnell, Daniel Paul. 2012. “Move Over: Learning to Read (and Write) with Novel Technology.” *Scholarly and Research Communication* 3 (4). https://doi.org/10.22230/src.2012v3n4a68. (r)
+
+
 ### Shorter or Invited Publications  
 ### Reviews
 ### Alternate and Novel Forms of Dissemination  

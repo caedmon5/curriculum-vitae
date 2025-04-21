@@ -191,16 +191,18 @@ _Last updated: 2025-04-19_
 
 ### Books and Editions
 
-- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521 
-ISBN: 9781108486637 (hardback); 9781108783521 (ebook)
--- Reviews: 
---- *Public Understanding of Science* 31 (7): 892–894
+- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521  
+  ISBN: 9781108486637 (hardback); 9781108783521 (ebook)  
+  - **Reviews**:  
+    - *Public Understanding of Science* 31 (7): 892–894
 
-- O’Donnell, Daniel Paul. 2005. *Cædmon’s Hymn: A Multimedia Study, Edition and Archive*. SEENET A.8. Cambridge: D.S. Brewer / Medieval Academy of America. xxii + 261 pp. + CD-ROM.  Internet reprint (2018): https://caedmon.seenet.org/
-Codebase DOI: https://doi.org/10.5281/zenodo.1198856
--- Honourable Mention: 2007 MLA Prize for a Distinguished Scholarly Edition (2005–2006)
--- Reviews:
---- *e-data&research* 1 (2006): 1; *Medium Aevum* 75 (2006): 356–357; *Old English Newsletter* 40.1 (2006); *Speculum* 82 (2007): 223–224; *Journal of Ecclesiastical History* 58 (2007): 120–121; *Early Medieval Europe* 15 (2007): 466–469; *Textual Cultures* 2 (2007): 139–142; *JEGP* 107.2 (2008): 248–251; *Digital Medievalist* 5 (2009); Leeds Medieval Studies 3 (2023): 139-141
+- O’Donnell, Daniel Paul. 2005. *Cædmon’s Hymn: A Multimedia Study, Edition and Archive*. SEENET A.8. Cambridge: D.S. Brewer / Medieval Academy of America. xxii + 261 pp. + CD-ROM.  
+  Internet reprint (2018): https://caedmon.seenet.org/  
+  Codebase DOI: https://doi.org/10.5281/zenodo.1198856  
+  - **Honourable Mention**: 2007 MLA Prize for a Distinguished Scholarly Edition (2005–2006)  
+  - **Reviews**:  
+    - *e-data&research* 1 (2006): 1; *Medium Aevum* 75 (2006): 356–357; *Old English Newsletter* 40.1 (2006); *Speculum* 82 (2007): 223–224; *Journal of Ecclesiastical History* 58 (2007): 120–121; *Early Medieval Europe* 15 (2007): 466–469; *Textual Cultures* 2 (2007): 139–142; *JEGP* 107.2 (2008): 248–251; *Digital Medievalist* 5 (2009); *Leeds Medieval Studies* 3 (2023): 139–141
+
 
 
 ### Invited and Peer-Reviewed Articles and Chapters 

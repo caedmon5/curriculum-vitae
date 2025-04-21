@@ -93,19 +93,15 @@ _Last updated: 2025-04-19_
 - **Resistance to Data: Humanities Approaches to Research Classification and Infrastructure**  
   *(2022–present; SSHRC Insight Grant 2025–2029, PI, $300,000; SSHRC Partnership Development Grant 2022–2025, PI, $200,000)*  
   Umbrella initiative investigating epistemic and institutional resistance to structured data in the humanities. Incorporates and extends the earlier *Good Things Come in Small Packages* project. Includes strands in multilingual infrastructure, human-centred metadata, and knowledge equity. Collaborative partners include CERN, CARL, and DARIAH-EU.
-
 - **#safespaces? Academic Freedom and Inclusivity in an Age of Polarisation**  
   *(2024–; SSHRC Insight Development Grant – applied for, PI)*  
   Investigates how political polarisation, identity politics, and campus speech discourses intersect with evolving interpretations of academic freedom in Canada and abroad.
-
 - **Humanities Innovation Lab**  
   *(Internal initiative; PI)*  
   Conceptual pilot adapting laboratory-based research models to the humanities. Emphasises collaborative supervision, research planning, and the integration of graduate students into structured team-based environments.
-
 - **Lethbridge Journal Incubator**  
   *(2012–2024; SSHRC Aid to Scholarly Journals Grant, PI; internal funding)*  
   A training and mentorship initiative in scholarly communication. Offers graduate students editorial experience and exposure to open infrastructure and publishing innovation.
-
 - **The Visionary Cross in Anglo-Saxon England**  
   *(2005–present; SSHRC Standard Research Grant 2005–2008, PI; SSHRC Insight Grant 2014–2017, PI, $282,190; Mitacs support; Chinook Summer Research Grant, Government of Alberta, $6,000, 2025)*  
   A long-running digital edition and visualisation project focused on the Ruthwell Cross and related Insular artefacts. Integrates philological, archaeological, and imaging methodologies to interpret monumental Old English inscriptions. Outputs include multi-format visualisation environments, digital philology, and graduate student training.
@@ -161,7 +157,6 @@ _Last updated: 2025-04-19_
 - C.L. Burton In-course Scholarship, St. Michael’s College, University of Toronto, 1988–1989, $1,500 (declined)
 - In-course Scholarship, St. Michael’s College, University of Toronto, 1987–1988, $1,500 (declined)
 
-
 ## Publications  
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.
 
@@ -177,8 +172,6 @@ _Last updated: 2025-04-19_
   - **Honourable Mention**: 2007 MLA Prize for a Distinguished Scholarly Edition (2005–2006)  
   - **Reviews**:  
     - *e-data&research* 1 (2006): 1; *Medium Aevum* 75 (2006): 356–357; *Old English Newsletter* 40.1 (2006); *Speculum* 82 (2007): 223–224; *Journal of Ecclesiastical History* 58 (2007): 120–121; *Early Medieval Europe* 15 (2007): 466–469; *Textual Cultures* 2 (2007): 139–142; *JEGP* 107.2 (2008): 248–251; *Digital Medievalist* 5 (2009); *Leeds Medieval Studies* 3 (2023): 139–141
-
-
 
 ### Invited and Peer-Reviewed Articles and Chapters 
 
@@ -227,9 +220,9 @@ _Last updated: 2025-04-19_
 - O'Donnell, Daniel Paul\*. 1995. “Schoolbook Design in the Fifteenth Century.” *The Yale University Library Gazette* 70: 23–38. (r)
 - O'Donnell, Daniel Paul\*. 1991. “The Collective Sense of Concrete Singular Nouns in *Beowulf*: Emendations of Sense.” *Neuphilologische Mitteilungen* 92: 433–440. (r)
 
-### Shorter or Invited Publications  
-### Reviews
 ### Alternate and Novel Forms of Dissemination  
+
+### Reviews
 
 ## Knowledge Mobilisation  
 **Summary**: Through public journalism, podcast interviews, and media commentary, O'Donnell engages broader audiences on issues related to academic freedom, digital infrastructure, and postsecondary governance.

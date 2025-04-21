@@ -303,7 +303,61 @@ _Last updated: 2025-04-19_
 - “Iraq War Coverage More Balanced than 1991: Prof.” *Lethbridge Herald*, April 3, 2003.
 
 ## Lectures and Conferences  
-**Summary**: O'Donnell has presented and organised sessions at national and international conferences across multiple disciplines, and regularly teaches and lectures at summer institutes such as DHSI and FSCI.
+**Summary**: O'Donnell has presented and organised sessions at national and international conferences across multiple disciplines, and regularly teaches and lectures at summer institutes such as DHSI and FSCI. He has given over 125 lectures to national and international audiences.
+
+### Institutes and conferences organised
+
+#### Summer Schools
+
+- Force11 Scholarly Communications Institute 2024. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
+- Force11 Scholarly Communications Institute 2023. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
+- Force11 Scholarly Communications Institute 2022. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
+- Force11 Scholarly Communications Institute 2021. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2021. http://force11.org/fsci.
+- Force11 Scholarly Communications Institute 2020. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (chair). UCLA online, August 2020. http://force11.org/fsci.
+- Force11 Scholarly Communications Institute 2019. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (chair). UCLA, August 2019.
+- Force11 Scholarly Communications Institute 2018. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
+- Force11 Scholarly Communications Institute 2017. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
+
+#### Conferences, Conference Sessions, and Workshops Sessions Organised (selected)
+
+- Open and Inclusive Access to Research (OIAR). 2021. Co-organiser with Gimena del Rio and Wouter Schallier. Nov. 8-11. Online. SSHRC Connections. http://openandinclusiveaccesstoresearch.org/
+- Co-designer and co-instructor. Diversity Workshop WIDH 2019. Led by Barbara Bordalejo. IIT Gandhinagar, India. Dec. 2019.
+- Co-designer and instructor. Global South. FSCI 2018. Los Angeles. August 3-8, 2018. With Gimena del Rio, Idowu Adegbilero-Iwari, and Samir Hachani.
+- Co-designer and co-instructor. Diversity Workshop DH 2019. Led by Barbara Bordalejo. Utrecht, June 2019.
+- Organising Committee. Force 2018 Montreal. October 11-12, 2018.
+- Organising committee chair. Force 11 Scholarly Communications Institute. San Diego. July 30-August 3, 2018.
+- Co-designer and co-instructor. Collaboration and the Scholarly Commons. FSCI 2018. San Diego. July 30-August 03, 2018. With Victoria Antonova, Maryann Martone, and Sergey Parinov
+- Co-designer and co-instructor. Diversity Workshop DH 2018. Led by Barbara Bordalejo. Mexico City, June 2018.
+- Co-designer and co-instructor. Open South: The Open science experience in Latin America and the Caribbena. FSCI 2018. San Diego. July 30-August 03, 2018. With Gimena Del Rio, April Hathcock, Wouter Schallier.
+- Co-designer and co-instructor. Walking the walk: Promoting and maintaining best practice in Fair and Open Evaluation. FSCI 2018. San Diego. July 30-August 03, 2018. With David De Roure, Allegra Swift, and Stefan Tanaka
+- Co-designer and instructor. Global South. FSCI 2017. San Diego. July 29-August 2, 2017. With Robin Champieux, and Gimena del Rio.
+- Organising committee chair. Force 11 Scholarly Communications Institute. San Diego. July 29-August 2, 2017.
+- Designer and instructor. The Scholarly Commons: Principle and Practices in Digital Scholarship.  1st Lagos Summer School in Digital Humanities. University of Lagos, Nigeria. July 12 and 14.
+- Organizer, designer, instructor. Negotiation skills workshop. 6 week (18 hour) negotiation skills workshop. University of Lethbridge. February 21-March 28, 2017.
+- Organizer and coordinator. “Understanding the scholarly commons [Workshop].” KULeuven. September 13-14, 2016.
+- Organizer. “PreH34: Translation Hack-a-thon!: Applying the Translation Toolkit to a Global dh+lib.” DH 2016. Krakow. July 12, 2016.
+- Organizer. “Boundary Land: Diversity as a defining feature of the Digital Humanities.” July 13, 2016. Dh 2016. Krakow.
+- Organizer. “Future Commons.” Invited Workshop. Force 11, Madrid. February 26-27, 2016.
+- Organizer. “Digital Cultural Heritage.” Paper session. Congress 2015. Ottawa. June 2, 2015.
+- Organizer. “Using Technology and Grading to Create a Scholarly Ecosystem in the Classrom: A workshop.” Paper Session. Spark. University of Lethbridge. April 30, 2015.
+- Organizing Committee, Force 2015. Oxford University. January 10-14, 2015.
+- “Kickstarting the GO::DH minimal computing working group.” Workshop. DH 2014 Lausanne. July 8, 2014. Leadership: John Edward Simpson, Jentery Sayers, Daniel Paul O'Donnell, Alex Gil.
+- “Global outlook::digital humanities: promoting digital humanities research across disciplines, regions, and cultures.” Paper session. DH 2014 Lausanne. 9 July, 2014. Leadership: Barbara Bordalejo, Alex Gil, Roopika Risam, Paul Spence, Elena González-Blanco.
+- “Text Encoding.” 2° Encuentro de humanistas digitales, México. 20 May, 2014.
+- Organising Committee. 2° Encuentro de humanistas digitales, México. 21-23 May, 2014.
+- Organising Committee. DH 2014 Lausanne. Conference Organising Committee. Lausanne Switzerland. 2014.
+- “Immersive interpretation and the small cultural heritage site: the case of Ruthwell Kirk.” Session. Canadian Society for Digital Humanities. Victoria. 5 June, 2013.
+- “Digital Humanities in Africa: The Case of Nigeria.” Session. Canadian Society for Digital Humanities. Victoria. 3 June, 2013.
+- “Global Outlook:: Digital Humanities.” Unconference workshop, Havana. 13 December, 2012. Leadership: Daniel Paul O'Donnell, Alex Gil, Neil Fraistat, Ray Siemens.
+- Organising Committee. DH 2012 Hamburg. Conference Organising Committee. Hamburg. July-August, 2012.
+- Organising Committee. CSDH-SCHN Conference. Waterloo. June 2012.
+- Organising Committee. TEI Members Meeting and Conference (Wurzburg, Germany). November 2011.
+- Organising Committee. TEI Members Meeting and Conference (University of Zadar, Croatia). November 2010.
+- Organising Committee. TEI Members Meeting and Conference (University of Michigan, Ann Arbor). November 2009.
+- Organising Committee. Digital Medievalist Day, ENS-Lyons. April 2009.
+- Organising Committee. TEI Members Meeting and Conference (King's College London). November 2008.
+- Organising Committee. CASTA. University of Saskatchewan. October 2008.
+- Organising Committee. TEI Members Meeting and Conference (University of Maryland). November 2008.
 
 ### Research Lectures
 
@@ -435,57 +489,35 @@ _Last updated: 2025-04-19_
 - O'Donnell\*, Daniel Paul. 1991. “Beinecke MS 594: A Second Look at a Well-Known Nominale.” Early Book Society Conference. Trinity College Dublin. (r)
 - O'Donnell\*, Daniel Paul. 1991. “The OE ‘Phoenix’, Lactantius’s ‘De ave phoenice’ and the Science of Allegory,” Harvard-Yale Graduate Student Colloquium.
 
-### Institutes and conferences organised
+### Other Lectures (Partial List)
 
-#### Summer Schools
-- Force11 Scholarly Communications Institute 2024. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
-- Force11 Scholarly Communications Institute 2023. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
-- Force11 Scholarly Communications Institute 2022. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http://force11.org/fsci.
-- Force11 Scholarly Communications Institute 2021. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2021. http://force11.org/fsci.
-- Force11 Scholarly Communications Institute 2020. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (chair). UCLA online, August 2020. http://force11.org/fsci.
-- Force11 Scholarly Communications Institute 2019. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (chair). UCLA, August 2019.
-- Force11 Scholarly Communications Institute 2018. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
-- Force11 Scholarly Communications Institute 2017. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
+- O’Donnell, Daniel Paul. 2022. “Solidarity: Some thoughts on the recent strike and lockout at the U of Lethbridge.” Northern Alberta Institute of Technology. April 21. (i)
+- O’Donnell, Daniel Paul. 2021. “You can’t handle the truth! Academic freedom and University Governance.” Mount Royal University Faculty Association. March 5. (i)
+- O’Donnell, Daniel Paul, Paul Hayes, Andrea Amelinckx, Annabree Fairweather, Terry Sway, Rumi Graham. 2018. “I am he as you are he and you are me and we are all together: Communicating with professional know-it-alls.” CAFA Labour Conference. March 9. (i)
+- O'Donnell, Daniel Paul. 2018. “Know your song well before you start singin’: Negotiating when ‘black is the color’ and ‘none is the number.’” CAUT Bargaining Roundtable. (i)
+- O'Donnell, Daniel Paul, Paul Hayes. 2017. “Understanding Lockout/Strike in the Post-Secondary Sector under the Alberta Labour Relations Code.” ULFA. Lethbridge, Canada. https://zenodo.org/record/1045544. (i)
 
-#### Conferences, Conference Sessions, and Workshops Sessions Organised (selected)
-- Open and Inclusive Access to Research (OIAR). 2021. Co-organiser with Gimena del Rio and Wouter Schallier. Nov. 8-11. Online. SSHRC Connections. http://openandinclusiveaccesstoresearch.org/
-- Co-designer and co-instructor. Diversity Workshop WIDH 2019. Led by Barbara Bordalejo. IIT Gandhinagar, India. Dec. 2019.
-- Co-designer and instructor. Global South. FSCI 2018. Los Angeles. August 3-8, 2018. With Gimena del Rio, Idowu Adegbilero-Iwari, and Samir Hachani.
-- Co-designer and co-instructor. Diversity Workshop DH 2019. Led by Barbara Bordalejo. Utrecht, June 2019.
-- Organising Committee. Force 2018 Montreal. October 11-12, 2018.
-- Organising committee chair. Force 11 Scholarly Communications Institute. San Diego. July 30-August 3, 2018.
-- Co-designer and co-instructor. Collaboration and the Scholarly Commons. FSCI 2018. San Diego. July 30-August 03, 2018. With Victoria Antonova, Maryann Martone, and Sergey Parinov
-- Co-designer and co-instructor. Diversity Workshop DH 2018. Led by Barbara Bordalejo. Mexico City, June 2018.
-- Co-designer and co-instructor. Open South: The Open science experience in Latin America and the Caribbena. FSCI 2018. San Diego. July 30-August 03, 2018. With Gimena Del Rio, April Hathcock, Wouter Schallier.
-- Co-designer and co-instructor. Walking the walk: Promoting and maintaining best practice in Fair and Open Evaluation. FSCI 2018. San Diego. July 30-August 03, 2018. With David De Roure, Allegra Swift, and Stefan Tanaka
-- Co-designer and instructor. Global South. FSCI 2017. San Diego. July 29-August 2, 2017. With Robin Champieux, and Gimena del Rio.
-- Organising committee chair. Force 11 Scholarly Communications Institute. San Diego. July 29-August 2, 2017.
-- Designer and instructor. The Scholarly Commons: Principle and Practices in Digital Scholarship.  1st Lagos Summer School in Digital Humanities. University of Lagos, Nigeria. July 12 and 14.
-- Organizer, designer, instructor. Negotiation skills workshop. 6 week (18 hour) negotiation skills workshop. University of Lethbridge. February 21-March 28, 2017.
-- Organizer and coordinator. “Understanding the scholarly commons [Workshop].” KULeuven. September 13-14, 2016.
-- Organizer. “PreH34: Translation Hack-a-thon!: Applying the Translation Toolkit to a Global dh+lib.” DH 2016. Krakow. July 12, 2016.
-- Organizer. “Boundary Land: Diversity as a defining feature of the Digital Humanities.” July 13, 2016. Dh 2016. Krakow.
-- Organizer. “Future Commons.” Invited Workshop. Force 11, Madrid. February 26-27, 2016.
-- Organizer. “Digital Cultural Heritage.” Paper session. Congress 2015. Ottawa. June 2, 2015.
-- Organizer. “Using Technology and Grading to Create a Scholarly Ecosystem in the Classrom: A workshop.” Paper Session. Spark. University of Lethbridge. April 30, 2015.
-- Organizing Committee, Force 2015. Oxford University. January 10-14, 2015.
-- “Kickstarting the GO::DH minimal computing working group.” Workshop. DH 2014 Lausanne. July 8, 2014. Leadership: John Edward Simpson, Jentery Sayers, Daniel Paul O'Donnell, Alex Gil.
-- “Global outlook::digital humanities: promoting digital humanities research across disciplines, regions, and cultures.” Paper session. DH 2014 Lausanne. 9 July, 2014. Leadership: Barbara Bordalejo, Alex Gil, Roopika Risam, Paul Spence, Elena González-Blanco.
-- “Text Encoding.” 2° Encuentro de humanistas digitales, México. 20 May, 2014.
-- Organising Committee. 2° Encuentro de humanistas digitales, México. 21-23 May, 2014.
-- Organising Committee. DH 2014 Lausanne. Conference Organising Committee. Lausanne Switzerland. 2014.
-- “Immersive interpretation and the small cultural heritage site: the case of Ruthwell Kirk.” Session. Canadian Society for Digital Humanities. Victoria. 5 June, 2013.
-- “Digital Humanities in Africa: The Case of Nigeria.” Session. Canadian Society for Digital Humanities. Victoria. 3 June, 2013.
-- “Global Outlook:: Digital Humanities.” Unconference workshop, Havana. 13 December, 2012. Leadership: Daniel Paul O'Donnell, Alex Gil, Neil Fraistat, Ray Siemens.
-- Organising Committee. DH 2012 Hamburg. Conference Organising Committee. Hamburg. July-August, 2012.
-- Organising Committee. CSDH-SCHN Conference. Waterloo. June 2012.
-- Organising Committee. TEI Members Meeting and Conference (Wurzburg, Germany). November 2011.
-- Organising Committee. TEI Members Meeting and Conference (University of Zadar, Croatia). November 2010.
-- Organising Committee. TEI Members Meeting and Conference (University of Michigan, Ann Arbor). November 2009.
-- Organising Committee. Digital Medievalist Day, ENS-Lyons. April 2009.
-- Organising Committee. TEI Members Meeting and Conference (King's College London). November 2008.
-- Organising Committee. CASTA. University of Saskatchewan. October 2008.
-- Organising Committee. TEI Members Meeting and Conference (University of Maryland). November 2008.
+### General Interest and Guest Undergraduate Lectures (Partial List)
+
+- “The cipher manuscript”: Hoaxes as a book history problem.” Invited guest lecture. English 4400. Book History. Nov. 6, 2021. https://doi.org/10.5281/zenodo.5651109. (i)
+- “Beowulf: Manuscripts, Pronunciation, Grammar, and Metre.” Invited guest lecture. English 1900. University of Lethbridge. Sept. 17, 2014. (i)
+- “The Importance of Being Earnest: Coding Problems and Solutions.” Invited Guest Lecture. English 517/607 (Graduate Humanities Computing), University of Calgary. June 15, 2000. (i)
+- “Tolkien’s Elvish and Other Constructed Languages.” Invited Lecture. English 3700 (Children’s Literature), University of Lethbridge. February 7, 2000. (i)
+- “Anne, Otto, and the Neo-Nazis. The (Im)morality of Reading a Holocaust Diary.” Invited Lecture. Arts and Science 1000 (Liberal Arts), University of Lethbridge. November 2001; September 2000; November 1999. (i)
+- “What Anne Meant: Generic Instability and the Transmission of Anne Frank’s Diary.” Invited Lecture. Arts and Science 1000 (Liberal Arts), University of Lethbridge. November 2001; September 2000; November 1999. (i)
+- “Beowulf and its Place in History.” Worker’s Educational Association Weekend School at Horncastle. February 1997. (i)
+
+### Posters (Partial List)
+
+- “Hier stehe ich! Operationalising conviction in the Scholarly Commons.” Michael Bar-Sinai, Jeroen Bosman, Ian Bruno, Chris Chapman, Bastian Greshake Tzovaras, Stephanie Hagestrom, Nate Jacobs, Bianca Kramer, Maryann Martone, Fiona Murphy, Daniel Paul O’Donnell. El Pub 2018 Toronto. http://doi.org/10.5281/zenodo.1292850. (r)
+- “The DH Experience.” Selman Zachary Palmer\*, Geoffrey Rockwell, Stan Ruecker, John Montague, Luciano Frizzera, Alex Gill, Daniel O’Donnell. DH 2015. Melbourne. July 2015. (r)
+- “The Lethbridge Journal Incubator.” DH 2013. Lincoln, Nebraska. July 2013. (i)
+- “Embedding Expert Knowledge in a TEI Apparatus.” TEI Members Meeting and Conference. University of Zadar, Croatia. November 2010. (r)
+- “The Digital Medievalist Project: An Experiment in Digital Community.” Digital Philology and Medieval Texts. Arizzo. January 19–21, 2006. (r)
+- “Digital Medievalist: The Scholarly Journal as Community of Practice.” MLA Convention. Washington, D.C. December 27–29, 2005. (r)
+- “TEI/XML as a Production Language: The Case of the Digital Medievalist Project.” TEI Annual Meeting. Sofia, Bulgaria. October 28–29, 2005. (r)
+- “The Digital Medievalist Project: An Extensible Community of Practice for Medievalists.” Poster and abstract. Digital Resources in the Humanities Conference. University of Newcastle upon Tyne, UK. September 5–9, 2004. [3rd Prize winner in best poster competition (out of 22 entries)]. (r)
+
 
 ## Organisational Roles  
 **Summary**: O'Donnell has served on boards, steering committees, and planning groups for scholarly organisations, journals, conferences, and research networks. His service includes leadership in the Text Encoding Initiative, Digital Medievalist, and advisory roles within the Medieval Academy of America, Canadian Society for Digital Humanities, and other infrastructure-building initiatives.

@@ -15,15 +15,15 @@ header-includes:
   - \hypersetup{breaklinks=true}
   - \urlstyle{same}
   - \usepackage{needspace}
-  - \newcommand{\sectionbreak} 
-  - {\needspace{5\baselineskip}}
+  - \newcommand{\sectionbreak}{\needspace{5\baselineskip}}
+
 ---
 
-\begin{}
+\begin{center}
 \LARGE \textbf{Daniel Paul O'Donnell} \\
 \vspace{0.25em}
 \normalsize Curriculum Vitae
-\end{}
+\end{center}
 
 \sectionbreak{}
 ---
@@ -580,7 +580,7 @@ header-includes:
 \sectionbreak{}
 # Teaching and Supervisory Experience
 
-Daniel Paul O’Donnell has taught undergraduate and graduate courses in English literature, medieval studies, English linguistics, textual scholarship, management information studies, mathematics, computer science, and the digital humanities. His teaching appointments have included Yale University, the Workers’ Educational Association (U.K.), the University of York (U.K.), Louisiana State University, and the University of Lethbridge, as well as invited roles with the International Society for Anglo-Saxonists. He has also supervised more than thirty M.A. and M.Sc. students in editorial, adjudication, and publication work through the *Meeting of Minds* Graduate Student Journal and his leadership of the University of Lethbridge Journal Incubator. He served as lead instructor for all courses unless otherwise indicated.
+**Summary**: Daniel Paul O’Donnell has taught undergraduate and graduate courses in English literature, medieval studies, English linguistics, textual scholarship, management information studies, mathematics, computer science, and the digital humanities. His teaching appointments have included Yale University, the Workers’ Educational Association (U.K.), the University of York (U.K.), Louisiana State University, and the University of Lethbridge, as well as invited roles with the International Society for Anglo-Saxonists. He has also supervised more than thirty M.A. and M.Sc. students in editorial, adjudication, and publication work through the *Meeting of Minds* Graduate Student Journal and his leadership of the University of Lethbridge Journal Incubator. He served as lead instructor for all courses unless otherwise indicated.
 
 \sectionbreak{}
 ## Supervision

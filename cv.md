@@ -160,9 +160,10 @@ _Last updated: 2025-04-19_
 ## Publications  
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.
 
+**Note on Notation**: In publications, the following symbols are used: (r) = refereed article; (c) = corresponding author; (s) = student co-authors; (i) = invited submission. An asterisk after an author's name indicates the person was a student at the time of publication.
 ### Books and Editions
 
-- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521  
+- Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore\*, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https://doi.org/10.1017/9781108783521  
   ISBN: 9781108486637 (hardback); 9781108783521 (ebook)  
   - **Reviews**:  
     - *Public Understanding of Science* 31 (7): 892–894

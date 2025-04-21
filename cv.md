@@ -267,8 +267,6 @@ _Last updated: 2025-04-19_
   - Also translated into Spanish: http://4humanities.org/2013/06/diversidad-y-experiencia-una-entrevista-con-daniel-odonnell/  
   - And Japanese: http://www.jadh.org/godh (i)
 
----
-
 ### Journalism by Me
 
 - O’Donnell, Daniel Paul. 2024. “Communication and Leadership a Matter of Trust.” *Lethbridge Herald*, September 20. https://lethbridgeherald.com/commentary/opinions/2024/09/20/communication-and-leadership-a-matter-of-trust/
@@ -285,8 +283,6 @@ _Last updated: 2025-04-19_
 - O’Donnell, Daniel Paul. 2010. “Humanities, Not Science, Key to New Web Frontier.” *Edmonton Journal*, July 21. http://bit.ly/aApodN
 - O’Donnell, Daniel Paul. 2004. “More Research Money Needed for Social Science & Humanities.” *CBC Radio One*, March 15. Transcript: http://bit.ly/akgKs9
 - O’Donnell, Daniel Paul. 1998. “Restoring Pages to a Sacred Text [The Diary of Anne Frank].” *The Globe and Mail*, November 17, Arts and Leisure, A17–A18.
-
----
 
 ### Journalism and Interviews About Me and My Work
 

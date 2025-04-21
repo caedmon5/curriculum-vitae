@@ -215,12 +215,26 @@ _Last updated: 2025-04-19_
 - O'Donnell, Daniel Paul. 2002. “The Accuracy of the St. Petersburg Bede.” *Notes and Queries* 247: 4–6. (r)
 - O'Donnell, Daniel Paul. 2001. “Fish and Fowl: Generic Expectations and the Relationship Between the Old English *Phoenix* Poem and Lactantius’s *De Ave Phoenice*.” In *Germanic Texts and Latin Models: Medieval Reconstructions*, edited by K.E. Olsen, A. Harbus, and T. Hofstra. *Germania Latina IV. Mediaevalia Groningana*, n.s. 2. Leuven, Paris and Sterling, VA: Peeters, 157–171. (r)
 - O'Donnell, Daniel Paul. 1999. “Hædre and Hædre Gehogode (Solomon and Saturn Line 62b and *Resignation* Line 63a).” *Notes and Queries* 244: 312–316. (r)
-- O'Donnell, Daniel Paul\*. 1998. “The Spirit and the Letter: Literary Embellishment in Old Frisian Legal Texts.” *Amsterdamer Beiträge zur älteren Germanistik* 49: 245–256. (r)
+- O'Donnell, Daniel Paul. 1998. “The Spirit and the Letter: Literary Embellishment in Old Frisian Legal Texts.” *Amsterdamer Beiträge zur älteren Germanistik* 49: 245–256. (r)
 - O'Donnell, Daniel Paul\*. 1996. “A Northumbrian Version of ‘Cædmon’s Hymn’ (eordu-recension) in Brussels Bibliothèque Royale Manuscript 8245–57 ff.62r2–v1: Identification, Edition, and Filiation.” In *Beda Venerabilis: Historian, Monk and Northumbrian*, edited by L.A.R.J. Houwen and A.A. MacDonald, 139–166. Groningen: Egbert Forsten. (r)
 - O'Donnell, Daniel Paul\*. 1995. “Schoolbook Design in the Fifteenth Century.” *The Yale University Library Gazette* 70: 23–38. (r)
 - O'Donnell, Daniel Paul\*. 1991. “The Collective Sense of Concrete Singular Nouns in *Beowulf*: Emendations of Sense.” *Neuphilologische Mitteilungen* 92: 433–440. (r)
 
 ### Alternate and Novel Forms of Dissemination  
+
+### Novel Forms of Scholarly Dissemination
+
+- Eve, Martin Paul, Daniel Paul O’Donnell, Cameron Neylon, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2021. “Reading Peer Review – What a Dataset of Peer Review Reports Can Teach Us about Changing Research Culture.” *Impact of Social Sciences* (blog), March 31. https://blogs.lse.ac.uk/impactofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture/.
+- Bosman, Jeroen, Ian Bruno, Chris Chapman, Bastian Greshake Tzovaras, Nate Jacobs, Bianca Kramer, Maryann Martone, Fiona Murphy, Daniel Paul O’Donnell, Michael Bar-Sinai, Stephanie Hagestrom, Josh Utley, and Lusia Veksler [alphabetical order]. 2017. “The Scholarly Commons – Principles and Practices to Guide Research Communication.” *OSF Preprints*. https://doi.org/10.17605/OSF.IO/6C2XT.
+- Moore, Samuel\*, Cameron Neylon, Martin Paul Eve, Daniel Paul O’Donnell, and Damian Pattinson [random author order]. 2016. “Excellence R Us: University Research and the Fetishisation of Excellence.” [Preprint]. https://figshare.com/articles/Excellence_R_Us_University_Research_and_the_Fetishisation_of_Excellence/3413821. https://doi.org/10.6084/m9.figshare.3413821.v1.
+  - **Journalism about this article**:
+    - Carmichael, Joe. 2016. “Science Has an Excellence Problem: Why the Incessant Quest for Academic Excellence Leads to Bad Science.” *Inverse*, June 14. http://bit.ly/ExcellenceInverse.
+    - Matthews, David. 2016. “Focus on Research ‘Excellence’ Is ‘Damaging Science.’” *Times Higher Education Supplement*. https://www.timeshighereducation.com/news/focus-on-research-excellence-is-damaging-science.
+- O’Donnell, Daniel Paul. 2016. “Synchronic Similarity in Scholarly Communication May Mask Diachronically Distinct Goals and Histories.” *Journal of Brief Ideas*, May 30. https://doi.org/10.5281/zenodo.53748.
+- O’Donnell, Daniel Paul. 2016. “A First Law of Humanities Computing.” *Journal of Brief Ideas*, March 13. https://doi.org/10.5281/zenodo.47473.
+- O’Donnell, Daniel Paul. 2014. “The Credit Line.” *Digital Humanities Now*, Editors’ Choice, July. http://digitalhumanitiesnow.org/2014/07/editors-choice-the-credit-line/.
+- O’Donnell, Daniel Paul. 2012. “‘There’s No Next about It’: Stanley Fish, William Pannapacker, and the Digital Humanities as Paradiscipline.” *Digital Humanities Now*, Editors’ Choice, September. http://digitalhumanitiesnow.org/2012/09/editors-choice-theres-no-next-about-it-stanley-fish-william-pannapacker-and-the-digital-humanities-as-paradiscipline-dpod-blog/.
+- Earl, Jim, Pat Conner, Karen Jolly, Sarah Higley, Sarah Keefer, Connie Hieatt, Dan O’Donnell\*, et al. 1990. “Bi-Coastal Beowulfians of the ’90s: A Curious ANSAXNET Conversation [Excerpted from ANSAXNET, December 1990–February 1991].” *Old English Newsletter* 24 (1): 36–39. http://www.oenewsletter.org/OEN/archive/OEN24_1.pdf. [Author order by contribution]
 
 ### Reviews
 

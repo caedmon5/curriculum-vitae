@@ -1,5 +1,5 @@
 ---
-title: "Daniel Paul O'Donnell – CV"
+title: "Curriculum Vitae"
 author: "Daniel Paul O'Donnell"
 date: \today
 geometry: margin=1in
@@ -14,23 +14,31 @@ header-includes:
   - \usepackage{hyperref}
   - \hypersetup{breaklinks=true}
   - \urlstyle{same}
+  - \usepackage{needspace}
+  - \newcommand{\sectionbreak} 
+  - {\needspace{5\baselineskip}}
 ---
 
-# Curriculum Vitae
-**Daniel Paul O'Donnell, PhD**
+\begin{}
+\LARGE \textbf{Daniel Paul O'Donnell} \\
+\vspace{0.25em}
+\normalsize Curriculum Vitae
+\end{}
 
+\sectionbreak{}
 ---
 
-## Professional Metadata
+# Professional Metadata
 - **Email**: daniel.odonnell@uleth.ca
 - **Phone**: +1 (403) 393-2539
 - **ORCID**: [0000-0002-0127-4893](https:/\allowbreak{}/\allowbreak{}orcid.org/\allowbreak{}0000-0002-0127-4893)
 - **Zenodo Repository**: https:/\allowbreak{}/\allowbreak{}zenodo.org/\allowbreak{}communities/\allowbreak{}dpodrepository
 - **Institutional Repository**: https:/\allowbreak{}/\allowbreak{}leth.ca/\allowbreak{}dspace/\allowbreak{}handle/\allowbreak{}10133/\allowbreak{}3557
 
+\sectionbreak{}
 ---
 
-## Education
+# Education
 
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
 
@@ -42,7 +50,8 @@ header-includes:
   *Specialisation*: English Language and Literature
   *Minors*: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded)
 
-## Languages
+\sectionbreak{}
+# Languages
 
 **Summary**: O'Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (spoken and read), French (reading and conversational), and German (reading), as well as a variety of medieval and classical languages, such as Old English, Old Norse, Latin, Old Frisian, and Gothic.
 
@@ -51,7 +60,8 @@ header-includes:
 - French (reading and aural strong; improving spoken accuracy in preparation for CERF B2 certification)
 - German (reading)
 
-## Academic Positions
+\sectionbreak{}
+# Academic Positions
 
 **Summary**: Since 1997, O'Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at the University of Saskatchewan and within the University Library.
 
@@ -67,7 +77,8 @@ header-includes:
 - **Teaching Fellow**, Yale University, 1991–1992
 - **Research Assistant**, Dictionary of Old English, University of Toronto, 1987–1989
 
-## Academic Leadership
+\sectionbreak{}
+# Academic Leadership
 
 **Summary**: O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has consistently taken leadership during moments of structural transition and policy change.
 
@@ -102,7 +113,8 @@ header-includes:
 - **Chair**, Department of English, University of Lethbridge, 2005–2008, 2023–present
   Led department through curriculum overhaul, review, and hiring plan during institutional crisis; implemented new governance model.
 
-## Current Major Projects
+\sectionbreak{}
+# Current Major Projects
 
 **Summary**: O'Donnell is Principal Investigator on several research initiatives focused on scholarly communication, data infrastructure, and academic governance. These projects are supported by SSHRC and international partners including CERN, DARIAH, and CARL. His current work addresses how humanities research resists or reimagines dominant models of data, infrastructure, and institutional accountability.
 
@@ -122,11 +134,13 @@ header-includes:
   *(2005–present; SSHRC Standard Research Grant 2005–2008, PI; SSHRC Insight Grant 2014–2017, PI, $282,190; Mitacs support; Chinook Summer Research Grant, Government of Alberta, $6,000, 2025)*
   A long-running digital edition and visualisation project focused on the Ruthwell Cross and related Insular artefacts. Integrates philological, archaeological, and imaging methodologies to interpret monumental Old English inscriptions. Outputs include multi-format visualisation environments, digital philology, and graduate student training.
 
-## Funding and Prizes
+\sectionbreak{}
+# Funding and Prizes
 
 **Summary**: O'Donnell has received approximately CA$4 million in research funding as Principal Investigator and Co-applicant from external agencies since 2000 (CA$2 million as PI). His work spans scholarly communication, early Medieval English studies, research infrastructure, and innovation in academic publishing.
 
-### External Research Grants and Prizes
+\sectionbreak{}
+## External Research Grants and Prizes
 
 - SSHRC Impact Prize (Connections) (780-2025-00021), Nominee. $50,000 (under review)
 - SSHRC Insight Development Grant, *#safespaces? Academic Freedom and Inclusivity in an Age of Polarisation*, 2025-2027, PI, $78,000 (under review)
@@ -151,7 +165,8 @@ header-includes:
 - Mellon Foundation, Scholarly Communications Program (GP1.2008), *TEI Tite: Creating a Benefit of Membership to Support Standards Development*, 2008, PI, US$30,723
 - SSHRC ITST Grant (849-2003-0003), *The Digital Medievalist Project: A Community of Practice Network for Image, Text, Sound and Technology Research*, 2005–2006, PI, $27,490
 
-### Internal and Institutional Grants (selected)
+\sectionbreak{}
+## Internal and Institutional Grants (selected)
 
 - UCLA (Force11 Scholarly Communications Institute), 2020–2022, PI, US$190,000
 - CREDO Grant, *Visionary Cross*, 2008–2010, $23,000
@@ -161,7 +176,8 @@ header-includes:
 - Teaching Development Fund, *The Unessay*, 2013–2014, $2,700
 - Internal SSHRC Grant, *Global Outlook::DH*, 2012, $5,000
 
-### Awards, Fellowships, and Honours
+\sectionbreak{}
+## Awards, Fellowships, and Honours
 
 - University of Lethbridge Teaching Award Nominee 2015–2016, 2016-2017.
 - Honourable Mention, MLA Prize for a Scholarly Edition (*Cædmon’s Hymn*), 2007
@@ -174,12 +190,14 @@ header-includes:
 - C.L. Burton In-course Scholarship, St. Michael’s College, University of Toronto, 1988–1989, $1,500 (declined)
 - In-course Scholarship, St. Michael’s College, University of Toronto, 1987–1988, $1,500 (declined)
 
-## Publications
+\sectionbreak{}
+# Publications
 **Summary**: O'Donnell's publications include scholarly editions, monographs, peer-reviewed articles, invited chapters, reviews, working papers, and public-facing essays. His work spans early medieval literature, scholarly communication, and digital humanities. In addition to conventional print outputs, he has co-developed a number of alternate and novel forms of dissemination, including digital editions, interactive 3D cultural heritage projects, and experimental publishing platforms such as the Visionary Cross Project and the Lethbridge Journal Incubator.
 
-**Note on Notation**: In publications, the following symbols are used: (r) = refereed article; (c) = corresponding author; (s) = student co-authors; (i) = invited submission. An asterisk after an author's name indicates the person was a student at the time of publication.
+**Note**: In publications, the following symbols are used: (r) = refereed article; (c) = corresponding author; (s) = student co-authors; (i) = invited submission. An asterisk after an author's name indicates the person was a student at the time of publication.
 
-### Books and Editions
+\sectionbreak{}
+## Books and Editions
 
 - Eve, Martin Paul, Cameron Neylon, Daniel Paul O’Donnell, Samuel Moore\*, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2020. *Reading Peer Review: PLOS ONE and Institutional Change in Academia*. Cambridge: Cambridge University Press. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.1017/\allowbreak{}9781108783521 (rs)
   ISBN: 9781108486637 (hardback); 9781108783521 (ebook)
@@ -192,7 +210,8 @@ header-includes:
   - **Reviews**:
     - *e-data&research* 1 (2006): 1; *Medium Aevum* 75 (2006): 356–357; *Old English Newsletter* 40.1 (2006); *Speculum* 82 (2007): 223–224; *Journal of Ecclesiastical History* 58 (2007): 120–121; *Early Medieval Europe* 15 (2007): 466–469; *Textual Cultures* 2 (2007): 139–142; *JEGP* 107.2 (2008): 248–251; *Digital Medievalist* 5 (2009); *Leeds Medieval Studies* 3 (2023): 139–141
 
-### Peer-Reviewed and Invited Articles and Chapters (Traditional)
+\sectionbreak{}
+## Peer-Reviewed and Invited Articles and Chapters (Traditional)
 
 - Pafumi, Davide\*, Frank Onuh\*, AKM Iftekhar Khalid\*, Morgan Pearce\*, Barbara Bordalejo, and Daniel Paul O'Donnell. 2025. “Scarlet Cloak and the Forest Adventure”: A Preliminary Study of the Impact of AI on Commonly Used Writing Tools. *International Journal of Educational Technology in Higher Education*. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.1186/\allowbreak{}s41239-025-00505-5. (r)
 - O’Donnell, Daniel Paul. 2021. “‘I Heard He Sang a Good Song’: Caedmon’s Inspiration and Medieval Dream Theory.” In *Sogni, visioni e profezie nella letteratura germanica medievale*, edited by Roberto Rosselli Del Turco, 147–172. Bibliotheca Germanica. Studi e testi 48. Allessandria: Edizioni del l’Orso. (i)
@@ -239,11 +258,13 @@ header-includes:
 - O'Donnell, Daniel Paul\*. 1995. “Schoolbook Design in the Fifteenth Century.” *The Yale University Library Gazette* 70: 23–38. (r)
 - O'Donnell, Daniel Paul\*. 1991. “The Collective Sense of Concrete Singular Nouns in *Beowulf*: Emendations of Sense.” *Neuphilologische Mitteilungen* 92: 433–440. (r)
 
-### Novel Forms of Scholarly Dissemination
+\sectionbreak{}
+## Novel Forms of Scholarly Dissemination
 
 - Eve, Martin Paul, Daniel Paul O’Donnell, Cameron Neylon, Samuel Moore, Robert Gadie, Victoria Odeniyi, and Shahina Parvin. 2021. “Reading Peer Review – What a Dataset of Peer Review Reports Can Teach Us about Changing Research Culture.” *Impact of Social Sciences* (blog), March 31. https:/\allowbreak{}/\allowbreak{}blogs.lse.ac.uk/\allowbreak{}impactofsocialsciences/\allowbreak{}2021/\allowbreak{}03/\allowbreak{}31/\allowbreak{}reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture/\allowbreak{}.
 - Bosman, Jeroen, Ian Bruno, Chris Chapman, Bastian Greshake Tzovaras, Nate Jacobs, Bianca Kramer, Maryann Martone, Fiona Murphy, Daniel Paul O’Donnell, Michael Bar-Sinai, Stephanie Hagestrom, Josh Utley, and Lusia Veksler [alphabetical order]. 2017. “The Scholarly Commons – Principles and Practices to Guide Research Communication.” *OSF Preprints*. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.17605/\allowbreak{}OSF.IO/\allowbreak{}6C2XT.
 - Moore, Samuel\*, Cameron Neylon, Martin Paul Eve, Daniel Paul O’Donnell, and Damian Pattinson [random author order]. 2016. “Excellence R Us: University Research and the Fetishisation of Excellence.” [Preprint]. https:/\allowbreak{}/\allowbreak{}figshare.com/\allowbreak{}articles/\allowbreak{}Excellence_R_Us_University_Research_and_the_Fetishisation_of_Excellence/\allowbreak{}3413821. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.6084/\allowbreak{}m9.figshare.3413821.v1.
+\sectionbreak{}
   - **Journalism about this article**:
     - Carmichael, Joe. 2016. “Science Has an Excellence Problem: Why the Incessant Quest for Academic Excellence Leads to Bad Science.” *Inverse*, June 14. http:/\allowbreak{}/\allowbreak{}bit.ly/\allowbreak{}ExcellenceInverse.
     - Matthews, David. 2016. “Focus on Research ‘Excellence’ Is ‘Damaging Science.’” *Times Higher Education Supplement*. 
@@ -254,14 +275,16 @@ header-includes:
 - O’Donnell, Daniel Paul. 2012. “‘There’s No Next about It’: Stanley Fish, William Pannapacker, and the Digital Humanities as Paradiscipline.” *Digital Humanities Now*, Editors’ Choice, September. http:/\allowbreak{}/\allowbreak{}digitalhumanitiesnow.org/\allowbreak{}2012/\allowbreak{}09/\allowbreak{}editors-choice-theres-no-next-about-it-stanley-fish-william-pannapacker-and-the-digital-humanities-as-paradiscipline-dpod-blog/\allowbreak{}.
 - Earl, Jim, Pat Conner, Karen Jolly, Sarah Higley, Sarah Keefer, Connie Hieatt, Dan O’Donnell\*, et al. 1990. “Bi-Coastal Beowulfians of the ’90s: A Curious ANSAXNET Conversation [Excerpted from ANSAXNET, December 1990–February 1991].” *Old English Newsletter* 24 (1): 36–39. http:/\allowbreak{}/\allowbreak{}www.oenewsletter.org/\allowbreak{}OEN/\allowbreak{}archive/\allowbreak{}OEN24_1.pdf. [Author order by contribution]
 
-### Working Papers
+\sectionbreak{}
+## Working Papers
 
 - O’Donnell, Daniel Paul. 2016. “The DHSI Analogy: Rationale, Growth, History, and Business Model.” University of California San Diego, September 18.
 - Co-Author with the TEI Technical Council (esp. Peter Boot, Daniel Paul O'Donnell, Dot Porter, Gabriel Bodard, Arianna Ciula). 2009. “Response to: Request for Information Regarding the Weekly Notes of Dr. Wernher von Braun (NNH09CAO002L).” NASA (Space Operations Directorate), August 31.
 - O'Donnell, Daniel Paul, James Cummings, and Roberto Rosselli Del Turco. 2006. “Why Should I Write for Your Wiki?” Readex Community Academic Advisory Board, April 21.
 - O'Donnell, Daniel Paul. 1999. “An Undocumented Method of Filtering and Translating Structural SGML to HTML Using Citec Multidoc Pro Style Sheets.”
 
-### Reviews and Encyclopædia Entries
+\sectionbreak{}
+## Reviews and Encyclopædia Entries
 
 - O'Donnell, Daniel Paul. “Cædmon.” *Wikipedia*. Featured article, June 2006–present. 
     *Published on Wikipedia’s front page, July 7, 2006, after I did a complete revision. Approximately one in 10,000 articles receive featured status.*
@@ -274,10 +297,12 @@ header-includes:
 - O'Donnell, Daniel Paul. 2015. Review of *A Conspectus of Scribal Hands Writing in English, 960–1100*. *Journal of English and Germanic Philology* 114.2: 294–297. (i)
 - Copland, Colleen\*, Stephen Carrell\*, Gwendolyn Davidson\*, Virgil Grandfield\*, and Daniel Paul O'Donnell. 2016. Review of *Electronic Beowulf*. *Digital Medievalist* 10. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.16995/\allowbreak{}dm.56. (rsc)
 
-## Knowledge Mobilisation
+\sectionbreak{}
+# Knowledge Mobilisation
 **Summary**: Through public journalism, podcast interviews, and media commentary, O'Donnell engages broader audiences on issues related to academic freedom, digital infrastructure, and postsecondary governance.
 
-### Scholarly Interviews with Me
+\sectionbreak{}
+## Scholarly Interviews with Me
 
 - Eve, Martin Paul, Daniel Paul O’Donnell, Robert Gadie\*, Victoria Odeniyi\*, and Shahina Parvin\*. 2021. “Reading Peer Review: PLOS One and…” Podcast interview. *New Books Network*, June 1. https:/\allowbreak{}/\allowbreak{}newbooksnetwork.com/\allowbreak{}reading-peer-review
 - Cook, Eleanor I., and Daniel Paul O’Donnell. 2019. “An Interview with Daniel O’Donnell, Current President of FORCE11.” *The Serials Librarian* 76.1–2: 1–3. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.1080/\allowbreak{}0361526X.2019.1643437 (ri)
@@ -285,7 +310,8 @@ header-includes:
   - Also translated into Spanish: http:/\allowbreak{}/\allowbreak{}4humanities.org/\allowbreak{}2013/\allowbreak{}06/\allowbreak{}diversidad-y-experiencia-una-entrevista-con-daniel-odonnell/\allowbreak{}
   - And Japanese: http:/\allowbreak{}/\allowbreak{}www.jadh.org/\allowbreak{}godh (i)
 
-### Journalism by Me
+\sectionbreak{}
+## Journalism by Me
 
 - O’Donnell, Daniel Paul. 2024. “Communication and Leadership a Matter of Trust.” *Lethbridge Herald*, September 20. https:/\allowbreak{}/\allowbreak{}lethbridgeherald.com/\allowbreak{}commentary/\allowbreak{}opinions/\allowbreak{}2024/\allowbreak{}09/\allowbreak{}20/\allowbreak{}communication-and-leadership-a-matter-of-trust/\allowbreak{}
 - O’Donnell, Daniel Paul. 2024. “A Tale of Two Edmontons Seen at Awards.” *Lethbridge Herald*, October 4. https:/\allowbreak{}/\allowbreak{}lethbridgeherald.com/\allowbreak{}commentary/\allowbreak{}opinions/\allowbreak{}2024/\allowbreak{}10/\allowbreak{}04/\allowbreak{}a-tale-of-two-edmontons-seen-at-awards/\allowbreak{}
@@ -302,7 +328,8 @@ header-includes:
 - O’Donnell, Daniel Paul. 2004. “More Research Money Needed for Social Science & Humanities.” *CBC Radio One*, March 15. Transcript: http:/\allowbreak{}/\allowbreak{}bit.ly/\allowbreak{}akgKs9
 - O’Donnell, Daniel Paul. 1998. “Restoring Pages to a Sacred Text [The Diary of Anne Frank].” *The Globe and Mail*, November 17, Arts and Leisure, A17–A18.
 
-### Journalism and Interviews About Me and My Work
+\sectionbreak{}
+## Journalism and Interviews About Me and My Work
 
 - Schmidt, Scott, Jeremy Appel, Mo Cranker, and Daniel O’Donnell. 2022. “ULFA on Strike with President Dan O’Donnell.” Podcast interview. *The Forgotten Corner*, Episode 63, March 17. https:/\allowbreak{}/\allowbreak{}www.forgottencornerpod.com/\allowbreak{}episodes/\allowbreak{}episode-63-ulfa-on-strike-with-president-dan-odonnell
 - Srivastava, Sanjay, Alexa Tullett, and Simine Vazire. 2017. “Excellence Adventures.” *The Black Goat*, April 19. https:/\allowbreak{}/\allowbreak{}www.theblackgoatpodcast.com/\allowbreak{}posts/\allowbreak{}excellence-adventures/\allowbreak{}
@@ -320,21 +347,24 @@ header-includes:
 - Interview about *Cædmon’s Hymn* and TEI work on CBC Radio One (Alberta), *Wild Rose Country*, December 21, 2006.
 - “Iraq War Coverage More Balanced than 1991: Prof.” *Lethbridge Herald*, April 3, 2003.
 
-### Creative Work
+\sectionbreak{}
+## Creative Work
 
 - **Author**, *Glamour Boys /\allowbreak{} Once We Were Heroes*. A 105,000-word upmarket literary noir novel set primarily in 1960s Toronto. The work engages themes of post-war trauma, class, and self-deception through the investigation of war crimes and personal memory.
 - **Actor**, *Homo*, a Latin play produced by the medieval drama troupe *Poculi Ludisque Societas* (Centre for Medieval Studies, University of Toronto); performed at the International Association for Neo-Latin Studies Conference, Toronto, 1988.
 - **Editor, Producer, and Technician**, *Within the Hollow Crown: A Sad Story of the Death of Kings*. A radio adaptation of William Shakespeare’s *Richard II* and *Henry IV* parts 1 and 2. Adapted and produced by Dan O’Donnell. Directed by Ralph Joneikeiss. Broadcast on CIUT-FM (Toronto), March 22 and April 5, 1987. [http:/\allowbreak{}/\allowbreak{}bit.ly/\allowbreak{}a6wqIh](http:/\allowbreak{}/\allowbreak{}bit.ly/\allowbreak{}a6wqIh)
 
-## Lectures and Conferences
+\sectionbreak{}
+# Lectures and Conferences
 **Summary**: O'Donnell has presented and organised sessions at national and international conferences across multiple disciplines, and regularly teaches and lectures at summer institutes such as DHSI and FSCI. He has given over 125 lectures to national and international audiences.
 
-### Institutes and conferences organised
+\sectionbreak{}
+## Institutes and conferences organised
 
-#### Summer Schools
-
-- Force11 Scholarly Communications Institute 2024. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
-- Force11 Scholarly Communications Institute 2023. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
+\sectionbreak{}
+### Summer Schools
+- Force11 Scholarly Communications Institute 2024. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA hybrid, August 2024. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
+- Force11 Scholarly Communications Institute 2023. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA hybrid, August 2023. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
 - Force11 Scholarly Communications Institute 2022. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2022. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
 - Force11 Scholarly Communications Institute 2021. Steering Committee (Member), Program Committee, Local Organizing Committee, Code of Conduct Committee (Member). UCLA online, August 2021. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
 - Force11 Scholarly Communications Institute 2020. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (chair). UCLA online, August 2020. http:/\allowbreak{}/\allowbreak{}force11.org/\allowbreak{}fsci.
@@ -342,7 +372,8 @@ header-includes:
 - Force11 Scholarly Communications Institute 2018. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
 - Force11 Scholarly Communications Institute 2017. Steering Committee (chair), Program Committee, Local Organizing Committee, Code of Conduct Committee (co-chair). UC San Diego, July-August 2018.
 
-#### Conferences, Conference Sessions, and Workshops Sessions Organised (selected)
+\sectionbreak{}
+### Conferences, Conference Sessions, and Workshops Sessions Organised (selected)
 
 - Open and Inclusive Access to Research (OIAR). 2021. Co-organiser with Gimena del Rio and Wouter Schallier. Nov. 8-11. Online. SSHRC Connections. http:/\allowbreak{}/\allowbreak{}openandinclusiveaccesstoresearch.org/\allowbreak{}
 - Co-designer and co-instructor. Diversity Workshop WIDH 2019. Led by Barbara Bordalejo. IIT Gandhinagar, India. Dec. 2019.
@@ -383,7 +414,8 @@ header-includes:
 - Organising Committee. CASTA. University of Saskatchewan. October 2008.
 - Organising Committee. TEI Members Meeting and Conference (University of Maryland). November 2008.
 
-### Research Lectures
+\sectionbreak{}
+## Research Lectures
 
 - Daniel Paul O’Donnell. 2024. “Academic Freedom, Privilege, and Intersectionality.” July 29.  Force11 Scholarly Communications Institute (FSCI), Los Angeles. Zenodo. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.5281/\allowbreak{}zenodo.13121345 (i)
 - Bordalejo, Barbara, Davide Pafumi\*, Frank Onuh\*, AKM Iftekhar Khalid\*, and Daniel O’Donnell. 2024. “Scarlet Cloak and the Forest Adventure: The Issue of False Positives in AI Detection Tools.” June 17. Congress of the Humanities and Social Sciences (CSDH/\allowbreak{}SCHN). Montreal. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.5281/\allowbreak{}zenodo.12011536. (rs)
@@ -513,7 +545,8 @@ header-includes:
 - O'Donnell\*, Daniel Paul. 1991. “Beinecke MS 594: A Second Look at a Well-Known Nominale.” Early Book Society Conference. Trinity College Dublin. (r)
 - O'Donnell\*, Daniel Paul. 1991. “The OE ‘Phoenix’, Lactantius’s ‘De ave phoenice’ and the Science of Allegory,” Harvard-Yale Graduate Student Colloquium.
 
-### Other Lectures (Partial List)
+\sectionbreak{}
+## Other Lectures (Partial List)
 
 - O’Donnell, Daniel Paul. 2022. “Solidarity: Some thoughts on the recent strike and lockout at the U of Lethbridge.” Northern Alberta Institute of Technology. April 21. (i)
 - O’Donnell, Daniel Paul. 2021. “You can’t handle the truth! Academic freedom and University Governance.” Mount Royal University Faculty Association. March 5. (i)
@@ -521,7 +554,8 @@ header-includes:
 - O'Donnell, Daniel Paul. 2018. “Know your song well before you start singin’: Negotiating when ‘black is the color’ and ‘none is the number.’” CAUT Bargaining Roundtable. (i)
 - O'Donnell, Daniel Paul, Paul Hayes. 2017. “Understanding Lockout/\allowbreak{}Strike in the Post-Secondary Sector under the Alberta Labour Relations Code.” ULFA. Lethbridge, Canada. https:/\allowbreak{}/\allowbreak{}zenodo.org/\allowbreak{}record/\allowbreak{}1045544. (i)
 
-### General Interest and Guest Undergraduate Lectures (Partial List)
+\sectionbreak{}
+## General Interest and Guest Undergraduate Lectures (Partial List)
 
 - “The cipher manuscript”: Hoaxes as a book history problem.” Invited guest lecture. English 4400. Book History. Nov. 6, 2021. https:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.5281/\allowbreak{}zenodo.5651109. (i)
 - “Beowulf: Manuscripts, Pronunciation, Grammar, and Metre.” Invited guest lecture. English 1900. University of Lethbridge. Sept. 17, 2014. (i)
@@ -531,7 +565,8 @@ header-includes:
 - “What Anne Meant: Generic Instability and the Transmission of Anne Frank’s Diary.” Invited Lecture. Arts and Science 1000 (Liberal Arts), University of Lethbridge. November 2001; September 2000; November 1999. (i)
 - “Beowulf and its Place in History.” Worker’s Educational Association Weekend School at Horncastle. February 1997. (i)
 
-### Posters (Partial List)
+\sectionbreak{}
+## Posters (Partial List)
 
 - “Hier stehe ich! Operationalising conviction in the Scholarly Commons.” Michael Bar-Sinai, Jeroen Bosman, Ian Bruno, Chris Chapman, Bastian Greshake Tzovaras, Stephanie Hagestrom, Nate Jacobs, Bianca Kramer, Maryann Martone, Fiona Murphy, Daniel Paul O’Donnell. El Pub 2018 Toronto. http:/\allowbreak{}/\allowbreak{}doi.org/\allowbreak{}10.5281/\allowbreak{}zenodo.1292850. (r)
 - “The DH Experience.” Selman Zachary Palmer\*, Geoffrey Rockwell, Stan Ruecker, John Montague, Luciano Frizzera, Alex Gill, Daniel O’Donnell. DH 2015. Melbourne. July 2015. (r)
@@ -542,11 +577,56 @@ header-includes:
 - “TEI/\allowbreak{}XML as a Production Language: The Case of the Digital Medievalist Project.” TEI Annual Meeting. Sofia, Bulgaria. October 28–29, 2005. (r)
 - “The Digital Medievalist Project: An Extensible Community of Practice for Medievalists.” Poster and abstract. Digital Resources in the Humanities Conference. University of Newcastle upon Tyne, UK. September 5–9, 2004. [3rd Prize winner in best poster competition (out of 22 entries)]. (r)
 
-### Teaching and Supervisory Experience
+\sectionbreak{}
+# Teaching and Supervisory Experience
 
 Daniel Paul O’Donnell has taught undergraduate and graduate courses in English literature, medieval studies, English linguistics, textual scholarship, management information studies, mathematics, computer science, and the digital humanities. His teaching appointments have included Yale University, the Workers’ Educational Association (U.K.), the University of York (U.K.), Louisiana State University, and the University of Lethbridge, as well as invited roles with the International Society for Anglo-Saxonists. He has also supervised more than thirty M.A. and M.Sc. students in editorial, adjudication, and publication work through the *Meeting of Minds* Graduate Student Journal and his leadership of the University of Lethbridge Journal Incubator. He served as lead instructor for all courses unless otherwise indicated.
 
-#### University of Lethbridge (1997–)
+\sectionbreak{}
+## Supervision
+
+\sectionbreak{}
+### Postdoctoral Supervision
+
+- Nathan Woods. Humanities data. 2021–
+
+\sectionbreak{}
+### PhD Supervision
+
+- AKM Iftekhar Khalid. Tagorian English vs Large Language Models as Models of Hegemonic Discourse. CPST. Co-supervisor. 2024-
+- Frank Onuh. Discourse analysis and hate speech. CPST. Co-supervisor. 2023–
+- Davide Pafumi. Discourse analysis and Medieval English. CPST. Co-supervisor. 2022–
+
+\sectionbreak{}
+### M.A. Supervision
+
+- Morgan Pearce. Chaucer. English. Co-supervisor. 2022–
+- Kirandeep Kaur. Language resources for lesser-supported languages. English. Supervisor. 2021–2023
+- AKM Iftekhar Khalid. The History of English in Bangladesh. English. Supervisor. 2021–2023
+- Virgil Grandfield. Creative Non-fiction. Multidisciplinary. Supervisor. 2015–2018 (medical withdrawal)
+- Gurpreet Singh. Crowdsourcing editions of Sikh religious texts. Multidisciplinary. Supervisor. 2014–2017 (medical withdrawal)
+- Rylan Spenrath. The Monstrous in Fiction. English. Supervisor. 2013–2016
+- Heather Hobma. Ruthwell Kirk. English. Supervisor. 2011–2014
+- Tania Bigthroat. Residential School Experience. Native American Studies. Co-supervisor. 2005–2008
+- Shelley Stigter. Native American Verbal Art. English. Supervisor. 2004–2006
+
+### Committee Membership (M.A. and M.Sc.)
+
+- Mahsa Miri. Crediting Systems in Global Film. Modern Languages/\allowbreak{}Film Studies. 2015–2019
+- Titi Babalola. Absurd Realism. English. 2012–2014
+- Jessica Bay. Fan Fiction. English. 2012–2014
+- Fatima Rahman. Region query processing. Computer Science. 2013– (with interruptions)
+- Cody Rioux. Text Extraction in Digital Libraries. Computer Science. 2013–2015
+- Kent Aardse. Contemporary Digital Literatures. English. 2009–2011
+- Drew Luby. Magic in Renaissance England. English. 2009–2011
+- Leanne Little. Masculinity in Shakespeare. English. 2007–2009
+- Rob Meckelborg. Satanic Blake. English. 2006–2007
+- Angela Mlynarski. Text Summation in Digital Libraries. Computer Science. 2004–2006 (direction assumed during writing stage)
+- Laura Cappello. Jane Austen. English. 2002–2004
+
+
+\sectionbreak{}
+## University of Lethbridge (1997–)
 
 - *Meeting of Minds* Graduate Student Journal (2015–2016). Supervised and instructed graduate students in contemporary publication techniques. The work produced two student-co-authored articles.
 
@@ -572,69 +652,35 @@ Daniel Paul O’Donnell has taught undergraduate and graduate courses in English
 - English 5600. Beowulf. (2014) (Graduate)
 - English 5990. Graduate Independent Studies. (2002–) (Graduate)
 
-#### University of York (U.K.) (1996)
+\sectionbreak{}
+## University of York (U.K.) (1996)
 
 - Middle English paper (Undergraduate)
 
-#### Louisiana State University (1994–1995)
+\sectionbreak{}
+## Louisiana State University (1994–1995)
 
 - Old English (Graduate)
 - Beowulf (Graduate)
 - Chaucer (Undergraduate)
 - History of English (Undergraduate)
 
-#### Yale University (1991–1992)
+\sectionbreak{}
+## Yale University (1991–1992)
 
 - Introduction to the Novel (Teaching Assistant) (Undergraduate)
 - Age of Johnson (Teaching Assistant) (Undergraduate)
 - History of English (Teaching Assistant) (Undergraduate)
 
-#### Other
+\sectionbreak{}
+## Other
 
 - Workers’ Educational Association. Dark Age Tales (1996) (General Interest)
 - Co-director, with Martin Foys (Drew University). ISAS Pre-conference PhD Workshop in Digital Technology and New Media. July–August 2009.
 
-#### Supervision
-
-**Postdoctoral Supervision**
-
-- Nathan Woods. Humanities data. 2021–
-
-**PhD Supervision**
-
-- AKM Iftekhar Khalid. Tagorian English vs Large Language Models as Models of Hegemonic Discourse. CPST. Co-supervisor. 2024-
-- Frank Onuh. Discourse analysis and hate speech. CPST. Co-supervisor. 2023–
-- Davide Pafumi. Discourse analysis and Medieval English. CPST. Co-supervisor. 2022–
-
-**M.A. Supervision**
-
-- Morgan Pearce. Chaucer. English. Co-supervisor. 2022–
-- Kirandeep Kaur. Language resources for lesser-supported languages. English. Supervisor. 2021–2023
-- AKM Iftekhar Khalid. The History of English in Bangladesh. English. Supervisor. 2021–2023
-- Virgil Grandfield. Creative Non-fiction. Multidisciplinary. Supervisor. 2015–2018 (medical withdrawal)
-- Gurpreet Singh. Crowdsourcing editions of Sikh religious texts. Multidisciplinary. Supervisor. 2014–2017 (medical withdrawal)
-- Rylan Spenrath. The Monstrous in Fiction. English. Supervisor. 2013–2016
-- Heather Hobma. Ruthwell Kirk. English. Supervisor. 2011–2014
-- Tania Bigthroat. Residential School Experience. Native American Studies. Co-supervisor. 2005–2008
-- Shelley Stigter. Native American Verbal Art. English. Supervisor. 2004–2006
-
-**Committee Membership (M.A. and M.Sc.)**
-
-- Mahsa Miri. Crediting Systems in Global Film. Modern Languages/\allowbreak{}Film Studies. 2015–2019
-- Titi Babalola. Absurd Realism. English. 2012–2014
-- Jessica Bay. Fan Fiction. English. 2012–2014
-- Fatima Rahman. Region query processing. Computer Science. 2013– (with interruptions)
-- Cody Rioux. Text Extraction in Digital Libraries. Computer Science. 2013–2015
-- Kent Aardse. Contemporary Digital Literatures. English. 2009–2011
-- Drew Luby. Magic in Renaissance England. English. 2009–2011
-- Leanne Little. Masculinity in Shakespeare. English. 2007–2009
-- Rob Meckelborg. Satanic Blake. English. 2006–2007
-- Angela Mlynarski. Text Summation in Digital Libraries. Computer Science. 2004–2006 (direction assumed during writing stage)
-- Laura Cappello. Jane Austen. English. 2002–2004
-
-## Consulting
+\sectionbreak{}
+# Consulting
 
 - Readex/\allowbreak{}Newsbank. Interactive Web. 2006-2009.
 - Citec. SGML. 1999.
 - Kawoosh! Productions/\allowbreak{}Stargate SG-1 [Television Producers]. Historical language use; pronunciation; archaeology. 1999.
-

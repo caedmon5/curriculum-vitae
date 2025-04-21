@@ -17,16 +17,13 @@ _Last updated: 2025-04-19_
 
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
 
-- *PhD, English*, Yale University, 1996  
+- **PhD, English**, Yale University, 1996  
   *Dissertation*: “Manuscript Variation in Multiple Recension Old English Poetic Texts”  
   *Supervisor*: Fred C. Robinson
-
-- *MA, English*, Yale University, 1991
-
-- *BA with distinction*, St. Michael’s College, University of Toronto, 1989  
+- **MA, English**, Yale University, 1991
+- **BA with distinction**, St. Michael’s College, University of Toronto, 1989  
   *Specialisation*: English Language and Literature  
   *Minors*: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded)
-
 
 ## Languages  
 
@@ -37,13 +34,6 @@ _Last updated: 2025-04-19_
   - Dutch (read, spoken, and aural)  
   - French (reading and aural strong; improving spoken accuracy in preparation for CERF B2 certification)  
   - German (reading)
-
-- **Classical and Medieval Languages**:  
-  - Old English  
-  - Latin  
-  - Old Frisian  
-  - Old Norse  
-  - Gothic
 
 ## Academic Positions
 
@@ -67,46 +57,32 @@ _Last updated: 2025-04-19_
 
 - **Past President**, Confederation of Alberta Faculty Associations (CAFA), 2024–2025  
   Continued strategic advocacy; transitioned president role following reorganisation.
-
 - **President**, CAFA, 2023–2024  
   Led reorganisation after loss of major member (AASUA); founded Western Regional Council; initiated successful provincial lobbying on Bill 18.
-
 - **Past President**, University of Lethbridge Faculty Association (ULFA), 2023–2024  
   Supported transition to new leadership; advised on grievance resolution and governance rebuilding.
-
 - **President**, ULFA, 2021–2023  
   Led six-week job action (92% strike vote, 91% ratification); rebuilt faculty governance post-strike; expanded communication strategy.
-
 - **Vice-President**, ULFA, 2020–2021  
   Developed internal governance models; supported bargaining team formation.
-
 - **Chief Spokesperson and Bargaining Chair**, ULFA, 2018–2021  
   Negotiated multiple collective agreements (including Navitas MOU); launched and secured approval for job action fund.
-
 - **President**, Force11, 2018–2019  
   Oversaw launch of FORCE11 Scholarly Communication Institute (FSCI); expanded global FAIR and Open Science policy advocacy.
-
 - **Vice-President**, Force11, 2013–2017  
   Built global partnerships in scholarly communication and infrastructure.
-
 - **Founding Director**, Lethbridge Centre for the Study of Scholarly Communication, 2015–present  
   Created institutional centre supporting interdisciplinary research and publication innovation.
-
 - **Founding Chair**, Global Outlook::Digital Humanities (GO::DH), 2012–2015  
   Founded equity-centred digital humanities network; initiated multilingual and regional DH programs.
-
 - **Co-President**, Canadian Society for Digital Humanities (CSDH/SCHN), 2010–2013  
   Coordinated national DH strategy and membership growth.
-
 - **Chair**, Digital Initiatives Advisory Board, Medieval Academy of America, 2009–2012  
   Guided MAA infrastructure strategy; advised on journal and archive digitisation.
-
 - **Chair and CEO**, Text Encoding Initiative (TEI), 2006–2011  
   Restructured TEI governance; launched member-led consortium; resolved internal staff conflict; published revised TEI Guidelines.
-
 - **Founding Director**, Digital Medievalist Project, 2003–2009  
   Established peer-reviewed journal and infrastructure for medievalists working in digital media.
-
 - **Chair**, Department of English, University of Lethbridge, 2005–2008, 2023–present  
   Led department through curriculum overhaul, review, and hiring plan during institutional crisis; implemented new governance model.
 
@@ -195,7 +171,6 @@ _Last updated: 2025-04-19_
   ISBN: 9781108486637 (hardback); 9781108783521 (ebook)  
   - **Reviews**:  
     - *Public Understanding of Science* 31 (7): 892–894
-
 - O’Donnell, Daniel Paul. 2005. *Cædmon’s Hymn: A Multimedia Study, Edition and Archive*. SEENET A.8. Cambridge: D.S. Brewer / Medieval Academy of America. xxii + 261 pp. + CD-ROM.  
   Internet reprint (2018): https://caedmon.seenet.org/  
   Codebase DOI: https://doi.org/10.5281/zenodo.1198856  
@@ -207,94 +182,49 @@ _Last updated: 2025-04-19_
 
 ### Invited and Peer-Reviewed Articles and Chapters 
 
-I need the whole thing in HTML code that I can paste. Please do it all: 
-
 - Pafumi, Davide\*, Frank Onuh\*, AKM Iftekhar Khalid\*, Morgan Pearce\*, Barbara Bordalejo, and Daniel Paul O'Donnell. 2025. “Scarlet Cloak and the Forest Adventure”: A Preliminary Study of the Impact of AI on Commonly Used Writing Tools. *International Journal of Educational Technology in Higher Education*. https://doi.org/10.1186/s41239-025-00505-5. (r)
-
 - O’Donnell, Daniel Paul. 2021. “‘I Heard He Sang a Good Song’: Caedmon’s Inspiration and Medieval Dream Theory.” In *Sogni, visioni e profezie nella letteratura germanica medievale*, edited by Roberto Rosselli Del Turco, 147–172. Bibliotheca Germanica. Studi e testi 48. Allessandria: Edizioni del l’Orso. (i)
-
 - Bliss, Heather, Inge Genee, Marie-Odile Junker, and Daniel Paul O’Donnell. 2020. “‘Credit Where Credit Is Due’: Authorship and Attribution in Algonquian Language Digital Resources.” *IDEAH*. https://doi.org/10.21428/f1f23564.3d64b2ed. (r)
-
 - O’Donnell, Daniel Paul. 2020. “Critical Mass: The Listserv and the Early Online Community as a Case Study in the Unanticipated Consequences of Innovation in Scholarly Communication.” In *Digital Technology and the Practices of Humanities Research*, edited by Jennifer Edmond, 184–206. Cambridge: Open Book Publishers. Offprint: https://doi.org/10.5281/ZENODO.3633429. (r)
-
 - O’Donnell, Daniel Paul. 2019. “All Along the Watchtower: Intersectional Diversity as a Core Intellectual Value in the Digital Humanities.” In *Intersectionality in Digital Humanities*, edited by Barbara Bordalejo and Roopika Risam. Amsterdam: ARC. Offprint: http://doi.org/10.5281/zenodo.3580235. (r)
-
 - Esau, Paul\*, Carey Viejou\*, Sylvia Chow\*, Kimberly Dohms\*, Steve Firth\*, Jarret McKinnon\*, Dorethea Morrison\*, Reed Parsons\*, Courtney Rieger\*, Vanja Spiric\*, Elaine Toth\*, Kayla Ueland\*, Rumi Graham, and Daniel Paul O’Donnell. 2018. “‘Let’s Start a Journal!’: The Multidisciplinary Graduate Student Journal as Educational Opportunity.” *The Journal of Electronic Publishing* 21 (1). https://doi.org/10.3998/3336451.0021.109. (rsc)
-
 - O’Donnell, Daniel Paul, Carey Viejou\*, Sylvia Chow\*, Kimberly Dohms\*, Paul Esau\*, Steve Firth\*, Rumi Graham, et al. 2018. “Zombie Journals: Designing a Technological Infrastructure for a Precarious Graduate Student Journal.” *Scholarly and Research Communication* 9 (2). https://src-online.ca/index.php/src/article/view/296/548. http://dx.doi.org/10.22230/src.2018v9n2a296. (rsc)
-
 - O’Donnell, Daniel Paul, Matteo Callieri, Marco Dellepiane, Catherine Karkov, Dot Porter, and Roberto Rosselli Del Turco. 2018. “Archaeology in the Study: Scanning Anglo-Saxon Artifacts in the Visionary Cross Project.” *Wiðowinde* 185 (Spring): 21–27. Offprint: https://doi.org/10.5281/zenodo.1208167. (ic)
-
 - Tennant, Jonathan P., Jonathan M. Dugan, Daniel Jacques Damien Graziotin, François Waldner, Daniel Mietchen, Yehia Elkhatib, Lauren B. Collister, et al. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” *F1000Research* 6 (1151). http://doi.org/10.12688/f1000research.12037.2. (rs)
-
 - Moore, Samuel\*, Cameron Neylon, Martin Paul Eve, Daniel Paul O’Donnell, and Damian Pattinson. 2017. “‘Excellence R Us’: University Research and the Fetishisation of Excellence.” *Palgrave Communications* 3 (January). Nature Publishing Group. http://doi.org/10.1057/palcomms.2016.105. (rs)
-
 - O’Donnell, Daniel Paul. 2016. “The Bird in Hand: Humanities Research in the Age of Open Data.” In *The State of Open Data: A Selection of Analyses and Articles about Open Data*, edited by Figshare, 34–35. London: Digital Science. Offprint: https://doi.org/10.5281/zenodo.1470821. (i)
-
 - O’Donnell, Daniel Paul, Jessica Bay\*, Emma Dering\*, Matt Gal\*, Virgil Grandfield\*, Heather Hobma\*, and Gurpreet Singh\*. 2016. “The Third Academic Freedom.” *Light on Teaching*, 4–9. Lethbridge: Teaching Centre. Offprint: http://doi.org/10.5281/zenodo.3596098. (rsc)
-
 - Hobma, Heather\*, Daniel Paul O'Donnell, Catherine Karkov, Sally Foster, James Graham, Wendy Osborn, Roberto Rosselli Del Turco, Robert Broatch, Susan Broatch, Marco Callieri, and Matteo Dellepiane. 2016. “Modern Impact on the Fabric of the Ruthwell Cross.” *Old English Newsletter* 46.1. http://www.oenewsletter.org/OEN/issue/ruthwell.php. (rsc)
-
 - Champieux, Robin, Bianca Kramer, Jeroen Bosman, Ian Bruno, Amy Buckland, Sarah Callaghan, Chris Chapman, Stephanie Hagstrom, MaryAnn E. Martone, and Daniel Paul O'Donnell. 2016. “Finding the Principles of the Commons: A Report of the Force11 Scholarly Communications Working Group.” *Collaborative Librarianship* 8 (2). http://digitalcommons.du.edu/collaborativelibrarianship/vol8/iss2/5. (r)
-
 - Kramer, Bianca, Jeroen Bosman, Marcin Ignac, Christina Kral, Tellervo Kalleinen, Pekko Koskinen, Ian Bruno, Amy Buckland, Sarah Callaghan, Robin Champieux, Chris Chapman, Stephanie Hagstrom, MaryAnn Martone, Fiona Murphy, and Daniel Paul O'Donnell. 2016. “Defining the Scholarly Commons – Reimagining Research Communication. Report of Force11 SCWG Workshop, Madrid, Spain, February 25–27, 2016.” *Research Ideas and Outcomes* 2 (May): e9340. http://dx.doi.org/10.3897/rio.2.e9340. (r)
-
 - O'Donnell, Daniel Paul, Alex Gil, Katherine Walters, and Neil Fraistat. 2015. “Only Connect: The Globalization of the Digital Humanities.” In *A New Companion to Digital Humanities*, edited by Susan Schreibman, Ray Siemens, and John Unsworth, 493–510. Wiley. https://doi.org/10.1002/9781118680605.ch34. (rc)
-
 - O'Donnell, Daniel Paul, Heather Hobma\*, Sandra Cowan, Gillian Ayers\*, Jessica Bay\*, Marinus Swanepoel, Wendy Merkley, Kelaine Devine\*, Emma Dering\*, and Inge Genee. 2015. “Aligning Open Access Publication with the Research and Teaching Missions of the Public University: The Case of the Lethbridge Journal Incubator (If 'if's and 'and's Were Pots and Pans).” *Journal of Electronic Publishing* 18 (3). http://dx.doi.org/10.3998/3336451.0018.309. (rsc)
-
 - Leoni, Chiara\*, Marco Callieri, Matteo Dellepiane, Daniel Paul O'Donnell, Roberto Rosselli Del Turco, and Roberto Scopigno. 2015. “The Dream and the Cross: A 3D Scanning Project to Bring 3D Content in a Digital Edition.” *Journal on Computing and Cultural Heritage*. February. https://doi.org/10.1145/2686873. (rs)
-
 - O'Donnell, Daniel Paul. 2013. “‘I Certainly Have Subjects in My Mind’: The Diary of Anne Frank as Bildungsroman.” *Canadian Journal of Netherlandic Studies* 32: 49–88. https://doi.org/10.5281/zenodo.3596110. (r)
-
 - O'Donnell, Daniel Paul. 2012. “Move Over: Learning to Read (and Write) with Novel Technology.” *Scholarly and Research Communication* 3 (4). https://doi.org/10.22230/src.2012v3n4a68. (r)
-
 - O'Donnell, Daniel Paul. 2010. “Different Strokes, Same Folk: Designing the Multi-form Digital Edition.” *Literature Compass* 7 (2). http://dx.doi.org/10.1111/j.1741-4113.2009.00683.x. (r)
-
 - O'Donnell, Daniel Paul. 2009. “Byte Me: Technological Education and the Humanities.” *Heroic Age* 12. http://www.mun.ca/mst/heroicage/issues/12/em.php. (i)
-
 - O'Donnell, Daniel Paul. 2009. “Back to the Future: What Digital Editors Can Learn from Print Editorial Practice.” *Literary and Linguistic Computing* 24: 113–125. https://doi.org/10.1093/llc%2Ffqn039. (r)
-
 - Lee, Stuart, and Daniel Paul O'Donnell. 2009. “From Manuscript to Computer.” In *Working with Anglo-Saxon Manuscripts*, edited by Gale R. Owen-Crocker, 253–284. Exeter: Exeter UP. (r)
-
 - O'Donnell, Daniel Paul. 2008. “Resisting the Tyranny of the Screen, or, Must a Digital Edition Be Electronic?” *Heroic Age* 11. http://www.heroicage.org/issues/11/em.php. (i)
-
 - Bodard, Gabriel, and Daniel Paul O'Donnell. 2008. “We Are All Together: On Publishing a Digital Classicist Issue of the *Digital Medievalist* Journal.” *Digital Medievalist* 4. http://doi.org/10.16995/dm.18. (ic)
-
 - O'Donnell, Daniel Paul. 2007. “Disciplinary Impact and Technological Obsolescence in Digital Medieval Studies.” In *A Companion to Digital Literary Studies*, edited by Ray Siemens and Susan Schreibman. Cambridge: Blackwell. https://doi.org/10.1002/9781405177504.ch3. (r)
-
 - O'Donnell, Daniel Paul. 2007. “Material Differences: The Place of Cædmon's Hymn in the History of Anglo-Saxon Vernacular Poetry.” In *Cædmon's Hymn and Material Culture in the World of Bede*, edited by Allen J. Frantzen and John Hines, 15–50. Morgantown VA: West Virginia University Press. (r)
-
 - O'Donnell, Daniel Paul. 2007. “If I Were ‘You’: How Academics Can Stop Worrying and Learn to Love ‘the Encyclopedia That Anyone Can Edit.’” *Heroic Age* 10. http://www.heroicage.org/issues/10/em.html. (i)
-
 - O'Donnell, Daniel Paul. 2005. “The Ghost in the Machine: Revisiting an Old Model for the Dynamic Generation of Digital Editions.” *HumanIT* 8 (1): 51–71. Offprint: https://zenodo.org/record/3596125. (i)
-
 - O'Donnell, Daniel Paul. 2005. “O Captain! My Captain! Using Technology to Guide Readers Through an Electronic Edition.” *Heroic Age* 8. http://www.heroicage.org/issues/8/em.html. (i)
-
 - O'Donnell, Daniel Paul. 2004. “The Digital Medievalist Project.” *Old English Newsletter* 37: 19–21. (i)
-
 - O'Donnell, Daniel Paul. 2004. “Bede’s Strategy in Paraphrasing Cædmon’s Hymn.” *JEGP* 103: 417–433. (r)
-
 - O'Donnell, Daniel Paul. 2004. “The Doomsday Machine, or, ‘If You Build It, Will They Still Come Ten Years From Now?’: What Medievalists Working in Digital Media Can Do to Ensure the Longevity of Their Research.” *Heroic Age* 7. http://www.heroicage.org/issues/7/ecolumn.html. (i)
-
 - O'Donnell, Daniel Paul. 2004. “Numeric and Geometric Patterning in Cædmon’s Hymn.” *ANQ* 17: 3–12. (r)
-
 - O'Donnell, Daniel Paul. 2003. “‘Pioneers! O Pioneers!’: Some Electronic Editing Do’s and Don’ts From Stijn Streuvels’s *De Teleurgang van den Waterhoek*.” *Literary and Linguistic Computing*. (r)
-
 - O'Donnell, Daniel Paul. 2002. “Junius’s Knowledge of the Old English Poem *Durham*.” *Anglo-Saxon England* 30: 231–245. (r)
-
 - O'Donnell, Daniel Paul. 2002. “The Accuracy of the St. Petersburg Bede.” *Notes and Queries* 247: 4–6. (r)
-
 - O'Donnell, Daniel Paul. 2001. “Fish and Fowl: Generic Expectations and the Relationship Between the Old English *Phoenix* Poem and Lactantius’s *De Ave Phoenice*.” In *Germanic Texts and Latin Models: Medieval Reconstructions*, edited by K.E. Olsen, A. Harbus, and T. Hofstra. *Germania Latina IV. Mediaevalia Groningana*, n.s. 2. Leuven, Paris and Sterling, VA: Peeters, 157–171. (r)
-
 - O'Donnell, Daniel Paul. 1999. “Hædre and Hædre Gehogode (Solomon and Saturn Line 62b and *Resignation* Line 63a).” *Notes and Queries* 244: 312–316. (r)
-
 - O'Donnell, Daniel Paul\*. 1998. “The Spirit and the Letter: Literary Embellishment in Old Frisian Legal Texts.” *Amsterdamer Beiträge zur älteren Germanistik* 49: 245–256. (r)
-
 - O'Donnell, Daniel Paul\*. 1996. “A Northumbrian Version of ‘Cædmon’s Hymn’ (eordu-recension) in Brussels Bibliothèque Royale Manuscript 8245–57 ff.62r2–v1: Identification, Edition, and Filiation.” In *Beda Venerabilis: Historian, Monk and Northumbrian*, edited by L.A.R.J. Houwen and A.A. MacDonald, 139–166. Groningen: Egbert Forsten. (r)
-
 - O'Donnell, Daniel Paul\*. 1995. “Schoolbook Design in the Fifteenth Century.” *The Yale University Library Gazette* 70: 23–38. (r)
-
 - O'Donnell, Daniel Paul\*. 1991. “The Collective Sense of Concrete Singular Nouns in *Beowulf*: Emendations of Sense.” *Neuphilologische Mitteilungen* 92: 433–440. (r)
 
 ### Shorter or Invited Publications  

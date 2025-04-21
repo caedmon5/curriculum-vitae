@@ -18,7 +18,7 @@ _Last updated: 2025-04-19_
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
 
 - **PhD, English**, Yale University, 1996  
-  *Dissertation*: “Manuscript Variation in Multiple Recension Old English Poetic Texts”  
+  *Dissertation*: “Manuscript Variation in Multiple Recension Old English Poetic Texts: The Technical Problem and Poetical Art."  https://doi.org/10.5281/zenodo.1171976  
   *Supervisor*: Fred C. Robinson
 - **MA, English**, Yale University, 1991
 - **BA with distinction**, St. Michael’s College, University of Toronto, 1989  

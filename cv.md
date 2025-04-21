@@ -621,10 +621,3 @@ Daniel Paul O’Donnell has taught undergraduate and graduate courses in English
 - Citec. SGML. 1999.
 - Kawoosh! Productions/Stargate SG-1 [Television Producers]. Historical language use; pronunciation; archaeology. 1999.
 
-## Organisational Roles  
-**Summary**: O'Donnell has served on boards, steering committees, and planning groups for scholarly organisations, journals, conferences, and research networks. His service includes leadership in the Text Encoding Initiative, Digital Medievalist, and advisory roles within the Medieval Academy of America, Canadian Society for Digital Humanities, and other infrastructure-building initiatives.
-
-### Boards and Committees  
-### Conference Organisation  
-
-## Appendices or Detailed Bibliographic List (if applicable)

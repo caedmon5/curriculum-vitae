@@ -37,7 +37,6 @@ header-includes:
 
 \sectionbreak{}
 ---
-
 # Education
 
 **Summary**: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.

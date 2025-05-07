@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  6 MAY 2025 17:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  6 MAY 2025 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -200,11 +200,22 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
+(/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
+Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
+\h@ngcommawd=\skip53
+\h@ngfstopwd=\skip54
+\h@ngquotewd=\skip55
+\h@ngdquotewd=\skip56
+\h@ngquerywd=\skip57
+\h@ngexclwd=\skip58
+\h@ngcolonwd=\skip59
+\h@ngscolonwd=\skip60
+)
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 17.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 36
+Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 37
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
@@ -218,24 +229,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./cv_converted.aux)
 \openout1 = `cv_converted.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -296,30 +307,30 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count291
 \everyMPtoPDFconversion=\toks21
 )) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 36.
+Package hyperref Info: Link coloring ON on input line 37.
 
 (./cv_converted.out) (./cv_converted.out)
 \@outlinefile=\write3
 \openout3 = `cv_converted.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 38.
+(Font)              <14.4> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 5
-0.
+(Font)              <7> on input line 39.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 52.
+(Font)              <12> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 52.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 50.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 66.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 61.
 
 
 [1
@@ -328,21 +339,21 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 st/fonts/enc/dvips/base/8r.enc}]
 
 [2]
-Overfull \hbox (2.24695pt too wide) in paragraph at lines 151--152
+
+[3]
+Overfull \hbox (2.24695pt too wide) in paragraph at lines 157--158
 \T1/phv/m/n/12 are sup-ported by SSHRC and in-ter-na-tional part-ners in-clud-i
 ng CERN, DARIAH, and CARL.
  []
 
 
-
-[3]
-Overfull \hbox (20.05553pt too wide) in paragraph at lines 154--156
+Overfull \hbox (20.05553pt too wide) in paragraph at lines 160--162
 \T1/phv/b/n/12 In-fras-truc-ture \T1/phv/m/sl/12 (2022^^Upresent; SSHRC In-sigh
 t Grant 2025^^U2029, PI, $300,000; SSHRC
  []
 
 
-Overfull \hbox (8.0421pt too wide) in paragraph at lines 160--162
+Overfull \hbox (8.0421pt too wide) in paragraph at lines 166--168
 []\T1/phv/b/n/12 Lethbridge Jour-nal In-cu-ba-tor \T1/phv/m/sl/12 (2012^^U2024;
  SSHRC Aid to Schol-arly Jour-nals Grant,
  []
@@ -350,69 +361,69 @@ Overfull \hbox (8.0421pt too wide) in paragraph at lines 160--162
 
 
 [4]
-Overfull \hbox (0.64474pt too wide) in paragraph at lines 177--178
+Overfull \hbox (0.64474pt too wide) in paragraph at lines 183--184
 []\T1/phv/m/n/12 SSHRC In-sight Grant,\T1/phv/m/sl/12 Canterbury Tales Project\
 T1/phv/m/n/12 , 2021^^U2026, Co-applicant, $340,000 
  []
 
 
-Overfull \hbox (28.41753pt too wide) in paragraph at lines 179--180
+Overfull \hbox (28.41753pt too wide) in paragraph at lines 185--186
 []\T1/phv/m/n/12 SSHRC Aid to Schol-arly Jour-nals (651-2021-0150),\T1/phv/m/sl
 /12 Digital Stud-ies / Le champ numérique\T1/phv/m/n/12 ,
  []
 
 
-Overfull \hbox (28.41753pt too wide) in paragraph at lines 180--181
+Overfull \hbox (28.41753pt too wide) in paragraph at lines 186--187
 []\T1/phv/m/n/12 SSHRC Aid to Schol-arly Jour-nals (651-2018-0062),\T1/phv/m/sl
 /12 Digital Stud-ies / Le champ numérique\T1/phv/m/n/12 ,
  []
 
 
-Overfull \hbox (9.37384pt too wide) in paragraph at lines 182--183
+Overfull \hbox (9.37384pt too wide) in paragraph at lines 188--189
 []\T1/phv/m/n/12 Sloan Foun-da-tion (G-2020-13999),\T1/phv/m/sl/12 Developing O
 pen Sci-ence dur-ing the COVID emer-
  []
 
 
-Overfull \hbox (10.17105pt too wide) in paragraph at lines 183--184
+Overfull \hbox (10.17105pt too wide) in paragraph at lines 189--190
 \T1/phv/m/sl/12 form-ing Schol-arly Com-mu-ni-ca-tion through Col-lec-tive Ac-t
 ion\T1/phv/m/n/12 , 2017^^U2019, PI, $200,000 
  []
 
 
-Overfull \hbox (1.88542pt too wide) in paragraph at lines 185--186
+Overfull \hbox (1.88542pt too wide) in paragraph at lines 191--192
 []\T1/phv/m/n/12 SSHRC In-sight Grant (435-2015-1119),\T1/phv/m/sl/12 What Goes
  Around: Edit-ing the Anglo-Saxon
  []
 
 
-Overfull \hbox (28.41753pt too wide) in paragraph at lines 187--188
+Overfull \hbox (28.41753pt too wide) in paragraph at lines 193--194
 []\T1/phv/m/n/12 SSHRC Aid to Schol-arly Jour-nals (651-2014-0138),\T1/phv/m/sl
 /12 Digital Stud-ies / Le champ numérique\T1/phv/m/n/12 ,
  []
 
 
-Overfull \hbox (17.27757pt too wide) in paragraph at lines 191--192
+
+[5]
+Overfull \hbox (17.27757pt too wide) in paragraph at lines 197--198
 []\T1/phv/m/n/12 Gordon and Betty Moore Foun-da-tion (Force11), 2014^^U2015, Co
 -applicant, US$150,000 
  []
 
 
-
-[5]
-Overfull \hbox (19.29077pt too wide) in paragraph at lines 194--195
+Overfull \hbox (19.29077pt too wide) in paragraph at lines 200--201
 \T1/phv/m/sl/12 at-ing a Ben-e-fit of Mem-ber-ship to Sup-port Stan-dards De-ve
 l-op-ment\T1/phv/m/n/12 , 2008, PI, US$30,723 
  []
 
 
-Overfull \hbox (12.4997pt too wide) in paragraph at lines 217--218
+Overfull \hbox (12.4997pt too wide) in paragraph at lines 223--224
 []\T1/phv/m/n/12 Mellon Fel-low-ship in the Hu-man-i-ties (Dis-ser-ta-tion Fel-
 low-ship), 1993^^U1994, US$11,000 
  []
 
 
-Overfull \hbox (6.51273pt too wide) in paragraph at lines 229--230
+Overfull \hbox (6.51273pt too wide) in paragraph at lines 235--236
 \T1/phv/b/n/12 Summary\T1/phv/m/n/12 : O'Donnell's pub-li-ca-tions in-clude sch
 ol-arly edi-tions, mono-graphs, peer-reviewed
  []
@@ -420,21 +431,21 @@ ol-arly edi-tions, mono-graphs, peer-reviewed
 
 
 [6]
-Overfull \hbox (3.94012pt too wide) in paragraph at lines 244--245
+Overfull \hbox (3.94012pt too wide) in paragraph at lines 250--251
 []\T1/phv/b/n/12 Reviews\T1/phv/m/n/12 : \T1/phv/m/sl/12 e-data&research \T1/ph
 v/m/n/12 1 (2006): 1;\T1/phv/m/sl/12 Medium Ae-vum \T1/phv/m/n/12 75 (2006): 35
 6^^U357;\T1/phv/m/sl/12 Old
  []
 
 
-Overfull \hbox (46.45592pt too wide) in paragraph at lines 244--245
+Overfull \hbox (46.45592pt too wide) in paragraph at lines 250--251
 \T1/phv/m/sl/12 cle-si-as-ti-cal His-tory \T1/phv/m/n/12 58 (2007): 120^^U121;\
 T1/phv/m/sl/12 Early Me-dieval Eu-rope \T1/phv/m/n/12 15 (2007): 466^^U469;\T1/
 phv/m/sl/12 Tex-
  []
 
 
-Overfull \hbox (6.82887pt too wide) in paragraph at lines 252--253
+Overfull \hbox (6.82887pt too wide) in paragraph at lines 258--259
 \T1/phv/m/n/12 A Pre-lim-i-nary Study of the Im-pact of AI on Com-monly Used Wr
 it-ing Tools.\T1/phv/m/sl/12 International
  []
@@ -442,7 +453,7 @@ it-ing Tools.\T1/phv/m/sl/12 International
 
 
 [7]
-Overfull \hbox (21.52678pt too wide) in paragraph at lines 257--258
+Overfull \hbox (21.52678pt too wide) in paragraph at lines 263--264
 []\T1/phv/m/n/12 Esau, Paul\OMS/cmsy/m/n/12 ^^B\T1/phv/m/n/12 , Carey Viejou\OM
 S/cmsy/m/n/12 ^^B\T1/phv/m/n/12 , Sylvia Chow\OMS/cmsy/m/n/12 ^^B\T1/phv/m/n/12
  , Kim-berly Dohms\OMS/cmsy/m/n/12 ^^B\T1/phv/m/n/12 , Steve Firth\OMS/cmsy/m/n
@@ -450,19 +461,19 @@ S/cmsy/m/n/12 ^^B\T1/phv/m/n/12 , Sylvia Chow\OMS/cmsy/m/n/12 ^^B\T1/phv/m/n/12
  []
 
 
-Overfull \hbox (11.25644pt too wide) in paragraph at lines 260--261
+Overfull \hbox (11.25644pt too wide) in paragraph at lines 266--267
 []\T1/phv/m/n/12 Tennant, Jonathan P., Jonathan M. Dugan, Daniel Jacques Damien
  Grazi-otin, François
  []
 
 
-Overfull \hbox (50.53479pt too wide) in paragraph at lines 260--261
+Overfull \hbox (50.53479pt too wide) in paragraph at lines 266--267
 \T1/phv/m/n/12 Disciplinary Per-spec-tive on Emer-gent and Fu-ture In-no-va-tio
 ns in Peer Re-view.^^Q\T1/phv/m/sl/12 F1000Research
  []
 
 
-Overfull \hbox (7.35632pt too wide) in paragraph at lines 264--265
+Overfull \hbox (7.35632pt too wide) in paragraph at lines 270--271
 \T1/phv/m/n/12 Gra-ham, Wendy Os-born, Roberto Rosselli Del Turco, Robert Broat
 ch, Su-san Broatch,
  []
@@ -470,14 +481,14 @@ ch, Su-san Broatch,
 
 
 [8]
-Overfull \hbox (2.51715pt too wide) in paragraph at lines 272--273
+Overfull \hbox (2.51715pt too wide) in paragraph at lines 278--279
 \T1/phv/m/n/12 form Dig-i-tal Edi-tion.^^Q\T1/phv/m/sl/12 Literature Com-pass \
 T1/phv/m/n/12 7 (2). [][]$http : / / dx . doi . org / 10 . 1111 / j . 1741-[]41
 13 .
  []
 
 
-Overfull \hbox (6.75153pt too wide) in paragraph at lines 275--276
+Overfull \hbox (6.75153pt too wide) in paragraph at lines 281--282
 \T1/phv/m/n/12 In\T1/phv/m/sl/12 Working with Anglo-Saxon Manuscripts\T1/phv/m/
 n/12 , edited by Gale R. Owen-Crocker, 253^^U284.
  []
@@ -485,20 +496,20 @@ n/12 , edited by Gale R. Owen-Crocker, 253^^U284.
 
 
 [9]
-Overfull \hbox (23.0688pt too wide) in paragraph at lines 284--285
+Overfull \hbox (23.0688pt too wide) in paragraph at lines 290--291
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2004. ^^PBede's Strat-egy in Para-phra
 s-ing Cæd-mon's Hymn.^^Q\T1/phv/m/sl/12 JEGP
  []
 
 
-Overfull \hbox (39.38844pt too wide) in paragraph at lines 288--289
+Overfull \hbox (39.38844pt too wide) in paragraph at lines 294--295
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2002. ^^PJu-nius's Knowl-edge of the O
 ld En-glish Poem\T1/phv/m/sl/12 Durham\T1/phv/m/n/12 .^^Q\T1/phv/m/sl/12 Anglo-
 
  []
 
 
-Overfull \hbox (3.67705pt too wide) in paragraph at lines 290--291
+Overfull \hbox (3.67705pt too wide) in paragraph at lines 296--297
 \T1/phv/m/n/12 In\T1/phv/m/sl/12 Germanic Texts and Latin Mod-els: Me-dieval Re
 -con-struc-tions\T1/phv/m/n/12 , edited by K.E. Olsen,
  []
@@ -506,53 +517,53 @@ Overfull \hbox (3.67705pt too wide) in paragraph at lines 290--291
 
 
 [10]
-Overfull \hbox (12.71677pt too wide) in paragraph at lines 293--294
+Overfull \hbox (12.71677pt too wide) in paragraph at lines 299--300
 \T1/phv/m/n/12 Iden-ti-fi-ca-tion, Edi-tion, and Fil-i-a-tion.^^Q In\T1/phv/m/s
 l/12 Beda Ven-er-a-bilis: His-to-rian, Monk and Northum-
  []
 
 
-Overfull \hbox (61.20421pt too wide) in paragraph at lines 302--303
+Overfull \hbox (61.20421pt too wide) in paragraph at lines 308--309
 \T1/phv/m/n/12 ture.^^Q\T1/phv/m/sl/12 Impact of So-cial Sci-ences \T1/phv/m/n/
 12 (blog), March 31. [][]$https : / / blogs . lse . ac . uk / impactofsocialsci
 ences /
  []
 
 
-Overfull \hbox (199.7722pt too wide) in paragraph at lines 302--303
+Overfull \hbox (199.7722pt too wide) in paragraph at lines 308--309
 \T1/phv/m/n/12 2021 / 03 / 31 / reading-[]peer-[]review-[]what-[]a-[]dataset-[]
 of-[]peer-[]review-[]reports-[]can-[]teach-[]us-[]about-[]changing-[]research-[
 ]culture/$[][]. 
  []
 
 
-Overfull \hbox (29.82277pt too wide) in paragraph at lines 304--305
+Overfull \hbox (29.82277pt too wide) in paragraph at lines 310--311
 \T1/phv/m/n/12 Excellence _ R _ Us _ University _ Research _ and _ the _ Fetish
 isation _ of _ Excellence / 3413821$[][].
  []
 
 
-Overfull \hbox (18.36566pt too wide) in paragraph at lines 310--311
+Overfull \hbox (18.36566pt too wide) in paragraph at lines 316--317
 []\T1/phv/m/n/12 Matthews, David. 2016. ^^PFo-cus on Re-search `Ex-cel-lence' I
 s `Dam-ag-ing Sci-ence.'^^Q\T1/phv/m/sl/12 Times
  []
 
 
-Overfull \hbox (43.20364pt too wide) in paragraph at lines 312--314
+Overfull \hbox (43.20364pt too wide) in paragraph at lines 318--320
 \T1/phv/m/n/12 https://www.timeshighereducation.com/news/focus-on-research-exce
 llence-is-damaging-science. 
  []
 
 
-Overfull \hbox (1.1641pt too wide) in paragraph at lines 316--317
+
+[11]
+Overfull \hbox (1.1641pt too wide) in paragraph at lines 322--323
 \T1/phv/m/n/12 Choice, July. [][]$http : / / digitalhumanitiesnow . org / 2014 
 / 07 / editors-[]choice-[]the-[]credit-[]line/$[][]. 
  []
 
 
-
-[11]
-Overfull \hbox (590.2777pt too wide) in paragraph at lines 317--318
+Overfull \hbox (590.2777pt too wide) in paragraph at lines 323--324
 \T1/phv/m/n/12 tors' Choice, Septem-ber. [][]$http : / / digitalhumanitiesnow .
  org / 2012 / 09 / editors-[]choice-[]theres-[]no-[]next-[]about-[]it-[]stanley
 -[]^^\sh-[]william-[]pannapacker-[]and-[]the-[]digital-[]humanities-[]as-[]para
@@ -560,7 +571,7 @@ discipline-[]dpod-[]blog/$[][].
  []
 
 
-Overfull \hbox (6.9196pt too wide) in paragraph at lines 318--319
+Overfull \hbox (6.9196pt too wide) in paragraph at lines 324--325
 \T1/phv/m/sl/12 En-glish Newslet-ter \T1/phv/m/n/12 24 (1): 36^^U39. [][]$http 
 : / / www . oenewsletter . org / OEN / archive / OEN24 _
  []
@@ -568,112 +579,112 @@ Overfull \hbox (6.9196pt too wide) in paragraph at lines 318--319
 
 
 [12]
-Overfull \hbox (19.55872pt too wide) in paragraph at lines 349--350
+Overfull \hbox (19.55872pt too wide) in paragraph at lines 355--356
 \T1/phv/b/n/12 Summary\T1/phv/m/n/12 : Through pub-lic jour-nal-ism, pod-cast i
 n-ter-views, and me-dia com-men-tary, O'Donnell
  []
 
 
-Overfull \hbox (6.25409pt too wide) in paragraph at lines 355--356
+Overfull \hbox (6.25409pt too wide) in paragraph at lines 361--362
 []\T1/phv/m/n/12 Eve, Mar-tin Paul, Daniel Paul O'Donnell, Robert Gadie\OMS/cms
 y/m/n/12 ^^B\T1/phv/m/n/12 , Vic-to-ria Odeniyi\OMS/cmsy/m/n/12 ^^B\T1/phv/m/n/
 12 , and Shahina
  []
 
 
-Overfull \hbox (228.73851pt too wide) in paragraph at lines 356--357
+Overfull \hbox (228.73851pt too wide) in paragraph at lines 362--363
 \T1/phv/m/n/12 O'Donnell, Cur-rent Pres-i-dent of FORCE11.^^Q\T1/phv/m/sl/12 Th
 e Se-ri-als Li-brar-ian \T1/phv/m/n/12 76.1^^U2: 1^^U3. https://doi.org/10.1080
 /0361526X.2019.1643437
  []
 
 
-Overfull \hbox (202.93951pt too wide) in paragraph at lines 358--359
+Overfull \hbox (202.93951pt too wide) in paragraph at lines 364--365
 []\T1/phv/m/n/12 Also trans-lated into Span-ish: [][]$http : / / 4humanities . 
 org / 2013 / 06 / diversidad-[]y-[]experiencia-[]una-[]entrevista-[]con-[]danie
 l-[]odonnell/$[][] 
  []
 
 
-Overfull \hbox (41.15182pt too wide) in paragraph at lines 366--367
+Overfull \hbox (41.15182pt too wide) in paragraph at lines 372--373
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2024. ^^PCom-mu-ni-ca-tion and Lead-er
 -ship a Mat-ter of Trust.^^Q\T1/phv/m/sl/12 Lethbridge
  []
 
 
-Overfull \hbox (3.23212pt too wide) in paragraph at lines 367--368
+Overfull \hbox (3.23212pt too wide) in paragraph at lines 373--374
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2024. ^^PA Tale of Two Ed-mon-tons See
 n at Awards.^^Q\T1/phv/m/sl/12 Lethbridge
  []
 
 
-Overfull \hbox (25.49187pt too wide) in paragraph at lines 368--369
+
+[13]
+Overfull \hbox (25.49187pt too wide) in paragraph at lines 374--375
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2024. ^^PHas the Uni-ver-sity of Leth-
 bridge Lost Its Soul?^^Q\T1/phv/m/sl/12 Lethbridge
  []
 
 
-Overfull \hbox (53.96611pt too wide) in paragraph at lines 369--370
+Overfull \hbox (53.96611pt too wide) in paragraph at lines 375--376
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2023. ^^PRe-flec-tions on the U of L a
  Year af-ter Strike/Lockout.^^Q\T1/phv/m/sl/12 Lethbridge
  []
 
 
-
-[13]
-Overfull \hbox (28.168pt too wide) in paragraph at lines 371--372
+Overfull \hbox (28.168pt too wide) in paragraph at lines 377--378
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul. 2022. ^^PMaybe We Need to Start Demon-
 strat-ing Again.^^Q\T1/phv/m/sl/12 Lethbridge
  []
 
 
-Overfull \hbox (94.74055pt too wide) in paragraph at lines 374--375
+Overfull \hbox (94.74055pt too wide) in paragraph at lines 380--381
 \T1/phv/m/n/12 Febru-ary 18. [][]$http : / / www . lethbridgeherald . com / pub
 lic-[]professor / why-[]isnt-[]the-[]internet-[]obsolete-[]21812 .
  []
 
 
-Overfull \hbox (216.6778pt too wide) in paragraph at lines 386--387
+Overfull \hbox (216.6778pt too wide) in paragraph at lines 392--393
 \T1/phv/m/n/12 Episode 63, March 17. [][]$https : / / www . forgottencornerpod 
 . com / episodes / episode-[]63-[]ulfa-[]on-[]strike-[]with-[]president-[]dan-[
 ]odonnell$[][] 
  []
 
 
-Overfull \hbox (85.22366pt too wide) in paragraph at lines 387--388
+Overfull \hbox (85.22366pt too wide) in paragraph at lines 393--394
 \T1/phv/m/n/12 tures.^^Q\T1/phv/m/sl/12 The Black Goat\T1/phv/m/n/12 , April 19
 . [][]$https : / / www . theblackgoatpodcast . com / posts / excellence-[]adven
 tures/$[][] 
  []
 
 
-Overfull \hbox (162.212pt too wide) in paragraph at lines 388--389
+Overfull \hbox (162.212pt too wide) in paragraph at lines 394--395
 \T1/phv/m/n/12 Fund-ing.^^Q July 29. [][]$http : / / www . uleth . ca / unews /
  article / u-[]l-[]researchers-[]bene^^\t-[]canada-[]foundation-[]innovation-[]
 funding$[][] 
  []
 
 
-Overfull \hbox (18.36566pt too wide) in paragraph at lines 390--391
+
+[14]
+Overfull \hbox (18.36566pt too wide) in paragraph at lines 396--397
 []\T1/phv/m/n/12 Matthews, David. 2016. ^^PFo-cus on Re-search `Ex-cel-lence' I
 s `Dam-ag-ing Sci-ence.'^^Q\T1/phv/m/sl/12 Times
  []
 
 
-Overfull \hbox (4.0025pt too wide) in paragraph at lines 391--392
+Overfull \hbox (4.0025pt too wide) in paragraph at lines 397--398
 []\T1/phv/m/n/12 Cooney, Bob. 2012. ^^PO'Donnell, Gra-ham Bring 3D Imag-ing to 
 An-cient Cross.^^Q\T1/phv/m/sl/12 UNews\T1/phv/m/n/12 ,
  []
 
 
-Overfull \hbox (48.40938pt too wide) in paragraph at lines 391--392
+Overfull \hbox (48.40938pt too wide) in paragraph at lines 397--398
 \T1/phv/m/n/12 June 18. [][]$http : / / www . uleth . ca / unews / article / od
 onnell-[]graham-[]bring-[]3d-[]imaging-[]ancient-[]cross$[][] 
  []
 
 
-
-[14]
 
 [15]
 
@@ -682,7 +693,7 @@ onnell-[]graham-[]bring-[]3d-[]imaging-[]ancient-[]cross$[][]
 [17]
 
 [18]
-Overfull \hbox (4.58643pt too wide) in paragraph at lines 490--491
+Overfull \hbox (4.58643pt too wide) in paragraph at lines 496--497
 \T1/phv/m/n/12 Turco. 2022. ^^PSmall Data Man-age-ment in Hu-man-i-ties and Cul
 -tural Her-itage Projects.^^Q
  []
@@ -694,15 +705,15 @@ Overfull \hbox (4.58643pt too wide) in paragraph at lines 490--491
 [20]
 
 [21]
-Overfull \hbox (11.55952pt too wide) in paragraph at lines 540--541
+
+[22]
+Overfull \hbox (11.55952pt too wide) in paragraph at lines 546--547
 \T1/phv/m/n/12 Cross Project and the Pub-lic Hu-man-i-ties.^^Q CMRS/ETRUS. Uni-
 ver-sity of Saskatchewan.
  []
 
 
-
-[22]
-Overfull \hbox (6.48506pt too wide) in paragraph at lines 541--542
+Overfull \hbox (6.48506pt too wide) in paragraph at lines 547--548
 \T1/phv/m/n/12 in the un-der-grad-u-ate class-room.^^Q De-part-ment of En-glish
 , Uni-ver-sity of Saskatchewan.
  []
@@ -716,15 +727,15 @@ Overfull \hbox (6.48506pt too wide) in paragraph at lines 541--542
 [25]
 
 [26]
-Overfull \hbox (1.05928pt too wide) in paragraph at lines 615--616
+
+[27]
+Overfull \hbox (1.05928pt too wide) in paragraph at lines 621--622
 []\T1/phv/m/n/12 O'Donnell, Daniel Paul, Paul Hayes, An-drea Amelinckx, Annabre
 e Fair-weather, Terry
  []
 
 
-
-[27]
-Overfull \hbox (2.67918pt too wide) in paragraph at lines 630--631
+Overfull \hbox (2.67918pt too wide) in paragraph at lines 636--637
 []\T1/phv/m/n/12 ^^PBeowulf and its Place in His-tory.^^Q Worker's Ed-u-ca-tion
 al As-so-ci-a-tion Week-end School
  []
@@ -734,13 +745,13 @@ al As-so-ci-a-tion Week-end School
 [28]
 
 [29]
-Overfull \hbox (10.5145pt too wide) in paragraph at lines 698--699
+Overfull \hbox (10.5145pt too wide) in paragraph at lines 704--705
 []\T1/phv/m/n/12 Angela Mly-narski. Text Sum-ma-tion in Dig-i-tal Li-braries. C
 om-puter Sci-ence. 2004^^U2006
  []
 
 
-Overfull \hbox (3.76997pt too wide) in paragraph at lines 707--708
+Overfull \hbox (3.76997pt too wide) in paragraph at lines 713--714
 []\T1/phv/m/sl/12 Meeting of Minds \T1/phv/m/n/12 Grad-u-ate Stu-dent Jour-nal 
 (2015^^U2016). Su-per-vised and in-structed
  []
@@ -760,21 +771,21 @@ Package rerunfilecheck Info: File `cv_converted.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9404 strings out of 473584
- 144536 string characters out of 5730879
+ 9489 strings out of 473584
+ 145842 string characters out of 5730879
  1947905 words of memory out of 5000000
- 32130 multiletter control sequences out of 15000+600000
+ 32211 multiletter control sequences out of 15000+600000
  584407 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,900b,552s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,900b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on cv_converted.pdf (32 pages, 141737 bytes).
+Output written on cv_converted.pdf (32 pages, 140718 bytes).
 PDF statistics:
- 377 PDF objects out of 1000 (max. 8388607)
- 331 compressed objects within 4 object streams
+ 381 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
  74 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

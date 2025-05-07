@@ -7,6 +7,14 @@
 \usepackage{hanging}
 \usepackage{helvet}
 \usepackage{changepage}
+\usepackage{etoolbox} % should already be in your preamble
+\newenvironment{nestedhang}[2]{%
+  \begin{adjustwidth}{#1}{0pt}%
+    \hangindent=#2%
+    \hangafter=1%
+    \noindent
+}{\end{adjustwidth}}
+
 \renewcommand{\familydefault}{\sfdefault} % Use Helvetica or equivalent
 
 % Hyperref setup
@@ -57,23 +65,28 @@
 
 \textbf{Summary}: O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English.\\ His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson.
 
-{\leftskip=2em
-\hangindent=2em
-\hangafter=1
-\noindent
-\textbf{PhD, English}, Yale University, 1996.\\ \textit{Dissertation}: “Manuscript Variation in Multiple Recension Old English Poetic Texts: The Technical Problem and Poetical Art." \href{https://doi.org/10.5281/zenodo.1171976}{10.5281/zenodo.1171976} \\ \textit{Supervisor}: Fred C. Robinson.
+\begin{adjustwidth}{2em}{0pt}
+
+\textbf{PhD, English}, Yale University, 1996.
+\begin{adjustwidth}{2em}{0pt}
 
 \hangindent=2em
 \hangafter=1
-\noindent
+\textit{Dissertation}: “Manuscript Variation in Multiple Recension Old English Poetic Texts: The Technical Problem and Poetical Art." \href{https://doi.org/10.5281/zenodo.1171976}{10.5281/zenodo.1171976}
+
+\textit{Supervisor}: Fred C. Robinson.
+\end{adjustwidth}
+
 \textbf{MA, English}, Yale University, 1991.
 
-\hangindent=2em
-\hangafter=1
-\noindent
-\textbf{BA with distinction}, St. Michael’s College, University of Toronto, 1989. \\ \textit{Specialisation}: English Language and Literature. \\ \textit{Minors}: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded).
+\textbf{BA with distinction}, St. Michael’s College, University of Toronto, 1989.
+\begin{adjustwidth}{2em}{0pt}
+\textit{Specialisation}: English Language and Literature.
 
-}
+\textit{Minors}: Medieval Latin (official), Celtic Studies (completed requirements but not formally recorded).
+\end{adjustwidth}
+
+\end{adjustwidth}
 
 \section*{Languages}
 
@@ -101,7 +114,7 @@
 
 %\begin{hangparas}{1.5em}{1}
 {\leftskip=2em
-\hangindent=4em
+\hangindent=2em
 \hangafter=1
 \noindent
 \textbf{Professor of English (Tenured)}, University of Lethbridge, 2010–present
@@ -173,7 +186,7 @@
 \textbf{Summary}: O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has consistently taken leadership during moments of structural transition and policy change.
 
 {\leftskip=2em
-\hangindent=4em
+\hangindent=2em
 \hangafter=1
 \noindent
 \textbf{Past President}, Confederation of Alberta Faculty Associations (CAFA), 2024–2025. \textit{Continued strategic advocacy; transitioned president role following reorganisation}

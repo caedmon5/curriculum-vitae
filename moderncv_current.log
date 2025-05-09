@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -842,24 +842,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 53.
+nput line 52.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 53.
+ input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 53.
+n input line 52.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 53.
+ input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 53.
+n input line 52.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -881,13 +881,66 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [2]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
+107.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
 (fancyhdr)                Make it at least 40.8pt, for example:
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
-[3] (./moderncv_current.aux)
+[3]
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[4]
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[5]
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[6]
+Overfull \hbox (2.97986pt too wide) in paragraph at lines 208--208
+ []|[]\OT1/cmss/m/n/10.95 (-20) Undergraduate[]|
+ []
+
+
+Overfull \hbox (2.97986pt too wide) in paragraph at lines 214--214
+ []|[]\OT1/cmss/m/n/10.95 (-20) Undergraduate[]|
+ []
+
+
+Overfull \hbox (2.97986pt too wide) in paragraph at lines 218--218
+ []|[]\OT1/cmss/m/n/10.95 (-20) Undergraduate[]|
+ []
+
+
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[7] (./moderncv_current.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
@@ -898,14 +951,14 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 13.12pt have occurred.
 
 Package rerunfilecheck Info: File `moderncv_current.out' has not changed.
-(rerunfilecheck)             Checksum: 3C5EF77072AC0E9AEAAE55BF823B63DD;453.
+(rerunfilecheck)             Checksum: E874B8CAC4DF9CBE2C1066BCC8C30DFD;3688.
  ) 
 Here is how much of TeX's memory you used:
- 25880 strings out of 473584
- 495502 string characters out of 5730879
- 1954905 words of memory out of 5000000
- 48268 multiletter control sequences out of 15000+600000
- 569804 words of font info for 108 fonts, out of 8000000 for 9000
+ 26024 strings out of 473584
+ 497421 string characters out of 5730879
+ 1961905 words of memory out of 5000000
+ 48308 multiletter control sequences out of 15000+600000
+ 573593 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,129p,1013b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
@@ -916,11 +969,12 @@ nts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssb
 x10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi17.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb>
-Output written on moderncv_current.pdf (3 pages, 120804 bytes).
+usr/share/texmf/fonts/type1/public/cm-super/sfsl1095.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfss1095.pfb>
+Output written on moderncv_current.pdf (7 pages, 144777 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 30765 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 243 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
+ 35005 words of extra memory for PDF output out of 35830 (max. 10000000)
 

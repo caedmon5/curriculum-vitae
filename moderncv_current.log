@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 21:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -578,6 +578,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen270
 \Gm@dimlist=\toks35
 )
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
 
@@ -976,8 +979,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip124
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 43.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 43.
+Package hyperref Info: Option `breaklinks' set `true' on input line 62.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 62.
 
 
 Package biblatex Warning: Load 'inputenc' before biblatex.
@@ -991,26 +994,26 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./moderncv_current.aux)
 \openout1 = `moderncv_current.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 4
-3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -1037,19 +1040,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 43.
-Package microtype Info: Applying patch `item' on input line 43.
-Package microtype Info: Applying patch `toc' on input line 43.
-Package microtype Info: Applying patch `eqnum' on input line 43.
-Package microtype Info: Applying patch `footnote' on input line 43.
-Package microtype Info: Applying patch `verbatim' on input line 43.
+LaTeX Info: Redefining \microtypecontext on input line 62.
+Package microtype Info: Applying patch `item' on input line 62.
+Package microtype Info: Applying patch `toc' on input line 62.
+Package microtype Info: Applying patch `eqnum' on input line 62.
+Package microtype Info: Applying patch `footnote' on input line 62.
+Package microtype Info: Applying patch `verbatim' on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 43.
+LaTeX Info: Redefining \showhyphens on input line 62.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1117,24 +1120,23 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'moderncv_current.bbl' found.
 
 (./moderncv_current.bbl)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
+Package biblatex Info: Reference section=0 on input line 62.
+Package biblatex Info: Reference segment=0 on input line 62.
+Package hyperref Info: Link coloring OFF on input line 62.
  (./moderncv_current.out) (./moderncv_current.out)
 \@outlinefile=\write5
 \openout5 = `moderncv_current.out'.
 
-\pagenumberwidth=\skip125
 \makecvheadpicturebox=\box74
-\makecvheadpicturewidth=\skip126
+\makecvheadpicturewidth=\skip125
 \makecvheadnamebox=\box75
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <38> not available
-(Font)              size <35.83> substituted on input line 45.
+(Font)              size <35.83> substituted on input line 64.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 
  []
 
@@ -1143,32 +1145,32 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 47.
+(Font)              <10.95> on input line 66.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
+(Font)              <8> on input line 66.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
+(Font)              <6> on input line 66.
 
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 80.
+nput line 99.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 80.
+ input line 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 80.
+n input line 99.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 80.
+ input line 99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 80.
+n input line 99.
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1205,11 +1207,18 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 [4]
 
-LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 190.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-90.
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[5]
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 209.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+09.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -1218,13 +1227,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[5]
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1253,26 +1255,21 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [9]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 327--327
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 346--346
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 333--333
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 352--352
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 337--337
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 356--356
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 10/[]10[] 
- []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1289,20 +1286,29 @@ L3 programming layer <2024-05-27>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
-Package rerunfilecheck Info: File `moderncv_current.out' has not changed.
-(rerunfilecheck)             Checksum: E874B8CAC4DF9CBE2C1066BCC8C30DFD;3688.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `moderncv_current.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `moderncv_current.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  E874B8CAC4DF9CBE2C1066BCC8C30DFD;3688.
 Package logreq Info: Writing requests to 'moderncv_current.run.xml'.
 \openout1 = `moderncv_current.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34295 strings out of 473584
- 664971 string characters out of 5730879
- 1961905 words of memory out of 5000000
- 56454 multiletter control sequences out of 15000+600000
+ 34300 strings out of 473584
+ 665375 string characters out of 5730879
+ 1958905 words of memory out of 5000000
+ 56455 multiletter control sequences out of 15000+600000
  584276 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1013b,1785s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1013b,1788s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfc
@@ -1313,10 +1319,10 @@ public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
 /texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/p
 ublic/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1
 095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on moderncv_current.pdf (10 pages, 222648 bytes).
+Output written on moderncv_current.pdf (10 pages, 220338 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 264 compressed objects within 3 object streams
+ 247 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
  33 named destinations out of 1000 (max. 500000)
- 35517 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 35341 words of extra memory for PDF output out of 35830 (max. 10000000)
 

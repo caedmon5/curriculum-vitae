@@ -4,6 +4,25 @@
 \moderncvcolor{blue}
 \usepackage[scale=0.85]{geometry}
 
+% Prevent orphaned headings across all standard and moderncv commands
+\usepackage{etoolbox}
+\usepackage{needspace}
+
+% Standard LaTeX sections
+\pretocmd{\section}{\Needspace{5\baselineskip}}{}{}
+\pretocmd{\subsection}{\Needspace{3\baselineskip}}{}{}
+\pretocmd{\subsubsection}{\Needspace{3\baselineskip}}{}{}
+
+% moderncv-specific commands
+\pretocmd{\cvsection}{\Needspace{5\baselineskip}}{}{}
+\pretocmd{\cvsubsection}{\Needspace{3\baselineskip}}{}{}
+\pretocmd{\cvsubsubsection}{\Needspace{3\baselineskip}}{}{}
+
+\newcommand{\cvheading}[2]{%
+  \Needspace{#1}%
+  \section{#2}
+}
+
 \usepackage[backend=biber, style=authoryear-comp, sorting=ydnt, maxbibnames=99, dashed=false]{biblatex}
 \addbibresource{articles_and_chapters.bib}
 
@@ -183,9 +202,9 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 \cvitem{1988--1989}{C.L. Burton In-course Scholarship, St. Michael’s College, University of Toronto, CA\$1,500 (declined)}
 \cvitem{1987--1988}{In-course Scholarship, St. Michael’s College, University of Toronto, CA\$1,500 (declined)}
 
-\section{Publications}
+\cvheading{10\baselineskip}{Publications}
 
-\textit{r = refereed; i = invited; s = student co-authors at time of writing (student authors marked with asterisk).}
+\cvitem{}{\textit{r = refereed; i = invited; s = student co-authors at time of writing (student authors marked with asterisk).}}
 
 \cvitem{[44]}{rs \textbf{O'Donnell, Daniel Paul}, Pafumi, Davide*, Onuh, Frank*, Khalid, AKM Iftekhar*, Pearce, Morgan*, and Bordalejo, Barbara. 2025. “Scarlet Cloak and the Forest Adventure: A preliminary study of the impact of AI on commonly used writing tools.” \textit{International Journal of Educational Technology in Higher Education} 22.6. \textsc{doi}: \url{https://doi.org/10.1186/s41239-025-00505-5}.}
 

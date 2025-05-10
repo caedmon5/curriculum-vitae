@@ -23,33 +23,11 @@
   \section{#2}
 }
 
-\usepackage[backend=biber, style=authoryear-comp, sorting=ydnt, maxbibnames=99, dashed=false]{biblatex}
-\addbibresource{articles_and_chapters.bib}
 
 % Encoding for special characters
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[american]{babel}
-
-% Set spacing between entries
-\setlength{\bibitemsep}{0.15em}
-
-% Custom bibliography environment to align with section and add year in margin
-\defbibenvironment{bibliography}
-  {\list
-     {\printfield{year}} % Year shown in left margin
-     {\setlength{\labelwidth}{3em}
-      \setlength{\leftmargin}{\labelwidth}
-      \setlength{\labelsep}{1em}
-      \setlength{\itemsep}{0.15em}
-      \setlength{\parsep}{0pt}
-      \setlength{\topsep}{0pt}
-      \setlength{\partopsep}{0pt}
-      \setlength{\itemindent}{0pt}
-      \setlength{\listparindent}{0pt}
-      \renewcommand*{\makelabel}[1]{\hfill\textbf{##1}}}}
-  {\endlist}
-  {\item}
 
 \name{Daniel Paul}{O'Donnell}
 \title{Curriculum Vitae}

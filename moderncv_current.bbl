@@ -1,0 +1,2497 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ydnt/global//global/global/global}
+    \entry{Pafumi2025Scarlet}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=24df20e97925b874a4f97424db29799c}{%
+           family={Pafumi},
+           familyi={P\bibinitperiod},
+           given={Davide},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf8d53d6d4f3008372745a4bd10d3082}{%
+           family={Onuh},
+           familyi={O\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=283bb67acc71d69f99c86b9b5ecc19ef}{%
+           family={Khalid},
+           familyi={K\bibinitperiod},
+           given={AKM\bibnamedelima Iftekhar},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f6a61f20e2cfbf8f67fd9523bc500a7}{%
+           family={Pearce},
+           familyi={P\bibinitperiod},
+           given={Morgan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82ae23c8ab2f5ab93055e89c85e548a0}{%
+           family={Bordalejo},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd62f648e45e9cdfa9cbef00ec817369}
+      \strng{fullhash}{0ac667bedfb7fe1f69eb7c967658509f}
+      \strng{fullhashraw}{0ac667bedfb7fe1f69eb7c967658509f}
+      \strng{bibnamehash}{0ac667bedfb7fe1f69eb7c967658509f}
+      \strng{authorbibnamehash}{0ac667bedfb7fe1f69eb7c967658509f}
+      \strng{authornamehash}{bd62f648e45e9cdfa9cbef00ec817369}
+      \strng{authorfullhash}{0ac667bedfb7fe1f69eb7c967658509f}
+      \strng{authorfullhashraw}{0ac667bedfb7fe1f69eb7c967658509f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Educational Technology in Higher Education}
+      \field{note}{Refereed. Student authors: Pafumi, Davide; Onuh, Frank; Khalid, AKM Iftekhar; Pearce, Morgan.}
+      \field{number}{6}
+      \field{title}{Scarlet Cloak and the Forest Adventure: A preliminary study of the impact of AI on commonly used writing tools}
+      \field{volume}{22}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1186/s41239-025-00505-5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s41239-025-00505-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s41239-025-00505-5
+      \endverb
+    \endentry
+    \entry{ODonnell2021I}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d41f13e421070b89f4d35c0ea8ac55b2}{%
+           family={Turco},
+           familyi={T\bibinitperiod},
+           given={Roberto\bibnamedelimb Rosselli\bibnamedelima Del},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Allessandria}%
+      }
+      \list{publisher}{1}{%
+        {Edizioni del l’Orso}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{d41f13e421070b89f4d35c0ea8ac55b2}
+      \strng{editornamehash}{d41f13e421070b89f4d35c0ea8ac55b2}
+      \strng{editorfullhash}{d41f13e421070b89f4d35c0ea8ac55b2}
+      \strng{editorfullhashraw}{d41f13e421070b89f4d35c0ea8ac55b2}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Sogni, visioni e profezie nella letteratura germanica medievale}
+      \field{note}{Invited.}
+      \field{series}{Bibliotheca Germanica. Studi e testi 48}
+      \field{title}{’I heard he sang a good song’: Caedmon’s inspiration and medieval dream theory}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{147\bibrangedash 172}
+      \range{pages}{26}
+    \endentry
+    \entry{Bliss2020Credit}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=63cb0fd66884c945f541ec0cc857bcc4}{%
+           family={Bliss},
+           familyi={B\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cf7c8657a7cdaa4ff340d473e529406}{%
+           family={Genee},
+           familyi={G\bibinitperiod},
+           given={Inge},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901b03e61f277b67c56ecb0ba259b20d}{%
+           family={Junker},
+           familyi={J\bibinitperiod},
+           given={Marie-Odile},
+           giveni={M\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff19e1c82b02d51d58ceaeeecc3eff74}
+      \strng{fullhash}{1c1080abeb89b7425a3b4b662b1df26d}
+      \strng{fullhashraw}{1c1080abeb89b7425a3b4b662b1df26d}
+      \strng{bibnamehash}{1c1080abeb89b7425a3b4b662b1df26d}
+      \strng{authorbibnamehash}{1c1080abeb89b7425a3b4b662b1df26d}
+      \strng{authornamehash}{ff19e1c82b02d51d58ceaeeecc3eff74}
+      \strng{authorfullhash}{1c1080abeb89b7425a3b4b662b1df26d}
+      \strng{authorfullhashraw}{1c1080abeb89b7425a3b4b662b1df26d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IDEAH}
+      \field{note}{Refereed. Author order: Alphabetical.}
+      \field{number}{1}
+      \field{title}{‘Credit Where Credit Is Due’: Authorship and Attribution in Algonquian Language Digital Resources}
+      \field{volume}{1}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.21428/f1f23564.3d64b2ed
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.21428/f1f23564.3d64b2ed
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.21428/f1f23564.3d64b2ed
+      \endverb
+    \endentry
+    \entry{ODonnell2020Critical}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a0b51fdf9a184dd48cb2fa0c9a4b3190}{%
+           family={Edmond},
+           familyi={E\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge UK}%
+      }
+      \list{publisher}{1}{%
+        {Open Book Publishers}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{a0b51fdf9a184dd48cb2fa0c9a4b3190}
+      \strng{editornamehash}{a0b51fdf9a184dd48cb2fa0c9a4b3190}
+      \strng{editorfullhash}{a0b51fdf9a184dd48cb2fa0c9a4b3190}
+      \strng{editorfullhashraw}{a0b51fdf9a184dd48cb2fa0c9a4b3190}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Digital Technology and the Practices of Humanities Research}
+      \field{note}{Refereed.}
+      \field{title}{Critical Mass: The Listserv and the Early Online Community as a Case Study in the Unanticipated Consequences of Innovation in Scholarly Communication}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{184\bibrangedash 206}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5281/ZENODO.3633429
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/ZENODO.3633429
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/ZENODO.3633429
+      \endverb
+    \endentry
+    \entry{ODonnell2019All}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=82ae23c8ab2f5ab93055e89c85e548a0}{%
+           family={Bordalejo},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9359cacf8627767a4b09ce85e6ca891d}{%
+           family={Risam},
+           familyi={R\bibinitperiod},
+           given={Roopika},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {ARC}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{030ce8bfbb557f9fdaeb78680d74c97f}
+      \strng{editornamehash}{030ce8bfbb557f9fdaeb78680d74c97f}
+      \strng{editorfullhash}{030ce8bfbb557f9fdaeb78680d74c97f}
+      \strng{editorfullhashraw}{030ce8bfbb557f9fdaeb78680d74c97f}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intersectionality in Digital Humanities}
+      \field{note}{Refereed.}
+      \field{title}{All along the Watchtower: Intersectional diversity as a core intellectual value in the Digital Humanities}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.5281/zenodo.3580235
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3580235
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3580235
+      \endverb
+    \endentry
+    \entry{Esau2018Lets}{article}{}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=60fa4c2a4c0fc5d29dc04ca742bfe50c}{%
+           family={Esau},
+           familyi={E\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7558e5f8532b44edd4a2560fed9c7d40}{%
+           family={Viejou},
+           familyi={V\bibinitperiod},
+           given={Carey},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2cdfc2fd1a8755486124d375b230618}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4875e72bdc437d8ff0e7c10bea2d1939}{%
+           family={Dohms},
+           familyi={D\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=592f4ac8c02d203e4d775c3c9124be0d}{%
+           family={Firth},
+           familyi={F\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c7bbc25b38c0100420d96ab7cfd8a3f}{%
+           family={McKinnon},
+           familyi={M\bibinitperiod},
+           given={Jarret},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e769cae158630f7f5af773365bb2e18}{%
+           family={Morrison},
+           familyi={M\bibinitperiod},
+           given={Dorethea},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68be2b48bddf952e35408bb5571a6757}{%
+           family={Parsons},
+           familyi={P\bibinitperiod},
+           given={Reed},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e92f8868c1f880bb3b36e7a206aedf0b}{%
+           family={Rieger},
+           familyi={R\bibinitperiod},
+           given={Courtney},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=879f028937e7651b893827b2dcb79f6f}{%
+           family={Spiric},
+           familyi={S\bibinitperiod},
+           given={Vanja},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7087abc756ab01a9fe713b0f3d9ab8d}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3d5c3aae138c44580726af4c0977613}{%
+           family={Ueland},
+           familyi={U\bibinitperiod},
+           given={Kayla},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=106d7e3986ec0007e415ff7b1cc9a28b}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Rumi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5879cd23b0eab6d66c179cdc2946829c}
+      \strng{fullhash}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \strng{fullhashraw}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \strng{bibnamehash}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \strng{authorbibnamehash}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \strng{authornamehash}{5879cd23b0eab6d66c179cdc2946829c}
+      \strng{authorfullhash}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \strng{authorfullhashraw}{a3d8ec66c08fedab03faa6d32de9a32c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Electronic Publishing: JEP}
+      \field{note}{Refereed. Corresponding author. Student authors: Esau, Paul; Viejou, Carey; Chow, Sylvia; Dohms, Kimberly; Firth, Steve; McKinnon, Jarret; Morrison, Dorethea; Parsons, Reed; Rieger, Courtney; Spiric, Vanja; Toth, Elaine; Ueland, Kayla.}
+      \field{number}{1}
+      \field{title}{‘Let’s Start a Journal!’: The Multidisciplinary Graduate Student Journal as Educational Opportunity}
+      \field{volume}{21}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3998/3336451.0021.109
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3998/3336451.0021.109
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3998/3336451.0021.109
+      \endverb
+    \endentry
+    \entry{ODonnell2018Archaeology}{article}{}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fcc4c07607128da859c77949e81552a4}{%
+           family={Callieri},
+           familyi={C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b6931d32c8869753f59e8d20dd94a1c}{%
+           family={Dellepiane},
+           familyi={D\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53e5db552d8634b7cffd3cfde125c913}{%
+           family={Karkov},
+           familyi={K\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80d847f7a95f9816e4c46ceb0572160b}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Dot},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ffe273d86c0622dbe2ef2d85cd124fe}{%
+           family={Rosselli\bibnamedelimb Del\bibnamedelima Turco},
+           familyi={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d1d9712b2e1d0101ab3f3961380582d1}
+      \strng{fullhash}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \strng{fullhashraw}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \strng{bibnamehash}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \strng{authorbibnamehash}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \strng{authornamehash}{d1d9712b2e1d0101ab3f3961380582d1}
+      \strng{authorfullhash}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \strng{authorfullhashraw}{ba0dee95bf0bbd366c34e60a5c20be06}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wiðowinde}
+      \field{note}{Invited. Corresponding author.}
+      \field{number}{Spring}
+      \field{title}{Archaeology in the Study: Scanning Anglo-Saxon Artifacts in the Visionary Cross Project}
+      \field{volume}{185}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{21\bibrangedash 27}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5281/zenodo.1208167
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.1208167
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.1208167
+      \endverb
+    \endentry
+    \entry{ODonnell2018Zombie}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7558e5f8532b44edd4a2560fed9c7d40}{%
+           family={Viejou},
+           familyi={V\bibinitperiod},
+           given={Carey},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2cdfc2fd1a8755486124d375b230618}{%
+           family={Chow},
+           familyi={C\bibinitperiod},
+           given={Sylvia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4875e72bdc437d8ff0e7c10bea2d1939}{%
+           family={Dohms},
+           familyi={D\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60fa4c2a4c0fc5d29dc04ca742bfe50c}{%
+           family={Esau},
+           familyi={E\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=592f4ac8c02d203e4d775c3c9124be0d}{%
+           family={Firth},
+           familyi={F\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=106d7e3986ec0007e415ff7b1cc9a28b}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={Rumi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d508a9f06e0b6074492ab5e1234e9440}
+      \strng{fullhash}{523b3522bca7e02be3a46280c69e365d}
+      \strng{fullhashraw}{523b3522bca7e02be3a46280c69e365d}
+      \strng{bibnamehash}{523b3522bca7e02be3a46280c69e365d}
+      \strng{authorbibnamehash}{523b3522bca7e02be3a46280c69e365d}
+      \strng{authornamehash}{d508a9f06e0b6074492ab5e1234e9440}
+      \strng{authorfullhash}{523b3522bca7e02be3a46280c69e365d}
+      \strng{authorfullhashraw}{523b3522bca7e02be3a46280c69e365d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scholarly and Research Communication}
+      \field{note}{Refereed. Corresponding author. Student authors: Viejou, Carey; Chow, Sylvia; Dohms, Kimberly; Esau, Paul; Firth, Steve.}
+      \field{number}{2}
+      \field{title}{Zombie Journals: Designing a Technological Infrastructure for a Precarious Graduate Student Journal}
+      \field{volume}{9}
+      \field{year}{2018}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.22230/src.2018v9n2a296
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.22230/src.2018v9n2a296
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.22230/src.2018v9n2a296
+      \endverb
+    \endentry
+    \entry{Moore2017Excellence}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d0fb2576ae65293933be103067509c47}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9cbb1686aeac4c25b0aedadf9cf770a4}{%
+           family={Neylon},
+           familyi={N\bibinitperiod},
+           given={Cameron},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fd97175dce52edaac3f982a61a82ff8}{%
+           family={Eve},
+           familyi={E\bibinitperiod},
+           given={Martin\bibnamedelima Paul},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d743577ef5d7e1fc0bfa39b942edcfc7}{%
+           family={Pattinson},
+           familyi={P\bibinitperiod},
+           given={Damian},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{6059bd00d36b05a1e5bd2ffcb3d52993}
+      \strng{fullhash}{cdd48070fb87cbba17c285ac665b5413}
+      \strng{fullhashraw}{cdd48070fb87cbba17c285ac665b5413}
+      \strng{bibnamehash}{cdd48070fb87cbba17c285ac665b5413}
+      \strng{authorbibnamehash}{cdd48070fb87cbba17c285ac665b5413}
+      \strng{authornamehash}{6059bd00d36b05a1e5bd2ffcb3d52993}
+      \strng{authorfullhash}{cdd48070fb87cbba17c285ac665b5413}
+      \strng{authorfullhashraw}{cdd48070fb87cbba17c285ac665b5413}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Palgrave Communications}
+      \field{note}{Refereed. Student authors: Moore, Samuel. Author order: Random.}
+      \field{number}{January}
+      \field{title}{‘Excellence R Us’: University Research and the Fetishisation of Excellence}
+      \field{volume}{3}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1057/palcomms.2016.105
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1057/palcomms.2016.105
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1057/palcomms.2016.105
+      \endverb
+    \endentry
+    \entry{Tennant2017MultiDisciplinary}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=813c1a660cf2466650c2430aa926f034}{%
+           family={Tennant},
+           familyi={T\bibinitperiod},
+           given={Jonathan\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56b60cbea576a9d6084226d6a6b07d58}{%
+           family={Dugan},
+           familyi={D\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3e37ab1f4dbb9b843a19ff98d741e04}{%
+           family={Graziotin},
+           familyi={G\bibinitperiod},
+           given={Daniel\bibnamedelimb Jacques\bibnamedelima Damien},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af63ac9e172fb01575aca926091f2391}{%
+           family={Waldner},
+           familyi={W\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05d2fefde083ce23b65167cf3f6ccfe4}{%
+           family={Mietchen},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf45df42a950fd07e640b694a97c7d44}{%
+           family={Elkhatib},
+           familyi={E\bibinitperiod},
+           given={Yehia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52a128a70ba928d89a76e9cfb983b0f1}{%
+           family={Collister},
+           familyi={C\bibinitperiod},
+           given={Lauren\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{d1dbca1ff3ab2fff8552d37b41dad0d7}
+      \strng{fullhash}{a306d7129f3f30deaeb446e725bc5020}
+      \strng{fullhashraw}{a306d7129f3f30deaeb446e725bc5020}
+      \strng{bibnamehash}{a306d7129f3f30deaeb446e725bc5020}
+      \strng{authorbibnamehash}{a306d7129f3f30deaeb446e725bc5020}
+      \strng{authornamehash}{d1dbca1ff3ab2fff8552d37b41dad0d7}
+      \strng{authorfullhash}{a306d7129f3f30deaeb446e725bc5020}
+      \strng{authorfullhashraw}{a306d7129f3f30deaeb446e725bc5020}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{F1000Research}
+      \field{note}{Refereed. Author order: Based on date of first edit.}
+      \field{number}{1151}
+      \field{title}{A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review}
+      \field{volume}{6}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.12688/f1000research.12037.2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.12688/f1000research.12037.2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.12688/f1000research.12037.2
+      \endverb
+    \endentry
+    \entry{Champieux2016Finding}{article}{}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=02a83dbc95bc1db42e7e7b3cff163b6d}{%
+           family={Champieux},
+           familyi={C\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=682f7d8ae7e1979840314e106cadb66f}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=056c0d00df30dc57209e2d962eb4d07b}{%
+           family={Bosman},
+           familyi={B\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee85cb5b94c5401d37f838792678887b}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0e14d688f1db880bb86190a92790451}{%
+           given={amy},
+           giveni={a\bibinitperiod},
+           givenun=0,
+           prefix={buckland\bibnamedelima amy},
+           prefixi={b\bibinitperiod\bibinitdelim a\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=695e5c95277e5e257153af8c50d776ae}{%
+           family={Callaghan},
+           familyi={C\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f009288db2a8a64f215adca69492601}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d12e84aa4cd79212d21b0c70cb0fc547}{%
+           family={Hagstrom},
+           familyi={H\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=278a1fa5825c787499980dde887dd1a6}{%
+           family={Martone},
+           familyi={M\bibinitperiod},
+           given={MaryAnn\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{49deb7d7a2fe6f385ad536315d177750}
+      \strng{fullhash}{605b7e953bd30c4262284bafc7ae8a71}
+      \strng{fullhashraw}{605b7e953bd30c4262284bafc7ae8a71}
+      \strng{bibnamehash}{605b7e953bd30c4262284bafc7ae8a71}
+      \strng{authorbibnamehash}{605b7e953bd30c4262284bafc7ae8a71}
+      \strng{authornamehash}{49deb7d7a2fe6f385ad536315d177750}
+      \strng{authorfullhash}{605b7e953bd30c4262284bafc7ae8a71}
+      \strng{authorfullhashraw}{605b7e953bd30c4262284bafc7ae8a71}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Collaborative Librarianship}
+      \field{note}{Refereed.}
+      \field{number}{2}
+      \field{title}{Finding the Principles of the Commons: A Report of the Force11 Scholarly Communications Working Group}
+      \field{volume}{8}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://digitalcommons.du.edu/collaborativelibrarianship/vol8/iss2/5
+      \endverb
+      \verb{url}
+      \verb http://digitalcommons.du.edu/collaborativelibrarianship/vol8/iss2/5
+      \endverb
+    \endentry
+    \entry{Hobma2016Modern}{article}{}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=340955fd57bff7f2392b044fc07a04f8}{%
+           family={Hobma},
+           familyi={H\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53e5db552d8634b7cffd3cfde125c913}{%
+           family={Karkov},
+           familyi={K\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=237d7535b9539be1ffed86f3e4e0293b}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Sally},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baa1a0abc6cd08a7f5564207474c1ccd}{%
+           family={Graham},
+           familyi={G\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=213e6c7a6f9daee4205d05f84ccf2983}{%
+           family={Osborn},
+           familyi={O\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ffe273d86c0622dbe2ef2d85cd124fe}{%
+           family={Rosselli\bibnamedelimb Del\bibnamedelima Turco},
+           familyi={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1225db5e5945e2a2f4fc9f20f0fb5aa4}{%
+           family={Broatch},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=307a0778d27484dc8e29a4244cd8f057}{%
+           family={Broatch},
+           familyi={B\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89978475f8fd2154f69e0c4ef7e77fd7}{%
+           family={Callieri},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c2e13d1c0876ddab6416df0ebea54e0}{%
+           family={Dellepiane},
+           familyi={D\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0ae80ae806924a3c537cbda18537986}
+      \strng{fullhash}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \strng{fullhashraw}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \strng{bibnamehash}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \strng{authorbibnamehash}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \strng{authornamehash}{d0ae80ae806924a3c537cbda18537986}
+      \strng{authorfullhash}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \strng{authorfullhashraw}{3662ec99275a0693f1ffcea9cd80c2b6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{OEN}
+      \field{note}{Refereed. Corresponding author. Student authors: Hobma, Heather.}
+      \field{number}{1}
+      \field{title}{Modern impact on the fabric of the Ruthwell Cross}
+      \field{volume}{46}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.oenewsletter.org/OEN/issue/ruthwell.php
+      \endverb
+      \verb{url}
+      \verb http://www.oenewsletter.org/OEN/issue/ruthwell.php
+      \endverb
+    \endentry
+    \entry{Kramer2016Defining}{article}{}{}
+      \name{author}{15}{}{%
+        {{un=0,uniquepart=base,hash=682f7d8ae7e1979840314e106cadb66f}{%
+           family={Kramer},
+           familyi={K\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=056c0d00df30dc57209e2d962eb4d07b}{%
+           family={Bosman},
+           familyi={B\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=122f58f8a38baa89014387923c14cc63}{%
+           family={Ignac},
+           familyi={I\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e7d7d5b0f4a1f6665e390c0b257a8f6}{%
+           family={Kral},
+           familyi={K\bibinitperiod},
+           given={Christina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc0ddce93da2584666dab931dac35dd8}{%
+           family={Kalleinen},
+           familyi={K\bibinitperiod},
+           given={Tellervo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1549a74dddccd58c2c5b7d6572289c9}{%
+           family={Koskinen},
+           familyi={K\bibinitperiod},
+           given={Pekko},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee85cb5b94c5401d37f838792678887b}{%
+           family={Bruno},
+           familyi={B\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ca8c11cbcfe7e979343be756fedd7def}{%
+           family={Buckland},
+           familyi={B\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=695e5c95277e5e257153af8c50d776ae}{%
+           family={Callaghan},
+           familyi={C\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02a83dbc95bc1db42e7e7b3cff163b6d}{%
+           family={Champieux},
+           familyi={C\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f009288db2a8a64f215adca69492601}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d12e84aa4cd79212d21b0c70cb0fc547}{%
+           family={Hagstrom},
+           familyi={H\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e85c4e15d0c2d192066eb421492b9251}{%
+           family={Martone},
+           familyi={M\bibinitperiod},
+           given={MaryAnn},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fc3b646230417e7ab232dc22a86082d}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{978b0799e8342225b98e93df725106d5}
+      \strng{fullhash}{e3e437710ea2a9644e7e89e374468bf6}
+      \strng{fullhashraw}{e3e437710ea2a9644e7e89e374468bf6}
+      \strng{bibnamehash}{e3e437710ea2a9644e7e89e374468bf6}
+      \strng{authorbibnamehash}{e3e437710ea2a9644e7e89e374468bf6}
+      \strng{authornamehash}{978b0799e8342225b98e93df725106d5}
+      \strng{authorfullhash}{e3e437710ea2a9644e7e89e374468bf6}
+      \strng{authorfullhashraw}{e3e437710ea2a9644e7e89e374468bf6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Ideas and Outcomes}
+      \field{note}{Refereed.}
+      \field{number}{May}
+      \field{title}{Defining the Scholarly Commons - Reimagining Research Communication. Report of Force11 SCWG Workshop, Madrid, Spain, February 25-27, 2016}
+      \field{volume}{2}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{e9340}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.3897/rio.2.e9340
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3897/rio.2.e9340
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3897/rio.2.e9340
+      \endverb
+    \endentry
+    \entry{ODonnell2016Bird}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=18a041c5d8aba0df6f5d6435ffabc44a}{%
+           family={Figshare},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Digital Science}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{18a041c5d8aba0df6f5d6435ffabc44a}
+      \strng{editornamehash}{18a041c5d8aba0df6f5d6435ffabc44a}
+      \strng{editorfullhash}{18a041c5d8aba0df6f5d6435ffabc44a}
+      \strng{editorfullhashraw}{18a041c5d8aba0df6f5d6435ffabc44a}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The State of Open Data: A Selection of Analyses and Articles about Open Data}
+      \field{note}{Invited.}
+      \field{title}{The Bird in Hand: Humanities Research in the Age of Open Data}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{34\bibrangedash 35}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.5281/zenodo.1470821
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.1470821
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.1470821
+      \endverb
+    \endentry
+    \entry{ODonnell2016Third}{article}{}{}
+      \name{author}{7}{ul=2}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a70d3f4d48e1cb73fb40c96febc0935}{%
+           family={Bay},
+           familyi={B\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73059eabb74af651574d600d0c995b9a}{%
+           family={Dering},
+           familyi={D\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfeea9c6fb0b7d587374a883024411bd}{%
+           family={Gal},
+           familyi={G\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9cb6df7aec4a2aff2d6e778a133cb36}{%
+           family={Grandfield},
+           familyi={G\bibinitperiod},
+           given={Virgil},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=340955fd57bff7f2392b044fc07a04f8}{%
+           family={Hobma},
+           familyi={H\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6824f2170532a510b705a77cfa2a1c8f}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Gurpreet},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lethbridge}%
+      }
+      \list{publisher}{1}{%
+        {Teaching Centre}%
+      }
+      \strng{namehash}{1e1b45f6867a5a639c67af5e48e59215}
+      \strng{fullhash}{48c3052da64daa81824396a128ed8699}
+      \strng{fullhashraw}{48c3052da64daa81824396a128ed8699}
+      \strng{bibnamehash}{48c3052da64daa81824396a128ed8699}
+      \strng{authorbibnamehash}{48c3052da64daa81824396a128ed8699}
+      \strng{authornamehash}{1e1b45f6867a5a639c67af5e48e59215}
+      \strng{authorfullhash}{48c3052da64daa81824396a128ed8699}
+      \strng{authorfullhashraw}{48c3052da64daa81824396a128ed8699}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Light on Teaching}
+      \field{note}{Refereed. Corresponding author. Student authors: Bay, Jessica; Dering, Emma; Gal, Matt; Grandfield, Virgil; Hobma, Heather; Singh, Gurpreet.}
+      \field{title}{The Third Academic Freedom}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{4\bibrangedash 9}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.5281/zenodo.3596098
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3596098
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3596098
+      \endverb
+    \endentry
+    \entry{Leoni2015Dream}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7413b26f555ba1380ece7ae6d040daca}{%
+           family={Leoni},
+           familyi={L\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89978475f8fd2154f69e0c4ef7e77fd7}{%
+           family={Callieri},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c2e13d1c0876ddab6416df0ebea54e0}{%
+           family={Dellepiane},
+           familyi={D\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ffe273d86c0622dbe2ef2d85cd124fe}{%
+           family={Rosselli\bibnamedelimb Del\bibnamedelima Turco},
+           familyi={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd0a19a23989253026f01f1f31006baf}{%
+           family={Scopigno},
+           familyi={S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d627315fd7ebcc63e03593c904794253}
+      \strng{fullhash}{65cc56c90ac8002292298272627625eb}
+      \strng{fullhashraw}{65cc56c90ac8002292298272627625eb}
+      \strng{bibnamehash}{65cc56c90ac8002292298272627625eb}
+      \strng{authorbibnamehash}{65cc56c90ac8002292298272627625eb}
+      \strng{authornamehash}{d627315fd7ebcc63e03593c904794253}
+      \strng{authorfullhash}{65cc56c90ac8002292298272627625eb}
+      \strng{authorfullhashraw}{65cc56c90ac8002292298272627625eb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal on Computing and Cultural Heritage}
+      \field{note}{Refereed. Student authors: Leoni, Chiara.}
+      \field{title}{The Dream and the Cross: a 3D scanning project to bring 3D content in a digital edition}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1145/2686873
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2686873
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2686873
+      \endverb
+    \endentry
+    \entry{ODonnell2015Only}{incollection}{}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=475d79a2b5de1e72360e00a2a64f99d1}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8abcc7ea393b6f016d75d012bbc9ce2f}{%
+           family={Walters},
+           familyi={W\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3af85da83b40608a27dd9470f7f7e7a7}{%
+           family={Fraistat},
+           familyi={F\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=88ae748f6e578c43821fb87e0b8448b2}{%
+           family={Schreibman},
+           familyi={S\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f99ab92b861b031fb236f5c9a90f6f0f}{%
+           family={Siemens},
+           familyi={S\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9c572c3e191a091db97cbe430d1f936f}{%
+           family={Unsworth},
+           familyi={U\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{5c994f7a3fb93a3827f9aec07cde8918}
+      \strng{fullhash}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{fullhashraw}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{bibnamehash}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{authorbibnamehash}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{authornamehash}{5c994f7a3fb93a3827f9aec07cde8918}
+      \strng{authorfullhash}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{authorfullhashraw}{f78c4840a8dee9501cbfa0010196e393}
+      \strng{editorbibnamehash}{113e64c867d3baec22929ce56a64bfd4}
+      \strng{editornamehash}{113e64c867d3baec22929ce56a64bfd4}
+      \strng{editorfullhash}{113e64c867d3baec22929ce56a64bfd4}
+      \strng{editorfullhashraw}{113e64c867d3baec22929ce56a64bfd4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A new companion to Digital Humanities}
+      \field{note}{Refereed. Corresponding author.}
+      \field{title}{Only Connect: The Globalization of the Digital Humanities}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{493\bibrangedash 510}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1002/9781118680605.ch34
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/9781118680605.ch34
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/9781118680605.ch34
+      \endverb
+    \endentry
+    \entry{ODonnell2015Aligning}{article}{}{}
+      \name{author}{10}{ul=2}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=340955fd57bff7f2392b044fc07a04f8}{%
+           family={Hobma},
+           familyi={H\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29bc18c9749a79b381b6414b977200a8}{%
+           family={Cowan},
+           familyi={C\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f91dbfc5151b75e8322daed4dfca293b}{%
+           family={Ayers},
+           familyi={A\bibinitperiod},
+           given={Gillian},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a70d3f4d48e1cb73fb40c96febc0935}{%
+           family={Bay},
+           familyi={B\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=01731541169259ff549e5df29af49db4}{%
+           family={Swanepoel},
+           familyi={S\bibinitperiod},
+           given={Marinus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6897cea85484f69f1197095578687cb6}{%
+           family={Merkley},
+           familyi={M\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a29e953bac408a9b9d03e634b40ce18a}{%
+           family={Devine},
+           familyi={D\bibinitperiod},
+           given={Kelaine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73059eabb74af651574d600d0c995b9a}{%
+           family={Dering},
+           familyi={D\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cf7c8657a7cdaa4ff340d473e529406}{%
+           family={Genee},
+           familyi={G\bibinitperiod},
+           given={Inge},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bab3d488b2a97136a7b9a64aa963fd44}
+      \strng{fullhash}{143ac91f49b749c9c08230c567ad5cdd}
+      \strng{fullhashraw}{143ac91f49b749c9c08230c567ad5cdd}
+      \strng{bibnamehash}{143ac91f49b749c9c08230c567ad5cdd}
+      \strng{authorbibnamehash}{143ac91f49b749c9c08230c567ad5cdd}
+      \strng{authornamehash}{bab3d488b2a97136a7b9a64aa963fd44}
+      \strng{authorfullhash}{143ac91f49b749c9c08230c567ad5cdd}
+      \strng{authorfullhashraw}{143ac91f49b749c9c08230c567ad5cdd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Electronic Publishing}
+      \field{note}{Refereed. Corresponding author. Student authors: Hobma, Heather; Ayers, Gillian; Bay, Jessica; Devine, Kelaine; Dering, Emma.}
+      \field{number}{3}
+      \field{title}{Aligning Open Access Publication with the Research and Teaching Missions of the Public University: The Case of the Lethbridge Journal Incubator (If 'if's and 'and's were pots and pans)}
+      \field{volume}{18}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3998/3336451.0018.309
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3998/3336451.0018.309
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3998/3336451.0018.309
+      \endverb
+    \endentry
+    \entry{ODonnell2013I}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Canadian Journal of Netherlandic Studies}
+      \field{note}{Refereed.}
+      \field{title}{'I certainly have subjects in my mind': The Diary of Anne Frank as Bildungsroman}
+      \field{volume}{32}
+      \field{year}{2013}
+      \true{nocite}
+      \field{pages}{49\bibrangedash 88}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.5281/zenodo.3596110
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3596110
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3596110
+      \endverb
+    \endentry
+    \entry{ODonnell2012Move}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scholarly and Research Communication}
+      \field{note}{Refereed.}
+      \field{number}{4}
+      \field{title}{Move Over: Learning to Read (and Write) with Novel Technology}
+      \field{volume}{3}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.22230/src.2012v3n4a68
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.22230/src.2012v3n4a68
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.22230/src.2012v3n4a68
+      \endverb
+    \endentry
+    \entry{ODonnell2010Different}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Literature Compass}
+      \field{note}{Refereed.}
+      \field{number}{2}
+      \field{title}{Different Strokes, Same Folk: Designing the Multi-form Digital Edition}
+      \field{volume}{7}
+      \field{year}{2010}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1111/j.1741-4113.2009.00683.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1111/j.1741-4113.2009.00683.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1111/j.1741-4113.2009.00683.x
+      \endverb
+    \endentry
+    \entry{Lee2009From}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=501863d7cefa1f6d8d498362686e0203}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=75e01a6876309abf86ebafd0704a6267}{%
+           family={Owen-Crocker},
+           familyi={O\bibinithyphendelim C\bibinitperiod},
+           given={Gale\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Exeter}%
+      }
+      \list{publisher}{1}{%
+        {Exeter UP}%
+      }
+      \strng{namehash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{fullhash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{fullhashraw}{0bd6d4147b012d58b41daddea229a180}
+      \strng{bibnamehash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{authorbibnamehash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{authornamehash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{authorfullhash}{0bd6d4147b012d58b41daddea229a180}
+      \strng{authorfullhashraw}{0bd6d4147b012d58b41daddea229a180}
+      \strng{editorbibnamehash}{75e01a6876309abf86ebafd0704a6267}
+      \strng{editornamehash}{75e01a6876309abf86ebafd0704a6267}
+      \strng{editorfullhash}{75e01a6876309abf86ebafd0704a6267}
+      \strng{editorfullhashraw}{75e01a6876309abf86ebafd0704a6267}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Working with Anglo-Saxon Manuscripts}
+      \field{note}{Refereed.}
+      \field{title}{From Manuscript to Computer}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{253\bibrangedash 284}
+      \range{pages}{32}
+    \endentry
+    \entry{ODonnell2009Back}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Literary and Linguistic Computing}
+      \field{note}{Refereed.}
+      \field{title}{Back to the future: What digital editors can learn from print editorial practice}
+      \field{volume}{24}
+      \field{year}{2009}
+      \true{nocite}
+      \field{pages}{113\bibrangedash 125}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/llc/fqn039
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/llc/fqn039
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/llc/fqn039
+      \endverb
+    \endentry
+    \entry{ODonnell2009Byte}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heroic Age}
+      \field{note}{Invited.}
+      \field{title}{Byte me: Technological Education and the Humanities}
+      \field{volume}{12}
+      \field{year}{2009}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.mun.ca/mst/heroicage/issues/12/em.php
+      \endverb
+      \verb{url}
+      \verb http://www.mun.ca/mst/heroicage/issues/12/em.php
+      \endverb
+    \endentry
+    \entry{Bodard2008We}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9818b8dd01c9290b8d2d82f290713538}{%
+           family={Bodard},
+           familyi={B\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{fullhash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{fullhashraw}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{bibnamehash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{authorbibnamehash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{authornamehash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{authorfullhash}{5aa37db118550b32be7e84ce2a483ca3}
+      \strng{authorfullhashraw}{5aa37db118550b32be7e84ce2a483ca3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digital Medievalist}
+      \field{note}{Invited. Corresponding author.}
+      \field{title}{We are all together: On publishing a Digital Classicist issue of the Digital Medievalist journal}
+      \field{volume}{4}
+      \field{year}{2008}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.16995/dm.18
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.16995/dm.18
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.16995/dm.18
+      \endverb
+    \endentry
+    \entry{ODonnell2008Resisting}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heroic Age}
+      \field{note}{Invited.}
+      \field{title}{Resisting The Tyranny of the Screen, or, Must a Digital Edition be Electronic?}
+      \field{volume}{11}
+      \field{year}{2008}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.heroicage.org/issues/11/em.php
+      \endverb
+      \verb{url}
+      \verb http://www.heroicage.org/issues/11/em.php
+      \endverb
+    \endentry
+    \entry{ODonnell2007Disciplinary}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f99ab92b861b031fb236f5c9a90f6f0f}{%
+           family={Siemens},
+           familyi={S\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+        {{hash=88ae748f6e578c43821fb87e0b8448b2}{%
+           family={Schreibman},
+           familyi={S\bibinitperiod},
+           given={Susan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{a78cbf8ca0c3f23b028b9cd258ab8724}
+      \strng{editornamehash}{a78cbf8ca0c3f23b028b9cd258ab8724}
+      \strng{editorfullhash}{a78cbf8ca0c3f23b028b9cd258ab8724}
+      \strng{editorfullhashraw}{a78cbf8ca0c3f23b028b9cd258ab8724}
+      \field{extraname}{11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A Companion to Digital Literary Studies}
+      \field{note}{Refereed.}
+      \field{title}{Disciplinary impact and technological obsolescence in digital medieval studies}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1002/9781405177504.ch3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002/9781405177504.ch3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002/9781405177504.ch3
+      \endverb
+    \endentry
+    \entry{ODonnell2007If}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{12}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heroic Age}
+      \field{note}{Invited.}
+      \field{title}{If I were "You": How academics can stop worrying and learn to love "the encyclopedia that anyone can edit."}
+      \field{volume}{10}
+      \field{year}{2007}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.heroicage.org/issues/10/em.html
+      \endverb
+      \verb{url}
+      \verb http://www.heroicage.org/issues/10/em.html
+      \endverb
+    \endentry
+    \entry{ODonnell2007Material}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5c5de906f6f33d7ac90671cf18a2509b}{%
+           family={Frantzen},
+           familyi={F\bibinitperiod},
+           given={Allen\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c187e0c5b336836891b48c1dfd64f88e}{%
+           family={Hines},
+           familyi={H\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Morgantown VA}%
+      }
+      \list{publisher}{1}{%
+        {West Virginia University Press}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{a7d31496468e6666e3c948298efd3f8c}
+      \strng{editornamehash}{a7d31496468e6666e3c948298efd3f8c}
+      \strng{editorfullhash}{a7d31496468e6666e3c948298efd3f8c}
+      \strng{editorfullhashraw}{a7d31496468e6666e3c948298efd3f8c}
+      \field{extraname}{13}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Cædmon's Hymn and material culture in the world of Bede}
+      \field{note}{Refereed.}
+      \field{title}{Material differences: The place of Cædmon's Hymn in the history of Anglo-Saxon vernacular poetry}
+      \field{year}{2007}
+      \true{nocite}
+      \field{pages}{15\bibrangedash 50}
+      \range{pages}{36}
+    \endentry
+    \entry{ODonnell2005O}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heroic Age}
+      \field{note}{Invited.}
+      \field{title}{O Captain! My Captain! Using technology to guide readers through an electronic edition}
+      \field{volume}{8}
+      \field{year}{2005}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.heroicage.org/issues/8/em.html
+      \endverb
+      \verb{url}
+      \verb http://www.heroicage.org/issues/8/em.html
+      \endverb
+    \endentry
+    \entry{ODonnell2005Ghost}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{HumanIT}
+      \field{note}{Invited.}
+      \field{number}{1}
+      \field{title}{The Ghost in the Machine: Revisiting an Old Model for the Dynamic Generation of Digital Editions}
+      \field{volume}{8}
+      \field{year}{2005}
+      \true{nocite}
+      \field{pages}{51\bibrangedash 71}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.5281/zenodo.3596125
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.3596125
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.3596125
+      \endverb
+    \endentry
+    \entry{ODonnell2004Bedes}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{16}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JEGP}
+      \field{note}{Refereed.}
+      \field{title}{Bede’s Strategy in Paraphrasing Cædmon’s Hymn}
+      \field{volume}{103}
+      \field{year}{2004}
+      \true{nocite}
+      \field{pages}{417\bibrangedash 433}
+      \range{pages}{17}
+    \endentry
+    \entry{ODonnell2004Numeric}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{17}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ANQ}
+      \field{note}{Refereed.}
+      \field{title}{Numeric and Geometric Patterning in Cædmon’s Hymn}
+      \field{volume}{17}
+      \field{year}{2004}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 12}
+      \range{pages}{10}
+    \endentry
+    \entry{ODonnell2004Digital}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{18}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Old English Newsletter}
+      \field{note}{Invited.}
+      \field{title}{The Digital Medievalist Project}
+      \field{volume}{37}
+      \field{year}{2004}
+      \true{nocite}
+      \field{pages}{19\bibrangedash 21}
+      \range{pages}{3}
+    \endentry
+    \entry{ODonnell2004Doomsday}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Heroic Age}
+      \field{note}{Invited.}
+      \field{title}{The Doomsday Machine, or, 'If you build it, will they still come ten years from now?': What Medievalists working in digital media can do to ensure the longevity of their research}
+      \field{volume}{7}
+      \field{year}{2004}
+      \true{nocite}
+      \verb{urlraw}
+      \verb http://www.heroicage.org/issues/7/ecolumn.html
+      \endverb
+      \verb{url}
+      \verb http://www.heroicage.org/issues/7/ecolumn.html
+      \endverb
+    \endentry
+    \entry{ODonnell2003Pioneers}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{20}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Literary and Linguistic Computing}
+      \field{note}{Refereed.}
+      \field{title}{‘Pioneers! O Pioneers!’: Some Electronic Editing Do’s and Don’ts from Stijn Streuvels’s De teleurgang van den Waterhoek}
+      \field{year}{2003}
+      \true{nocite}
+    \endentry
+    \entry{ODonnell2002Juniuss}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{21}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anglo-Saxon England}
+      \field{note}{Refereed.}
+      \field{title}{Junius’s Knowledge of the Old English Poem Durham}
+      \field{volume}{30}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{231\bibrangedash 245}
+      \range{pages}{15}
+    \endentry
+    \entry{ODonnell2002Accuracy}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Notes and Queries}
+      \field{note}{Refereed.}
+      \field{title}{The Accuracy of the St. Petersburg Bede}
+      \field{volume}{247}
+      \field{year}{2002}
+      \true{nocite}
+      \field{pages}{4\bibrangedash 6}
+      \range{pages}{3}
+    \endentry
+    \entry{ODonnell2001Fish}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=19e98f1aec91fcb2f7d3fce340c1e320}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={K.E.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c07b7bb31de6b6e0a2e20a054da3ef80}{%
+           family={Harbus},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3abe32d3a8a7f71e32a9bfc07bcefd61}{%
+           family={Hofstra},
+           familyi={H\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{2}{%
+        {Leuven, Paris}%
+        {Sterling, VA}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{50a340b3e59f96785e6fd896a3dd1b2c}
+      \strng{editornamehash}{50a340b3e59f96785e6fd896a3dd1b2c}
+      \strng{editorfullhash}{50a340b3e59f96785e6fd896a3dd1b2c}
+      \strng{editorfullhashraw}{50a340b3e59f96785e6fd896a3dd1b2c}
+      \field{extraname}{23}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Germanic Texts and Latin Models: Medieval Reconstructions}
+      \field{note}{Refereed.}
+      \field{series}{Germania Latina IV. Mediaevalia Groningana, n.s. 2}
+      \field{title}{Fish and Fowl: Generic Expectations and the Relationship between the Old English Phoenix poem and Lactantius’s de ave phoenice}
+      \field{year}{2001}
+      \true{nocite}
+      \field{pages}{157\bibrangedash 171}
+      \range{pages}{15}
+    \endentry
+    \entry{ODonnell1999Hædre}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{24}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Notes and Queries}
+      \field{note}{Refereed.}
+      \field{title}{Hædre and Hædre Gehogode (Solomon and Saturn line 62b and Resignation line 63a)}
+      \field{volume}{244}
+      \field{year}{1999}
+      \true{nocite}
+      \field{pages}{312\bibrangedash 316}
+      \range{pages}{5}
+    \endentry
+    \entry{ODonnell1998Spirit}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{25}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Amsterdamer Beiträge zur älteren Germanistik}
+      \field{note}{Refereed.}
+      \field{title}{The Spirit and the Letter: Literary Embellishment in Old Frisian Legal Texts}
+      \field{volume}{49}
+      \field{year}{1998}
+      \true{nocite}
+      \field{pages}{245\bibrangedash 256}
+      \range{pages}{12}
+    \endentry
+    \entry{ODonnell1996Northumbrian}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ecd6d7f754bee840eb9f15ef3563a78b}{%
+           family={Houwen},
+           familyi={H\bibinitperiod},
+           given={L.A.R.J.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=298102508509a9b25c768dae1e610157}{%
+           family={MacDonald},
+           familyi={M\bibinitperiod},
+           given={A.A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Groningen}%
+      }
+      \list{publisher}{1}{%
+        {Egbert Forsten}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{editorbibnamehash}{2134b2139c75a54cf7953844ca0c0892}
+      \strng{editornamehash}{2134b2139c75a54cf7953844ca0c0892}
+      \strng{editorfullhash}{2134b2139c75a54cf7953844ca0c0892}
+      \strng{editorfullhashraw}{2134b2139c75a54cf7953844ca0c0892}
+      \field{extraname}{26}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Beda Venerabilis: Historian, Monk and Northumbrian}
+      \field{note}{Refereed.}
+      \field{title}{A Northumbrian Version of ‘Cædmon’s Hymn’ (eordu-recension) in Brussels Bibliothèque Royale Manuscript 8245-57 ff.62r2-v1: Identification, Edition, and Filiation}
+      \field{year}{1996}
+      \true{nocite}
+      \field{pages}{139\bibrangedash 166}
+      \range{pages}{28}
+    \endentry
+    \entry{ODonnell1995Schoolbook}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{27}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Yale University Library Gazette}
+      \field{note}{Refereed.}
+      \field{title}{Schoolbook Design in the Fifteenth Century}
+      \field{volume}{70}
+      \field{year}{1995}
+      \true{nocite}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+    \endentry
+    \entry{ODonnell1991Collective}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e67c2d14695658313b90d61d643d27ec}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Paul},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{fullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \strng{bibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorbibnamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authornamehash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhash}{e67c2d14695658313b90d61d643d27ec}
+      \strng{authorfullhashraw}{e67c2d14695658313b90d61d643d27ec}
+      \field{extraname}{28}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuphilologische Mitteilungen}
+      \field{note}{Refereed.}
+      \field{title}{The Collective Sense of Concrete Singular Nouns in Beowulf: Emendations of Sense}
+      \field{volume}{92}
+      \field{year}{1991}
+      \true{nocite}
+      \field{pages}{433\bibrangedash 440}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

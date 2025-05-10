@@ -15,20 +15,27 @@
 % Set spacing between entries
 \setlength{\bibitemsep}{0.15em}
 
-% Custom bibliography environment to align with section and add year in margin
+\usepackage{etoolbox} % required for list control
+
+% Custom numbered bibliography with reverse order and left-aligned entries
 \defbibenvironment{bibliography}
-{\enumerate
-     \setlength{\labelwidth}{2em}
-     \setlength{\leftmargin}{\labelwidth}
-     \setlength{\labelsep}{1em}
-     \setlength{\itemsep}{0.15em}
-     \setlength{\parsep}{0pt}
-     \setlength{\topsep}{0pt}
-     \setlength{\partopsep}{0pt}
-     \renewcommand*{\labelenumi}{\textbf{\theenumi}.}
-     \renewcommand*{\makelabel}[1]{\hfill\textbf{##1}}}
-  {\endenumerate}
+  {\begin{enumerate}
+    \setcounter{enumi}{\value{bibcount}} % start counting from total number
+    \renewcommand*{\labelenumi}{[\theenumi]}
+    \setlength{\leftmargin}{2.5em} % aligns with year margin
+    \setlength{\labelsep}{0.75em}
+    \setlength{\itemsep}{0.15em}
+    \setlength{\parsep}{0pt}
+    \setlength{\topsep}{0pt}
+    \setlength{\partopsep}{0pt}
+    \setlength{\listparindent}{0pt}
+    \setlength{\itemindent}{0pt}
+    \renewcommand*{\makelabel}[1]{\hfill##1}}
+  {\end{enumerate}}
   {\item}
+
+% Counter to reverse item numbering
+\newcounter{bibcount}
 
 \name{Daniel Paul}{O'Donnell}
 \title{Curriculum Vitae}
@@ -185,10 +192,9 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \begin{refsection}[articles_and_chapters.bib]
 \nocite{*}
-% \printbibliography[heading=none]
-\printbibliography[heading=none]
-
-\end{refsection}
+\defbibfilter{all}{}
+\setcounter{bibcount}{\bibfilteredcount{all}}
+\printbibliography[heading=none, filter=all]\end{refsection}
 
 \section{Knowledge Mobilisation}
 

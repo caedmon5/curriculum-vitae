@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  10 MAY 2025 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  10 MAY 2025 11:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -977,6 +977,13 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [8]
+Overfull \hbox (137.96002pt too wide) in paragraph at lines 296--296
+\T1/cmtt/m/n/10.95 reading-[]peer-[]review-[]what-[]a-[]dataset-[]of-[]peer-[]r
+eview-[]reports-[]can-[]teach-[]us-[]about-[]changing-[]research-[]culture$[]\T
+1/cmss/m/n/10.95 (-20) .| 
+ []
+
+
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -984,13 +991,29 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [9]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 342--342
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+Underfull \hbox (badness 4454) in paragraph at lines 308--308
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+012. ^^P`There's No Next about It': Stan-ley Fish,
  []
 
 
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 348--348
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+Underfull \hbox (badness 4217) in paragraph at lines 308--308
+\T1/cmss/m/n/10.95 (+20) William Pan-na-packer, and the Dig-i-tal Hu-man-i-ties
+ as Par-adis-ci-pline.^^Q \T1/cmss/m/it/10.95 (+20) Dig-i-tal Hu-man-i-
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 308--308
+\T1/cmss/m/it/10.95 (+20) ties Now, Ed-i-tors' Choice\T1/cmss/m/n/10.95 (+20) ,
+ Septem-ber. []$\T1/cmtt/m/n/10.95 http : / / digitalhumanitiesnow . org / 2012
+ / 09 /
+ []
+
+
+Overfull \hbox (222.83559pt too wide) in paragraph at lines 308--308
+\T1/cmtt/m/n/10.95 editors-[]choice-[]theres-[]no-[]next-[]about-[]it-[]stanley
+-[]fish-[]william-[]pannapacker-[]and-[]the-[]digital-[]humanities-[]as-[]parad
+iscipline/$[]\T1/cmss/m/n/10.95 (-20) .| 
  []
 
 
@@ -1006,7 +1029,17 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [10]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 352--352
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 361--361
+ []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+ []
+
+
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 367--367
+ []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+ []
+
+
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 371--371
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
@@ -1033,14 +1066,14 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
 Package rerunfilecheck Info: File `moderncv_current.out' has not changed.
-(rerunfilecheck)             Checksum: 77F65E733114DF251677A93035487971;4084.
+(rerunfilecheck)             Checksum: 025D63AF6F59FF813B852BB2402A53F5;4349.
  ) 
 Here is how much of TeX's memory you used:
- 27388 strings out of 473584
- 522491 string characters out of 5730879
- 1963905 words of memory out of 5000000
- 49584 multiletter control sequences out of 15000+600000
- 584678 words of font info for 173 fonts, out of 8000000 for 9000
+ 27394 strings out of 473584
+ 522555 string characters out of 5730879
+ 1959905 words of memory out of 5000000
+ 49585 multiletter control sequences out of 15000+600000
+ 584860 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,129p,1013b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
@@ -1053,10 +1086,10 @@ public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
 /texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/p
 ublic/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1
 095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on moderncv_current.pdf (11 pages, 225598 bytes).
+Output written on moderncv_current.pdf (11 pages, 232496 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 36 named destinations out of 1000 (max. 500000)
- 35533 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 371 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 35541 words of extra memory for PDF output out of 35830 (max. 10000000)
 

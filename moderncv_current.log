@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  9 MAY 2025 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1124,8 +1124,9 @@ Package hyperref Info: Link coloring OFF on input line 43.
 \@outlinefile=\write5
 \openout5 = `moderncv_current.out'.
 
+\pagenumberwidth=\skip125
 \makecvheadpicturebox=\box74
-\makecvheadpicturewidth=\skip125
+\makecvheadpicturewidth=\skip126
 \makecvheadnamebox=\box75
 
 
@@ -1203,17 +1204,12 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [4]
-\blx@maxsegment@1=\count457
-\blx@sectionciteorder@1=\count458
-Package biblatex Info: Reference section=1 on input line 188.
-Package biblatex Info: Setting label 'refsection:1' on input line 188.
-
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 191.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 190.
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-91.
+90.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -1243,8 +1239,6 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [7]
-Package biblatex Info: Reference section=0 on input line 193.
-
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1259,21 +1253,26 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [9]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 243--243
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 326--326
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 249--249
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 332--332
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 253--253
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 336--336
  []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
  []
 
 
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 10/[]10[] 
+ []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -1290,36 +1289,20 @@ L3 programming layer <2024-05-27>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `moderncv_current.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `moderncv_current.out':
-(rerunfilecheck)             Before: 5D59C7DCA22D555C1E2EF38A2885B979;991
-(rerunfilecheck)             After:  E874B8CAC4DF9CBE2C1066BCC8C30DFD;3688.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+Package rerunfilecheck Info: File `moderncv_current.out' has not changed.
+(rerunfilecheck)             Checksum: E874B8CAC4DF9CBE2C1066BCC8C30DFD;3688.
 Package logreq Info: Writing requests to 'moderncv_current.run.xml'.
 \openout1 = `moderncv_current.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34601 strings out of 473584
- 673962 string characters out of 5730879
- 1963905 words of memory out of 5000000
- 56724 multiletter control sequences out of 15000+600000
- 583882 words of font info for 165 fonts, out of 8000000 for 9000
+ 34313 strings out of 473584
+ 665163 string characters out of 5730879
+ 1959905 words of memory out of 5000000
+ 56454 multiletter control sequences out of 15000+600000
+ 585179 words of font info for 178 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1013b,1833s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,13n,129p,1013b,1785s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
 ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
 /FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfc
@@ -1330,10 +1313,10 @@ public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
 /texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/p
 ublic/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1
 095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on moderncv_current.pdf (10 pages, 227637 bytes).
+Output written on moderncv_current.pdf (10 pages, 223080 bytes).
 PDF statistics:
- 344 PDF objects out of 1000 (max. 8388607)
- 283 compressed objects within 3 object streams
- 77 named destinations out of 1000 (max. 500000)
- 35397 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 324 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 35517 words of extra memory for PDF output out of 35830 (max. 10000000)
 

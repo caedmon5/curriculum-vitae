@@ -17,19 +17,17 @@
 
 % Custom bibliography environment to align with section and add year in margin
 \defbibenvironment{bibliography}
-  {\list
-     {\printfield{year}} % Year shown in left margin
-     {\setlength{\labelwidth}{3em}
-      \setlength{\leftmargin}{\labelwidth}
-      \setlength{\labelsep}{1em}
-      \setlength{\itemsep}{0.15em}
-      \setlength{\parsep}{0pt}
-      \setlength{\topsep}{0pt}
-      \setlength{\partopsep}{0pt}
-      \setlength{\itemindent}{0pt}
-      \setlength{\listparindent}{0pt}
-      \renewcommand*{\makelabel}[1]{\hfill\textbf{##1}}}}
-  {\endlist}
+{\enumerate
+     \setlength{\labelwidth}{2em}
+     \setlength{\leftmargin}{\labelwidth}
+     \setlength{\labelsep}{1em}
+     \setlength{\itemsep}{0.15em}
+     \setlength{\parsep}{0pt}
+     \setlength{\topsep}{0pt}
+     \setlength{\partopsep}{0pt}
+     \renewcommand*{\labelenumi}{\textbf{\theenumi}.}
+     \renewcommand*{\makelabel}[1]{\hfill\textbf{##1}}}
+  {\endenumerate}
   {\item}
 
 \name{Daniel Paul}{O'Donnell}

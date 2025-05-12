@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  12 MAY 2025 13:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.4.21)  12 MAY 2025 11:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**moderncv_current.tex
-(./moderncv_current.tex
+**CV.tex
+(./CV.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-05-27>
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncv.cls
@@ -169,10 +169,22 @@ tter compatibility patches
 \cvcolumnautowidth=\skip68
 \bibindent=\skip69
 )
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
-Package: moderncvstylecasual 2022-02-21 v2.3.1 modern curriculum vitae and lett
-er style scheme: casual
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylebanking.sty
+Package: moderncvstylebanking 2022-02-21 v2.3.1 modern curriculum vitae and let
+ter style scheme: banking
 
+(/usr/share/texmf/tex/latex/tex-gyre/tgpagella.sty
+Package: tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
 Package: moderncviconssymbols 2021-12-12 v2.2.0 modern curriculum vitae icons s
 elector
@@ -324,7 +336,11 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen172
 \pgf@zx=\dimen173
 \pgf@zy=\dimen174
-)
+LaTeX Font Info:    Trying to load font information for OT1+qpl on input line 9
+26.
+ (/usr/share/texmf/tex/latex/tex-gyre/ot1qpl.fd
+File: ot1qpl.fd 2009/09/25 v1.2 font definition file for OT1/qpl
+))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -467,18 +483,18 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )))))
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadii.sty
-Package: moderncvheadii 2022-02-21 v2.3.1 modern curriculum vitae and letter he
-ader variant: 2
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadiii.sty
+Package: moderncvheadiii 2022-02-21 v2.3.1 modern curriculum vitae and letter h
+eader variant: 3
 \makeheaddetailsbox=\box67
 \makeheaddetailstempbox=\box68
 \makeheaddetailswidth=\skip70
 \makeheaddetailsboxwidth=\skip71
 \quotewidth=\skip72
 )
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
-Package: moderncvbodyi 2022-02-21 v2.3.1 modern curriculum vitae and letter bod
-y variant: 1
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyiii.sty
+Package: moderncvbodyiii 2022-02-21 v2.3.1 modern curriculum vitae and letter b
+ody variant: 3
 
 (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvskillmatrix.sty
 Package: moderncvskillmatrix 2022-02-21 v2.3.1 modern curriculum vitae and lett
@@ -537,27 +553,18 @@ Package: arydshln 2019/02/21 v1.76
 \doubleitemcolumnwidth=\skip93
 \listitemsymbolwidth=\skip94
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 48.
+nput line 87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 \listitemcolumnwidth=\skip95
 \listdoubleitemcolumnwidth=\skip96
-\baseletterheight=\skip97
-\cvitemwithcommentbox=\box70
-\cvitemwithcommentskilllength=\skip98
-\cvitemwithcommentcommentlength=\skip99
-)
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvfooti.sty
-Package: moderncvfooti 2022-02-21 v2.3.1 modern curriculum vitae and letter foo
-ter variant: 1
-\footwidth=\skip100
-\footbox=\box71
-\foottempbox=\box72
-\footboxwidth=\skip101
+\cvitemwithcommentmainbox=\box70
+\cvitemwithcommentmainlength=\skip97
+\cvitemwithcommentcommentlength=\skip98
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
-Package: moderncvcolorblue 2022-02-21 v2.3.1 modern curriculum vitae and letter
- color scheme: blue
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorblack.sty
+Package: moderncvcolorblack 2022-02-21 v2.3.1 modern curriculum vitae and lette
+r color scheme: black
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -578,26 +585,262 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen270
 \Gm@dimlist=\toks35
 )
-(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
-Package: needspace 2010/09/12 v1.3d reserve vertical space
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks36
-\inpenc@posthook=\toks37
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count310
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count311
+\c@listtotal=\count312
+\c@listcount=\count313
+\c@liststart=\count314
+\c@liststop=\count315
+\c@citecount=\count316
+\c@citetotal=\count317
+\c@multicitecount=\count318
+\c@multicitetotal=\count319
+\c@instcount=\count320
+\c@maxnames=\count321
+\c@minnames=\count322
+\c@maxitems=\count323
+\c@minitems=\count324
+\c@citecounter=\count325
+\c@maxcitecounter=\count326
+\c@savedcitecounter=\count327
+\c@uniquelist=\count328
+\c@uniquename=\count329
+\c@refsection=\count330
+\c@refsegment=\count331
+\c@maxextratitle=\count332
+\c@maxextratitleyear=\count333
+\c@maxextraname=\count334
+\c@maxextradate=\count335
+\c@maxextraalpha=\count336
+\c@abbrvpenalty=\count337
+\c@highnamepenalty=\count338
+\c@lownamepenalty=\count339
+\c@maxparens=\count340
+\c@parenlevel=\count341
+\blx@tempcnta=\count342
+\blx@tempcntb=\count343
+\blx@tempcntc=\count344
+\c@blx@maxsection=\count345
+\blx@maxsegment@0=\count346
+\blx@notetype=\count347
+\blx@parenlevel@text=\count348
+\blx@parenlevel@foot=\count349
+\blx@sectionciteorder@0=\count350
+\blx@sectionciteorderinternal@0=\count351
+\blx@entrysetcounter=\count352
+\blx@biblioinstance=\count353
+\labelnumberwidth=\skip99
+\labelalphawidth=\skip100
+\biblabelsep=\skip101
+\bibitemsep=\skip102
+\bibnamesep=\skip103
+\bibinitsep=\skip104
+\bibparsep=\skip105
+\bibhang=\skip106
+\blx@bcfin=\read3
+\blx@bcfout=\write4
+\blx@langwohyphens=\language89
+\c@mincomprange=\count354
+\c@maxcomprange=\count355
+\c@mincompwidth=\count356
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count357
+\c@savedafterword=\count358
+\c@annotator=\count359
+\c@savedannotator=\count360
+\c@author=\count361
+\c@savedauthor=\count362
+\c@bookauthor=\count363
+\c@savedbookauthor=\count364
+\c@commentator=\count365
+\c@savedcommentator=\count366
+\c@editor=\count367
+\c@savededitor=\count368
+\c@editora=\count369
+\c@savededitora=\count370
+\c@editorb=\count371
+\c@savededitorb=\count372
+\c@editorc=\count373
+\c@savededitorc=\count374
+\c@foreword=\count375
+\c@savedforeword=\count376
+\c@holder=\count377
+\c@savedholder=\count378
+\c@introduction=\count379
+\c@savedintroduction=\count380
+\c@namea=\count381
+\c@savednamea=\count382
+\c@nameb=\count383
+\c@savednameb=\count384
+\c@namec=\count385
+\c@savednamec=\count386
+\c@translator=\count387
+\c@savedtranslator=\count388
+\c@shortauthor=\count389
+\c@savedshortauthor=\count390
+\c@shorteditor=\count391
+\c@savedshorteditor=\count392
+\c@labelname=\count393
+\c@savedlabelname=\count394
+\c@institution=\count395
+\c@savedinstitution=\count396
+\c@lista=\count397
+\c@savedlista=\count398
+\c@listb=\count399
+\c@savedlistb=\count400
+\c@listc=\count401
+\c@savedlistc=\count402
+\c@listd=\count403
+\c@savedlistd=\count404
+\c@liste=\count405
+\c@savedliste=\count406
+\c@listf=\count407
+\c@savedlistf=\count408
+\c@location=\count409
+\c@savedlocation=\count410
+\c@organization=\count411
+\c@savedorganization=\count412
+\c@origlocation=\count413
+\c@savedoriglocation=\count414
+\c@origpublisher=\count415
+\c@savedorigpublisher=\count416
+\c@publisher=\count417
+\c@savedpublisher=\count418
+\c@language=\count419
+\c@savedlanguage=\count420
+\c@origlanguage=\count421
+\c@savedoriglanguage=\count422
+\c@pageref=\count423
+\c@savedpageref=\count424
+\shorthandwidth=\skip107
+\shortjournalwidth=\skip108
+\shortserieswidth=\skip109
+\shorttitlewidth=\skip110
+\shortauthorwidth=\skip111
+\shorteditorwidth=\skip112
+\locallabelnumberwidth=\skip113
+\locallabelalphawidth=\skip114
+\localshorthandwidth=\skip115
+\localshortjournalwidth=\skip116
+\localshortserieswidth=\skip117
+\localshorttitlewidth=\skip118
+\localshortauthorwidth=\skip119
+\localshorteditorwidth=\skip120
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count425
+\c@textcitetotal=\count426
+\c@textcitemaxnames=\count427
+\c@biburlbigbreakpenalty=\count428
+\c@biburlbreakpenalty=\count429
+\c@biburlnumpenalty=\count430
+\c@biburlucpenalty=\count431
+\c@biburllcpenalty=\count432
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count433
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear-comp.bbx
+File: authoryear-comp.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count434
+\c@bbx:relatedtotal=\count435
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
+File: authoryear-comp.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2024-05-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/06/26 v24.7 The Babel package
-\babel@savecnt=\count310
+\babel@savecnt=\count436
 \U@D=\dimen271
-\l@unhyphenated=\language89
+\l@unhyphenated=\language90
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count311
+\bbl@readstream=\read4
+\bbl@dirlevel=\count437
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/canadian.ldf
 Language: canadian 2017/06/06 v3.3r English support from the babel system
@@ -615,32 +858,20 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 Package babel Info: Importing font and identification data for canadian
 (babel)             from babel-en-CA.ini. Reported on input line 11.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen272
+\TabPrevPos=\dimen273
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
 (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-))
 (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
@@ -652,19 +883,16 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-))
-\c@section@level=\count312
+)
+\c@section@level=\count438
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen272
-\Hy@linkcounter=\count313
-\Hy@pagecounter=\count314
+\@linkdim=\dimen274
+\Hy@linkcounter=\count439
+\Hy@pagecounter=\count440
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
@@ -674,7 +902,7 @@ Now handling font encoding PD1 ...
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count315
+\Hy@SavedSpaceFactor=\count441
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
@@ -689,9 +917,9 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count316
+\c@Hy@tempcnt=\count442
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen273
+\XeTeXLinkMargin=\dimen275
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -700,9 +928,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count317
-\Field@Width=\dimen274
-\Fld@charsize=\dimen275
+\Fld@menulength=\count443
+\Field@Width=\dimen276
+\Fld@charsize=\dimen277
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -715,9 +943,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count318
-\c@Item=\count319
-\c@Hfootnote=\count320
+\Hy@abspage=\count444
+\c@Item=\count445
+\c@Hfootnote=\count446
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -729,8 +957,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count321
-\c@bookmark@seq@number=\count322
+\Fld@listcount=\count447
+\c@bookmark@seq@number=\count448
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -741,51 +969,51 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip102
+\Hy@SectionHShift=\skip121
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 51.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
+Package hyperref Info: Option `breaklinks' set `true' on input line 67.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 67.
 
-(./moderncv_current.aux)
-\openout1 = `moderncv_current.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5
-1.
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+\@quotelevel=\count449
+\@quotereset=\count450
+(./CV.aux)
+\openout1 = `CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
-\scratchdimen=\dimen276
-\scratchbox=\box73
-\nofMPsegments=\count324
-\nofMParguments=\count325
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count326
-\MPscratchDim=\dimen277
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count451
+\scratchdimen=\dimen278
+\scratchbox=\box71
+\nofMPsegments=\count452
+\nofMParguments=\count453
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count454
+\MPscratchDim=\dimen279
+\MPnumerator=\count455
+\makeMPintoPDFobject=\count456
+\everyMPtoPDFconversion=\toks37
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -795,24 +1023,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 51.
-Package microtype Info: Applying patch `item' on input line 51.
-Package microtype Info: Applying patch `toc' on input line 51.
-Package microtype Info: Applying patch `eqnum' on input line 51.
-Package microtype Info: Applying patch `footnote' on input line 51.
-Package microtype Info: Applying patch `verbatim' on input line 51.
+LaTeX Info: Redefining \microtypecontext on input line 67.
+Package microtype Info: Applying patch `item' on input line 67.
+Package microtype Info: Applying patch `toc' on input line 67.
+Package microtype Info: Applying patch `eqnum' on input line 67.
+Package microtype Info: Applying patch `footnote' on input line 67.
+Package microtype Info: Applying patch `verbatim' on input line 67.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 51.
+LaTeX Info: Redefining \showhyphens on input line 67.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: T1).
+(microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
@@ -824,15 +1052,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(46.07025pt, 522.1545pt, 46.07025pt)
-* v-part:(T,H,B)=(47.69626pt, 675.72934pt, 71.54439pt)
+* h-part:(L,W,R)=(76.78688pt, 460.72124pt, 76.78688pt)
+* v-part:(T,H,B)=(79.49698pt, 596.22748pt, 119.24553pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=522.1545pt
-* \textheight=675.72934pt
-* \oddsidemargin=-26.19974pt
-* \evensidemargin=-26.19974pt
-* \topmargin=-61.57373pt
+* \textwidth=460.72124pt
+* \textheight=596.22748pt
+* \oddsidemargin=4.51689pt
+* \evensidemargin=4.51689pt
+* \topmargin=-29.77301pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -850,628 +1078,98 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 51.
-(./moderncv_current.out) (./moderncv_current.out)
-\@outlinefile=\write4
-\openout4 = `moderncv_current.out'.
+Package biblatex Info: Trying to load language 'canadian'...
+Package biblatex Info: ... file 'canadian.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/canadian.lbx
+File: canadian.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
 
-\pagenumberwidth=\skip103
-\makecvheadpicturebox=\box74
-\makecvheadpicturewidth=\skip104
-\makecvheadnamebox=\box75
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `CV.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'CV.bbl' not found.
+
+No file CV.bbl.
+Package biblatex Info: Reference section=0 on input line 67.
+Package biblatex Info: Reference segment=0 on input line 67.
+Package hyperref Info: Link coloring OFF on input line 67.
+(./CV.out) (./CV.out)
+\@outlinefile=\write5
+\openout5 = `CV.out'.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <38> not available
-(Font)              size <35.83> substituted on input line 53.
 
+LaTeX Font Warning: Font shape `OT1/cmss/b/n' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 70.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 70.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 7
+0.
 
- []
+(/usr/share/texmf/tex/latex/tex-gyre/ts1qpl.fd
+File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
+)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 70.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
+available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
+n input line 70.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 55.
+(Font)              <10.95> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 55.
+(Font)              <8> on input line 70.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 55.
-
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 88.
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 88.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
-available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 88.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 88.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
-available
-(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 88.
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/f
-ontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawe
-some5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/us
-r/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[2]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[3]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[4]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[5]
-
-LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 200.
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-00.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[6]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[7]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[8]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[9]
-Underfull \hbox (badness 1796) in paragraph at lines 308--308
-\T1/cmss/m/n/10.95 (+20) - Matthews, David. 2016. ^^PFo-cus on Re-search `Ex-ce
-l-lence' Is `Dam-ag-ing Sci-ence.'^^Q
- []
-
-
-Underfull \hbox (badness 3579) in paragraph at lines 308--308
-\T1/cmss/m/it/10.95 (+20) Times Higher Ed-u-ca-tion Sup-ple-ment\T1/cmss/m/n/10
-.95 (+20) . []$\T1/cmtt/m/n/10.95 https : / / www . timeshighereducation . com 
-/ news /
- []
-
-
-Underfull \hbox (badness 4454) in paragraph at lines 316--316
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-012. ^^P`There's No Next about It': Stan-ley Fish,
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 316--316
-\T1/cmss/m/n/10.95 (+20) William Pan-na-packer, and the Dig-i-tal Hu-man-i-ties
- as Par-adis-ci-pline.^^Q \T1/cmss/m/it/10.95 (+20) Dig-i-tal Hu-man-i-
- []
-
-
-Underfull \hbox (badness 3514) in paragraph at lines 316--316
-\T1/cmss/m/it/10.95 (+20) ties Now, Ed-i-tors' Choice\T1/cmss/m/n/10.95 (+20) ,
- Septem-ber. []$\T1/cmtt/m/n/10.95 http : / / digitalhumanitiesnow . org / 2012
- / 09 /
- []
-
-
-Overfull \hbox (222.83559pt too wide) in paragraph at lines 316--316
-\T1/cmtt/m/n/10.95 editors-[]choice-[]theres-[]no-[]next-[]about-[]it-[]stanley
--[]fish-[]william-[]pannapacker-[]and-[]the-[]digital-[]humanities-[]as-[]parad
-iscipline/$[]\T1/cmss/m/n/10.95 (-20) .| 
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 334--334
-\T1/cmss/m/n/10.95 (+20) and Grand-field, Vir-gil. 2016. Re-view of \T1/cmss/m/
-it/10.95 (+20) Elec-tronic Be-owulf\T1/cmss/m/n/10.95 (+20) . \T1/cmss/m/it/10.
-95 (+20) Dig-i-tal Me-dieval-ist \T1/cmss/m/n/10.95 (+20) 10.
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 10/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[10]
-Underfull \hbox (badness 4792) in paragraph at lines 362--362
-[]|\T1/cmss/m/n/10.95 (+20) i Cook, Eleanor I. and \T1/cmss/bx/n/10.95 (+20) O'
-Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2019. ^^PAn In-ter-view with
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 362--362
-\T1/cmss/m/n/10.95 (+20) Daniel O'Donnell, Cur-rent Pres-i-dent of FORCE11.^^Q 
-\T1/cmss/m/it/10.95 (+20) The Se-ri-als Li-brar-ian \T1/cmss/m/n/10.95 (+20) 76
-.1^^U2: 1^^U3.
- []
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 364--364
-[]|\T1/cmss/m/n/10.95 (+20) i Priego, Ernesto and \T1/cmss/bx/n/10.95 (+20) O'D
-onnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2013. ^^PBring-ing Di-ver-sity of
-
- []
-
-
-Underfull \hbox (badness 3568) in paragraph at lines 364--364
-\T1/cmss/m/n/10.95 (+20) Ex-pe-ri-ence To-gether: An In-ter-view with Daniel O'
-Donnell.^^Q \T1/cmss/m/it/10.95 (+20) 4Hu-man-i-ties\T1/cmss/m/n/10.95 (+20) . 
-Ac-cessed
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 364--364
-\T1/cmss/m/n/10.95 (+20) May 9. []http://4humanities.org/2013/05/interview-dani
-el-o-donnell/[]. Also trans-lated into
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 374--374
-[]|\T1/cmss/m/n/10.95 (+20) Carmichael, Joe. 2016. ^^PSci-ence Has an Ex-cel-le
-nce Prob-lem.^^Q \T1/cmss/m/it/10.95 (+20) In-verse\T1/cmss/m/n/10.95 (+20) , J
-une 14.
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 11/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PFu-ture Gen-er-a-tions Can Learn from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
-\T1/cmss/m/n/10.95 (+20) Doc-u-ments Writ-ten for the Present.^^Q \T1/cmss/m/it
-/10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 13.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 400--400
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/12/13/future-generations-can-learn-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PSuc-cess of the Uni-ver-sity of Leth-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
-\T1/cmss/m/n/10.95 (+20) bridge Fac-ing a Real Threat.^^Q \T1/cmss/m/it/10.95 (
-+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 6.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/12/06/success-of-the-university-of-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PIt's Bet-ter for All of Us to En-gage
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
-\T1/cmss/m/n/10.95 (+20) with Peo-ple Who Aren't like Us.^^Q \T1/cmss/m/it/10.9
-5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 30.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 404--404
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/30/its-better-for-all-of-us-to-
- []
-
-
-Underfull \hbox (badness 4353) in paragraph at lines 406--406
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PThe Data We Will-ingly or Un-wit-tingly Pro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-\T1/cmss/m/n/10.95 (+20) vide to Com-pa-nies Works for Them.^^Q \T1/cmss/m/it/1
-0.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 22.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 406--406
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/22/the-data-we-willingly-or-
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 12/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PEn-thu-si-asm for Uni-ver-sity's An-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
-\T1/cmss/m/n/10.95 (+20) nual Open House as High as Ever.^^Q \T1/cmss/m/it/10.9
-5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 2.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--408
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/02/enthusiasm-for-universitys-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--410
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PChat-bots Know Noth-ing but
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--410
-\T1/cmss/m/n/10.95 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/it/
-10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Oc-to-ber 23.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--410
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/10/23/chatbots-know-nothing-but-
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 13/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[13]
-Underfull \hbox (badness 3849) in paragraph at lines 458--458
-[]|\T1/cmss/bx/n/10.95 (+20) Open and In-clu-sive Ac-cess to Re-search (OIAR)\T
-1/cmss/m/n/10.95 (+20) . Co-organizer with Gi-mena del
- []
-
-
-Underfull \hbox (badness 2635) in paragraph at lines 458--458
-\T1/cmss/m/n/10.95 (+20) Rio and Wouter Schal-lier. \T1/cmss/m/it/10.95 (+20) O
-n-line\T1/cmss/m/n/10.95 (+20) , Nov. 8^^U11. SSHRC Con-nec-tions. []$\T1/cmtt/
-m/n/10.95 http : / /
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 14/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[14]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-488.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 1460) in paragraph at lines 520--520
-[]|\T1/cmss/m/n/10.95 (+20) i Daniel Paul O'Donnell. 2024. ^^PAca-demic Free-do
-m, Priv-i-lege, and In-ter-sec-tion-al-ity.^^Q
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 520--520
-\T1/cmss/m/n/10.95 (+20) July 29. Force11 Schol-arly Com-mu-ni-ca-tions In-sti-
-tute (FSCI), Los An-ge-les. Zen-odo.
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 526--526
-\T1/cmss/m/n/10.95 (+20) Me-di-ae-val Stud-ies.^^Q In-ter-na-tional Congress on
- Me-dieval Stud-ies. Kala-ma-zoo. May 11.
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 15/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[15]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 16/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[16]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 17/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[17]
-Underfull \hbox (badness 7397) in paragraph at lines 598--598
-[]|\T1/cmss/m/n/10.95 (+20) Bosman, Jeroen, Ian Bruno, Amy Buck-land, Sarah Cal
-laghan, Robin Champieux,
- []
-
-
-Underfull \hbox (badness 2351) in paragraph at lines 598--598
-\T1/cmss/m/n/10.95 (+20) Chris Chap-man, Stephanie Hagstrom, Bianca Kramer, Mar
-yAnn Mar-tone, Daniel Paul
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 18/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[18]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 19/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[19]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 20/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[20]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 21/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[21]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 22/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[22]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 23/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[23]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 24/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[24]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 835--835
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 841--841
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 845--845
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 25/[]25[] 
- []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[25] (./moderncv_current.aux)
- ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
- ***********
-
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 2.17pt have occurred.
-
-Package rerunfilecheck Info: File `moderncv_current.out' has not changed.
-(rerunfilecheck)             Checksum: D213D0B0FFAB3ECD67688E2A26BF69CC;6132.
- ) 
+(Font)              <6> on input line 70.
+
+
+! LaTeX Error: Command \TH unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \makecvtitle
+                 
+? x
+ 
 Here is how much of TeX's memory you used:
- 27507 strings out of 473584
- 524206 string characters out of 5730879
- 1959905 words of memory out of 5000000
- 49617 multiletter control sequences out of 15000+600000
- 588296 words of font info for 204 fonts, out of 8000000 for 9000
+ 33835 strings out of 473584
+ 655722 string characters out of 5730879
+ 1927905 words of memory out of 5000000
+ 56219 multiletter control sequences out of 15000+600000
+ 571561 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,1013b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
-ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
-/FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfc
-c1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfsi1728.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
-1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfss3583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1
-095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on moderncv_current.pdf (25 pages, 292272 bytes).
+ 129i,3n,129p,999b,833s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
 PDF statistics:
- 620 PDF objects out of 1000 (max. 8388607)
- 508 compressed objects within 6 object streams
- 59 named destinations out of 1000 (max. 500000)
- 39701 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 12 PDF objects out of 1000 (max. 8388607)
+ 1 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 17921 words of extra memory for PDF output out of 20736 (max. 10000000)
 

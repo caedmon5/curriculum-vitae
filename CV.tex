@@ -1,179 +1,859 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
+\documentclass[11pt,letterpaper,sans]{moderncv}
+
+\moderncvstyle{casual}
+\moderncvcolor{blue}
+\usepackage[scale=0.85]{geometry}
+
+% Prevent orphaned headings across all standard and moderncv commands
+\usepackage{etoolbox}
+\usepackage{needspace}
+
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{hidelinks}{hyperref}
 
 
-\documentclass[11pt,letterpaper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+% Standard LaTeX sections
+\pretocmd{\section}{\Needspace{5\baselineskip}}{}{}
+\pretocmd{\subsection}{\Needspace{3\baselineskip}}{}{}
+\pretocmd{\subsubsection}{\Needspace{3\baselineskip}}{}{}
 
-% moderncv themes
-\moderncvstyle{banking}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
-\moderncvcolor{black}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
-%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+% moderncv-specific commands
+\pretocmd{\cvsection}{\Needspace{5\baselineskip}}{}{}
+\pretocmd{\cvsubsection}{\Needspace{3\baselineskip}}{}{}
+\pretocmd{\cvsubsubsection}{\Needspace{3\baselineskip}}{}{}
 
-% character encoding
-%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\newcommand{\cvheading}[2]{%
+  \Needspace{#1}%
+  \section{#2}
+}
 
-% adjust the page margins
-\usepackage[scale=0.75]{geometry}
-%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
-%\setlength{\makecvheadnamewidth}{10cm}            % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+%\newcommand{\cvsubheading}[2]{%
+%  \Needspace{#1}%
+%  \section{#2}
+%}%
 
-% personal data
-\name{Daniel Paul}{O'Donnell}
-\title{Curriculum vitae}                               % optional, remove / comment the line if not wanted
-%\address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
-%\phone[mobile]{+1~(234)~567~890}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
-%\phone[fixed]{+2~(345)~678~901}
-%\phone[fax]{+3~(456)~789~012}
-\email{daniel.odonnell@uleth.ca}                               % optional, remove / comment the line if not wanted
-\homepage{people.uleth.ca/~daniel.odonnell/}                         % optional, remove / comment the line if not wanted
-\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
-%\social[xing]{john\_doe}                           % optional, remove / comment the line if not wanted
-%\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
-\social[github]{caedmon5}                              % optional, remove / comment the line if not wanted
-%\social[gitlab]{jdoe}                              % optional, remove / comment the line if not wanted
-%\social[skype]{jdoe}                               % optional, remove / comment the line if not wanted
-%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
-%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
-\quote{Þær æt hyðe stod hringedstefna / isig ond utfus, æþelingesfær}                                 % optional, remove / comment the line if not wanted
 
-% bibliography adjustements (only useful if you make citations in your resume, or print a list of publications using BibTeX)
-%   to show numerical labels in the bibliography (default is to show no labels)
-%\makeatletter\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}\makeatother
-\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}
-%   to redefine the bibliography heading string ("Publications")
-%\renewcommand{\refname}{Articles}
+% Encoding for special characters
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[canadian]{babel}
 
-% bibliography with mutiple entries
-%\usepackage{multibib}
-%\newcites{book,misc}{{Books},{Others}}
+\name{Daniel Paul}{\textnormal{O'Donnell}}
+\title{Curriculum Vitae}
+\email{daniel.odonnell@uleth.ca}
+\social[github]{caedmon5}
+\social[orcid]{https://orcid.org/0000-0002-0127-4893}
+\social[zenodo]{https://zenodo.org/communities/dpodrepository}
+\social[home page]{https://uleth.ca/dspace/handle/10133/3557}
+\social[Google Scholar profile]{https://scholar.google.com/citations?user=4WlgWHwAAAAJ&hl=en}
 
-\usepackage[backend=biber,style=authoryear-comp, sorting=ydnt, maxbibnames=99]{biblatex} % bibliography
-\usepackage[canadian]{babel} % helps convert TeX to American English
-\usepackage{tabto} % spacing package 
-
-\addbibresource{published_books.bib}
-\addbibresource{in_progress_books.bib}
-\addbibresource{pubs.bib} 
-
-%----------------------------------------------------------------------------------
-%            content
-%----------------------------------------------------------------------------------
 \begin{document}
-%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
-%-----       resume       ---------------------------------------------------------
+
 \makecvtitle
 
 \section{Education}
-\cventry{1996}{PhD}{Yale University}{}{\textit{}}{\textit{Dissertation}: Manuscript variation in multiple recension Old English poetic texts:
-The technical problem and poetical art."}  % arguments 3 to 6 can be left empty
-\cventry{year--year}{Degree}{Institution}{City}{\textit{Grade}}{Description}
+\cvitem{\textbf{Summary}}{O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson. \vspace{1em}}
 
-\section{Master thesis}
-\cvitem{title}{\emph{Title}}
-\cvitem{supervisors}{Supervisors}
-\cvitem{description}{Short thesis abstract}
-
-\section{Experience}
-\subsection{Vocational}
-\cventry{year--year}{Job title}{Employer}{City}{}{General description no longer than 1--2 lines.\newline{}%
-Detailed achievements:%
-\begin{itemize}%
-\item Achievement 1;
-\item Achievement 2, with sub-achievements:
-  \begin{itemize}%
-  \item Sub-achievement (a);
-  \item Sub-achievement (b), with sub-sub-achievements (don't do this!);
-    \begin{itemize}
-    \item Sub-sub-achievement i;
-    \item Sub-sub-achievement ii;
-    \item Sub-sub-achievement iii;
-    \end{itemize}
-  \item Sub-achievement (c);
-  \end{itemize}
-\item Achievement 3.
-\end{itemize}}
-\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
-\subsection{Miscellaneous}
-\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+\cventry{1996}{Ph.D. in English}{Yale University}{}{Andrew W. Mellon Fellow; SSHRC Doctoral Fellow; Yale University Fellow \vspace{0.25em} \newline{}\textbf{Dissertation:} \emph{\href{https://doi.org/10.5281/zenodo.1171976}{Manuscript Variation in Multiple Recension Old English Poetic Texts: The Technical Problem and Poetical Art}} \newline{}\textbf{Supervisor:} Fred C. Robinson \newline{}\textbf{Reviewed in} \emph{Linguistica e Filologia} 9 (1999): 156}{}
+\vspace{0.5em}
+\cventry{1991}{M.A. in English}{Yale University}{}{Andrew W. Mellon Fellow; Yale University Fellow}{}
+\vspace{0.5em}
+\cventry{1989}{B.A. in English Language and Literature (with Distinction)}{St. Michael's College, University of Toronto}{}{Various Prizes \vspace{0.25em}\newline{}\textbf{Specialization:} English Language and Literature\newline{}\textbf{Minor:} Medieval Latin (requirements also met for minor in Celtic Studies)}{}
+\vspace{1em}
 
 \section{Languages}
-\cvitemwithcomment{Language 1}{Skill level}{Comment}
-\cvitemwithcomment{Language 2}{Skill level}{Comment}
-\cvitemwithcomment{Language 3}{Skill level}{Comment}
+\cvitem{\textbf{Summary}}{O'Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (spoken and read), French (reading and conversational), and German (reading), as well as a variety of medieval and classical languages, such as Old English, Old Norse, Latin, Old Frisian, and Gothic.}
 
-\section{Computer skills}
-\cvdoubleitem{category 1}{XXX, YYY, ZZZ}{category 4}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 2}{XXX, YYY, ZZZ}{category 5}{XXX, YYY, ZZZ}
-\cvdoubleitem{category 3}{XXX, YYY, ZZZ}{category 6}{XXX, YYY, ZZZ}
+\vspace{1em}
 
-\section{Interests}
-\cvitem{hobby 1}{Description}
-\cvitem{hobby 2}{Description}
-\cvitem{hobby 3}{Description}
+\cvitem{Modern}{
+\begin{itemize}
+  \item English (native)
+  \item Dutch (preparing for CERF C2 certification)
+  \item French (preparing for CERF B2 certification)
+  \item German (reading)
+\end{itemize}
+}
+\vspace{0.25em}
+\cvitem{Historical}{Old English, Old Norse, Latin, Old Frisian, Gothic}
+\vspace{1em}
 
-\section{Extra 1}
-\cvlistitem{Item 1}
-\cvlistitem{Item 2}
-\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several lines. Did you notice the indentation when the line wraps?}
+\section{Academic Positions}
+\cvitem{\textbf{Summary}}{Since 1997, O’Donnell has held a continuing faculty position at the University of Lethbridge, where he currently holds the rank of Professor. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at the University of Saskatchewan and within the University
+Library. At the University of Toronto, he was the first undergraduate to hold a research position at the Dictionary of Old English.}
 
-\section{Extra 2}
-\cvlistdoubleitem{Item 1}{Item 4}
-\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
-\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+\vspace{1em}
+\cventry{2020--}{Affiliate Member}{Prentice Institute for Global Population, University of Lethbridge}{}{}{}
+\cventry{2019--2024}{Adjunct Professor}{College of Postgraduate and Postdoctoral Studies, University of Saskatchewan}{}{}{}
+\cventry{2018}{Professor of English (Offered and Declined)}{University of Saskatchewan}{}{}{}
+\cventry{2015--}{Associate Member}{University Library Academic Staff, University of Lethbridge}{}{}{}
+\cventry{2010--}{Professor of English (Tenured)}{University of Lethbridge}{}{}{}
+\cventry{2002--2010}{Associate Professor of English (Tenured)}{University of Lethbridge}{}{}{}
+\cventry{1997--2002}{Assistant Professor of English}{University of Lethbridge}{}{}{}
+\cventry{1997}{Tutor}{Department of English and Related Literatures, University of York (UK)}{}{}{}
+\cventry{1997}{Tutor}{Workers’ Educational Association (UK)}{}{}{}
+\cventry{1994--1995}{Visiting Assistant Professor}{Department of English, Louisiana State University}{}{}{}
+\cventry{1991--1992}{Teaching Fellow}{Department of English, Yale University}{}{}{}
+\cventry{1987--1989}{Research Assistant}{Dictionary of Old English, University of Toronto}{}{}{}
 
-\section{References}
-\begin{cvcolumns}
-  \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
-  \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
-  \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
-\end{cvcolumns}
+\vspace{1em}
 
-% Publications from a BibTeX file without multibib
-%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
-%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
-\nocite{*}
-\bibliographystyle{plain}
-\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+\section{Academic Leadership}
+\cvitem{\textbf{Summary}}{O'Donnell has led multiple academic and professional organisations, including CAFA, ULFA, Force11, GO::DH, and the TEI. He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has consistently taken leadership during moments of structural transition and policy change.}
 
-% Publications from a BibTeX file using the multibib package
-%\section{Publications}
-%\nocitebook{book1,book2}
-%\bibliographystylebook{plain}
-%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
-%\nocitemisc{misc1,misc2,misc3}
-%\bibliographystylemisc{plain}
-%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+\vspace{1em}
+\cvitem{2005--2008, 2023--}{\textbf{Department Chair}, Department of English, University of Lethbridge. \vspace{0.15em}\newline{}\textit{Led department through curriculum overhaul, review, and hiring plan during institutional crisis; implemented new governance model}.}
+\vspace{0.25em}
+\cvitem{2024--2025}{\textbf{Past President}, Confederation of Alberta Faculty Associations (CAFA). \vspace{0.15em}\newline{}\textit{Continued strategic advocacy. Helped establish quarterly meetings with Deputy Minister and Staff at Ministry of Advanced Education (Alberta). Co-presenter to "Expert Panel on Post-Secondary Institution Funding and Alberta’s Competitiveness (Mintz Panel)}.}
+\vspace{0.25em}
+\cvitem{2023--2024}{\textbf{President}, CAFA. \vspace{0.15em}\newline{}\textit{Assumed role immediately following loss of major member (2/3 of income). Rebuilt organisation and expanded connections to other post-secondary and civil society organisations in province and western Canada as well as nationally. Redesigned public and government relations practices, resulting in improved press-coverage and regular meetings with government officials. Build successful inter-sectoral lobbying effort on Bill 18 (with Rural Municipalities of Alberta and University of Alberta. Helped found Western Regional Council.} \vspace{0.25em}}
+\vspace{0.25em}
+\cvitem{2023--2024}{\textbf{Past President}, University of Lethbridge Faculty Association (ULFA). \vspace{0.15em}\newline{}\textit{Supported transition to new leadership. Advised on grievance resolution, governance, member relations, communications, and bargaining. Negotiated MoU extending ULFA/U of L collective agreement to cover faculty at ULethbridge International College Calgary (UICC), a new Navitas/University of Lethbridge collaboration. This is the first agreement nationally to extend Collective Agreement protections completely to instructors in Navitas-led college}.}
+\vspace{0.25em}
+\cvitem{2021--2023}{\textbf{President}, ULFA. \vspace{0.15em}\newline{}\textit{Led Association communications and preparations for job action during two years of negotiations. Oversaw Association during six-week job action in February and March of 2022 (92\% strike vote, 91\% ratification). Led restoration of management-union relations post-strike}.}
+\vspace{0.25em}
+\cvitem{2020--2021}{\textbf{Vice-President}, ULFA. \vspace{0.15em}\newline{}\textit{Assisted president in major grievance cases while leading bargaining}.}
+\vspace{0.25em}
+\cvitem{2018--2021}{\textbf{Chief Spokesperson and Bargaining Chair}, ULFA. \vspace{0.15em}\newline{}\textit{Negotiated multiple collective agreements (including Navitas MOU); launched and secured approval for job action fund}.}
+\vspace{0.25em}
+\cvitem{2018--2019}{\textbf{President}, Force11 (Future of Research Communications and E-scholarship). \vspace{0.15em}\newline{}\textit{Oversaw launch of FORCE11 Scholarly Communication Institute (FSCI); expanded global FAIR and Open Science policy advocacy)}.}
+\vspace{0.25em}
+\cvitem{2013--2017}{\textbf{Vice-President}, Force11. \vspace{0.15em}\newline{}\textit{Built global partnerships in scholarly communication and infrastructure}.}
+\vspace{0.25em}
+\cvitem{2015--2017}{\textbf{Founding Director}, Lethbridge Centre for the Study of Scholarly Communication. \vspace{0.15em}\newline{}\textit{Created institutional centre supporting interdisciplinary research and publication innovation in Open Science and scholarly communication}.}
+\vspace{0.25em}
+\cvitem{2012--2015}{\textbf{Founding Chair}, Global Outlook::Digital Humanities (GO::DH). \vspace{0.15em}\newline{}\textit{Founded equity-centred digital humanities network credited with leading the "Global Turn" in Digital Humanities Research. Initiated multilingual and regional DH programs}.}
+\vspace{0.25em}
+\cvitem{2010--2013}{\textbf{Co-President}, Canadian Society for Digital Humanities (CSDH/SCHN). \vspace{0.15em}\newline{}\textit{Coordinated national DH strategy and membership growth}.}
+\vspace{0.25em}
+\cvitem{2010--}{\textbf{Editor-in-Chief}, \textit{Digital Studies/Les champs numériques} (DSCN). \vspace{0.15em}\newline{}\textit{Assumed editorial leadership of national journal in DH studies at the end of volume 2. Established alternate funding model to preserve Open Access status. Oversaw approval for membership in the Open Library of the Humanities (OLH)}.}
+\vspace{0.25em}
+\cvitem{2009--2012}{\textbf{Chair}, Digital Initiatives Advisory Board, Medieval Academy of America (MAA). \vspace{0.15em}\newline{}\textit{Guided MAA infrastructure strategy; advised on journal and archive digitisation}.}
+\vspace{0.25em}
+\cvitem{2006--2011}{\textbf{Chair and CEO}, Text Encoding Initiative (TEI). \vspace{0.15em}\newline{}\textit{Restructured TEI governance; launched member-led consortium; published revised TEI Guidelines}.}
+\vspace{0.25em}
+\cvitem{2003--2009}{\textbf{Founding Director}, Digital Medievalist (DM). \vspace{0.15em}\newline{}\textit{Established pioneering digital community of practice for medievalists working with digital media. Built infrastructure and journal}.}
+\vspace{1em}
 
-\clearpage
-%-----       letter       ---------------------------------------------------------
-% recipient data
-\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
-\date{January 01, 1984}
-\opening{Dear Sir or Madam,}
-\closing{Yours faithfully,}
-\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
-\makelettertitle
+\section{Current Major Projects}
+\cvitem{\textbf{Summary}}{O’Donnell is Principal Investigator (PI) on several research initiatives focused on scholarly communication, data infrastructure, and academic governance, and early medieval culture. These projects are supported by internal and external funding from various programmes. The training of Highly Qualified Personnel (HQP) is an important element in all these projects.}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper neque sit amet lectus facilisis sed luctus nisl iaculis. Vivamus at neque arcu, sed tempor quam. Curabitur pharetra tincidunt tincidunt. Morbi volutpat feugiat mauris, quis tempor neque vehicula volutpat. Duis tristique justo vel massa fermentum accumsan. Mauris ante elit, feugiat vestibulum tempor eget, eleifend ac ipsum. Donec scelerisque lobortis ipsum eu vestibulum. Pellentesque vel massa at felis accumsan rhoncus.
+\vspace{1em}
+\cvitem{Resistance to Data}{Humanities Approaches to Research Classification and Infrastructure (2022--) \vspace{0.15em}\newline{}\textbf{Funding:} SSHRC Insight Grant 2025--2029, PI, \$300,000; SSHRC PDG 2022--2025, PI, \$200,000. \newline{}\textit{Umbrella initiative investigating epistemic and institutional resistance to structured data in the humanities. Builds on the earlier projects} Good Things Come in Small Packages \textit{and} Humanities Data Inquiry (HDI) \textit{projects}.}
+\vspace{0.25em}
+\cvitem{\#safespaces?}{Academic Freedom and Inclusivity in an Age of Polarisation (2024--) \vspace{0.15em}\newline{}\textbf{Funding:} SSHRC Insight Development Grant (applied for), PI. \newline{}\textit{Examines how political polarisation and campus speech discourses intersect with evolving understandings of academic freedom}.}
+\vspace{0.25em}
+\cvitem{Lethbridge Journal Incubator}{Using Open Access publication to provide work-integrated-learning opportunities to graduate students (2012--)  \vspace{0.15em}\newline{}\textbf{Funding:} SSHRC Aid to Scholarly Journals (PI); School of Graduate Studies; School of Graduate Studies, Strategic Opportunities Fund (SOF). \newline{}\textit{Training and mentorship program in scholarly publishing. Provides graduate students with editorial and infrastructure experience}.}
+\vspace{0.25em}
+\cvitem{Visionary Cross}{Modelling the Ruthwell Cross, Bewcastle Cross, and Brussels Cross (2005--). \vspace{0.15em}\newline{}\textbf{Funding:} Chinook Summer Student Grant 2025 (\$6,000); Mitacs Global Interns; SSHRC Insight Grant 2014–2017 (\$282,190); SSHRC SRG 2005–2008. \newline{}\textit{A digital edition and visualization of the Ruthwell Cross and related artifacts. Combines philology, archaeology, and imaging. Includes multi-format outputs and graduate training}.}
+\vspace{1em}
 
-Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
+\section{Funding and Prizes}
+\subsection*{External Research Grants and Prizes}
+\cvitem{\textbf{Summary}}{O’Donnell has received approximately CA\$4 million in research funding as Principal Investigator and Co-applicant from external agencies since 2000, including approx. CA\$1.4 million as PI (the University of Lethbridge's top-earner from SSHRC-funded programmes). His work spans scholarly communication, early Medieval English studies, research infrastructure, and innovation in academic publishing.}
+\vspace{1em}
+\cvitem{2025}{\textbf{SSHRC Impact Prize (Connections)} (780-2025-00021), Nominee. \$50,000 (under review)}
+\cvitem{2025--2027}{\textbf{SSHRC Insight Development Grant}, \emph{\#safespaces?: Academic Freedom and Inclusivity in an Age of Polarisation}, PI, \$78,000 (under review)}
+\cvitem{2025--2029}{\textbf{SSHRC Insight Grant} (435-2025-0705), \emph{Resistance to Data: Understanding Data Use, Data Management, and Data Infrastructure in the "Traditional" Humanities through Historical, Comparative, and Ethnographic Study}, PI, \$300,000}
+\cvitem{2021--2026}{\textbf{SSHRC Insight Grant}, \emph{Canterbury Tales Project}, Co-applicant, \$340,000}
+\cvitem{2021--2023}{\textbf{SSHRC Partnership Development Grant} (890-2020-0095), \emph{Good Things Come in Small Packages: A Grassroots Community of Practice for Open and FAIR Humanities Data Practices}, PI, \$200,000}
+\cvitem{2022--2025}{\textbf{SSHRC Aid to Scholarly Journals} (651-2021-0150), \emph{Digital Studies / Les champs numériques}, PI, \$30,000}
+\cvitem{2019--2022}{\textbf{SSHRC Aid to Scholarly Journals} (651-2018-0062), \emph{Digital Studies / Les champs numériques}, PI, \$90,000}
+\cvitem{2020--2021}{\textbf{SSHRC Connections Grant} (611-2019-0499), \emph{Canada-LATAM Workshop on Open and Inclusive Access to research}, PI, \$25,000}
+\cvitem{2020--2021}{\textbf{Sloan Foundation} (G-2020-13999), \emph{REPO: Reimagining Education Practices for Open. Developing Open Science during the COVID emergency: A community-based investigation and support network}, PI, US\$50,000}
+\cvitem{2017--2019}{\textbf{SSHRC Partnership Development Grant} (890-2016-0081), \emph{Future Commons: Transforming Scholarly Communication through Collective Action}, PI, \$200,000}
+\cvitem{2017--2019}{\textbf{CFI John R. Evans Leadership Fund} (JELF) (32819), \emph{What Goes Around: The Visionary Cross Digital Library}, PI, \$86,937}
+\cvitem{2015--2019}{\textbf{SSHRC Insight Grant} (435-2015-1119), \emph{What Goes Around: Editing the Anglo-Saxon Visionary Cross Cultural Matrix}, PI, \$233,224}
+\cvitem{2017--2018}{\textbf{Mellon Foundation}, \emph{Reading Peer Review}, Co-PI, US\$99,000}
+\cvitem{2014--2017}{\textbf{SSHRC Aid to Scholarly Journals} (651-2014-0138), \emph{Digital Studies}, PI, \$46,225}
+\cvitem{2013--2017}{\textbf{SSHRC Insight Grant}, \emph{Canterbury Tales Project Phase 2}, Co-applicant, \$471,000}
+\cvitem{2015}{\textbf{Helmsley Charitable Trust} (via Force11), Drafting applicant, US\$424,000}
+\cvitem{2015}{\textbf{Mitacs GlobalLink}, \emph{Visionary Cross}, In-kind}
+\cvitem{2014--2015}{\textbf{Gordon and Betty Moore Foundation}, \emph{Force11}, Co-applicant, US\$150,000}
+\cvitem{2014--2015}{\textbf{GRAND Startup Grant} (G-CI-14-LB-01), \emph{DigiCultH: Engaging with Digital Cultural Heritage Objects}, Co-PI, \$9,640}
+\cvitem{2010--2014}{\textbf{SSHRC Standard Research Grant (SRG)} (410-2010-1474), \emph{Crossroads: Editing the Visionary Cross Matrix in Anglo-Saxon England}, PI, \$62,430}
+\cvitem{2008}{\textbf{Mellon Foundation} (GP1.2008), \emph{TEI Tite: Creating a Benefit of Membership to Support Standards Development}, PI, US\$30,723}
+\cvitem{2005--2006}{\textbf{SSHRC Image, Text, Sound, and Technology (ITST)} (849-2003-0003), \emph{The Digital Medievalist Project: A Community of Practice Network for Image, Text, Sound and Technology Research}, PI, \$27,490}
+\vspace{1em}
 
-Duis sit amet magna ante, at sodales diam. Aenean consectetur porta risus et sagittis. Ut interdum, enim varius pellentesque tincidunt, magna libero sodales tortor, ut fermentum nunc metus a ante. Vivamus odio leo, tincidunt eu luctus ut, sollicitudin sit amet metus. Nunc sed orci lectus. Ut sodales magna sed velit volutpat sit amet pulvinar diam venenatis.
+\subsection*{Awards, Fellowships, and Honours}
+\cvitem{\textbf{Summary}}{O’Donnell received honorable mention in the MLA prize competition for the most-distinguished scholarly edition, the first time a digital critical edition had been recognised in this competition. As a graduate student, he was a Mellon Fellow in the Humanities (1989--1991; 1993--1994); a SSHRC Doctoral Fellow (1992--1994); Yale University Fellow (1989--1993); and UCLA Fellow (declined). He was University of Lethbridge Teaching Award Nominee in 2015--2016 and 2016--2017 and won several undergraduate awards.}
+\vspace{1em}
+\cvitem{2015--2017}{University of Lethbridge Teaching Award, Nominee}
+\cvitem{2007}{Honourable Mention, MLA Prize for a Scholarly Edition (Cædmon’s Hymn)}
+\cvitem{1993--1994}{Mellon Fellowship in the Humanities (Dissertation Fellowship), US\$11,000}
+\cvitem{1992--1994}{SSHRC Doctoral Fellowship, CA\$14,000/year}
+\cvitem{1992--1993}{Yale University Fellowship, US\$16,000 + tuition}
+\cvitem{1989--1993}{UCLA University Fellowship, US\$36,000 + tuition (declined)}
+\cvitem{1989--1991}{Mellon Fellowship in the Humanities, US\$22,000 + tuition}
+\cvitem{1989--1991}{Yale University Fellowship, US\$16,000 + tuition (declined)}
+\cvitem{1988--1989}{C.L. Burton In-course Scholarship, St. Michael’s College, University of Toronto, CA\$1,500 (declined)}
+\cvitem{1987--1988}{In-course Scholarship, St. Michael’s College, University of Toronto, CA\$1,500 (declined)}
 
-Albert Einstein discovered that $e=mc^2$ in 1905.
+\cvheading{10\baselineskip}{Publications}
 
-\[ e=\lim_{n \to \infty} \left(1+\frac{1}{n}\right)^n \]
+\cvitem{}{\textit{r = refereed; i = invited; s = student co-authors at time of writing (student authors marked with asterisk).}}
 
-\makeletterclosing
+\subsection*{Books and Editions}
 
-%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\cvitem{[2]}{rs Eve, Martin Paul, Neylon, Cameron, \textbf{O'Donnell, Daniel Paul}, Moore, Samuel, Gadie, Robert*, Odeniyi, Victoria*, and Parvin, Shahina*. 2020. \textit{Reading Peer Review: PLOS ONE and Institutional Change in Academia}. Cambridge: Cambridge University Press. \textsc{doi}: \url{https://doi.org/10.1017/9781108783521}. ISBN: 9781108486637 (hardback); 9781108783521 (ebook).}
+\cvitem{}{\textbf{Review:} \textit{Public Understanding of Science} 31.7 (2022): 892–894.}
+
+\cvitem{[1]}{r \textbf{O'Donnell, Daniel Paul}. 2005. \textit{Cædmon’s Hymn: A Multimedia Study, Edition and Archive}. SEENET A.8. Cambridge: Medieval Academy of America and D.S. Brewer. xxii + 261 pp. + CD-ROM. Internet reprint (2018): \url{https://caedmon.seenet.org/}. Codebase \textsc{doi}: \url{https://doi.org/10.5281/zenodo.1198856}.}
+\cvitem{}{\textbf{Prize:} 2007 MLA Distinguished Scholarly Edition Prize (honorable mention).}
+\cvitem{}{\textbf{Reviews:}  \textit{e-data\&research} 1 (2006): 1; \textit{Medium Aevum} 75 (2006): 356–357; \textit{Old English Newsletter} 40.1 (2006); \textit{Speculum} 82 (2007): 223–224; \textit{Journal of Ecclesiastical History} 58 (2007): 120–121; \textit{Early Medieval Europe} 15 (2007): 466–469; \textit{Textual Cultures} 2 (2007): 139–142; \textit{JEGP} 107.2 (2008): 248–251; \textit{Digital Medievalist} 5 (2009); \textit{Leeds Medieval Studies} 3 (2023).}
+\vspace{1em}
+
+\subsection*{Articles and Chapters (Traditional)}
+
+\cvitem{[45]}{rs Bordalejo, Barbara, Pafumi, Davide*, Pearce, Morgan S.*, \textbf{O'Donnell, Daniel Paul}. At press 2025. "Adapting a Research Tool for Teaching in a Post-Pandemic World: Textual Communities and Critical Digital Pedagogy in the Context of a Comprehensive Liberal Arts Research University." \textit{Digital Humanities Quarterly}.}
+
+\cvitem{[44]}{rs \textbf{O'Donnell, Daniel Paul}, Pafumi, Davide*, Onuh, Frank*, Khalid, AKM Iftekhar*, Pearce, Morgan*, and Bordalejo, Barbara. 2025. “Scarlet Cloak and the Forest Adventure: A preliminary study of the impact of AI on commonly used writing tools.” \textit{International Journal of Educational Technology in Higher Education} 22.6. \textsc{doi}: \url{https://doi.org/10.1186/s41239-025-00505-5}.}
+
+\cvitem{[43]}{ri \textbf{O'Donnell, Daniel Paul}. 2021. “‘I heard he sang a good song’: Caedmon’s inspiration and medieval dream theory.” In: \textit{Sogni, visioni e profezie nella letteratura germanica medievale}, edited by Rosselli Del Turco, Roberto. Bibliotheca Germanica. Studi e testi 48. Allessandria: Edizioni del l’Orso, pp. 147–172.}
+
+\cvitem{[42]}{r \textbf{O'Donnell, Daniel Paul}, Bliss, Heather, Genee, Inge, and Junker, Marie-Odile. 2020. “‘Credit Where Credit Is Due’: Authorship and Attribution in Algonquian Language Digital Resources.” \textit{IDEAH} 1.1. Author order: Alphabetical. \textsc{doi}: \url{https://doi.org/10.21428/f1f23564.3d64b2ed}.}
+
+\cvitem{[41]}{r \textbf{O'Donnell, Daniel Paul}. 2020. “Critical Mass: The Listserv and the Early Online Community as a Case Study in the Unanticipated Consequences of Innovation in Scholarly Communication.” In: \textit{Digital Technology and the Practices of Humanities Research}, edited by Edmond, Jennifer. Cambridge: Open Book Publishers, pp. 184–206. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.3633429}.}
+
+\cvitem{[40]}{r \textbf{O'Donnell, Daniel Paul}. 2019. “All along the Watchtower: Intersectional diversity as a core intellectual value in the Digital Humanities.” In: \textit{Intersectionality in Digital Humanities}, edited by Bordalejo, Barbara and Risam, Roopika. Amsterdam: ARC. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.3580235}.}
+
+\cvitem{[39]}{rs \textbf{O'Donnell, Daniel Paul}, Esau, Paul*, Viejou, Carey*, Chow, Sylvia*, Dohms, Kimberly*, Firth, Steve*, McKinnon, Jarret*, Morrison, Dorethea*, Parsons, Reed*, Rieger, Courtney*, Spiric, Vanja*, Toth, Elaine*, Ueland, Kayla*, and Graham, Rumi. 2018. “‘Let’s Start a Journal!’: The Multidisciplinary Graduate Student Journal as Educational Opportunity.” \textit{The Journal of Electronic Publishing (JEP)} 21.1. Corresponding author. \textsc{doi}: \url{https://doi.org/10.3998/3336451.0021.109}.}
+
+\cvitem{[38]}{i \textbf{O'Donnell, Daniel Paul}, Callieri, Matteo, Dellepiane, Marco, Karkov, Catherine, Porter, Dot, and Rosselli Del Turco, Roberto. 2018. “Archaeology in the Study: Scanning Anglo-Saxon Artifacts in the Visionary Cross Project.” \textit{Wiðowinde} 185.Spring, pp. 21–27. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.1208167}.}
+
+\cvitem{[37]}{rs \textbf{O'Donnell, Daniel Paul}, Viejou, Carey*, Chow, Sylvia*, Dohms, Kimberly*, Esau, Paul*, Firth, Steve*, and Graham, Rumi. 2018. “Zombie Journals: Designing a Technological Infrastructure for a Precarious Graduate Student Journal.” \textit{Scholarly and Research Communication} 9.2. Corresponding author. \textsc{doi}: \url{https://doi.org/10.22230/src.2018v9n2a296}.}
+
+\cvitem{[36]}{r \textbf{O'Donnell, Daniel Paul}, Moore, Samuel*, Neylon, Cameron, Eve, Martin Paul, and Pattinson, Damian. 2017. “‘Excellence R Us’: University Research and the Fetishisation of Excellence.” \textit{Palgrave Communications} 3.January. Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.105}.}
+
+\cvitem{[35]}{r Tennant, Jonathan P., Dugan, Jonathan M., Graziotin, Daniel Jacques Damien, Waldner, François, Mietchen, Daniel, Elkhatib, Yehia, Collister, Lauren B., and others. 2017. “A Multi-Disciplinary Perspective on Emergent and Future Innovations in Peer Review.” \textit{F1000Research} 6.1151. Author order: Based on date of first edit. \textsc{doi}: \url{https://doi.org/10.12688/f1000research.12037.2}.}
+
+\cvitem{[34]}{r \textbf{O'Donnell, Daniel Paul}, Champieux, Robin, Kramer, Bianca, Bosman, Jeroen, Bruno, Ian, Buckland, Amy, Callaghan, Sarah, Chapman, Chris, Hagstrom, Stephanie, and Martone, MaryAnn E. 2016. “Finding the Principles of the Commons: A Report of the Force11 Scholarly Communications Working Group.” \textit{Collaborative Librarianship} 8.2. \url{http://digitalcommons.du.edu/collaborativelibrarianship/vol8/iss2/5}.}
+
+\cvitem{[33]}{rs \textbf{O'Donnell, Daniel Paul}, Hobma, Heather*, Karkov, Catherine, Foster, Sally, Graham, James, Osborn, Wendy, Rosselli Del Turco, Roberto, Broatch, Robert, Broatch, Susan, Callieri, Marco, and Dellepiane, Matteo. 2016. “Modern impact on the fabric of the Ruthwell Cross.” \textit{OEN} 46.1. Corresponding author. \url{http://www.oenewsletter.org/OEN/issue/ruthwell.php}.}
+
+\cvitem{[32]}{r \textbf{O'Donnell, Daniel Paul}, Kramer, Bianca, Bosman, Jeroen, Ignac, Marcin, Kral, Christina, Kalleinen, Tellervo, Koskinen, Pekko, Bruno, Ian, Buckland, Amy, Callaghan, Sarah, Champieux, Robin, Hagstrom, Stephanie, Martone, MaryAnn, and Murphy, Fiona. 2016. “Defining the Scholarly Commons - Reimagining Research Communication.” \textit{Research Ideas and Outcomes} 2.May, e9340. \textsc{doi}: \url{https://doi.org/10.3897/rio.2.e9340}.}
+
+\cvitem{[31]}{i \textbf{O'Donnell, Daniel Paul}. 2016. “The Bird in Hand: Humanities Research in the Age of Open Data.” In: \textit{The State of Open Data}, edited by Figshare. London: Digital Science, pp. 34–35. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.1470821}.}
+
+\cvitem{[30]}{rs \textbf{O'Donnell, Daniel Paul}, Bay, Jessica*, Dering, Emma*, Gal, Matt*, Grandfield, Virgil*, Hobma, Heather*, and Singh, Gurpreet*. 2016. “The Third Academic Freedom.” \textit{Light on Teaching}, pp. 4–9. Corresponding author. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.3596098}.}
+
+\cvitem{[29]}{rs \textbf{O'Donnell, Daniel Paul}, Leoni, Chiara*, Callieri, Marco, Dellepiane, Matteo, Rosselli Del Turco, Roberto, and Scopigno, Roberto. 2015. “The Dream and the Cross: a 3D scanning project to bring 3D content in a digital edition.” \textit{Journal on Computing and Cultural Heritage}. \textsc{doi}: \url{https://doi.org/10.1145/2686873}.}
+
+\cvitem{[28]}{r \textbf{O'Donnell, Daniel Paul}, Gil, Alex, Walters, Katherine, and Fraistat, Neil. 2015. “Only Connect: The Globalization of the Digital Humanities.” In: \textit{A New Companion to Digital Humanities}, edited by Schreibman, Susan, Siemens, Ray, and Unsworth, John. Wiley, pp. 493–510. \textsc{doi}: \url{https://doi.org/10.1002/9781118680605.ch34}.}
+
+\cvitem{[27]}{rs \textbf{O'Donnell, Daniel Paul}, Hobma, Heather*, Cowan, Sandra, Ayers, Gillian*, Bay, Jessica*, Swanepoel, Marinus, Merkley, Wendy, Devine, Kelaine*, Dering, Emma*, and Genee, Inge. 2015. “Aligning Open Access Publication with the Research and Teaching Missions of the Public University.” \textit{Journal of Electronic Publishing} 18.3. Corresponding author. \textsc{doi}: \url{https://doi.org/10.3998/3336451.0018.309}.}
+
+\cvitem{[26]}{r \textbf{O'Donnell, Daniel Paul}. 2013. “‘I certainly have subjects in my mind’: The Diary of Anne Frank as Bildungsroman.” \textit{Canadian Journal of Netherlandic Studies} 32, pp. 49–88. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.3596110}.}
+
+\cvitem{[25]}{r \textbf{O'Donnell, Daniel Paul}. 2012. “Move Over: Learning to Read (and Write) with Novel Technology.” \textit{Scholarly and Research Communication} 3.4. \textsc{doi}: \url{https://doi.org/10.22230/src.2012v3n4a68}.}
+
+\cvitem{[24]}{r \textbf{O'Donnell, Daniel Paul}. 2010. “Different Strokes, Same Folk: Designing the Multi-form Digital Edition.” \textit{Literature Compass} 7.2. \textsc{doi}: \url{https://doi.org/10.1111/j.1741-4113.2009.00683.x}.}
+
+\cvitem{[23]}{r Lee, Stuart and \textbf{O'Donnell, Daniel Paul}. 2009. “From Manuscript to Computer.” In: \textit{Working with Anglo-Saxon Manuscripts}, edited by Owen-Crocker, Gale R. Exeter: Exeter UP, pp. 253–284.}
+
+\cvitem{[22]}{r \textbf{O'Donnell, Daniel Paul}. 2009a. “Back to the future: What digital editors can learn from print editorial practice.” \textit{Literary and Linguistic Computing} 24, pp. 113–125. \textsc{doi}: \url{https://doi.org/10.1093/llc/fqn039}.}
+
+\cvitem{[21]}{i \textbf{O'Donnell, Daniel Paul}. 2009b. “Byte me: Technological Education and the Humanities.” \textit{Heroic Age} 12. \url{http://www.mun.ca/mst/heroicage/issues/12/em.php}.}
+
+\cvitem{[20]}{ri Bodard, Gabriel and \textbf{O'Donnell, Daniel Paul}. 2008. “We are all together: On publishing a Digital Classicist issue of the Digital Medievalist journal.” \textit{Digital Medievalist} 4. Corresponding author. \textsc{doi}: \url{https://doi.org/10.16995/dm.18}.}
+
+\cvitem{[19]}{i \textbf{O'Donnell, Daniel Paul}. 2008. “Resisting The Tyranny of the Screen, or, Must a Digital Edition be Electronic?” \textit{Heroic Age} 11. \url{http://www.heroicage.org/issues/11/em.php}.}
+
+\cvitem{[18]}{r \textbf{O'Donnell, Daniel Paul}. 2007a. “Disciplinary impact and technological obsolescence in digital medieval studies.” In: \textit{A Companion to Digital Literary Studies}, edited by Siemens, Ray and Schreibman, Susan. Cambridge: Blackwell. \textsc{doi}: \url{https://doi.org/10.1002/9781405177504.ch3}.}
+
+\cvitem{[17]}{i \textbf{O'Donnell, Daniel Paul}. 2007b. “If I were ‘You’: How academics can stop worrying and learn to love ‘the encyclopedia that anyone can edit.’” \textit{Heroic Age} 10. \url{http://www.heroicage.org/issues/10/em.html}.}
+
+\cvitem{[16]}{r \textbf{O'Donnell, Daniel Paul}. 2007c. “Material differences: The place of Cædmon’s Hymn in the history of Anglo-Saxon vernacular poetry.” In: \textit{Cædmon’s Hymn and Material Culture in the World of Bede}, edited by Frantzen, Allen J. and Hines, John. Morgantown VA: West Virginia University Press, pp. 15–50.}
+
+\cvitem{[15]}{i \textbf{O'Donnell, Daniel Paul}. 2005a. “O Captain! My Captain! Using technology to guide readers through an electronic edition.” \textit{Heroic Age} 8. \url{http://www.heroicage.org/issues/8/em.html}.}
+
+\cvitem{[14]}{i \textbf{O'Donnell, Daniel Paul}. 2005b. “The Ghost in the Machine: Revisiting an Old Model for the Dynamic Generation of Digital Editions.” \textit{HumanIT} 8.1, pp. 51–71. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.3596125}.}
+
+\cvitem{[13]}{r \textbf{O'Donnell, Daniel Paul}. 2004a. “Bede’s Strategy in Paraphrasing Cædmon’s Hymn.” \textit{JEGP} 103, pp. 417–433.}
+
+\cvitem{[12]}{r \textbf{O'Donnell, Daniel Paul}. 2004b. “Numeric and Geometric Patterning in Cædmon’s Hymn.” \textit{ANQ} 17, pp. 3–12.}
+
+\cvitem{[11]}{i \textbf{O'Donnell, Daniel Paul}. 2004c. “The Digital Medievalist Project.” \textit{Old English Newsletter} 37, pp. 19–21.}
+
+\cvitem{[10]}{i \textbf{O'Donnell, Daniel Paul}. 2004d. “The Doomsday Machine, or, ‘If you build it, will they still come ten years from now?’: What Medievalists working in digital media can do to ensure the longevity of their research.” \textit{Heroic Age} 7. \url{http://www.heroicage.org/issues/7/ecolumn.html}.}
+
+\cvitem{[9]}{r \textbf{O'Donnell, Daniel Paul}. 2003. “‘Pioneers! O Pioneers!’: Some Electronic Editing Do’s and Don’ts from Stijn Streuvels’s De teleurgang van den Waterhoek.” \textit{Literary and Linguistic Computing}.}
+
+\cvitem{[8]}{r \textbf{O'Donnell, Daniel Paul}. 2002a. “Junius’s Knowledge of the Old English Poem Durham.” \textit{Anglo-Saxon England} 30, pp. 231–245.}
+
+\cvitem{[7]}{r \textbf{O'Donnell, Daniel Paul}. 2002b. “The Accuracy of the St. Petersburg Bede.” \textit{Notes and Queries} 247, pp. 4–6.}
+
+\cvitem{[6]}{r \textbf{O'Donnell, Daniel Paul}. 2001. “Fish and Fowl: Generic Expectations and the Relationship between the Old English Phoenix poem and Lactantius’s de ave phoenice.” In: \textit{Germanic Texts and Latin Models: Medieval Reconstructions}, edited by Olsen, K.E., Harbus, A., and Hofstra, T. Germania Latina IV. Mediaevalia Groningana, n.s. 2. Leuven, Paris and Sterling, VA: Peeters, pp. 157–171.}
+
+\cvitem{[5]}{r \textbf{O'Donnell, Daniel Paul}. 1999. “Hædre and Hædre Gehogode (Solomon and Saturn line 62b and Resignation line 63a).” \textit{Notes and Queries} 244, pp. 312–316.}
+
+\cvitem{[4]}{r \textbf{O'Donnell, Daniel Paul}. 1998. “The Spirit and the Letter: Literary Embellishment in Old Frisian Legal Texts.” \textit{Amsterdamer Beiträge zur älteren Germanistik} 49, pp. 245–256.}
+
+\cvitem{[3]}{r \textbf{O'Donnell, Daniel Paul}. 1996. “A Northumbrian Version of ‘Cædmon’s Hymn’ (eordu-recension) in Brussels Bibliothèque Royale Manuscript 8245–57 ff.62r2–v1: Identification, Edition, and Filiation.” In: \textit{Beda Venerabilis: Historian, Monk and Northumbrian}, edited by Houwen, L.A.R.J. and MacDonald, A.A. Groningen: Egbert Forsten, pp. 139–166.}
+
+\cvitem{[2]}{r \textbf{O'Donnell, Daniel Paul}. 1995. “Schoolbook Design in the Fifteenth Century.” \textit{The Yale University Library Gazette} 70, pp. 23–38.}
+
+\cvitem{[1]}{r \textbf{O'Donnell, Daniel Paul}. 1991. “The Collective Sense of Concrete Singular Nouns in Beowulf: Emendations of Sense.” \textit{Neuphilologische Mitteilungen} 92, pp. 433–440.}
+\vspace{1em}
+
+\subsection*{Article-type Publications (Novel Forms)}
+
+\cvitem{[8]}{s Eve, Martin Paul, \textbf{O'Donnell, Daniel Paul}, Neylon, Cameron, Moore, Samuel*, Gadie, Robert*, Odeniyi, Victoria*, and Parvin, Shahina*. 2021. “Reading Peer Review – What a Dataset of Peer Review Reports Can Teach Us about Changing Research Culture.” \textit{Impact of Social Sciences (blog)}, March 31. \href{https://blogs.lse.ac.uk/impactofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture}{https://blogs.lse.ac.uk/impactofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture}.}
+
+\cvitem{[7]}{s Bosman, Jeroen, Bruno, Ian, Chapman, Chris, Greshake Tzovaras, Bastian, Jacobs, Nate*, Kramer, Bianca, Martone, Maryann, Murphy, Fiona, \textbf{O'Donnell, Daniel Paul}, Bar-Sinai, Michael, Hagestrom, Stephanie, Utley, Josh, and Veksler, Lusia. 2017. “The Scholarly Commons – Principles and Practices to Guide Research Communication.” \textit{OSF Preprints}. Author order: alphabetical. \textsc{doi}: \url{https://doi.org/10.17605/OSF.IO/6C2XT}.}
+
+\cvitem{[6]}{s Moore, Samuel*, Neylon, Cameron, Eve, Martin Paul, \textbf{O'Donnell, Daniel Paul}, and Pattinson, Damian. 2016. “Excellence R Us: University Research and the Fetishisation of Excellence.” [Preprint]. Author order: random. \url{https://figshare.com/articles/Excellence_R_Us_University_Research_and_the_Fetishisation_of_Excellence/3413821}. \textsc{doi}: \url{https://doi.org/10.6084/m9.figshare.3413821.v1}.}
+\cvitem{}{\textbf{Journalism about this article:}\newline{} - Carmichael, Joe. 2016. “Science Has an Excellence Problem: Why the Incessant Quest for Academic Excellence Leads to Bad Science.” \textit{Inverse}, June 14. \url{http://bit.ly/ExcellenceInverse}\newline{} - Matthews, David. 2016. “Focus on Research ‘Excellence’ Is ‘Damaging Science.’” \textit{Times Higher Education Supplement}. \url{https://www.timeshighereducation.com/news/focus-on-research-excellence-is-damaging-science}.}
+
+\cvitem{[5]}{\textbf{O'Donnell, Daniel Paul}. 2016. “Synchronic Similarity in Scholarly Communication May Mask Diachronically Distinct Goals and Histories.” \textit{Journal of Brief Ideas}, May 30. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.53748}.}
+
+\cvitem{[4]}{\textbf{O'Donnell, Daniel Paul}. 2016. “A First Law of Humanities Computing.” \textit{Journal of Brief Ideas}, March 13. \textsc{doi}: \url{https://doi.org/10.5281/zenodo.47473}.}
+
+\cvitem{[3]}{\textbf{O'Donnell, Daniel Paul}. 2014. “The Credit Line.” \textit{Digital Humanities Now, Editors’ Choice}, July. \url{http://digitalhumanitiesnow.org/2014/07/editors-choice-the-credit-line/}.}
+
+\cvitem{[2]}{\textbf{O'Donnell, Daniel Paul}. 2012. “‘There’s No Next about It’: Stanley Fish, William Pannapacker, and the Digital Humanities as Paradiscipline.” \textit{Digital Humanities Now, Editors’ Choice}, September. \url{http://digitalhumanitiesnow.org/2012/09/editors-choice-theres-no-next-about-it-stanley-fish-william-pannapacker-and-the-digital-humanities-as-paradiscipline/}.}
+
+\cvitem{[1]}{s Earl, Jim, Conner, Pat, Jolly, Karen, Higley, Sarah, Keefer, Sarah, Hieatt, Connie, \textbf{O'Donnell, Daniel Paul}*, et al. 1990. “Bi-Coastal Beowulfians of the ’90s: A Curious ANSAXNET Conversation [Excerpted from ANSAXNET, December 1990–February 1991].” \textit{Old English Newsletter} 24(1): 36–39. Author order by contribution. \url{http://www.oenewsletter.org/OEN/archive/OEN24_1.pdf}.}
+\vspace{1em}
+
+\subsection*{Working Papers}
+
+\cvitem{[4]}{\textbf{O'Donnell, Daniel Paul}. 2016. “The DHSI Analogy: Rationale, Growth, History, and Business Model.” University of California San Diego, September 18.}
+
+\cvitem{[3]}{Co-author with the TEI Technical Council (esp. Boot, Peter; \textbf{O'Donnell, Daniel Paul}; Porter, Dot; Bodard, Gabriel; Ciula, Arianna). 2009. “Response to: Request for Information Regarding the Weekly Notes of Dr. Wernher von Braun (NNH09CAO002L).” NASA (Space Operations Directorate), August 31.}
+
+\cvitem{[2]}{\textbf{O'Donnell, Daniel Paul}, Cummings, James, and Rosselli Del Turco, Roberto. 2006. “Why Should I Write for Your Wiki?” Readex Community Academic Advisory Board, April 21.}
+
+\cvitem{[1]}{\textbf{O'Donnell, Daniel Paul}. 1999. “An Undocumented Method of Filtering and Translating Structural SGML to HTML Using Citec Multidoc Pro Style Sheets.”}
+\vspace{1em}
+
+\subsection*{Reviews and Encyclopædia Entries}
+
+\cvitem{[9]}{rsc \textbf{O'Donnell, Daniel Paul}, Copland, Colleen*, Carrell, Stephen*, Davidson, Gwendolyn*, and Grandfield, Virgil. 2016. Review of \textit{Electronic Beowulf}. \textit{Digital Medievalist} 10. \href{https://doi.org/10.16995/dm.56}{https://doi.org/10.16995/dm.56}.}
+
+\cvitem{[8]}{i \textbf{O'Donnell, Daniel Paul}. 2015. Review of \textit{A Conspectus of Scribal Hands Writing in English, 960–1100}. \textit{Journal of English and Germanic Philology} 114.2: 294–297.}
+
+\cvitem{[7]}{i \textbf{O'Donnell, Daniel Paul}. 2011. Review of June Terasawa, \textit{Old English Metre: An Introduction}. Toronto Anglo-Saxon Series. Toronto: University of Toronto Press. \textit{The Medieval Review} 2011-09-28. \href{https://scholarworks.iu.edu/dspace/bitstream/handle/2022/13595/11.09.28.html}{https://scholarworks.iu.edu/dspace/bitstream/handle/2022/13595/11.09.28.html}.}
+
+\cvitem{[6]}{i \textbf{O'Donnell, Daniel Paul}. 2009. Review of Martin Foys, \textit{Virtually Anglo-Saxon}. Florida University Press. \textit{Review of English Studies} 60: 475–476.}
+
+\cvitem{[5]}{i \textbf{O'Donnell, Daniel Paul}. 2008. Review of Thomas A. Bredehoft, \textit{Early English Metre}. Toronto Old English Series. University of Toronto Press. \textit{Heroic Age} 10.}
+
+\cvitem{[4]}{r \textbf{O'Donnell, Daniel Paul}. “Cædmon.” \textit{Wikipedia}. Featured article, June 2006–present. Published on Wikipedia’s front page, July 7, 2006, after a complete revision.}
+
+\cvitem{[3]}{i \textbf{O'Donnell, Daniel Paul}. 2002. Review of Donald Scragg and Carole Weinberg, eds., \textit{Literary Appropriations of the Anglo-Saxons from the Thirteenth to the Twentieth Centuries}. \textit{Early Medieval Europe} 11.2.}
+
+\cvitem{[2]}{i \textbf{O'Donnell, Daniel Paul}. 2002. Review of Timothy Graham, ed., \textit{The Recovery of Old English: Anglo-Saxon Studies in the Sixteenth and Seventeenth Centuries}. \textit{Early Medieval Europe} 11.1: 93–95.}
+
+\cvitem{[1]}{i \textbf{O'Donnell, Daniel Paul}. 1999. Review of Hal Momma, \textit{The Composition of Old English Poetry} (Cambridge Studies in Anglo-Saxon England, 20). \textit{Early Medieval Europe} 8.1: 163–166.}
+\vspace{1em}
+
+\section{Knowledge Mobilisation}
+\cvitem{\textbf{Summary}}{O'Donnell is a frequent contributor to knowledge mobilisation through interviews, articles, and podcasts.}
+
+\vspace{1em}
+
+\subsection*{Scholarly Interviews with Me}
+
+\cvitem{[3]}{si Eve, Martin Paul, \textbf{O'Donnell, Daniel Paul}, Gadie, Robert*, Odeniyi, Victoria*, and Parvin, Shahina*. 2021. “Reading Peer Review: PLOS One and...” Podcast interview. \textit{New Books Network}, June 1. \href{https://newbooksnetwork.com/reading-peer-review}{https://newbooksnetwork.com/reading-peer-review}}
+
+\cvitem{[2]}{i Cook, Eleanor I. and \textbf{O'Donnell, Daniel Paul}. 2019. “An Interview with Daniel O’Donnell, Current President of FORCE11.” \textit{The Serials Librarian} 76.1–2: 1–3. \href{https://doi.org/10.1080/0361526X.2019.1643437}{https://doi.org/10.1080/0361526X.2019.1643437}}
+
+\cvitem{[1]}{i Priego, Ernesto and \textbf{O'Donnell, Daniel Paul}. 2013. “Bringing Diversity of Experience Together: An Interview with Daniel O’Donnell.” \textit{4Humanities}. Accessed May 9. \href{http://4humanities.org/2013/05/interview-daniel-o-donnell/}{http://4humanities.org/2013/05/interview-daniel-o-donnell/}. Also translated into Spanish: \href{http://4humanities.org/2013/06/diversidad-y-experiencia-una-entrevi}{http://4humanities.org/2013/06/diversidad-y-experiencia-una-entrevi}, and Japanese: \href{http://www.jadh.org/godh}{http://www.jadh.org/godh}.}
+
+\subsection*{Journalism and Interviews About Me and My Work}
+
+\cvitem{[15]}{Schmidt, Scott, Appel, Jeremy, Cranker, Mo, and \textbf{O'Donnell, Daniel Paul}. 2022. “ULFA on Strike with President Dan O’Donnell.” Podcast interview. \textit{The Forgotten Corner}, Episode 63, March 17. \href{https://www.forgottencornerpod.com/episodes/episode-63-ulfa-on-strike-with-president-dan-odonnell}{https://www.forgottencornerpod.com/episodes/episode-63-ulfa-on-strike-with-president-dan-odonnell}}
+
+\cvitem{[14]}{Srivastava, Sanjay, Tullett, Alexa, and Vazire, Simine. 2017. “Excellence Adventures.” \textit{The Black Goat}, April 19. \href{https://www.theblackgoatpodcast.com/posts/excellence-adventures/}{https://www.theblackgoatpodcast.com/posts/excellence-adventures/}}
+
+\cvitem{[13]}{\textit{ULethbridge News}. 2015. “U of L Researchers Benefit from Canada Foundation for Innovation Funding.” July 29. \href{http://www.uleth.ca/unews/article/u-l-researchers-benefit-canada-foundation-innovation-funding}{http://www.uleth.ca/unews/article/u-l-researchers-benefit-canada-foundation-innovation-funding}}
+
+\cvitem{[12]}{Carmichael, Joe. 2016. “Science Has an Excellence Problem.” \textit{Inverse}, June 14. \href{http://bit.ly/ExcellenceInverse}{http://bit.ly/ExcellenceInverse}}
+
+\cvitem{[11]}{Matthews, David. 2016. “Focus on Research ‘Excellence’ Is ‘Damaging Science.’” \textit{Times Higher Education Supplement}. \href{https://www.timeshighereducation.com/news/focus-on-research-excellence-is-damaging-science}{https://www.timeshighereducation.com/news/focus-on-research-excellence-is-damaging-science}}
+
+\cvitem{[10]}{Cooney, Bob. 2012. “O’Donnell, Graham Bring 3D Imaging to Ancient Cross.” \textit{ULethbridge News}, June 18. \href{http://www.uleth.ca/unews/article/odonnell-graham-bring-3d-imaging-ancient-cross}{http://www.uleth.ca/unews/article/odonnell-graham-bring-3d-imaging-ancient-cross}}
+
+\cvitem{[9]}{\textit{Dumfries and Galloway Standard}. 2012. “Centuries-Old Tale Gets Modern Twist.” April 20, p. 9.}
+
+\cvitem{[8]}{Interview about “The Copy-and-Paste Generation” (\textit{National Post}) on Shaw TV, Lethbridge, September 22, 2010.}
+
+\cvitem{[7]}{Interview about “Gun-list Debate Way Off Target” (\textit{Globe and Mail}) on CBC Radio One’s \textit{Cross Country Checkup}, September 19, 2010. \href{http://bit.ly/cFsK8B}{http://bit.ly/cFsK8B}. Podcast: \href{http://bit.ly/d1EN3h}{http://bit.ly/d1EN3h} (at 32’).}
+
+\cvitem{[6]}{Interview about “Gun-list Debate Way Off Target” (\textit{Globe and Mail}) on CBC Radio One (Winnipeg), \textit{Information Radio}, September 15, 2010.}
+  
+\cvitem{[5]}{Interview about “The Copy-and-Paste Generation” (\textit{National Post}) on CFAX 1070, September 8, 2010.}
+
+\cvitem{[4]}{Interview about academic use of Wikipedia: CBC Radio One (British Columbia), \textit{BC Almanac}, March 3, 2008.}  
+\cvitem{[3]}{Interview about academic use of Wikipedia: CBC Radio One (Alberta), \textit{Wild Rose Country}, February 12, 2008.}  
+\cvitem{[2]}{Interview about “Cædmon’s Hymn” and TEI: CBC Radio One (Alberta), \textit{Wild Rose Country}, December 21, 2006.}  
+\cvitem{[1]}{Interview about coverage of second Iraq war: \textit{Lethbridge Herald}. 2003. “Iraq War Coverage More Balanced than 1991: Prof.” April 3.}
+\vspace{1em}
+
+\subsection*{Journalism by Me}
+
+\cvitem{[19]}{\textbf{O'Donnell, Daniel Paul}. 2025. “One Moment Captured Poilievre’s Fatal Weakness.” \textit{The Lethbridge Herald}, May 1. \href{https://lethbridgeherald.com/commentary/opinions/2025/05/01/one-moment-captured-poilievres-fatal-weakness/}{https://lethbridgeherald.com/commentary/opinions/2025/05/01/one-moment-captured-poilievres-fatal-weakness/}}
+
+\cvitem{[18]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Future Generations Can Learn from Documents Written for the Present.” \textit{The Lethbridge Herald}, December 13. \href{https://lethbridgeherald.com/commentary/opinions/2024/12/13/future-generations-can-learn-from-documents-written-for-the-present/}{https://lethbridgeherald.com/commentary/opinions/2024/12/13/future-generations-can-learn-from-documents-written-for-the-present/}}
+
+\cvitem{[17]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Success of the University of Lethbridge Facing a Real Threat.” \textit{The Lethbridge Herald}, December 6. \href{https://lethbridgeherald.com/commentary/opinions/2024/12/06/success-of-the-university-of-lethbridge-facing-a-real-threat/}{https://lethbridgeherald.com/commentary/opinions/2024/12/06/success-of-the-university-of-lethbridge-facing-a-real-threat/}}
+
+\cvitem{[16]}{\textbf{O'Donnell, Daniel Paul}. 2024. “It’s Better for All of Us to Engage with People Who Aren’t like Us.” \textit{The Lethbridge Herald}, November 30. \href{https://lethbridgeherald.com/commentary/opinions/2024/11/30/its-better-for-all-of-us-to-engage-with-people-who-arent-like-us/}{https://lethbridgeherald.com/commentary/opinions/2024/11/30/its-better-for-all-of-us-to-engage-with-people-who-arent-like-us/}}
+
+\cvitem{[15]}{\textbf{O'Donnell, Daniel Paul}. 2024. “The Data We Willingly or Unwittingly Provide to Companies Works for Them.” \textit{The Lethbridge Herald}, November 22. \href{https://lethbridgeherald.com/commentary/opinions/2024/11/22/the-data-we-willingly-or-unwittingly-provide-to-companies-works-for-them/}{https://lethbridgeherald.com/commentary/opinions/2024/11/22/the-data-we-willingly-or-unwittingly-provide-to-companies-works-for-them/}}
+
+\cvitem{[14]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Enthusiasm for University’s Annual Open House as High as Ever.” \textit{The Lethbridge Herald}, November 2. \href{https://lethbridgeherald.com/commentary/opinions/2024/11/02/enthusiasm-for-universitys-annual-open-house-as-high-as-ever/}{https://lethbridgeherald.com/commentary/opinions/2024/11/02/enthusiasm-for-universitys-annual-open-house-as-high-as-ever/}}
+
+\cvitem{[13]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Chatbots Know Nothing but Sound like Experts on Everything.” \textit{The Lethbridge Herald}, October 23. \href{https://lethbridgeherald.com/commentary/opinions/2024/10/23/chatbots-know-nothing-but-sound-like-experts-on-everything/}{https://lethbridgeherald.com/commentary/opinions/2024/10/23/chatbots-know-nothing-but-sound-like-experts-on-everything/}}
+
+\cvitem{[12]}{\textbf{O'Donnell, Daniel Paul}. 2024. “A Tale of Two Edmontons Seen at Awards.” \textit{Lethbridge Herald}, October 4. \href{https://lethbridgeherald.com/commentary/opinions/2024/10/04/a-tale-of-two-edmontons-seen-at-awards/}{https://lethbridgeherald.com/commentary/opinions/2024/10/04/a-tale-of-two-edmontons-seen-at-awards/}}
+
+\cvitem{[13]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Communication and Leadership a Matter of Trust.” \textit{Lethbridge Herald}, September 20. \href{https://lethbridgeherald.com/commentary/opinions/2024/09/20/communication-and-leadership-a-matter-of-trust/}{https://lethbridgeherald.com/commentary/opinions/2024/09/20/communication-and-leadership-a-matter-of-trust/}}
+
+\cvitem{[11]}{\textbf{O'Donnell, Daniel Paul}. 2024. “Has the University of Lethbridge Lost Its Soul?” \textit{Lethbridge Herald}, September 6. \href{https://lethbridgeherald.com/commentary/opinions/2024/09/06/has-the-university-of-lethbridge-lost-its-soul/}{https://lethbridgeherald.com/commentary/opinions/2024/09/06/has-the-university-of-lethbridge-lost-its-soul/}}
+
+\cvitem{[10]}{\textbf{O'Donnell, Daniel Paul}. 2023. “Reflections on the U of L a Year after Strike/Lockout.” \textit{Lethbridge Herald}, March 21. \href{https://lethbridgeherald.com/commentary/opinions/2023/03/21/reflections-on-the-u-of-l-a-year-after-strike-lockout/}{https://lethbridgeherald.com/commentary/opinions/2023/03/21/reflections-on-the-u-of-l-a-year-after-strike-lockout/}}
+
+\cvitem{[9]}{\textbf{O'Donnell, Daniel Paul}. 2022. “When the Ivy Tower Is a Fishing Hole.” \textit{Lethbridge Herald}, January 12. \href{https://lethbridgeherald.com/commentary/opinions/2022/01/12/when-the-ivy-tower-is-a-fishing-hole/}{https://lethbridgeherald.com/commentary/opinions/2022/01/12/when-the-ivy-tower-is-a-fishing-hole/}}
+
+\cvitem{[8]}{\textbf{O'Donnell, Daniel Paul}. 2022. “Maybe We Need to Start Demonstrating Again.” \textit{Lethbridge Herald}, January 29. \href{https://lethbridgeherald.com/commentary/opinions/2021/12/08/maybe-we-need-to-start-demonstrating-again/}{https://lethbridgeherald.com/commentary/opinions/2021/12/08/maybe-we-need-to-start-demonstrating-again/}}
+
+\cvitem{[7]}{\textbf{O'Donnell, Daniel Paul}. 2021. “There Is Still Time to Turn Things Around at the U of L.” \textit{Lethbridge Herald}, September 10. \href{https://lethbridgeherald.com/commentary/14opinions/2021/09/10/there-is-still-time-to-turn-things-around-at-u-of-l/}{https://lethbridgeherald.com/commentary/14opinions/2021/09/10/there-is-still-time-to-turn-things-around-at-u-of-l/}}
+
+\cvitem{[6]}{\textbf{O'Donnell, Daniel Paul}. 2016. “Customized Pronouns: A Good Idea That Makes No Sense.” \textit{The Globe and Mail}, October 15. \href{https://www.theglobeandmail.com/opinion/customized-pronouns-a-good-idea-that-makes-no-sense/article32373933/}{https://www.theglobeandmail.com/opinion/customized-pronouns-a-good-idea-that-makes-no-sense/article32373933/}}
+
+\cvitem{[5]}{\textbf{O'Donnell, Daniel Paul}. 2012. “Why Isn’t the Internet Obsolete?” \textit{Lethbridge Herald}, February 18. \href{http://www.lethbridgeherald.com/public-professor/why-isnt-the-internet-obsolete-21812.html}{http://www.lethbridgeherald.com/public-professor/why-isnt-the-internet-obsolete-21812.html}}
+
+\cvitem{[4]}{\textbf{O'Donnell, Daniel Paul}. 2010. “Gun-list Debate Way Off Target.” \textit{The Globe and Mail}, September 14, A15. \href{http://bit.ly/cxjGGZ}{http://bit.ly/cxjGGZ}}
+
+\cvitem{[3]}{\textbf{O'Donnell, Daniel Paul}. 2010. “The Copy-and-Paste Generation.” \textit{National Post}, September 7, A15. \href{http://bit.ly/bMl5Nw}{http://bit.ly/bMl5Nw}}
+
+\cvitem{[2]}{\textbf{O'Donnell, Daniel Paul}. 2010. “Humanities, Not Science, Key to New Web Frontier.” \textit{Edmonton Journal}, July 21. \href{http://bit.ly/aApodN}{http://bit.ly/aApodN}}
+
+\cvitem{[1]}{\textbf{O'Donnell, Daniel Paul}. 2004. “More Research Money Needed for Social Science and Humanities.” \textit{CBC Radio One}, March 15. Transcript: \href{http://bit.ly/akgKs9}{http://bit.ly/akgKs9}}
+\vspace{1em}
+
+
+\section{Conference Organisation}
+
+\subsection*{Summer Schools}
+
+\cvitem{2022}{\textbf{Force11 Scholarly Communications Institute}. Member: Steering Committee, Program Committee, Local Organizing Committee, Code of Conduct Committee. \textit{UCLA online}, August. \url{http://force11.org/fsci}}
+
+\cvitem{2021}{\textbf{Force11 Scholarly Communications Institute}. Member: Steering Committee, Program Committee, Local Organizing Committee, Code of Conduct Committee. \textit{UCLA online}, August. \url{http://force11.org/fsci}}
+
+\cvitem{2020}{\textbf{Force11 Scholarly Communications Institute}. Chair: Steering Committee and Code of Conduct Committee; Member: Program Committee, Local Organizing Committee. \textit{UCLA online}, August. \url{http://force11.org/fsci}}
+
+\cvitem{2019}{\textbf{Force11 Scholarly Communications Institute}. Chair: Steering Committee and Code of Conduct Committee; Member: Program Committee, Local Organizing Committee. \textit{UCLA}, August.}
+
+\cvitem{2018}{\textbf{Force11 Scholarly Communications Institute}. Chair: Steering Committee and Code of Conduct Committee (co-chair); Member: Program Committee, Local Organizing Committee. \textit{UC San Diego}, July–August.}
+
+\cvitem{2017}{\textbf{Force11 Scholarly Communications Institute}. Chair: Steering Committee and Code of Conduct Committee (co-chair); Member: Program Committee, Local Organizing Committee. \textit{UC San Diego}, July–August.}
+
+\subsection*{Conferences, Sessions, and Workshops Organized (selected)}
+
+\cvitem{2021}{\textbf{Open and Inclusive Access to Research (OIAR)}. Co-organizer with Gimena del Rio and Wouter Schallier. \textit{Online}, Nov. 8–11. SSHRC Connections. \url{http://openandinclusiveaccesstoresearch.org}}
+
+\cvitem{2019}{\textbf{Diversity Workshop WIDH}. Co-designer and co-instructor (led by Barbara Bordalejo). \textit{IIT Gandhinagar, India}, December.}
+
+\cvitem{2019}{\textbf{Diversity Workshop DH}. Co-designer and co-instructor (led by Barbara Bordalejo). \textit{Utrecht}, June.}
+
+\cvitem{2018}{\textbf{Force 2018}. Member, Organizing Committee. \textit{Montreal}, October 11–12.}
+
+\cvitem{2018}{\textbf{FSCI 2018}. Chair, Organizing Committee. \textit{San Diego}, July 30–August 3.}
+
+\cvitem{2018}{\textbf{Collaboration and the Scholarly Commons}. Co-designer and instructor. \textit{FSCI, San Diego}, July 30–August 3. With Victoria Antonova, Maryann Martone, and Sergey Parinov.}
+
+\cvitem{2018}{\textbf{Open South: The Open Science Experience in Latin America and the Caribbean}. Co-designer and instructor. \textit{FSCI, San Diego}, July 30–August 3. With Gimena del Rio, April Hathcock, and Wouter Schallier.}
+
+\cvitem{2018}{\textbf{Walking the Walk: Best Practice in Fair and Open Evaluation}. Co-designer and instructor. \textit{FSCI, San Diego}, July 30–August 3. With David De Roure, Allegra Swift, and Stefan Tanaka.}
+
+\cvitem{2017}{\textbf{Global South}. Co-designer and instructor. \textit{FSCI, San Diego}, July 29–August 2. With Robin Champieux and Gimena del Rio.}
+
+\cvitem{2017}{\textbf{FSCI 2017}. Chair, Organizing Committee. \textit{San Diego}, July 29–August 2.}
+
+\cvitem{2017}{\textbf{The Scholarly Commons}. Designer and instructor. \textit{1st Lagos Summer School in Digital Humanities}, University of Lagos, Nigeria. July 12--14.}
+
+\cvitem{2017}{\textbf{Negotiation Skills Workshop}. Organizer and instructor. 6-week (18-hour) workshop. \textit{University of Lethbridge}, Feb. 21–Mar. 28.}
+
+\cvitem{2014}{\textbf{Global Outlook::Digital Humanities}. Paper session organizer. \textit{DH 2014, Lausanne}, July 9. With Barbara Bordalejo, Alex Gil, Roopika Risam, Paul Spence, Elena González-Blanco.}
+
+\cvitem{2014}{\textbf{GO::DH Minimal Computing Working Group}. Workshop co-lead. \textit{DH 2014, Lausanne}, July 8. With John Edward Simpson, Jentery Sayers, Alex Gil.}
+
+\cvitem{2014}{\textbf{DH 2014, Lausanne}. Member, Conference Organizing Committee. Lausanne, Switzerland.}
+
+\cvitem{2014}{\textbf{2° Encuentro de humanistas digitales}. Member, Organizing Committee. Mexico, May 21–23.}
+
+\cvitem{2014}{\textbf{Text Encoding}. Instructor. \textit{2° Encuentro de humanistas digitales}, Mexico. May 20.}
+
+\cvitem{2013}{\textbf{Immersive Interpretation and the Small Cultural Heritage Site: Ruthwell Kirk}. Session organizer. \textit{CSDH}, Victoria. June 5.}
+
+\cvitem{2013}{\textbf{Digital Humanities in Africa: The Case of Nigeria}. Session organizer. \textit{CSDH}, Victoria. June 3.}
+
+\cvitem{2012}{\textbf{Global Outlook::Digital Humanities}. Unconference workshop organizer. Havana. December 13. With Alex Gil, Neil Fraistat, Ray Siemens.}
+
+\cvitem{2012}{\textbf{DH 2012 Hamburg}. Member, Conference Organizing Committee. July–August.}
+
+\cvitem{2012}{\textbf{CSDH-SCHN Conference}. Organizing Committee member. Waterloo. June.}
+
+\cvitem{2011}{\textbf{TEI Members Meeting and Conference}. Organizing Committee member. Würzburg, Germany. November.}
+
+\cvitem{2010}{\textbf{TEI Members Meeting and Conference}. Organizing Committee member. University of Zadar, Croatia. November.}
+
+\cvitem{2009}{\textbf{TEI Members Meeting and Conference}. Organizing Committee member. University of Michigan, Ann Arbor. November.}
+
+\cvitem{2009}{\textbf{Digital Medievalist Day}. Organizing Committee member. ENS-Lyons. April.}
+
+\cvitem{2008}{\textbf{TEI Members Meeting and Conference}. Organizing Committee member. University of Maryland. November.}
+
+\cvitem{2008}{\textbf{TEI Members Meeting and Conference}. Organizing Committee member. King's College London. November.}
+
+\cvitem{2008}{\textbf{CASTA Conference}. Organizing Committee member. University of Saskatchewan. October.}
+
+
+
+\section {Lectures and Presentations}
+
+\cvitem{[128]}{i Daniel Paul O’Donnell. 2024. “Academic Freedom, Privilege, and Intersectionality.” July 29.  Force11 Scholarly Communications Institute (FSCI), Los Angeles. Zenodo. https://doi.org/10.5281/zenodo.13121345}
+
+\cvitem{[127]}{rs Bordalejo, Barbara, Davide Pafumi, Frank Onuh, AKM Iftekhar Khalid, and Daniel O’Donnell. 2024. “Scarlet Cloak and the Forest Adventure: The Issue of False Positives in AI Detection Tools.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal. https://doi.org/10.5281/zenodo.12011536.}
+
+\cvitem{[126]}{rs Bordalejo, Barbara, Davide Pafumi, Morgan Slayde Pearce, and Daniel O’Donnell. 2024. “Adapting a Research Tool for Teaching in a Post-Pandemic World.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal.  https://doi.org/10.5281/zenodo.12018101.}
+
+\cvitem{[125]}{r O’Donnell, Daniel Paul, Barbara Bordalejo, and Nathan D. Woods. 2024. “Data in/And Mediaeval Studies.” International Congress on Medieval Studies. Kalamazoo. May 11. https://doi.org/10.5281/zenodo.11179271.}
+
+\cvitem{[124]}{r Woods, Nathan, Barbara Bordalejo, and Daniel O’Donnell. 2023. “Data Problems in the Humanities, or ‘When Everybody Is Special, No One Is’?” October 3. https://doi.org/10.5281/zenodo.8403789.}
+
+\cvitem{[123]}{r Bordalejo, Barbara, Daniel Paul O’Donnell, and Nathan Woods. 2023. “The Implications of Multiple Hierarchies for the Future of Humanities Data: Or, What Is a Markup Language, Actually?” October 5. https://doi.org/10.5281/zenodo.8411165.}
+
+\cvitem{[122]}{r O’donnell, Bordalejo, and Woods. 2023. “Representational Data:  A Case Study.” May 30.  Congress of the Social Sciences and Humanities. https://doi.org/10.5281/zenodo.7986430.}
+
+\cvitem{[121]}{r Daniel Paul O’Donnell, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data projects/Big Data research: contemporary problems and historical solutions.” DH 2022 (Tokyo/online). July 28. https://doi.org/10.5281/zenodo.6857202.}
+
+\cvitem{[120]}{Daniel Paul O’Donnell. 2022. “‘Good things come in small packets’: Investigating Humanities Research Data Practices: A Community of Practice Approach.” FSCI 2022. Lightning Talks. July 25-29. https://doi.org/10.5281/zenodo.6902821.}
+
+\cvitem{[119]}{i Daniel Paul O’Donnell. 2022. “REPO: Reimagining Educational Practices for Open 2020-2021.” FSCI 2022. Force11 Working Group Bazaar. July 25. https://doi.org/10.5281/zenodo.6902861.}
+
+\cvitem{[118]}{r Daniel Paul O’Donnell, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data Management in Humanities and Cultural Heritage Projects.” DH Unbound. May 17. https://doi.org/10.5281/zenodo.6773410.}
+
+\cvitem{[117]}{i Daniel Paul O’Donnell. 2022. “Thinking about CARE principles in the Digital Humanities.  Why CARE may not be only a matter for researchers working with indigenous peoples.” RDA-DU. Online. Feb 21.}
+
+\cvitem{[116]}{i Daniel P. O'Donnell. 2021. ''Thinking about CARE principles in the Digital Humanities. Why CARE may not be only a matter for researchers working with indigenous peoples.” DARIAH Friday Frontiers. Online. October. France. October 8.}
+
+\cvitem{[115]}{i Daniel P. O'Donnell, Rosselli Del Turco R. 2020. 'Methods and tools to build a web-based edition on the basis of FAIR/OA data'. Assemblée Générale du consortium Cahier. France. November 27. https://cahier.hypotheses.org/5384.}
+
+\cvitem{[114]}{i O'Donnell, Daniel. (2020, August). How to make a manifesto… and not: Principles of the Scholarly Commons as Case History (Version Presentation). Presented at the Force11 Scholarly Communication Institute 2020 Online (FSCI 2020 Online), Online: Zenodo. http://doi.org/10.5281/zenodo.3979532.}
+
+\cvitem{[113]}{r Bordalejo, Barbara, Folgert Karsdorp, Daniel ODonnell, Basten Stokhuyzen, and Karina Van Dalen-Oskam. 2020. “Check Your Privilege: The Digital Privilege Game.” Congress 2020 (online). June 5. Published in Building Community Online. https://hcommons.org/deposits/item/hc:30179.}
+
+\cvitem{[112]}{i O’Donnell, Daniel, and Virgil Grandfield. 2020. “The Lethbridge Journal Incubator: A Collaborative Student-Expert Open Access Publishing Model.” Open Publishing Fest. May 28. https://doi.org/10.5281/zenodo.3863022.}
+
+\cvitem{[111]}{i O’Donnell, Daniel Paul. 2019. Publishing (and Forgetting) the Small or Medium-sized Scholarly Edition or Cultural Heritage Collection as Linked Open Data: Using Zenodo and Github to Publish the Visionary Cross Project. Winter Institute in Digital Humanities. IIT Gandhinagar. Palaj, India. December 20. https://zenodo.org/record/3586007. (Updated version of DH2019 presentation).}
+
+\cvitem{[110]}{i O’Donnell, Daniel Paul. 2019. Small, thick, and slow: Towards an Open and FAIR data culture in the Humanities. Winter Institute in Digital Humanities. IIT Gandhinagar. Palaj, India. December 18. https://zenodo.org/record/3581520.}
+
+\cvitem{[109]}{r O’Donnell, Daniel Paul. 2019. Publishing (and Forgetting) the Small or Medium-sized Scholarly Edition or Cultural Heritage Collection as Linked Open Data: Using Zenodo and Github to Publish the Visionary Cross Project. Digital Humanities 2019. Utrecht, Netherlands. July 10. https://zenodo.org/record/3586007.}
+
+\cvitem{[108]}{i O’Donnell, Daniel Paul. 2019. Small, thick, and slow: Thinking about data and research publication in the Humanities in the age of Open and FAIR. Curtin University. Perth, Australia. November 25, 2019. https://zenodo.org/record/3554760.}
+
+\cvitem{[107]}{i O’Donnell, Daniel Paul. 2018. The Nature of Humanities Data. Open Science Infrastructures for Big Cultural Data: International Advanced Masterclass. Plovdiv, Bulgaria. December 14. http://doi.org/10.5281/zenodo.2246390.}
+
+\cvitem{[106]}{i O’Donnell, Daniel Paul. 2018. The Humanities and New Technologies: Exploring Digital Tools for Innovation and Development. Keynote address. 2nd Lagos Summer School in Digital Humanities. University of Lagos, Nigeria. October 2. https://doi.org/10.5281/zenodo.1443255.}
+
+\cvitem{[105]}{i O’Donnell, Daniel Paul. 2018. Open Access/Open Science and the Humanities on a Cross-Regional Basis. Invited lecture. Elizade University, Ilara-Mokin, Nigeria. Sept. 28. https://doi.org/10.5281/zenodo.1455735.}
+
+\cvitem{[104]}{i O’Donnell, Daniel Paul. 2018. Sometimes a poet is just a poet: Reading Bede reading Cædmon’s inspiration in light of Germanic Tradition and cultural analogues. Invited lecture. XIX Seminario Avanzato in Filologia Germanica "Sogni, Visioni e Profezie nella letteratura Germanica medievale. Università degli studi di Torino. Sept. 18. http://doi.org/10.5281/zenodo.2222396.}
+
+\cvitem{[103]}{r O’Donnell, Daniel Paul. 2018. Open in the Digital Humanities. Some thoughts on cross-disciplinary similarity and difference. DH 2018. Mexico City.}
+
+\cvitem{[102]}{i O’Donnell, Daniel Paul. 2018. Le goût de la mer: Teaching Research. Invited lecture. University of Saskatchewan. May 8.}
+
+\cvitem{[101]}{isc Bar-Sinai, Michael, Jeroen Bosman, Ian Bruno, Chris Chapman, Bastian Greshake Tzovaras, Stephanie Hagstrom, Nate Jacobs, Bianca Kramer, Maryann Martone, Fiona Murphy, Daniel Paul O'Donnell [alphabetical order]. 2018. “Hier stehe ich! Operationalising conviction in the Scholarly Commons.” McGill. April 4.}
+
+\cvitem{[100]}{i O'Donnell, Daniel Paul 2017. 'How to Start an Open Access Journal'. Open Access Week. Lethbridge. Canada.}
+
+\cvitem{[99]}{rs Heather Bliss, Inge Genee, Marie Odile Junker, and Daniel Paul O’Donnell, 2017. “Credit where credit is due”: How to handle attribution, copyright, and intellectual property in on-line digital resources for Algonquian languages.” The Algonguin Conference, Université de Montréal. October 28.}
+
+\cvitem{[98]}{i O’Donnell, Daniel Paul. 2017. Humanities in the Age of Technology [Keynote]. 1st Lagos Summer School in Digital Humanities. University of Lagos, Nigeria. July 11.}
+
+\cvitem{[97]}{rs Esau, Paul, Carey Viejou, Sylvia Chow, Jarret McKinnon, Reed Parsons, and Daniel Paul O'Donnell. 2017. First World Problems: Publishing a Graduate Student Journal in the Anglophone Global North Using Minimal Computing Techniques. Session 9a: Open Access/Social Scholarship. Canadian Society for Digital Humanities/Société canadienne des humanités numériques. Congress 2017. Ryerson University, Toronto. May 31.}
+
+\cvitem{[96]}{rsc O’Donnell. Daniel Paul, Dot Porter, Roberto Rosselli Del Turco, Gurpreet Singh. 2017. Let’s Get Nekkid! Stripping the User Experience to the Bare Essentials. Sesion 5a: Digital Editions. Canadian Society for Digital Humanities/Société canadienne des humanités numériques. Congress 2017. Ryerson University, Toronto. May 30.}
+
+\cvitem{[95]}{rs Esau, Paul, Carey Viejou, and Daniel Paul O’Donnell. 2017. Publishing the Unpublishable: The Story of a Graduate Journal and a University that Wouldn’t Submit to it. Canadian Association of Learned Journals. Congress 2017. Ryerson University, Toronto. May 27.}
+
+\cvitem{[94]}{i O’Donnell, Daniel Paul. 2017. “The Bird in Hand: Humanities research in the age of open data.” Research Data Management Interdisciplinary Panel Discussion. Centre for the Study of Scholarly Communication. University Library. University of Lethbridge. March 16.}
+
+\cvitem{[93]}{i O’Donnell, Daniel Paul. 2017. “When is infrastructure really a project?.” Open Scientific Infrastructure: in Search of a Development Model. Gaidar Forum: Russia and the World: The Choice of Priorities. Russian Presidential Academy of National Economy and Public Administration. Moscow. January 14.}
+
+\cvitem{[92]}{i O’Donnell, Daniel Paul. 2016. “Length and Breadth: Why diversity is a core intellectual value in the Digital Humanities.” Intersectionality in Digital Humanities Conference. KU Leuven. September 15.}
+
+\cvitem{[91]}{r O’Donnell, Daniel Paul. 2016. All along the Watchtower: An interdisciplinary approach to understanding the importance technical, disciplinary, and interpersonal diversity within the Digital Humanities. DH 2016. Krakow. July 12.}
+
+\cvitem{[90]}{rs O’Donnell, Daniel Paul and Shelaigh Brantford. 2016. “The tip of the iceberg: Transparency and diversity in contemporary DH.” Congress 2016. University of Calgary. June 1. Summarised by Geoffrey Rockwell at http://philosophi.ca/pmwiki.php/Main/CSDH-CGSA2016.}
+
+\cvitem{[89]}{Bosman, Jeroen, Ian Bruno, Amy Buckland, Sarah Callaghan, Robin Champieux, Chris Chapman, Stephanie Hagstrom, Bianca Kramer, MaryAnn Martone, Daniel Paul O'Donnell. 2016. Scholarly Commons Working Group Webinar. Force11.org. May 24. https://www.force11.org/group/SCWG/May24webinar}
+
+\cvitem{[88]}{i O’Donnell, Daniel Paul. 2016. “All Growed Up: Preparing Gold Open Access Journals for a Post-Incubator Life. Some lessons on transitions and new beginnings.” OA@UNT. University of North Texas. May 20.}
+
+\cvitem{[87]}{i O’Donnell. Daniel Paul. 2016. The Visionary Cross Project and the Lethbridge Journal Incubator. Lethbridge SSHRC Showcase. April 29, 2016.}
+
+\cvitem{[86]}{ir O’Donnell, Daniel Paul. 2016. Est ce qu’il y a de hors-edition? or, Can you edit everything? MLA 2016 Austin. Session 215 Editing Unruly Objects. January 8.}
+
+\cvitem{[85]}{r Moore, Samuel, Damian Pattison, Cameron Naylon, Daniel O'Donnell. 2015. The Quality of Qualities. Excellence and Soundness in Scholarly Communication. Mellon Triangle Scholarly Communication Workshop. Durham/Raleigh. UNC. October 12-16.}
+
+\cvitem{[84]}{r Ortega, Élika, Alex Gil, Daniel Paul O'Donnell. 2015. “Psst! An Informal Approach to Expanding the Linguistic Range of the Digital Humanities.” Digital Humanities 2015. Melbourne. July 1.}
+
+\cvitem{[83]}{r O'Donnell, Daniel Paul, Gurpreet Singh, Rachel Hanks, Roberto Rosselli Del Turco. 2015. “The Old Familiar Faces: On the Consumption of Digital Scholarship.” Digital Humanities 2015. Melbourne. July 2.}
+
+\cvitem{[82]}{r O'Donnell, Daniel Paul. 2015. “Est ce qu’il y a de hors-edition? or, Can you edit everything?” Canadian Society for Digital Humanities. Congress of the Humanities and Social Sciences. Ottawa. June 3.}
+
+\cvitem{[81]}{O'Donnell, Daniel Paul, Rachel Hanks, Gurpreet Singh, Roberto Rosselli Del Turco. 2015. “The Old Familiar Faces: On the consumption of (digital) textual scholarship.” Highway 2 Conference, University of Lethbridge May 9.}
+
+\cvitem{[80]}{r O’Donnell, Daniel Paul. 2015. “The 'Unessay': A new approach to not teaching composition.” Spark. University of Lethbridge. April 30.}
+
+\cvitem{[79]}{i O’Donnell, Daniel Paul. 2015. ““If 'if's and 'and's were pots and pans...”: Aligning Open Access Publication with the Research and Teaching Missions of the Public University: The Case of the Lethbridge Journal Incubator.” Advancing Research Communication and Scholarship. Philadelphia. April 15.}
+
+\cvitem{[78]}{i O’Donnell, Daniel Paul. 2015. “‘Living Out Loud: Public Humanities and an Eight Century Cross.” North Carolina State University. April 15.}
+
+\cvitem{[77]}{i O’Donnell, Daniel Paul. 2015. “Critical Mass: Online Communities and the Advancement of Research Communication.” Maynooth University (Ireland). March 5.}
+
+\cvitem{[76]}{i O’Donnell, Daniel Paul. 2015. “‘Living Out Loud: The Visionary Cross Project and the Public Humanities.” Maynooth University (Ireland). March 5.}
+
+\cvitem{[75]}{i O’Donnell, Daniel Paul. 2015. “‘All Together Now...’ Mobilising the (digital) Humanities in the Information Age.” Brigham Young University. February 2.}
+
+\cvitem{[74]}{i O’Donnell, Daniel Paul. 2015. “‘All Together Now...’ Mobilising the (digital) Humanities in the Information Age.” University of Balamand (Lebanon). January 16.}
+
+\cvitem{[73]}{r O’Donnell, Daniel Paul. 2015. “First thing we do, let's kill all the authors. On subverting scientific and scholarly authorship.” Force 2015. Oxford. January 13.}
+
+\cvitem{[72]}{i O’Donnell, Daniel Paul. 2014. “‘All Together Now...’ Mobilising the (digital) Humanities in the Information Age” Universität Basel, October 13. http://www.slideshare.net/caedmon/20141013-basel.}
+
+\cvitem{[71]}{i O'Donnell, Daniel Paul, Alex Gil. “Globalisation.” Around the world. A worldwide collaborative conference on privacy and surveillance in the digital age. Hosted by the Kule Institute for Advanced Study. May 21, 2014. http://aroundtheworld.ualberta.ca/2014/06/ulethbridge-and-columbia/}
+
+\cvitem{[70]}{i Rockwell, Geoffrey, Michael Sinatra, Susan Brown, Dean Irvine, Ray Siemens, Stefan Sinclair, Daniel Paul O'Donnell. “Problems to be solved in DigHum: The Large-Scale Digital Humanities. Opportunities and challenges of distributed large-scale data to the humanities.” GRAND Ottawa. May 14, 2014.}
+
+\cvitem{[69]}{i O'Donnell, Daniel Paul, et al. “The Lethbridge Journal Incubator: A new business model for Open Access journal publication.” Elsevier Labs (Virtual presentation). February 18, 2014.}
+
+\cvitem{[68]}{i Hobma, Heather and Daniel Paul O'Donnell. “Living out loud: The Visionary Cross Project and the Public Humanities.” CMRS/ETRUS. University of Saskatchewan. Saskatoon. January 16, 2014.}
+
+\cvitem{[67]}{i O'Donnell, Daniel Paul, et al. “Class 2.0: Digital technology and digital rhetorics in the undergraduate classroom.” Department of English, University of Saskatchewan. Saskatoon. January  15, 2014. Also presented to the Department of English, University of Lethbridge. February 7, 2014.}
+
+\cvitem{[66]}{i O'Donnell, Daniel Paul, et al. “The Lethbridge Journal Incubator. Leveraging Open Access Publication to Increase the Training and Research Capacity of the University.” Western Humanities Associate 2013. University of California San Diego. November 1, 2013.}
+
+\cvitem{[65]}{r Leoni, Chiara, Marco Callieri, Matteo Dellepiane, Roberto Rosselli del Turco, Daniel Paul O’Donnell, and Roberto Scopigno. Forthcoming. “The Dream and the Cross: A 3D-Referenced, Web-Based Digital Edition.” Digital Heritage International Conference 2013. Marseille. Monday, October 28, 2013. This also won best paper prize.}
+
+\cvitem{[64]}{i O'Donnell, Daniel Paul. “This changes everything! The “Digital Turn” and the Institutional Practice of the Humanities.” I Seminário Internacional em Humanidades Digitais no Brasil. Universidade de São Paulo.  October 23, 2013.}
+
+\cvitem{[63]}{r Daniel Paul O'Donnell, et al. “The The Visionary Cross Project.” ISAS 2013 (International Society of Anglo-Saxonists). Trinity College and University College Dublin.  29 July, 2013.}
+
+\cvitem{[62]}{O'Donnell, Daniel Paul, et al. “The Unessay, or, The Pedagogy of Screwing Around. A Digital Humanities Approach to Teaching Scholarly Writing.” Pedagogy Lightening Talks. Digital Humanities 2013. University of Nebraska. 17 July, 2013.}
+
+\cvitem{[61]}{r O'Donnell, Daniel Paul. “Everything that Rises Must Converge: On the Convergence of Informational and Critical Approaches to Textual, Cultural, and Material Heritage.” Medieval Cultural, Textual, and Material Culture in the Digital Age. Leeds International Medieval Congress. University of Leeds. 1 July, 2013. Different Version also delivered to Social Digital Scholarly Editing 2013. University of Saskatoon. 11 July, 2013.}
+
+\cvitem{[60]}{s r O'Donnell, Daniel Paul. “The end of history: A case study in the practice of digital popular knowledge mobilization.” Refereed Lecture. Immersive interpretation and the small cultural heritage site: the case of Ruthwell Kirk. Canadian Society for Digital Humanities. Victoria. 5 June, 2013.}
+
+\cvitem{[59]}{r O'Donnell, Daniel Paul. “The Old Familiar Faces: On the consumption of (digital) textual scholarship.” Refereed Lecture. Social and Digital Editions. Canadian Society for Digital Humanities. Victoria. 3 June, 2013.}
+
+\cvitem{[58]}{i O'Donnell, Daniel Paul. “The meteor has struck. The dust is in the air. Let’s leave the dinosaurs to their fate and concentrate on the mammals: Notes on the New Humanities.” Invited Keynote. Digging the Digital. Graduate Student Conference on the Digital Humanities. University of Alberta. April 5-6, 2013.}
+
+\cvitem{[57]}{i O'Donnell, Daniel Paul. “New Business Models for Open Access Publication in the Humanities: The Lethbridge Journal Incubator.” Beyond the PDF2. Amsterdam. 19 March, 2013.}
+
+\cvitem{[56]}{r O'Donnell, Daniel Paul. “Far From the Maddening Crowd: Digital Projects and the Ethics of Popular Knowledge Mobilization.” Daniel O’Donnell, Catherine Karkov, and Heather Hobma. Havana. 12 December, 2012.}
+
+\cvitem{[55]}{r O'Donnell, Daniel Paul. "Is there a text in this edition? On the implications of multiple media and immersive technology for the future of the ‘scholarly edition’." Daniel P. O’Donnell, James Graham, Catherine E. Karkov, and Roberto Rosselli del Turco (University of Torino), European Society for Textual Scholarship (ESTS), Amsterdam. 23 November, 2012.}
+
+\cvitem{[54]}{i O'Donnell, Daniel Paul. "The Lethbridge Journal Incubator: Aligning scholarly publishing with the teaching and research missions of a public university." Canadian Association of Learned Journals. Congress of the Federation of the Social Sciences and Humanities. Waterloo, Ontario. May 27, 2012.}
+
+\cvitem{[53]}{i O'Donnell, Daniel Paul. "Markup and Metadata: An introduction to the power of XML and related technologies in humanities research applications." Pre-conference Workshop. Society for Digital Humanities/Société pour l’étude des médias interactifs. Congress of the Federation of the Social Sciences and Humanities. Waterloo, Ontario. May 25, 2012.}
+
+\cvitem{[52]}{i O'Donnell, Daniel Paul. "abdah.org: Alberta Digital Arts and Humanities and Campus Alberta." Presentation to Campus Alberta Arts, Social Sciences, and Humanities. University of Calgary. May 11, 2012.}
+
+\cvitem{[51]}{i O'Donnell, Daniel Paul. "Move Over: Learning to Read (and Write) with Novel Technology." MARCS: The Medieval and Renaissance Cultural Studies Research Group. University of  Calgary, March 15, 2012.}
+
+\cvitem{[50]}{r O'Donnell, Daniel Paul. "'Nor doubted once': Editing Text and Context." INKE Research Foundations For Understanding Books And Reading In A Digital Age Text And Beyond. Ritsumeikan University, Kyoto, Japan. November 18th, 2011.}
+
+\cvitem{[49]}{i O'Donnell, Daniel Paul. “The Medieval Academy's Digital Initiatives.” Invited Lecture. Medieval Electronic Scholarly Alliance (MESA). Mellon Workshop, Baltimore, May 2, 2011.}
+
+\cvitem{[48]}{i O'Donnell, Daniel Paul. “Digital Humanities and 'The Digital Humanities', Or, Should a Digital Humanities Center be Concerned with Word Processing.” Invited Lecture. Texas A\&M University. February 17, 2011.}
+
+\cvitem{[47]}{r O'Donnell, Daniel Paul. “What Comes Between: Editing Context.” 7th Annual Conference. European Society for Textual Scholarship. Pisa, Italy. November 2010.}
+
+\cvitem{[46]}{r O'Donnell, Daniel Paul. “What is a Markup Language, Really? A Generic and Modular Approach to Understanding Markup Semantics” TEI Annual Conference and Members' Meeting, Zadar, Croatia. November 2010.}
+
+\cvitem{[45]}{r O'Donnell, Daniel Paul. “And everybody goes ahh: thinking outloud about interoperability.” Response paper. Digitized Collections of Medieval Manuscripts}
+
+\cvitem{[44]}{A Workshop on Uses and Interoperation. Paris, January 14-15, 2010. http://lib.stanford.edu/DMSS (https://lib.stanford.edu/files/ODonnellMellon1Smaller.pdf)}
+
+\cvitem{[43]}{i O'Donnell, Daniel Paul. "TEI: What and Why?" Invited Lectures and Workshop. Textual heritage and modern information technologies. Izhevsk, Russia. October 11-15, 2009.}
+
+\cvitem{[42]}{i O'Donnell, Daniel Paul. "Exploiting TEI Markup." Invited Lectures and Workshop. Textual heritage and modern information technologies. Izhevsk, Russia. October 11-15, 2009.}
+
+\cvitem{[41]}{i O'Donnell, Daniel Paul. "Cædmon's Hymn: Project Management and Development." Invited Lectures and Workshop. Textual heritage and modern information technologies. Izhevsk, Russia. October 11-15, 2009.}
+
+\cvitem{[40]}{i O'Donnell, Daniel Paul. "Sugar and Spice and... Sausage filling. What the TEI is made of." Invited Lecture.     Early Chán Manuscripts among the Dūnhuáng Findings– Resources in the Mark-up and Digitalization of Historical Texts. Oslo, September 30, 2009.}
+
+\cvitem{[39]}{i O'Donnell, Daniel Paul. "Are you sure we're not in Kansas any more, Dorothy? Domain knowledge and the future of the Digital Humanities." (Invited Lecture and Workshop). University of South Carolina September 24, 2009.}
+
+\cvitem{[38]}{i O'Donnell, Daniel Paul. "Sugar and Spice and... Sausage filling. What the TEI is made of" (Institute Lecture). Invited Lecture. Digital Humanities Summer Institute, University of Victoria. June 6, 2009.}
+
+\cvitem{[37]}{i O'Donnell, Daniel Paul. "We are Family: Digital Medievalist as Community of Practice." Medieval Studies and New Media / Les Médiévistes et les Nouveaux Media. ENS-Lyon. March 31, 2009.}
+
+\cvitem{[36]}{i O'Donnell, Daniel Paul. "Mind the Gap: Editing the spaces between objects in a post print world" (Keynote). Beyond Analogue: Current Graduate Research in Humanities Computing. University of Alberta. February 13, 2009.}
+
+\cvitem{[35]}{i O'Donnell, Daniel Paul. "Mind the Gap: Representing the Relationships among Constituents in a Multi-Object Digital Edition" (Keynote). Incontri di Filologia digitale. Università degli Studi di Verona, January 15, 2009.}
+
+\cvitem{[34]}{i O'Donnell, Daniel Paul. "Standoff Markup." Invited participant. Roundtable. CASTA. University of Saskatchewan. October 18, 2008.}
+
+\cvitem{[33]}{r O'Donnell, Daniel Paul. "'Murder to dissect'?: Digitisation as a Theory of the Text." SDH/SÉMI 2007, University of Saskatchewan. May 29, 2007.}
+
+\cvitem{[32]}{r O'Donnell, Daniel Paul. "The Visionary Cross: An Experiment in the Multimedia Edition." First author with Catherine Karkov, James Graham, Wendy Osborn, Roberto Rosselli Del Turco (read by Dorothy Porter, University of Kentucky). Digital Humanities 2007. University of Illinois, Urbana-Champaign. June 5, 2007.}
+
+\cvitem{[31]}{i O'Donnell, Daniel Paul. “We are family: the economics of best practice.” Invited Lecture. TEI Members Meeting, Victoria BC. October 27, 2006.}
+
+\cvitem{[30]}{r O'Donnell, Daniel Paul. “How Digital must a digital edition be?” 41st International Congress on Medieval Studies. University of Western Michigan. May 7, 2006.}
+
+\cvitem{[29]}{i O'Donnell, Daniel Paul. “Why should I write for your Wiki.” Renaissance Society of America. San Francisco. March, 2006.}
+
+\cvitem{[28]}{O'Donnell, Daniel Paul. “Using Electronic Media to Improve Efficiency and Intelligibility in Teaching and Researching the Middle Ages” [Satirical lecture]. Societas Fontibus Historiæ medii Aevii Inveniendis, vulgo dicta “The Pseudo Society”. 40th International Congress on Medieval Studies, Western Michigan University (Kalamazoo), May 7, 2005.}
+
+\cvitem{[27]}{r O'Donnell, Daniel Paul. “Back to the future: what electronic editors can learn from print editions of texts in multiple versions.” European Society for Textual Studies Conference. Alicante, Spain. November 24-25, 2004.}
+
+\cvitem{[26]}{r O'Donnell, Daniel Paul. “Best Practice in the Production of Digital Resources for Medievalists: Theory and Application”. Thirty-ninth International Congress on Medieval Studies (Kalamazoo). May, 2004.}
+
+\cvitem{[25]}{r O'Donnell, Daniel Paul. “Best Practice in the Production of Digital Resources for Medievalists: Project Design, Management, and Implementation”. Thirty-ninth International Congress on Medieval Studies (Kalamazoo). May, 2004.}
+
+\cvitem{[24]}{i O'Donnell, Daniel Paul. “Now What?: The Digital Medievalist Project and the Discovery of Best Practice.” Invited Lecture. SSHRC/University of Calgary ITST Summer Institute. May 26, 2004.}
+
+\cvitem{[23]}{i O'Donnell, Daniel Paul. “The Electronic Cædmon's Hymn: A Single Scholar, Multiple Text Electronic Edition and Archive.” Invited Lecture. SSHRC/University of Saskatchewan ITST Conference, May 15, 2004.}
+
+\cvitem{[22]}{i O'Donnell, Daniel Paul. “The Text Encoding Initiative: A Theoretical Standard for the Encoding of Electronic Texts.” Invited Lecture. SSHRC/University of Saskatchewan ITST Conference, May 15, 2004.}
+
+\cvitem{[21]}{r O'Donnell, Daniel Paul. “Poetry, Prose, and Book History: A way forward in debates about scribal literacy in Anglo-Saxon England?” Poetry and Prose: Intersections (to 1100): Methods and Approaches (Organisers: Carin Ruff and Elizabeth M. Tyler). Thirty-ninth International Congress on Medieval Studies (Kalamazoo). May 8, 2004.}
+
+\cvitem{[20]}{r O'Donnell, Daniel Paul. “Texts and the Single Scholar: Is the morning after worth the night before?” [Lecture on electronic project management]. Thirty-eighth International Congress on Medieval Studies (Kalamazoo). May 8, 2003.}
+
+\cvitem{[19]}{O'Donnell, Daniel Paul. “'Vade retro me Satana': What the Norton Anthology of Poetry gets Wrong on Page 1.” Department of English Colloquium series. University of Lethbridge. November 28, 2002.}
+
+\cvitem{[18]}{O'Donnell, Daniel Paul. “The Cædmon Code: Some Problems with Numerical and Geometrical Patterning in an Early Medieval Text.” Working Papers in the Humanities Colloquium. University of Lethbridge. April 4, 2002.}
+
+\cvitem{[17]}{O'Donnell, Daniel Paul. “‘Is that your final answer?’ Reconstructing Cædmon’s Hymn in a Post-Modern Age.” Germanic Philology Session, MLA Annual Meeting. Washington D.C., December 27, 2000. Also delivered the Department of English Research Colloquium, January, 2001.}
+
+\cvitem{[16]}{O'Donnell, Daniel Paul. “Text and Context: Generic Factors affecting Scribal Performance in the Transmission of Old English Verse.” Department of English Research Colloquium. University of Lethbridge. November 15, 2000.}
+
+\cvitem{[15]}{i O'Donnell, Daniel Paul. “The Editor Function, or I Know More about Cædmon’s Hymn than you do, Nyah, Nyah!” Inaugural Lecture, Humanities Computing Series, University of Calgary, June 15, 2000.}
+
+\cvitem{[14]}{r O'Donnell, Daniel Paul. “Reading Bede Reading Cædmon: Understanding a Critical Miracle.” Thirty-fifth International Congress on Medieval Studies (Kalamazoo). May 8, 2000. This was a thoroughly revised and abridged version of my March 1999 Departmental lecture and April 2000 lecture at Queen’s.}
+
+\cvitem{[13]}{i O'Donnell, Daniel Paul. “Reading Bede Reading Cædmon: Bede’s Historia ecclesiastica as Source and Source of Interpretation for Cædmon’s Hymn.” Invited Lecture. Department of English, Queen’s University. April 10, 2000.}
+
+\cvitem{[12]}{O'Donnell, Daniel Paul. “The Editor Function: Form, Content, and Editorial Theory in Editing Cædmon’s Hymn.” Department of English Research Colloquium. University of Lethbridge. February 2, 2000. This was a revised version of my May 9, 1999 invited lecture at the Kalamazoo Medieval Studies Conference.}
+
+\cvitem{[11]}{r O'Donnell, Daniel Paul. “The Editor Function: Form, Content, and Editorial Theory in Editing Cædmon’s Hymn.” Commissioned Lecture. Thirty-fourth International Congress on Medieval Studies (Kalamazoo). May 9, 1999.}
+
+\cvitem{[10]}{O'Donnell, Daniel Paul. “Reading Bede Reading Cædmon: Bede’s Historia ecclesiastica as Source and Source of Interpretation for Cædmon’s Hymn.” Department of English Research Colloquium. University of Lethbridge. March 1999.  A lightly revised version of this paper was delivered as an invited lecture, April 10, 2000 at Queen’s University.}
+
+\cvitem{[9]}{i O'Donnell, Daniel Paul. “Fish and Fowl: Generic Expectations and the Relationship between the Old English Phoenix poem and Lactantius’s de ave phoenice.” Germania Latina IV. Groningen, The Netherlands, July 1998.}
+
+\cvitem{[8]}{O'Donnell, Daniel Paul. “What Anne Meant: Generic Instability and the Transmission of Anne Frank’s Diary.” Department of English Research Colloquium. University of Lethbridge. March 1998.}
+
+\cvitem{[7]}{r O'Donnell, Daniel Paul. “A New Theory of Poetic Textual Transmission.” Delivered at: “Anglo-Saxon Studies in the Twentieth Century.” International Society of Anglo-Saxonists Conference (Palermo, Italy). July 11, 1997.}
+
+\cvitem{[6]}{r O'Donnell, Daniel Paul. “The Text of Cædmon’s Hymns.” Delivered at: “Focusing on Editorial Scholarship at the Century’s End.” MLA Convention, Washington D.C. December 28, 1996.}
+
+\cvitem{[5]}{r O'Donnell, Daniel Paul. “‘Transitional Literacy’ and the Poems of the Anglo-Saxon Chronicle: Context as Counter-evidence.” Medieval Chronicle Conference. Rijksuniversiteit Utrecht/Driebergen. July 13, 1996.}
+
+\cvitem{[4]}{i O'Donnell, Daniel Paul. “Ends and Means: Manuscript Context and Scribal Accuracy in the Copying of Anglo-Saxon Poetry.” Invited Lecture. Department of English, Trinity College Dublin. March 19, 1996.}
+
+\cvitem{[3]}{i O'Donnell, Daniel Paul. “The Spirit and the Letter: The Use of the Dramatic in Old Frisian Legal Writing.” Twenty-ninth International Congress on Medieval Studies (Kalamazoo). May 4, 1994.}
+
+\cvitem{[2]}{r O'Donnell, Daniel Paul. “Beinecke MS 594: A Second Look at a Well-Known Nominale.” Early Book Society Conference. Trinity College Dublin. 1991.}
+
+\cvitem{[1]}{O'Donnell, Daniel Paul. “The OE ‘Phoenix’, Lactantius’s ‘De ave phoenice’ and the Science of Allegory,” Harvard-Yale Graduate Student Colloquium. 1991.}
+
+\subsection*{General Interest and Undergraduate Lectures}
+
+\cvitem{[7]}{“’The cipher manuscript’: Hoaxes as a book history problem.” Invited guest lecture. English 4400. Book History. Nov. 6, 2021. https://doi.org/10.5281/zenodo.5651109.}
+
+\cvitem{[6]}{“Beowulf: Manuscripts, Pronunciation, Grammar, and Metre.” Invited guest lecture. English 1900. University of Lethbridge. Sept. 17, 2014.}
+
+\cvitem{[5]}{“The Importance of Being Earnest: Coding Problems and Solutions.” Invited Guest Lecture, English 517/607 (Graduate Humanities Computing), University of Calgary. June 15, 2000.}
+
+\cvitem{[4]}{“Tolkien’s Elvish and Other Constructed Languages.” Invited Lecture, English 3700 (Children’s Literature), University of Lethbridge. February 7, 2000.}
+
+\cvitem{[3]}{“Anne, Otto, and the Neo-Nazis. The (Im)morality of Reading a Holocaust Diary.” Invited Lecture, Arts and Science 1000 (Liberal Arts), University of Lethbridge. November 2001; September 2000; November, 1999.}
+
+\cvitem{[2]}{“What Anne Meant: Generic Instability and the Transmission of Anne Frank’s Diary.” Invited Lecture, Arts and Science 1000 (Liberal Arts), University of Lethbridge. November 2001; September 2000; November, 1999.}
+
+\cvitem{[1]}{“Beowulf and its Place in History.” Worker’s Educational Association Weekend School at Horncastle. February, 1997.}
+
+
+\section{Teaching and Supervisory Experience}
+\cvitem{\textbf{Summary}}{Daniel Paul O’Donnell has taught undergraduate and graduate courses in English literature, medieval studies, English linguistics, textual scholarship, management information studies, mathematics, computer science, and the digital humanities. His appointments have included Yale, LSU, the University of Lethbridge, and other institutions. He has supervised more than thirty graduate students, including work in scholarly publishing and DH.}
+\vspace{1em}
+\subsection*{Postdoctoral Supervision}
+\cvitem{2021--}{Nathan Woods. Humanities data.}
+\vspace{1em}
+
+\subsection*{PhD Supervision}
+\cvitem{2025--}{Shara Merrill. Artificial Intelligence and Ethics. Co-supervisor, CPST.}
+\cvitem{2024--}{AKM Iftekhar Khalid. Tagorian English vs LLMs. Co-supervisor, CPST.}
+\cvitem{2023--}{Frank Onuh. Hate speech and discourse analysis. Co-supervisor, CPST.}
+\cvitem{2022--}{Davide Pafumi. Medieval English discourse analysis. Co-supervisor, CPST.}
+\vspace{1em}
+
+\subsection*{MA Supervision}
+\cvitem{2024--}{Josephine Tabiri. Linguistic Landscapes and Language use in Ghana. Supervisor, English}
+\cvitem{2022--}{Morgan Pearce. Chaucer. Co-supervisor, English.}
+\cvitem{2021--2023}{Kirandeep Kaur. Language tech. Supervisor, English.}
+\cvitem{2021--2023}{Iftekhar Khalid. English in Bangladesh. Supervisor, English.}
+\cvitem{2015--2018}{Virgil Grandfield. Creative Non-fiction. Supervisor, Multidisciplinary (withdrawn).}
+\cvitem{2014--2017}{Gurpreet Singh. Sikh text editing. Supervisor, Multidisciplinary (withdrawn).}
+\cvitem{2013--2016}{Rylan Spenrath. Monstrous fiction. Supervisor, English.}
+\cvitem{2011--2014}{Heather Hobma. Ruthwell Kirk. Supervisor, English.}
+\cvitem{2005--2008}{Tania Bigthroat. Residential Schools. Co-supervisor, NAS.}
+\cvitem{2004--2006}{Shelley Stigter. Native American verbal art. Supervisor, English.}
+\vspace{1em}
+
+\subsection*{Committee Memberships (MA/MSc)}
+\cvitem{2015--2019}{Mahsa Miri. Global film crediting. Modern Languages/Film.}
+\cvitem{2012--2014}{Titi Babalola. Absurd Realism. English.}
+\cvitem{2012--2014}{Jessica Bay. Fan Fiction. English.}
+\cvitem{2013--}{Fatima Rahman. Region queries. Computer Science.}
+\cvitem{2013--2015}{Cody Rioux. Text extraction. Computer Science.}
+\cvitem{2009--2011}{Kent Aardse. Digital Literature. English.}
+\cvitem{2009--2011}{Drew Luby. Renaissance magic. English.}
+\cvitem{2007--2009}{Leanne Little. Shakespeare \& masculinity. English.}
+\cvitem{2006--2007}{Rob Meckelborg. Blake and Satan. English.}
+\cvitem{2004--2006}{Angela Mlynarski. Text summarization. Computer Science.}
+\cvitem{2002--2004}{Laura Cappello. Jane Austen. English.}
+\vspace{1em}
+
+\subsection*{University of Lethbridge (1997–)}
+\cvitem{Undergraduate}{English 1900, 2100, 2450, 2810, 2900, 3401, 3450, 3601, 3901, 3990, 4400, 4600, 4900}
+\cvitem{Graduate}{English 5400 (New Humanities, Digital Humanities, Scholarly Communication), 5600 (Beowulf), 5990 (Independent Studies)}
+\cvitem{Other}{Meeting of Minds Journal supervision; Management 4900 (Database Design)}
+\vspace{1em}
+
+\subsection*{University of York (1996)}
+\cvitem{Undergraduate}{Middle English Paper}
+\vspace{1em}
+
+\subsection*{Louisiana State University (1994–1995)}
+\cvitem{Undergraduate}{Chaucer, History of English}
+\cvitem{Graduate}{Old English, Beowulf}
+\vspace{1em}
+
+\subsection*{Yale University (1991–1992)}
+\cvitem{TA}{Introduction to the Novel, Age of Johnson, History of English}
+\vspace{1em}
+
+\subsection*{Other}
+\cvitem{1996}{Workers’ Educational Association: Dark Age Tales}
+\cvitem{2009}{ISAS PhD Workshop (co-led with Martin Foys)}
+\vspace{1em}
+
+
 \end{document}
 
-
-%% end of file `template.tex'.

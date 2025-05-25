@@ -1,0 +1,11 @@
+total 464
+drwxrwxr-x  3 dan dan   4096 May 25 17:49 .
+drwxrwxr-x 32 dan dan   4096 May 18 14:19 ..
+-rw-rw-r--  1 dan dan   3978 May 12 13:38 CV.aux
+-rw-rw-r--  1 dan dan  52099 May 12 13:38 CV.log
+-rw-rw-r--  1 dan dan   6132 May 12 13:38 CV.out
+-rw-rw-r--  1 dan dan 292272 May 12 13:38 CV.pdf
+-rw-rw-r--  1 dan dan  94586 May 12 13:38 CV.tex
+drwxrwxr-x  8 dan dan   4096 May 12 13:41 .git
+-rw-rw-r--  1 dan dan      0 May 25 17:49 ls.txt
+-rw-rw-r--  1 dan dan   1236 May 12 13:38 x.log

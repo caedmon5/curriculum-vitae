@@ -1,8 +1,21 @@
-\documentclass[11pt,letterpaper,sans]{moderncv}
+\documentclass[11pt,letterpaper,sans]{tex/moderncv/moderncv}
+
+\newcommand{\lastupdated}{\today}
 
 \moderncvstyle{casual}
 \moderncvcolor{blue}
 \usepackage[scale=0.85]{geometry}
+\usepackage{xcolor}
+
+\makeatletter
+\AtBeginDocument{%
+  \definecolor{color1}{RGB}{0,102,204}
+  \definecolor{moderncvmaincolor}{RGB}{0,102,204}
+  \definecolor{sectiontitlecolor}{RGB}{0,102,204}
+  \colorlet{moderncvcolor}{color1}
+  \colorlet{sectiontitlecolor}{color1}
+}
+\makeatother
 
 % Prevent orphaned headings across all standard and moderncv commands
 \usepackage{etoolbox}
@@ -50,6 +63,9 @@
 \begin{document}
 
 \makecvtitle
+
+\vspace{-1em}
+\hfill {\small Last updated: \lastupdated}
 
 \section{Education}
 \cvitem{\textbf{Summary}}{O'Donnell completed his undergraduate studies at the University of Toronto in English and Medieval Latin, followed by an MA and PhD at Yale University in English. His doctoral research focused on variation in Old English poetry, supervised by Fred C. Robinson. \vspace{1em}}
@@ -206,7 +222,7 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \subsection*{Articles and Chapters (Traditional)}
 
-\cvitem{[45]}{rs Bordalejo, Barbara, Pafumi, Davide*, Pearce, Morgan S.*, \textbf{O'Donnell, Daniel Paul}. At press 2025. "Adapting a Research Tool for Teaching in a Post-Pandemic World: Textual Communities and Critical Digital Pedagogy in the Context of a Comprehensive Liberal Arts Research University." \textit{Digital Humanities Quarterly}.}
+\cvitem{[45]}{rs Bordalejo, Barbara, Pafumi, Davide*, Pearce, Morgan S.*, \textbf{O'Donnell, Daniel Paul}. 2025. "Adapting a Research Tool for Teaching in a Post-Pandemic World: Textual Communities and Critical Digital Pedagogy in the Context of a Comprehensive Liberal Arts Research University." \textit{Digital Humanities Quarterly} 19.2. \url{https://www.digitalhumanities.org/dhq/vol/19/2/000787/000787.html}.}
 
 \cvitem{[44]}{rs \textbf{O'Donnell, Daniel Paul}, Pafumi, Davide*, Onuh, Frank*, Khalid, AKM Iftekhar*, Pearce, Morgan*, and Bordalejo, Barbara. 2025. “Scarlet Cloak and the Forest Adventure: A preliminary study of the impact of AI on commonly used writing tools.” \textit{International Journal of Educational Technology in Higher Education} 22.6. \textsc{doi}: \url{https://doi.org/10.1186/s41239-025-00505-5}.}
 
@@ -516,11 +532,23 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \section {Lectures and Presentations}
 
-\cvitem{[128]}{i Daniel Paul O’Donnell. 2024. “Academic Freedom, Privilege, and Intersectionality.” July 29.  Force11 Scholarly Communications Institute (FSCI), Los Angeles. Zenodo. https://doi.org/10.5281/zenodo.13121345}
+\subsection*{Research}
 
-\cvitem{[127]}{rs Bordalejo, Barbara, Davide Pafumi, Frank Onuh, AKM Iftekhar Khalid, and Daniel O’Donnell. 2024. “Scarlet Cloak and the Forest Adventure: The Issue of False Positives in AI Detection Tools.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal. https://doi.org/10.5281/zenodo.12011536.}
+\cvitem{[133]}{rs McKnight, Jocelyn Lilly*, Daniel Paul O'Donnell, Roberto Rosselli Del Turco, Barbara Bordalejo. 2025. "I’m Looking Through You: Building the Interface for a 3D Edition for The Visionary Cross Project." Session 5B: "Space and Sound." Congress 2025 - CSDH/SCHN, Toronto, June 1.}
 
-\cvitem{[126]}{rs Bordalejo, Barbara, Davide Pafumi, Morgan Slayde Pearce, and Daniel O’Donnell. 2024. “Adapting a Research Tool for Teaching in a Post-Pandemic World.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal.  https://doi.org/10.5281/zenodo.12018101.}
+\cvitem{[132]}{rs McKnight, Jocelyn Lily*, Davide Pafumi*, Daniel Paul O'Donnell. 2025. "Working with Historical Textual Data: Preliminary Results from Applying Survival Analysis to the Old English Poetic Corpus." Session 5B: "Literary DH." Congress 2025 - CSDH/SCHN, Toronto, May 31.}
+
+\cvitem{[131]}{rs Woods, Nathan D., Davide Pafumi*, Barbara Bordalejo, Daniel Paul O'Donnell. 2025. "Rethinking the Advancement of Humanities Knowledge: Innovation and Change in the Humanities Data Ecosystem." Session 3A: "DH Communities." Congress 2025 - CSDH/SCHN, Toronto, May 31.}
+
+\cvitem{[130]}{rs Onuh, Frank*, AKM Iftekhar Khalid*, Barbara Bordalejo, and Daniel Paul O'Donnell. “Choose Your Poison: Data Colonialism or Company Town?”. Session 1B "Digital Capitalism." Congress 2025 - CSDH/SCHN, Toronto, May 30. https://doi.org/10.5281/zenodo.15548208.}
+
+\cvitem{[129]}{is O'Donnell, Daniel Paul, Barbara Bordalejo, Davide Pafumi*, and Jocelyn McKnight*. 2025. "Éloge de la variante? Working with Old English textual variants for 30 years." Norma variazione identità. May 30. Rome/Online. https://doi.org/10.5281/zenodo.15549269}
+
+\cvitem{[128]}{i O’Donnell, Daniel Paul. 2024. “Academic Freedom, Privilege, and Intersectionality.” July 29.  Force11 Scholarly Communications Institute (FSCI), Los Angeles. Zenodo. https://doi.org/10.5281/zenodo.13121345}
+
+\cvitem{[127]}{rs Bordalejo, Barbara, Davide Pafumi*, Frank Onuh, AKM Iftekhar Khalid, and Daniel O’Donnell. 2024. “Scarlet Cloak and the Forest Adventure: The Issue of False Positives in AI Detection Tools.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal. https://doi.org/10.5281/zenodo.12011536.}
+
+\cvitem{[126]}{rs Bordalejo, Barbara, Davide Pafumi*, Morgan Slayde Pearce*, and Daniel O’Donnell. 2024. “Adapting a Research Tool for Teaching in a Post-Pandemic World.” June 17. Congress of the Humanities and Social Sciences (CSDH/SCHN). Montreal.  https://doi.org/10.5281/zenodo.12018101.}
 
 \cvitem{[125]}{r O’Donnell, Daniel Paul, Barbara Bordalejo, and Nathan D. Woods. 2024. “Data in/And Mediaeval Studies.” International Congress on Medieval Studies. Kalamazoo. May 11. https://doi.org/10.5281/zenodo.11179271.}
 
@@ -528,21 +556,21 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \cvitem{[123]}{r Bordalejo, Barbara, Daniel Paul O’Donnell, and Nathan Woods. 2023. “The Implications of Multiple Hierarchies for the Future of Humanities Data: Or, What Is a Markup Language, Actually?” October 5. https://doi.org/10.5281/zenodo.8411165.}
 
-\cvitem{[122]}{r O’donnell, Bordalejo, and Woods. 2023. “Representational Data:  A Case Study.” May 30.  Congress of the Social Sciences and Humanities. https://doi.org/10.5281/zenodo.7986430.}
+\cvitem{[122]}{r O’Donnell, Daniel Paul, Barbara Bordalejo, and Nathan Woods. 2023. “Representational Data:  A Case Study.” May 30.  Congress of the Social Sciences and Humanities. https://doi.org/10.5281/zenodo.7986430.}
 
-\cvitem{[121]}{r Daniel Paul O’Donnell, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data projects/Big Data research: contemporary problems and historical solutions.” DH 2022 (Tokyo/online). July 28. https://doi.org/10.5281/zenodo.6857202.}
+\cvitem{[121]}{r O’Donnell, Daniel Paul, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data projects/Big Data research: contemporary problems and historical solutions.” DH 2022 (Tokyo/online). July 28. https://doi.org/10.5281/zenodo.6857202.}
 
-\cvitem{[120]}{Daniel Paul O’Donnell. 2022. “‘Good things come in small packets’: Investigating Humanities Research Data Practices: A Community of Practice Approach.” FSCI 2022. Lightning Talks. July 25-29. https://doi.org/10.5281/zenodo.6902821.}
+\cvitem{[120]}{r O’Donnell, Daniel Paul. 2022. “‘Good things come in small packets’: Investigating Humanities Research Data Practices: A Community of Practice Approach.” FSCI 2022. Lightning Talks. July 25-29. https://doi.org/10.5281/zenodo.6902821.}
 
-\cvitem{[119]}{i Daniel Paul O’Donnell. 2022. “REPO: Reimagining Educational Practices for Open 2020-2021.” FSCI 2022. Force11 Working Group Bazaar. July 25. https://doi.org/10.5281/zenodo.6902861.}
+\cvitem{[119]}{r O’Donnell, Daniel Paul. 2022. “REPO: Reimagining Educational Practices for Open 2020-2021.” FSCI 2022. Force11 Working Group Bazaar. July 25. https://doi.org/10.5281/zenodo.6902861.}
 
-\cvitem{[118]}{r Daniel Paul O’Donnell, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data Management in Humanities and Cultural Heritage Projects.” DH Unbound. May 17. https://doi.org/10.5281/zenodo.6773410.}
+\cvitem{[118]}{r O’Donnell, Daniel Paul, Barbara Bordalejo, Nathan Woods, Roberto Rosselli Del Turco. 2022. “Small Data Management in Humanities and Cultural Heritage Projects.” DH Unbound. May 17. https://doi.org/10.5281/zenodo.6773410.}
 
-\cvitem{[117]}{i Daniel Paul O’Donnell. 2022. “Thinking about CARE principles in the Digital Humanities.  Why CARE may not be only a matter for researchers working with indigenous peoples.” RDA-DU. Online. Feb 21.}
+\cvitem{[117]}{i O’Donnell, Daniel Paul. 2022. “Thinking about CARE principles in the Digital Humanities.  Why CARE may not be only a matter for researchers working with indigenous peoples.” RDA-DU. Online. Feb 21.}
 
-\cvitem{[116]}{i Daniel P. O'Donnell. 2021. ''Thinking about CARE principles in the Digital Humanities. Why CARE may not be only a matter for researchers working with indigenous peoples.” DARIAH Friday Frontiers. Online. October. France. October 8.}
+\cvitem{[116]}{i O’Donnell, Daniel Paul. 2021. ''Thinking about CARE principles in the Digital Humanities. Why CARE may not be only a matter for researchers working with indigenous peoples.” DARIAH Friday Frontiers. Online. October. France. October 8.}
 
-\cvitem{[115]}{i Daniel P. O'Donnell, Rosselli Del Turco R. 2020. 'Methods and tools to build a web-based edition on the basis of FAIR/OA data'. Assemblée Générale du consortium Cahier. France. November 27. https://cahier.hypotheses.org/5384.}
+\cvitem{[115]}{i O’Donnell, Daniel Paul, Rosselli Del Turco R. 2020. 'Methods and tools to build a web-based edition on the basis of FAIR/OA data'. Assemblée Générale du consortium Cahier. France. November 27. https://cahier.hypotheses.org/5384.}
 
 \cvitem{[114]}{i O'Donnell, Daniel. (2020, August). How to make a manifesto… and not: Principles of the Scholarly Commons as Case History (Version Presentation). Presented at the Force11 Scholarly Communication Institute 2020 Online (FSCI 2020 Online), Online: Zenodo. http://doi.org/10.5281/zenodo.3979532.}
 
@@ -602,7 +630,7 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \cvitem{[86]}{ir O’Donnell, Daniel Paul. 2016. Est ce qu’il y a de hors-edition? or, Can you edit everything? MLA 2016 Austin. Session 215 Editing Unruly Objects. January 8.}
 
-\cvitem{[85]}{r Moore, Samuel, Damian Pattison, Cameron Naylon, Daniel O'Donnell. 2015. The Quality of Qualities. Excellence and Soundness in Scholarly Communication. Mellon Triangle Scholarly Communication Workshop. Durham/Raleigh. UNC. October 12-16.}
+\cvitem{[85]}{r Moore, Samuel, Damian Pattison, Cameron Neylon, Daniel Paul O'Donnell. 2015. The Quality of Qualities. Excellence and Soundness in Scholarly Communication. Mellon Triangle Scholarly Communication Workshop. Durham/Raleigh. UNC. October 12-16.}
 
 \cvitem{[84]}{r Ortega, Élika, Alex Gil, Daniel Paul O'Donnell. 2015. “Psst! An Informal Approach to Expanding the Linguistic Range of the Digital Humanities.” Digital Humanities 2015. Melbourne. July 1.}
 
@@ -636,7 +664,7 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \cvitem{[69]}{i O'Donnell, Daniel Paul, et al. “The Lethbridge Journal Incubator: A new business model for Open Access journal publication.” Elsevier Labs (Virtual presentation). February 18, 2014.}
 
-\cvitem{[68]}{i Hobma, Heather and Daniel Paul O'Donnell. “Living out loud: The Visionary Cross Project and the Public Humanities.” CMRS/ETRUS. University of Saskatchewan. Saskatoon. January 16, 2014.}
+\cvitem{[68]}{i Hobma, Heather* and Daniel Paul O'Donnell. “Living out loud: The Visionary Cross Project and the Public Humanities.” CMRS/ETRUS. University of Saskatchewan. Saskatoon. January 16, 2014.}
 
 \cvitem{[67]}{i O'Donnell, Daniel Paul, et al. “Class 2.0: Digital technology and digital rhetorics in the undergraduate classroom.” Department of English, University of Saskatchewan. Saskatoon. January  15, 2014. Also presented to the Department of English, University of Lethbridge. February 7, 2014.}
 
@@ -646,7 +674,7 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \cvitem{[64]}{i O'Donnell, Daniel Paul. “This changes everything! The “Digital Turn” and the Institutional Practice of the Humanities.” I Seminário Internacional em Humanidades Digitais no Brasil. Universidade de São Paulo.  October 23, 2013.}
 
-\cvitem{[63]}{r Daniel Paul O'Donnell, et al. “The The Visionary Cross Project.” ISAS 2013 (International Society of Anglo-Saxonists). Trinity College and University College Dublin.  29 July, 2013.}
+\cvitem{[63]}{r O’Donnell, Daniel Paul, et al. “The The Visionary Cross Project.” ISAS 2013 (International Society of Anglo-Saxonists). Trinity College and University College Dublin.  29 July, 2013.}
 
 \cvitem{[62]}{O'Donnell, Daniel Paul, et al. “The Unessay, or, The Pedagogy of Screwing Around. A Digital Humanities Approach to Teaching Scholarly Writing.” Pedagogy Lightening Talks. Digital Humanities 2013. University of Nebraska. 17 July, 2013.}
 
@@ -660,7 +688,7 @@ Library. At the University of Toronto, he was the first undergraduate to hold a 
 
 \cvitem{[57]}{i O'Donnell, Daniel Paul. “New Business Models for Open Access Publication in the Humanities: The Lethbridge Journal Incubator.” Beyond the PDF2. Amsterdam. 19 March, 2013.}
 
-\cvitem{[56]}{r O'Donnell, Daniel Paul. “Far From the Maddening Crowd: Digital Projects and the Ethics of Popular Knowledge Mobilization.” Daniel O’Donnell, Catherine Karkov, and Heather Hobma. Havana. 12 December, 2012.}
+\cvitem{[56]}{r O'Donnell, Daniel Paul, Heather Hobma*. 2012. “Far From the Maddening Crowd: Digital Projects and the Ethics of Popular Knowledge Mobilization.” Havana. 12 December, 2012.}
 
 \cvitem{[55]}{r O'Donnell, Daniel Paul. "Is there a text in this edition? On the implications of multiple media and immersive technology for the future of the ‘scholarly edition’." Daniel P. O’Donnell, James Graham, Catherine E. Karkov, and Roberto Rosselli del Turco (University of Torino), European Society for Textual Scholarship (ESTS), Amsterdam. 23 November, 2012.}
 

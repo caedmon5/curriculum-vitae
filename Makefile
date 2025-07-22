@@ -12,7 +12,7 @@ $(OUTPUT): $(TEXFILE).tex
 	pdflatex $(TEXFILE).tex
 	pdflatex $(TEXFILE).tex  # run twice for references
 
-deploy: all
+cv: all
 	mkdir -p $(DOCS_DIR)
 	cp $(OUTPUT) $(DOCS_DIR)/$(OUTPUT)
 	cp index.html $(DOCS_DIR)/index.html

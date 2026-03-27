@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.5.25)  21 JUN 2025 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  27 MAR 2026 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -597,43 +597,15 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen270
 \Gm@dimlist=\toks36
 )
-(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
-Package: needspace 2010/09/12 v1.3d reserve vertical space
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks37
-\inpenc@posthook=\toks38
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
-eX and XeLaTeX
-\babel@savecnt=\count312
-\U@D=\dimen271
-\l@unhyphenated=\language90
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read3
-\bbl@dirlevel=\count313
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/canadian.ldf
-Language: canadian 2017/06/06 v3.3r English support from the babel system
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language10). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language10). Reported on input line 108.
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-canadian.tex
-Package babel Info: Importing font and identification data for canadian
-(babel)             from babel-en-CA.ini. Reported on input line 11.
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen271
+\TX@old@table=\dimen272
+\TX@old@col=\dimen273
+\TX@target=\dimen274
+\TX@delta=\dimen275
+\TX@cols=\count312
+\TX@ftn=\toks37
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
@@ -676,15 +648,15 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count314
+\c@section@level=\count313
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen272
-\Hy@linkcounter=\count315
-\Hy@pagecounter=\count316
+\@linkdim=\dimen276
+\Hy@linkcounter=\count314
+\Hy@pagecounter=\count315
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
@@ -694,14 +666,13 @@ Now handling font encoding PD1 ...
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count317
+\Hy@SavedSpaceFactor=\count316
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `unicode' set `true' on input line 4040.
 Package hyperref Info: Hyper figures OFF on input line 4157.
 Package hyperref Info: Link nesting OFF on input line 4162.
 Package hyperref Info: Hyper index ON on input line 4165.
@@ -709,9 +680,9 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count318
+\c@Hy@tempcnt=\count317
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen273
+\XeTeXLinkMargin=\dimen277
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -720,9 +691,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count319
-\Field@Width=\dimen274
-\Fld@charsize=\dimen275
+\Fld@menulength=\count318
+\Field@Width=\dimen278
+\Fld@charsize=\dimen279
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -735,26 +706,27 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count320
-\c@Item=\count321
-\c@Hfootnote=\count322
+
+Package hyperref Warning: Option `pdfpagelabels' is turned off
+(hyperref)                because \thepage is undefined.
+
+\c@Item=\count319
+\c@Hfootnote=\count320
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+\Fld@listcount=\count321
+\c@bookmark@seq@number=\count322
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count323
-\c@bookmark@seq@number=\count324
-
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
@@ -763,66 +735,136 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip109
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 63.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 63.
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(/usr/share/texmf/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
 
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(/usr/share/texmf/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks38
+\inpenc@posthook=\toks39
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+\babel@savecnt=\count323
+\U@D=\dimen280
+\l@unhyphenated=\language90
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count324
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/canadian.ldf
+Language: canadian 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language36). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language36). Reported on input line 108.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-canadian.tex
+Package babel Info: Importing font and identification data for canadian
+(babel)             from babel-en-CA.ini. Reported on input line 11.
+)
+
+Package hyperref Warning: Unexpected value `blue'
+(hyperref)                of option `colorlinks' instead of
+(hyperref)                `true' or 'false' on input line 125.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 125.
+Package hyperref Info: Option `breaklinks' set `true' on input line 129.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 129.
 (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 129.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 12
+9.
+ (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 129.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count325
-\scratchdimen=\dimen276
+\scratchdimen=\dimen281
 \scratchbox=\box73
 \nofMPsegments=\count326
 \nofMParguments=\count327
-\everyMPshowfont=\toks39
+\everyMPshowfont=\toks40
 \MPscratchCnt=\count328
-\MPscratchDim=\dimen277
+\MPscratchDim=\dimen282
 \MPnumerator=\count329
 \makeMPintoPDFobject=\count330
-\everyMPtoPDFconversion=\toks40
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 63.
-Package microtype Info: Applying patch `item' on input line 63.
-Package microtype Info: Applying patch `toc' on input line 63.
-Package microtype Info: Applying patch `eqnum' on input line 63.
-Package microtype Info: Applying patch `footnote' on input line 63.
-Package microtype Info: Applying patch `verbatim' on input line 63.
-LaTeX Info: Redefining \microtypesetup on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 129.
+Package microtype Info: Applying patch `item' on input line 129.
+Package microtype Info: Applying patch `toc' on input line 129.
+Package microtype Info: Applying patch `eqnum' on input line 129.
+Package microtype Info: Applying patch `footnote' on input line 129.
+Package microtype Info: Applying patch `verbatim' on input line 129.
+LaTeX Info: Redefining \microtypesetup on input line 129.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 63.
+LaTeX Info: Redefining \showhyphens on input line 129.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -839,15 +881,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(46.07025pt, 522.1545pt, 46.07025pt)
-* v-part:(T,H,B)=(47.69626pt, 675.72934pt, 71.54439pt)
+* h-part:(L,W,R)=(86.72377pt, 440.84746pt, 86.72377pt)
+* v-part:(T,H,B)=(86.72377pt, 621.52245pt, 86.72377pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=522.1545pt
-* \textheight=675.72934pt
-* \oddsidemargin=-26.19974pt
-* \evensidemargin=-26.19974pt
-* \topmargin=-61.57373pt
+* \textwidth=440.84746pt
+* \textheight=621.52245pt
+* \oddsidemargin=14.45378pt
+* \evensidemargin=14.45378pt
+* \topmargin=-22.54622pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -865,7 +907,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 63.
+Package hyperref Info: Link coloring OFF on input line 129.
 (./CV.out) (./CV.out)
 \@outlinefile=\write4
 \openout4 = `CV.out'.
@@ -877,573 +919,696 @@ Package hyperref Info: Link coloring OFF on input line 63.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <38> not available
-(Font)              size <35.83> substituted on input line 65.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 70.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 70.
-
-
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 103.
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 103.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
-available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 103.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 103.
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
-LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
-available
-(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 103.
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/f
-ontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawe
-some5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/us
-r/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[2]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[3]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[4]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[5]
-
-LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 215.
+(Font)              size <35.83> substituted on input line 131.
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 136.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 136.
+
+
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 224.
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
+ input line 224.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
+available
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
+n input line 224.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
+ input line 224.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
+LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10> not 
+available
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
+n input line 224.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
+dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/f
+ontawesome5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts
+1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.en
+c}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}]
+Underfull \hbox (badness 10000) in alignment at lines 239--239
+[][] 
+ []
 
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+[2]
+
+[3]
+
+[4]
+
+[5]
 
 [6]
 
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
 [7]
+<Scholar_Citations_2026-01-25T16-35-08.png, id=254, 401.5pt x 481.8pt>
+File: Scholar_Citations_2026-01-25T16-35-08.png Graphic file (type png)
+<use Scholar_Citations_2026-01-25T16-35-08.png>
+Package pdftex.def Info: Scholar_Citations_2026-01-25T16-35-08.png  used on inp
+ut line 832.
+(pdftex.def)             Requested size: 181.27983pt x 217.5358pt.
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+[8 <./Scholar_Citations_2026-01-25T16-35-08.png>]
 
-[8]
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[9]
-Underfull \hbox (badness 1796) in paragraph at lines 323--323
-\T1/cmss/m/n/10.95 (+20) - Matthews, David. 2016. ^^PFo-cus on Re-search `Ex-ce
-l-lence' Is `Dam-ag-ing Sci-ence.'^^Q
- []
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 841.
 
 
-Underfull \hbox (badness 3579) in paragraph at lines 323--323
-\T1/cmss/m/it/10.95 (+20) Times Higher Ed-u-ca-tion Sup-ple-ment\T1/cmss/m/n/10
-.95 (+20) . []$\T1/cmtt/m/n/10.95 https : / / www . timeshighereducation . com 
-/ news /
- []
 
-
-Underfull \hbox (badness 4454) in paragraph at lines 331--331
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-012. ^^P`There's No Next about It': Stan-ley Fish,
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 331--331
-\T1/cmss/m/n/10.95 (+20) William Pan-na-packer, and the Dig-i-tal Hu-man-i-ties
- as Par-adis-ci-pline.^^Q \T1/cmss/m/it/10.95 (+20) Dig-i-tal Hu-man-i-
- []
-
-
-Underfull \hbox (badness 3514) in paragraph at lines 331--331
-\T1/cmss/m/it/10.95 (+20) ties Now, Ed-i-tors' Choice\T1/cmss/m/n/10.95 (+20) ,
- Septem-ber. []$\T1/cmtt/m/n/10.95 http : / / digitalhumanitiesnow . org / 2012
- / 09 /
- []
-
-
-Overfull \hbox (222.83559pt too wide) in paragraph at lines 331--331
-\T1/cmtt/m/n/10.95 editors-[]choice-[]theres-[]no-[]next-[]about-[]it-[]stanley
--[]fish-[]william-[]pannapacker-[]and-[]the-[]digital-[]humanities-[]as-[]parad
-iscipline/$[]\T1/cmss/m/n/10.95 (-20) .| 
- []
-
-
-Underfull \hbox (badness 1242) in paragraph at lines 349--349
-\T1/cmss/m/n/10.95 (+20) and Grand-field, Vir-gil. 2016. Re-view of \T1/cmss/m/
-it/10.95 (+20) Elec-tronic Be-owulf\T1/cmss/m/n/10.95 (+20) . \T1/cmss/m/it/10.
-95 (+20) Dig-i-tal Me-dieval-ist \T1/cmss/m/n/10.95 (+20) 10.
- []
-
-
+[9{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 10/26 
+[]|\T1/cmss/m/it/10.95 (-20) 10/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [10]
-Underfull \hbox (badness 4792) in paragraph at lines 377--377
-[]|\T1/cmss/m/n/10.95 (+20) i Cook, Eleanor I. and \T1/cmss/bx/n/10.95 (+20) O'
-Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2019. ^^PAn In-ter-view with
- []
-
-
-Underfull \hbox (badness 1783) in paragraph at lines 377--377
-\T1/cmss/m/n/10.95 (+20) Daniel O'Donnell, Cur-rent Pres-i-dent of FORCE11.^^Q 
-\T1/cmss/m/it/10.95 (+20) The Se-ri-als Li-brar-ian \T1/cmss/m/n/10.95 (+20) 76
-.1^^U2: 1^^U3.
- []
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 379--379
-[]|\T1/cmss/m/n/10.95 (+20) i Priego, Ernesto and \T1/cmss/bx/n/10.95 (+20) O'D
-onnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2013. ^^PBring-ing Di-ver-sity of
-
- []
-
-
-Underfull \hbox (badness 3568) in paragraph at lines 379--379
-\T1/cmss/m/n/10.95 (+20) Ex-pe-ri-ence To-gether: An In-ter-view with Daniel O'
-Donnell.^^Q \T1/cmss/m/it/10.95 (+20) 4Hu-man-i-ties\T1/cmss/m/n/10.95 (+20) . 
-Ac-cessed
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 379--379
-\T1/cmss/m/n/10.95 (+20) May 9. []http://4humanities.org/2013/05/interview-dani
-el-o-donnell/[]. Also trans-lated into
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 389--389
-[]|\T1/cmss/m/n/10.95 (+20) Carmichael, Joe. 2016. ^^PSci-ence Has an Ex-cel-le
-nce Prob-lem.^^Q \T1/cmss/m/it/10.95 (+20) In-verse\T1/cmss/m/n/10.95 (+20) , J
-une 14.
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 11/26 
+[]|\T1/cmss/m/it/10.95 (-20) 11/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 415--415
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PFu-ture Gen-er-a-tions Can Learn from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--415
-\T1/cmss/m/n/10.95 (+20) Doc-u-ments Writ-ten for the Present.^^Q \T1/cmss/m/it
-/10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 13.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 415--415
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/12/13/future-generations-can-learn-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PSuc-cess of the Uni-ver-sity of Leth-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
-\T1/cmss/m/n/10.95 (+20) bridge Fac-ing a Real Threat.^^Q \T1/cmss/m/it/10.95 (
-+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 6.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--417
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/12/06/success-of-the-university-of-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PIt's Bet-ter for All of Us to En-gage
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-\T1/cmss/m/n/10.95 (+20) with Peo-ple Who Aren't like Us.^^Q \T1/cmss/m/it/10.9
-5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 30.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 419--419
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/30/its-better-for-all-of-us-to-
- []
-
-
-Underfull \hbox (badness 4353) in paragraph at lines 421--421
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PThe Data We Will-ingly or Un-wit-tingly Pro-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--421
-\T1/cmss/m/n/10.95 (+20) vide to Com-pa-nies Works for Them.^^Q \T1/cmss/m/it/1
-0.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 22.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--421
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/22/the-data-we-willingly-or-
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 12/26 
+[]|\T1/cmss/m/it/10.95 (-20) 12/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PEn-thu-si-asm for Uni-ver-sity's An-
+Underfull \hbox (badness 2435) in paragraph at lines 944--944
+\T1/cmss/m/n/10 (+20) Gadie, Robert*, Odeniyi, Vic-to-ria*, and Parvin, Shahina
+*. 2021. ^^PRead-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
-\T1/cmss/m/n/10.95 (+20) nual Open House as High as Ever.^^Q \T1/cmss/m/it/10.9
-5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 2.
+Underfull \hbox (badness 1675) in paragraph at lines 944--944
+\T1/cmss/m/n/10 (+20) ing Peer Re-view ^^U What a Dataset of Peer Re-view Re-po
+rts Can Teach Us
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--423
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/11/02/enthusiasm-for-universitys-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--425
-[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
-024. ^^PChat-bots Know Noth-ing but
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--425
-\T1/cmss/m/n/10.95 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/it/
-10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Oc-to-ber 23.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 425--425
-[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
-4/10/23/chatbots-know-nothing-but-
+Underfull \hbox (badness 2486) in paragraph at lines 944--944
+\T1/cmss/m/n/10 (+20) about Chang-ing Re-search Cul-ture.^^Q \T1/cmss/m/sl/10 (
++20) Im-pact of So-cial Sci-ences (blog)\T1/cmss/m/n/10 (+20) , March
  []
 
 
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 13/26 
+[]|\T1/cmss/m/it/10.95 (-20) 13/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [13]
-Underfull \hbox (badness 3849) in paragraph at lines 473--473
-[]|\T1/cmss/bx/n/10.95 (+20) Open and In-clu-sive Ac-cess to Re-search (OIAR)\T
-1/cmss/m/n/10.95 (+20) . Co-organizer with Gi-mena del
+Underfull \hbox (badness 10000) in paragraph at lines 947--947
+\T1/cmtt/m/n/10 articles / Excellence _ R _ Us _ University _ Research _ and _ 
+the _ Fetishisation _ of _
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 473--473
-\T1/cmss/m/n/10.95 (+20) Rio and Wouter Schal-lier. \T1/cmss/m/it/10.95 (+20) O
-n-line\T1/cmss/m/n/10.95 (+20) , Nov. 8^^U11. SSHRC Con-nec-tions. []$\T1/cmtt/
-m/n/10.95 http : / /
+Underfull \hbox (badness 10000) in paragraph at lines 958--958
+\T1/cmss/m/n/10 (+20) theres-no-next-about-it-stanley-fish-william-pannapacker-
+and-the-digital-humanities-as-
  []
 
 
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 14/26 
+[]|\T1/cmss/m/it/10.95 (-20) 14/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [14]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
+Underfull \hbox (badness 2884) in paragraph at lines 974--974
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2011. Re-view of June Tera-sawa, \T1/cmss/m/sl/10 (+20) Old En
+-
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 974--974
+\T1/cmss/m/sl/10 (+20) glish Me-tre: An In-tro-duc-tion\T1/cmss/m/n/10 (+20) . 
+Toronto Anglo-Saxon Se-ries. Toronto:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 974--974
+\T1/cmss/m/n/10 (+20) Uni-ver-sity of Toronto Press. \T1/cmss/m/sl/10 (+20) The
+ Me-dieval Re-view \T1/cmss/m/n/10 (+20) 2011-09-28.
+ []
+
 
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 15/26 
+[]|\T1/cmss/m/it/10.95 (-20) 15/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [15]
-Underfull \hbox (badness 2401) in paragraph at lines 547--547
-[]|\T1/cmss/m/n/10.95 (+20) i O'Donnell, Daniel Paul. 2024. ^^PAca-demic Free-d
-om, Priv-i-lege, and In-ter-sec-tion-al-
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 553--553
-\T1/cmss/m/n/10.95 (+20) Me-di-ae-val Stud-ies.^^Q In-ter-na-tional Congress on
- Me-dieval Stud-ies. Kala-ma-zoo. May 11.
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 16/26 
+[]|\T1/cmss/m/it/10.95 (-20) 16/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [16]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 17/26 
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Dan\T1/cmss/m/n/10 (+20) . 2025. ^^PAt-tem
+pt to Negate a Rid-ing
  []
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+\T1/cmss/m/n/10 (+20) Is Grounds for Re-call.^^Q \T1/cmss/m/sl/10 (+20) The Let
+h-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber 15.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2025/1
+1/15/attempt-to-negate-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2025. ^
+^POne Mo-ment Cap-tured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+\T1/cmss/m/n/10 (+20) Poilievre's Fa-tal Weak-ness.^^Q \T1/cmss/m/sl/10 (+20) T
+he Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , May 1.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2025/0
+5/01/one-moment-
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 1018--1018
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PFu-ture Gen-er-a-tions Can Learn from Doc-
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 1018--1018
+\T1/cmss/m/n/10 (+20) u-ments Writ-ten for the Present.^^Q \T1/cmss/m/sl/10 (+2
+0) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , De-cem-ber 13.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1018
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+2/13/future-generations-
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 1019--1019
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PSuc-cess of the Uni-ver-sity of Leth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1019
+\T1/cmss/m/n/10 (+20) bridge Fac-ing a Real Threat.^^Q \T1/cmss/m/sl/10 (+20) T
+he Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , De-cem-ber 6.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1019
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+2/06/success-of-the-
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 1020--1020
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PIt's Bet-ter for All of Us to En-
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 1020--1020
+\T1/cmss/m/n/10 (+20) gage with Peo-ple Who Aren't like Us.^^Q \T1/cmss/m/sl/10
+ (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 1021--1021
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PThe Data We Will-ingly or Un-wit-
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 1022--1022
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PEn-thu-si-asm for Uni-ver-sity's An-nual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
+\T1/cmss/m/n/10 (+20) Open House as High as Ever.^^Q \T1/cmss/m/sl/10 (+20) The
+ Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber 2.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+1/02/enthusiasm-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PChat-bots Know Noth-ing but
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 1023--1023
+\T1/cmss/m/n/10 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/sl/10 
+(+20) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Oc-to-ber 23.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+0/23/chatbots-know-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PCom-mu-ni-ca-tion and Lead-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+\T1/cmss/m/n/10 (+20) er-ship a Mat-ter of Trust.^^Q \T1/cmss/m/sl/10 (+20) Let
+h-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 20.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/0
+9/20/communication-
+ []
+
+
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 17/35 
+ []
 
 [17]
-Underfull \hbox (badness 7397) in paragraph at lines 625--625
-[]|\T1/cmss/m/n/10.95 (+20) Bosman, Jeroen, Ian Bruno, Amy Buck-land, Sarah Cal
-laghan, Robin Champieux,
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PHas the Uni-ver-sity of
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 625--625
-\T1/cmss/m/n/10.95 (+20) Chris Chap-man, Stephanie Hagstrom, Bianca Kramer, Mar
-yAnn Mar-tone, Daniel Paul
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+\T1/cmss/m/n/10 (+20) Leth-bridge Lost Its Soul?^^Q \T1/cmss/m/sl/10 (+20) Leth
+-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 6.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+[]\T1/cmss/m/n/10 (+19) https://lethbridgeherald.com/commentary/opinions/2024/0
+9/06/has-the-university-of-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+[]|\T1/cmss/m/n/10 (+20) O'Donnell, Dan. 2024. ^^POpin-ion: Bill 18 Risks Re-se
+arch for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+\T1/cmss/m/n/10 (+20) the Sake of Po-lit-i-cal Cor-rect-ness.^^Q \T1/cmss/m/sl/
+10 (+20) Ed-mon-ton Jour-nal\T1/cmss/m/n/10 (+20) , June 7.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+[]\T1/cmss/m/n/10 (+20) https://edmontonjournal.com/opinion/columnists/opinion-
+bill-18-risks-research-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023. ^
+^PRe-flec-tions on the U of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+\T1/cmss/m/n/10 (+20) L a Year af-ter Strike/Lockout.^^Q \T1/cmss/m/sl/10 (+20)
+ Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , March 21.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2023/0
+3/21/reflections-on-the-u-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2022. ^
+^PMaybe We Need to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\T1/cmss/m/n/10 (+20) Start Demon-strat-ing Again.^^Q \T1/cmss/m/sl/10 (+20) Le
+th-bridge Her-ald\T1/cmss/m/n/10 (+20) , Jan-uary 29.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2021/1
+2/08/maybe-we-need-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2021. ^
+^PThere Is Still Time to Turn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+\T1/cmss/m/n/10 (+20) Things Around at the U of L.^^Q \T1/cmss/m/sl/10 (+20) Le
+th-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 10.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/14opinions/2021
+/09/10/there-is-still-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2016. ^
+^PCus-tomized Pro-nouns: A Good
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+\T1/cmss/m/n/10 (+20) Idea That Makes No Sense.^^Q \T1/cmss/m/sl/10 (+20) The G
+lobe and Mail\T1/cmss/m/n/10 (+20) , Oc-to-ber 15.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+[]\T1/cmss/m/n/10 (+20) https://www.theglobeandmail.com/opinion/customized-pron
+ouns-a-good-idea-that-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024s. 
+^^PWork-ing on Code with Chat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+\T1/cmss/m/n/10 (+20) GPT: Some Tips (Some Also Use-ful More Gen-er-ally).^^Q D
+e-cem-ber 25.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+\T1/cmss/m/n/10 (+20) https://people.uleth.ca/ daniel.odonnell/blog/working-on-
+code-with-chatgpt-some-
  []
 
 
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 18/26 
+[]|\T1/cmss/m/it/10.95 (-20) 18/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [18]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 19/26 
+Underfull \hbox (badness 1975) in paragraph at lines 1044--1044
+\T1/cmss/m/n/10 (+20) mit-tee on Sci-ence and Re-search (SRSR), Novem-ber 28, 2
+024.^^Q De-cem-ber 1.
  []
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+Underfull \hbox (badness 1092) in paragraph at lines 1045--1045
+\T1/cmss/m/n/10 (+20) durn Press, 2024) and Ganz, When the Clock Broke (FSG, 20
+24).^^Q June 30.
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 1047--1047
+\T1/cmss/m/n/10 (+20) I'm a Good Man': WWII and the Great-est Gen-er-a-tion at 
+Home.^^Q April 10.
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 1048--1048
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024n. 
+^^PChat-Bot Prompt Thy-self.^^Q April 10.
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 1049--1049
+\T1/cmss/m/n/10 (+20) War by Kim Philby and A Spy among Friends by Ben Mac-In-t
+yre.^^Q April 10.
+ []
+
+
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 19/35 
+ []
 
 [19]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 20/26 
+Underfull \hbox (badness 5954) in paragraph at lines 1060--1060
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024b. 
+^^PBell 2023. Crack-ing the Nazi
  []
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 1060--1060
+\T1/cmss/m/n/10 (+20) Code: The Un-told Story of Canada's Great-est Spy.^^Q Jan
+-uary 5.
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 1062--1062
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023j. 
+^^PEv-erett, 2001. Era-sure.^^Q De-cem-ber 31.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023b. 
+^^PIrony All the Way down, or,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+\T1/cmss/m/n/10 (+20) Why En-glish De-part-ments Can't Have Pub Nights.^^Q De-c
+em-ber 17.
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 1076--1076
+\T1/cmss/m/n/10 (+20) Bill 6 and Treaty Rights. Septem-ber 2. []$\T1/cmtt/m/n/1
+0 https : / / open . spotify . com / show /
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 1078--1078
+\T1/cmss/m/n/10 (+20) Al-berta's Anti-Trans Leg-is-la-tion. June 7. []$\T1/cmtt
+/m/n/10 https : / / open . spotify . com / show /
+ []
+
+
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 20/35 
+ []
 
 [20]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 21/26 
+[]|\T1/cmss/m/it/10.95 (-20) 21/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [21]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 22/26 
+[]|\T1/cmss/m/it/10.95 (-20) 22/35 
+ []
+
+[22]
+Underfull \hbox (badness 1158) in paragraph at lines 1136--1136
+[]|\T1/cmss/m/n/10 (+20) is \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cm
+ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
  []
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
-
-[22]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 23/26 
+[]|\T1/cmss/m/it/10.95 (-20) 23/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [23]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 24/26 
+[]|\T1/cmss/m/it/10.95 (-20) 24/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [24]
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 862--862
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 868--868
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
-Overfull \hbox (2.32884pt too wide) in paragraph at lines 872--872
- []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 25/26 
+[]|\T1/cmss/m/it/10.95 (-20) 25/35 
  []
-
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
 
 [25]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 26/26 
+[]|\T1/cmss/m/it/10.95 (-20) 26/35 
+ []
+
+[26]
+Underfull \hbox (badness 3525) in paragraph at lines 1193--1193
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2014. ^^P`All To-gether Now...' Mo-bil-is-ing
  []
 
 
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 40.8pt, for example:
-(fancyhdr)                \setlength{\footskip}{40.8pt}.
+Underfull \hbox (badness 3158) in paragraph at lines 1194--1194
+\T1/cmss/m/n/10 (+20) world-wide col-lab-o-ra-tive con-fer-ence on pri-vacy and
+ surveil-lance in the dig-i-tal
+ []
 
-[26] (./CV.aux)
+
+Underfull \hbox (badness 2418) in paragraph at lines 1194--1194
+\T1/cmss/m/n/10 (+20) age. Hosted by the Kule In-sti-tute for Ad-vanced Study. 
+May 21, 2014.
+ []
+
+
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 27/35 
+ []
+
+[27]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 28/35 
+ []
+
+[28]
+Underfull \hbox (badness 7133) in paragraph at lines 1221--1221
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2010. A Work-shop on Uses and In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
+\T1/cmss/m/n/10 (+20) ter-op-er-a-tion. Paris, Jan-uary 14-15. http://lib.stanf
+ord.edu/DMSS
+ []
+
+
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 29/35 
+ []
+
+[29]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 30/35 
+ []
+
+[30]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 31/35 
+ []
+
+[31]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 32/35 
+ []
+
+[32]
+LaTeX Font Info:    Trying to load font information for T3+cmss on input line 1
+292.
+ (/usr/share/texmf/tex/latex/tipa/t3cmss.fd
+File: t3cmss.fd 2001/12/31 TIPA font definitions
+)
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 33/35 
+ []
+
+[33]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 34/35 
+ []
+
+[34]
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 35/35 
+ []
+
+[35] (./CV.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1454,31 +1619,38 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: ACCEB389552E2F8B81D9F070120AED82;6228.
- ) 
+(rerunfilecheck)             Checksum: 293F66C65FF8EC229CA7FE72556DBE8F;8039.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 136 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 27775 strings out of 473197
- 528858 string characters out of 5718605
- 958598 words of memory out of 5000000
- 50237 multiletter control sequences out of 15000+600000
- 591215 words of font info for 208 fonts, out of 8000000 for 9000
+ 28671 strings out of 473197
+ 541423 string characters out of 5718604
+ 971338 words of memory out of 5000000
+ 51033 multiletter control sequences out of 15000+600000
+ 597060 words of font info for 239 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,13n,129p,999b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
-ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
-/FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfc
-c1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfsi1728.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
-1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss3
-583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on CV.pdf (26 pages, 303056 bytes).
+ 129i,18n,129p,999b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/
+FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfsi1728.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss3583.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb
+></usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb>
+Output written on CV.pdf (35 pages, 416512 bytes).
 PDF statistics:
- 614 PDF objects out of 1000 (max. 8388607)
- 498 compressed objects within 5 object streams
- 61 named destinations out of 1000 (max. 500000)
- 41757 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 736 PDF objects out of 1000 (max. 8388607)
+ 650 compressed objects within 7 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 56178 words of extra memory for PDF output out of 61914 (max. 10000000)
 

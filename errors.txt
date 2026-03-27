@@ -1,0 +1,696 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./CV.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./tex/moderncv/moderncv.cls
+
+LaTeX Warning: You have requested document class `tex/moderncv/moderncv',
+               but the document class provides `moderncv'.
+
+Document Class: moderncv 2024-07-18 v2.4.1 modern curriculum vitae and letter d
+ocument class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/tweaklist.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcollection.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcompatibility.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconssymbols.sty
+
+moderncv: academicons requires XeTeX/LuaTeX to work. Using alternatives.
+
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconsawesome.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-help
+er.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)
+)) (/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolors.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncviconstikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
+.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex))
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex)))))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvheadii.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvbodyi.sty
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvskillmatrix.sty
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/arydshln/arydshln.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvfooti.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
+(/usr/share/texlive/texmf-dist/tex/latex/moderncv/moderncvcolors.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/canadian.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-canadian.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(./CV.aux) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(./CV.out) (./CV.out)
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <38> not available
+(Font)              size <35.83> substituted on input line 65.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/en
+c/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips
+/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fonta
+wesome5/fa5free1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/
+usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[2]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[3]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[4]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[5]
+
+LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10.95> not available
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 215.
+
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[6]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[7]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[8]
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[9]
+Underfull \hbox (badness 1796) in paragraph at lines 323--323
+\T1/cmss/m/n/10.95 (+20) - Matthews, David. 2016. ^^PFo-cus on Re-search `Ex-ce
+l-lence' Is `Dam-ag-ing Sci-ence.'^^Q
+
+Underfull \hbox (badness 3579) in paragraph at lines 323--323
+\T1/cmss/m/it/10.95 (+20) Times Higher Ed-u-ca-tion Sup-ple-ment\T1/cmss/m/n/10
+.95 (+20) . []$\T1/cmtt/m/n/10.95 https : / / www . timeshighereducation . com 
+/ news /
+
+Underfull \hbox (badness 4454) in paragraph at lines 331--331
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+012. ^^P`There's No Next about It': Stan-ley Fish,
+
+Underfull \hbox (badness 4217) in paragraph at lines 331--331
+\T1/cmss/m/n/10.95 (+20) William Pan-na-packer, and the Dig-i-tal Hu-man-i-ties
+ as Par-adis-ci-pline.^^Q \T1/cmss/m/it/10.95 (+20) Dig-i-tal Hu-man-i-
+
+Underfull \hbox (badness 3514) in paragraph at lines 331--331
+\T1/cmss/m/it/10.95 (+20) ties Now, Ed-i-tors' Choice\T1/cmss/m/n/10.95 (+20) ,
+ Septem-ber. []$\T1/cmtt/m/n/10.95 http : / / digitalhumanitiesnow . org / 2012
+ / 09 /
+
+Overfull \hbox (222.83559pt too wide) in paragraph at lines 331--331
+\T1/cmtt/m/n/10.95 editors-[]choice-[]theres-[]no-[]next-[]about-[]it-[]stanley
+-[]fish-[]william-[]pannapacker-[]and-[]the-[]digital-[]humanities-[]as-[]parad
+iscipline/$[]\T1/cmss/m/n/10.95 (-20) .| 
+
+Underfull \hbox (badness 1242) in paragraph at lines 349--349
+\T1/cmss/m/n/10.95 (+20) and Grand-field, Vir-gil. 2016. Re-view of \T1/cmss/m/
+it/10.95 (+20) Elec-tronic Be-owulf\T1/cmss/m/n/10.95 (+20) . \T1/cmss/m/it/10.
+95 (+20) Dig-i-tal Me-dieval-ist \T1/cmss/m/n/10.95 (+20) 10.
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 10/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[10]
+Underfull \hbox (badness 4792) in paragraph at lines 377--377
+[]|\T1/cmss/m/n/10.95 (+20) i Cook, Eleanor I. and \T1/cmss/bx/n/10.95 (+20) O'
+Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2019. ^^PAn In-ter-view with
+
+Underfull \hbox (badness 1783) in paragraph at lines 377--377
+\T1/cmss/m/n/10.95 (+20) Daniel O'Donnell, Cur-rent Pres-i-dent of FORCE11.^^Q 
+\T1/cmss/m/it/10.95 (+20) The Se-ri-als Li-brar-ian \T1/cmss/m/n/10.95 (+20) 76
+.1^^U2: 1^^U3.
+
+Underfull \hbox (badness 4328) in paragraph at lines 379--379
+[]|\T1/cmss/m/n/10.95 (+20) i Priego, Ernesto and \T1/cmss/bx/n/10.95 (+20) O'D
+onnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2013. ^^PBring-ing Di-ver-sity of
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 379--379
+\T1/cmss/m/n/10.95 (+20) Ex-pe-ri-ence To-gether: An In-ter-view with Daniel O'
+Donnell.^^Q \T1/cmss/m/it/10.95 (+20) 4Hu-man-i-ties\T1/cmss/m/n/10.95 (+20) . 
+Ac-cessed
+
+Underfull \hbox (badness 1009) in paragraph at lines 379--379
+\T1/cmss/m/n/10.95 (+20) May 9. []http://4humanities.org/2013/05/interview-dani
+el-o-donnell/[]. Also trans-lated into
+
+Underfull \hbox (badness 3375) in paragraph at lines 389--389
+[]|\T1/cmss/m/n/10.95 (+20) Carmichael, Joe. 2016. ^^PSci-ence Has an Ex-cel-le
+nce Prob-lem.^^Q \T1/cmss/m/it/10.95 (+20) In-verse\T1/cmss/m/n/10.95 (+20) , J
+une 14.
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 11/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PFu-ture Gen-er-a-tions Can Learn from
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+\T1/cmss/m/n/10.95 (+20) Doc-u-ments Writ-ten for the Present.^^Q \T1/cmss/m/it
+/10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--415
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/12/13/future-generations-can-learn-
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PSuc-cess of the Uni-ver-sity of Leth-
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+\T1/cmss/m/n/10.95 (+20) bridge Fac-ing a Real Threat.^^Q \T1/cmss/m/it/10.95 (
++20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , De-cem-ber 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--417
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/12/06/success-of-the-university-of-
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PIt's Bet-ter for All of Us to En-gage
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+\T1/cmss/m/n/10.95 (+20) with Peo-ple Who Aren't like Us.^^Q \T1/cmss/m/it/10.9
+5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/11/30/its-better-for-all-of-us-to-
+
+Underfull \hbox (badness 4353) in paragraph at lines 421--421
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PThe Data We Will-ingly or Un-wit-tingly Pro-
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+\T1/cmss/m/n/10.95 (+20) vide to Com-pa-nies Works for Them.^^Q \T1/cmss/m/it/1
+0.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 22.
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--421
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/11/22/the-data-we-willingly-or-
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 12/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PEn-thu-si-asm for Uni-ver-sity's An-
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+\T1/cmss/m/n/10.95 (+20) nual Open House as High as Ever.^^Q \T1/cmss/m/it/10.9
+5 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Novem-ber 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--423
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/11/02/enthusiasm-for-universitys-
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]|\T1/cmss/bx/n/10.95 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10.95 (+20) . 2
+024. ^^PChat-bots Know Noth-ing but
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+\T1/cmss/m/n/10.95 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/it/
+10.95 (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10.95 (+20) , Oc-to-ber 23.
+
+Underfull \hbox (badness 10000) in paragraph at lines 425--425
+[]\T1/cmss/m/n/10.95 (+20) https://lethbridgeherald.com/commentary/opinions/202
+4/10/23/chatbots-know-nothing-but-
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 13/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[13]
+Underfull \hbox (badness 6842) in paragraph at lines 456--456
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024t. ^^PCon-sole in Ob-sid
+-ian An-droid.^^Q De-cem-ber 29.
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024r. ^^PWit-ness State-men
+t to the Stand-ing Com-
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
+\T1/cmss/m/n/10.95 (+20) mit-tee on Sci-ence and Re-search (SRSR), Novem-ber 28
+, 2024.^^Q De-cem-ber 1.
+
+Underfull \hbox (badness 4328) in paragraph at lines 459--459
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024q. ^^PParty like It's 19
+99: Ap-pel, Ken-ny-ism (Dun-
+
+Underfull \hbox (badness 10000) in paragraph at lines 459--459
+\T1/cmss/m/n/10.95 (+20) durn Press, 2024) and Ganz, When the Clock Broke (FSG,
+ 2024).^^Q June 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024n. ^^PChat-Bot Prompt Th
+y-self.^^Q April 10.
+
+Underfull \hbox (badness 6944) in paragraph at lines 466--466
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024j. ^^PThe Eter-nal Prese
+nt of the Spot in Time:
+
+Underfull \hbox (badness 4886) in paragraph at lines 466--466
+\T1/cmss/m/n/10.95 (+20) An Episodic His-tory of Amer-i-can Higher Ed-u-ca-tion
+ (Mat-tingly 2017).^^Q Febru-ary 21.
+
+Underfull \hbox (badness 2027) in paragraph at lines 467--467
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024i. ^^PPer-va-tory, by R.
+M. Vaughan (2023).^^Q Febru-ary 18.
+
+Underfull \hbox (badness 5050) in paragraph at lines 469--469
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024g. ^^PBock-oven, 2018. F
+an-tas-ti-cland.^^Q Febru-ary 5.
+
+Underfull \hbox (badness 2941) in paragraph at lines 471--471
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024e. ^^PProse, Nita. 2022.
+ The Maid.^^Q Jan-uary 27.
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 14/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[14]
+Underfull \hbox (badness 3547) in paragraph at lines 475--475
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2024a. ^^PIce-berg Slim 1969
+ [2011]. Pimp.^^Q Jan-uary 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2023j. ^^PEv-erett, 2001. Er
+a-sure.^^Q De-cem-ber 31.
+
+Underfull \hbox (badness 3514) in paragraph at lines 479--479
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2023g. ^^PDutt-Ballerstadt a
+nd Bhat-tacharya, Eds. 2021.
+
+Underfull \hbox (badness 5681) in paragraph at lines 479--479
+\T1/cmss/m/n/10.95 (+20) Ci-vil-ity, Free Speech, and Aca-demic Free-dom in Hig
+her Ed-u-ca-tion.^^Q De-cem-ber 29.
+
+Underfull \hbox (badness 4954) in paragraph at lines 482--482
+[]|\T1/cmss/m/n/10.95 (+20) Daniel Paul O'Donnell. 2023d. ^^PSinykin 2023. Big 
+Fic-tion: How Con-glom-
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--482
+\T1/cmss/m/n/10.95 (+20) er-a-tion Changed the Pub-lish-ing In-dus-try and Amer
+-i-can Lit-er-a-ture.^^Q De-cem-ber 23.
+Runaway argument?
+{Daniel Paul O’Donnell. 2023a. “Quis Custodiet Ipsos Custodes? Re\ETC.
+! Paragraph ended before \\cvitem was complete.
+<to be read again> 
+                   \par 
+l.486 
+      
+? ! Interruption.
+l.486 
+      
+? 
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 15/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[15]
+Underfull \hbox (badness 3849) in paragraph at lines 506--506
+[]|\T1/cmss/bx/n/10.95 (+20) Open and In-clu-sive Ac-cess to Re-search (OIAR)\T
+1/cmss/m/n/10.95 (+20) . Co-organizer with Gi-mena del
+
+Underfull \hbox (badness 2635) in paragraph at lines 506--506
+\T1/cmss/m/n/10.95 (+20) Rio and Wouter Schal-lier. \T1/cmss/m/it/10.95 (+20) O
+n-line\T1/cmss/m/n/10.95 (+20) , Nov. 8^^U11. SSHRC Con-nec-tions. []$\T1/cmtt/
+m/n/10.95 http : / /
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 16/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[16]
+Underfull \hbox (badness 2401) in paragraph at lines 581--581
+[]|\T1/cmss/m/n/10.95 (+20) i O'Donnell, Daniel Paul. 2024. ^^PAca-demic Free-d
+om, Priv-i-lege, and In-ter-sec-tion-al-
+
+Underfull \hbox (badness 1178) in paragraph at lines 587--587
+\T1/cmss/m/n/10.95 (+20) Me-di-ae-val Stud-ies.^^Q In-ter-na-tional Congress on
+ Me-dieval Stud-ies. Kala-ma-zoo. May 11.
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 17/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[17]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 18/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[18]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 19/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[19]
+Underfull \hbox (badness 7397) in paragraph at lines 659--659
+[]|\T1/cmss/m/n/10.95 (+20) Bosman, Jeroen, Ian Bruno, Amy Buck-land, Sarah Cal
+laghan, Robin Champieux,
+
+Underfull \hbox (badness 2351) in paragraph at lines 659--659
+\T1/cmss/m/n/10.95 (+20) Chris Chap-man, Stephanie Hagstrom, Bianca Kramer, Mar
+yAnn Mar-tone, Daniel Paul
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 20/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[20]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 21/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[21]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 22/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[22]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 23/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[23]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 24/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[24]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 25/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[25]
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 26/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[26]
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 896--896
+ []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 902--902
+ []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+
+Overfull \hbox (2.32884pt too wide) in paragraph at lines 906--906
+ []|[]\T1/cmss/m/n/10.95 (-20) Undergraduate[]|
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 27/27 
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 40.8pt, for example:
+(fancyhdr)                \setlength{\footskip}{40.8pt}.
+
+[27] (./CV.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 2.17pt have occurred.
+
+ )</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Br
+ands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5
+/FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfc
+c1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1095.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfsi1728.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss
+1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss3
+583.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on CV.pdf (27 pages, 308601 bytes).
+Transcript written on CV.log.

@@ -1,0 +1,43 @@
+@book{brooks1947wellwroughturn,
+  author = {Cleanth Brooks},
+  title = {The Well Wrought Urn: Studies in the Structure of Poetry},
+  year = {1947},
+  publisher = {Harcourt, Brace and Company},
+  callnumber = {PN1031 .B7 1947},
+  abstract = {Brooks outlines the New Critical approach to poetry, arguing that paradox and ambiguity are central to poetic meaning. His close readings demonstrate that poetic structure creates tension and unity through complexity rather than simplicity.},
+  keywords = {New Criticism, Poetic Ambiguity, Paradox, Close Reading, Cleanth Brooks, Textual Unity, Literary Theory},
+  note = {Generated abstract | Keywords supplemented by AI}
+}
+
+@book{wellek1955theoryliterature,
+  author = {René Wellek and Austin Warren},
+  title = {Theory of Literature},
+  year = {1955},
+  publisher = {Harcourt, Brace & World},
+  callnumber = {PN45 .W3 1955},
+  abstract = {This foundational New Critical text advocates for literature as autonomous and self-contained, analyzable through formal elements. Wellek and Warren highlight richness as part of the “organic unity” of literary texts and defend close reading as a method for engaging this complexity.},
+  keywords = {New Criticism, Formalism, Richness in Literature, Organic Unity, Close Reading, Austin Warren, René Wellek},
+  note = {Generated abstract | Keywords supplemented by AI}
+}
+
+@book{empson1930seven,
+  author = {William Empson},
+  title = {Seven Types of Ambiguity},
+  year = {1930},
+  publisher = {Chatto & Windus},
+  callnumber = {PR653 .E5},
+  abstract = {Empson catalogues types of ambiguity in poetry, positing ambiguity as a marker of literary value and depth. Though predating the New Critics, his work profoundly influenced their appreciation of textual richness and complexity.},
+  keywords = {Ambiguity, William Empson, Textual Richness, New Criticism, Poetic Analysis, Close Reading, Literary Ambiguity},
+  note = {Generated abstract | Keywords supplemented by AI}
+}
+
+@article{brooks1943heresy,
+  author = {Cleanth Brooks},
+  title = {The Heresy of Paraphrase},
+  journal = {The Well Wrought Urn},
+  year = {1943},
+  note = {Reprinted in The Well Wrought Urn (1947). Brooks critiques attempts to reduce poems to paraphrasable content, arguing that meaning is embodied in poetic form and texture.},
+  abstract = {This chapter famously rejects paraphrase as a distortion of poetic meaning, claiming that a poem’s richness lies in its form. Brooks contends that the interplay of tensions and ambiguities produces meaning beyond propositional summary.},
+  keywords = {New Criticism, Heresy of Paraphrase, Cleanth Brooks, Poetic Form, Textual Richness, Tension, Ambiguity},
+  note = {Generated abstract | Keywords supplemented by AI}
+}

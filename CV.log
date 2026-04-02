@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  27 MAR 2026 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  30 MAR 2026 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,22 +979,23 @@ Underfull \hbox (badness 10000) in alignment at lines 239--239
 [6]
 
 [7]
-<Scholar_Citations_2026-01-25T16-35-08.png, id=254, 401.5pt x 481.8pt>
+<Scholar_Citations_2026-01-25T16-35-08.png, id=258, 401.5pt x 481.8pt>
 File: Scholar_Citations_2026-01-25T16-35-08.png Graphic file (type png)
 <use Scholar_Citations_2026-01-25T16-35-08.png>
 Package pdftex.def Info: Scholar_Citations_2026-01-25T16-35-08.png  used on inp
-ut line 832.
+ut line 850.
 (pdftex.def)             Requested size: 181.27983pt x 217.5358pt.
 
 
-[8 <./Scholar_Citations_2026-01-25T16-35-08.png>]
+[8]
 
 LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 841.
+(Font)              Font shape `T1/cmr/m/sc' tried instead on input line 859.
 
 
 
-[9{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
+[9{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./
+Scholar_Citations_2026-01-25T16-35-08.png>]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1016,24 +1017,6 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [12]
-Underfull \hbox (badness 2435) in paragraph at lines 944--944
-\T1/cmss/m/n/10 (+20) Gadie, Robert*, Odeniyi, Vic-to-ria*, and Parvin, Shahina
-*. 2021. ^^PRead-
- []
-
-
-Underfull \hbox (badness 1675) in paragraph at lines 944--944
-\T1/cmss/m/n/10 (+20) ing Peer Re-view ^^U What a Dataset of Peer Re-view Re-po
-rts Can Teach Us
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 944--944
-\T1/cmss/m/n/10 (+20) about Chang-ing Re-search Cul-ture.^^Q \T1/cmss/m/sl/10 (
-+20) Im-pact of So-cial Sci-ences (blog)\T1/cmss/m/n/10 (+20) , March
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1041,13 +1024,31 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 947--947
+Underfull \hbox (badness 2435) in paragraph at lines 962--962
+\T1/cmss/m/n/10 (+20) Gadie, Robert*, Odeniyi, Vic-to-ria*, and Parvin, Shahina
+*. 2021. ^^PRead-
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 962--962
+\T1/cmss/m/n/10 (+20) ing Peer Re-view ^^U What a Dataset of Peer Re-view Re-po
+rts Can Teach Us
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 962--962
+\T1/cmss/m/n/10 (+20) about Chang-ing Re-search Cul-ture.^^Q \T1/cmss/m/sl/10 (
++20) Im-pact of So-cial Sci-ences (blog)\T1/cmss/m/n/10 (+20) , March
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 965--965
 \T1/cmtt/m/n/10 articles / Excellence _ R _ Us _ University _ Research _ and _ 
 the _ Fetishisation _ of _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 958--958
+Underfull \hbox (badness 10000) in paragraph at lines 976--976
 \T1/cmss/m/n/10 (+20) theres-no-next-about-it-stanley-fish-william-pannapacker-
 and-the-digital-humanities-as-
  []
@@ -1060,20 +1061,20 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [14]
-Underfull \hbox (badness 2884) in paragraph at lines 974--974
+Underfull \hbox (badness 2884) in paragraph at lines 992--992
 []|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
 s/m/n/10 (+20) . 2011. Re-view of June Tera-sawa, \T1/cmss/m/sl/10 (+20) Old En
 -
  []
 
 
-Underfull \hbox (badness 5985) in paragraph at lines 974--974
+Underfull \hbox (badness 5985) in paragraph at lines 992--992
 \T1/cmss/m/sl/10 (+20) glish Me-tre: An In-tro-duc-tion\T1/cmss/m/n/10 (+20) . 
 Toronto Anglo-Saxon Se-ries. Toronto:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 974--974
+Underfull \hbox (badness 10000) in paragraph at lines 992--992
 \T1/cmss/m/n/10 (+20) Uni-ver-sity of Toronto Press. \T1/cmss/m/sl/10 (+20) The
  Me-dieval Re-view \T1/cmss/m/n/10 (+20) 2011-09-28.
  []
@@ -1093,147 +1094,93 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Dan\T1/cmss/m/n/10 (+20) . 2025. ^^PAt-tem
 pt to Negate a Rid-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 \T1/cmss/m/n/10 (+20) Is Grounds for Re-call.^^Q \T1/cmss/m/sl/10 (+20) The Let
 h-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber 15.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1015
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1033
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2025/1
 1/15/attempt-to-negate-a-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2025. ^
 ^POne Mo-ment Cap-tured
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
 \T1/cmss/m/n/10 (+20) Poilievre's Fa-tal Weak-ness.^^Q \T1/cmss/m/sl/10 (+20) T
 he Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , May 1.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1035
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2025/0
 5/01/one-moment-
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 1018--1018
+Underfull \hbox (badness 1092) in paragraph at lines 1036--1036
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PFu-ture Gen-er-a-tions Can Learn from Doc-
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 1018--1018
+Underfull \hbox (badness 7777) in paragraph at lines 1036--1036
 \T1/cmss/m/n/10 (+20) u-ments Writ-ten for the Present.^^Q \T1/cmss/m/sl/10 (+2
 0) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , De-cem-ber 13.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1018--1018
+Underfull \hbox (badness 10000) in paragraph at lines 1036--1036
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
 2/13/future-generations-
  []
 
 
-Underfull \hbox (badness 4779) in paragraph at lines 1019--1019
+Underfull \hbox (badness 4779) in paragraph at lines 1037--1037
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PSuc-cess of the Uni-ver-sity of Leth-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1019
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1037
 \T1/cmss/m/n/10 (+20) bridge Fac-ing a Real Threat.^^Q \T1/cmss/m/sl/10 (+20) T
 he Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , De-cem-ber 6.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1019
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1037
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
 2/06/success-of-the-
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 1020--1020
+Underfull \hbox (badness 5105) in paragraph at lines 1038--1038
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PIt's Bet-ter for All of Us to En-
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 1020--1020
+Underfull \hbox (badness 3417) in paragraph at lines 1038--1038
 \T1/cmss/m/n/10 (+20) gage with Peo-ple Who Aren't like Us.^^Q \T1/cmss/m/sl/10
  (+20) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 1021--1021
+Underfull \hbox (badness 4981) in paragraph at lines 1039--1039
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PThe Data We Will-ingly or Un-wit-
- []
-
-
-Underfull \hbox (badness 5862) in paragraph at lines 1022--1022
-[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
-^PEn-thu-si-asm for Uni-ver-sity's An-nual
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
-\T1/cmss/m/n/10 (+20) Open House as High as Ever.^^Q \T1/cmss/m/sl/10 (+20) The
- Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber 2.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1022--1022
-[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
-1/02/enthusiasm-for-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
-[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
-^PChat-bots Know Noth-ing but
- []
-
-
-Underfull \hbox (badness 7777) in paragraph at lines 1023--1023
-\T1/cmss/m/n/10 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/sl/10 
-(+20) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Oc-to-ber 23.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1023
-[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
-0/23/chatbots-know-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
-[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
-^PCom-mu-ni-ca-tion and Lead-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
-\T1/cmss/m/n/10 (+20) er-ship a Mat-ter of Trust.^^Q \T1/cmss/m/sl/10 (+20) Let
-h-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 20.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
-[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/0
-9/20/communication-
  []
 
 
@@ -1244,129 +1191,165 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+Underfull \hbox (badness 5862) in paragraph at lines 1040--1040
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PEn-thu-si-asm for Uni-ver-sity's An-nual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\T1/cmss/m/n/10 (+20) Open House as High as Ever.^^Q \T1/cmss/m/sl/10 (+20) The
+ Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Novem-ber 2.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+1/02/enthusiasm-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PChat-bots Know Noth-ing but
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 1041--1041
+\T1/cmss/m/n/10 (+20) Sound like Ex-perts on Ev-ery-thing.^^Q \T1/cmss/m/sl/10 
+(+20) The Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , Oc-to-ber 23.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1041--1041
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/1
+0/23/chatbots-know-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
+^PCom-mu-ni-ca-tion and Lead-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+\T1/cmss/m/n/10 (+20) er-ship a Mat-ter of Trust.^^Q \T1/cmss/m/sl/10 (+20) Let
+h-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 20.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
+[]\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2024/0
+9/20/communication-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PHas the Uni-ver-sity of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
 \T1/cmss/m/n/10 (+20) Leth-bridge Lost Its Soul?^^Q \T1/cmss/m/sl/10 (+20) Leth
 -bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 6.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1026
+Underfull \hbox (badness 10000) in paragraph at lines 1044--1044
 []\T1/cmss/m/n/10 (+19) https://lethbridgeherald.com/commentary/opinions/2024/0
 9/06/has-the-university-of-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 []|\T1/cmss/m/n/10 (+20) O'Donnell, Dan. 2024. ^^POpin-ion: Bill 18 Risks Re-se
 arch for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 \T1/cmss/m/n/10 (+20) the Sake of Po-lit-i-cal Cor-rect-ness.^^Q \T1/cmss/m/sl/
 10 (+20) Ed-mon-ton Jour-nal\T1/cmss/m/n/10 (+20) , June 7.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1027--1027
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1045
 []\T1/cmss/m/n/10 (+20) https://edmontonjournal.com/opinion/columnists/opinion-
 bill-18-risks-research-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023. ^
 ^PRe-flec-tions on the U of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
 \T1/cmss/m/n/10 (+20) L a Year af-ter Strike/Lockout.^^Q \T1/cmss/m/sl/10 (+20)
  Leth-bridge Her-ald\T1/cmss/m/n/10 (+20) , March 21.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1028
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1046
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2023/0
 3/21/reflections-on-the-u-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2022. ^
 ^PMaybe We Need to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
 \T1/cmss/m/n/10 (+20) Start Demon-strat-ing Again.^^Q \T1/cmss/m/sl/10 (+20) Le
 th-bridge Her-ald\T1/cmss/m/n/10 (+20) , Jan-uary 29.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1048
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/opinions/2021/1
 2/08/maybe-we-need-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1049
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2021. ^
 ^PThere Is Still Time to Turn
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1049
 \T1/cmss/m/n/10 (+20) Things Around at the U of L.^^Q \T1/cmss/m/sl/10 (+20) Le
 th-bridge Her-ald\T1/cmss/m/n/10 (+20) , Septem-ber 10.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1031
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1049
 []\T1/cmss/m/n/10 (+20) https://lethbridgeherald.com/commentary/14opinions/2021
 /09/10/there-is-still-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1050
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2016. ^
 ^PCus-tomized Pro-nouns: A Good
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1050
 \T1/cmss/m/n/10 (+20) Idea That Makes No Sense.^^Q \T1/cmss/m/sl/10 (+20) The G
 lobe and Mail\T1/cmss/m/n/10 (+20) , Oc-to-ber 15.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1032
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1050
 []\T1/cmss/m/n/10 (+20) https://www.theglobeandmail.com/opinion/customized-pron
 ouns-a-good-idea-that-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
-[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024s. 
-^^PWork-ing on Code with Chat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
-\T1/cmss/m/n/10 (+20) GPT: Some Tips (Some Also Use-ful More Gen-er-ally).^^Q D
-e-cem-ber 25.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1043--1043
-\T1/cmss/m/n/10 (+20) https://people.uleth.ca/ daniel.odonnell/blog/working-on-
-code-with-chatgpt-some-
  []
 
 
@@ -1377,31 +1360,49 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [18]
-Underfull \hbox (badness 1975) in paragraph at lines 1044--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+[]|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024s. 
+^^PWork-ing on Code with Chat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+\T1/cmss/m/n/10 (+20) GPT: Some Tips (Some Also Use-ful More Gen-er-ally).^^Q D
+e-cem-ber 25.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1061
+\T1/cmss/m/n/10 (+20) https://people.uleth.ca/ daniel.odonnell/blog/working-on-
+code-with-chatgpt-some-
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 1062--1062
 \T1/cmss/m/n/10 (+20) mit-tee on Sci-ence and Re-search (SRSR), Novem-ber 28, 2
 024.^^Q De-cem-ber 1.
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 1045--1045
+Underfull \hbox (badness 1092) in paragraph at lines 1063--1063
 \T1/cmss/m/n/10 (+20) durn Press, 2024) and Ganz, When the Clock Broke (FSG, 20
 24).^^Q June 30.
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 1047--1047
+Underfull \hbox (badness 1546) in paragraph at lines 1065--1065
 \T1/cmss/m/n/10 (+20) I'm a Good Man': WWII and the Great-est Gen-er-a-tion at 
 Home.^^Q April 10.
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 1048--1048
+Underfull \hbox (badness 3375) in paragraph at lines 1066--1066
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024n. 
 ^^PChat-Bot Prompt Thy-self.^^Q April 10.
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 1049--1049
+Underfull \hbox (badness 1320) in paragraph at lines 1067--1067
 \T1/cmss/m/n/10 (+20) War by Kim Philby and A Spy among Friends by Ben Mac-In-t
 yre.^^Q April 10.
  []
@@ -1414,45 +1415,33 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [19]
-Underfull \hbox (badness 5954) in paragraph at lines 1060--1060
+Underfull \hbox (badness 5954) in paragraph at lines 1078--1078
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024b. 
 ^^PBell 2023. Crack-ing the Nazi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1060--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1078--1078
 \T1/cmss/m/n/10 (+20) Code: The Un-told Story of Canada's Great-est Spy.^^Q Jan
 -uary 5.
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 1062--1062
+Underfull \hbox (badness 1231) in paragraph at lines 1080--1080
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023j. 
 ^^PEv-erett, 2001. Era-sure.^^Q De-cem-ber 31.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2023b. 
 ^^PIrony All the Way down, or,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1070--1070
+Underfull \hbox (badness 10000) in paragraph at lines 1088--1088
 \T1/cmss/m/n/10 (+20) Why En-glish De-part-ments Can't Have Pub Nights.^^Q De-c
 em-ber 17.
- []
-
-
-Underfull \hbox (badness 1199) in paragraph at lines 1076--1076
-\T1/cmss/m/n/10 (+20) Bill 6 and Treaty Rights. Septem-ber 2. []$\T1/cmtt/m/n/1
-0 https : / / open . spotify . com / show /
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 1078--1078
-\T1/cmss/m/n/10 (+20) Al-berta's Anti-Trans Leg-is-la-tion. June 7. []$\T1/cmtt
-/m/n/10 https : / / open . spotify . com / show /
  []
 
 
@@ -1463,6 +1452,18 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [20]
+Underfull \hbox (badness 1199) in paragraph at lines 1094--1094
+\T1/cmss/m/n/10 (+20) Bill 6 and Treaty Rights. Septem-ber 2. []$\T1/cmtt/m/n/1
+0 https : / / open . spotify . com / show /
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 1096--1096
+\T1/cmss/m/n/10 (+20) Al-berta's Anti-Trans Leg-is-la-tion. June 7. []$\T1/cmtt
+/m/n/10 https : / / open . spotify . com / show /
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1477,12 +1478,6 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [22]
-Underfull \hbox (badness 1158) in paragraph at lines 1136--1136
-[]|\T1/cmss/m/n/10 (+20) is \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cm
-ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1490,6 +1485,12 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [23]
+Underfull \hbox (badness 1158) in paragraph at lines 1154--1154
+[]|\T1/cmss/m/n/10 (+20) is \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cm
+ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1511,19 +1512,26 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [26]
-Underfull \hbox (badness 3525) in paragraph at lines 1193--1193
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 27/35 
+ []
+
+[27]
+Underfull \hbox (badness 3525) in paragraph at lines 1211--1211
 []|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
 s/m/n/10 (+20) . 2014. ^^P`All To-gether Now...' Mo-bil-is-ing
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 1194--1194
+Underfull \hbox (badness 3158) in paragraph at lines 1212--1212
 \T1/cmss/m/n/10 (+20) world-wide col-lab-o-ra-tive con-fer-ence on pri-vacy and
  surveil-lance in the dig-i-tal
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 1194--1194
+Underfull \hbox (badness 2418) in paragraph at lines 1212--1212
 \T1/cmss/m/n/10 (+20) age. Hosted by the Kule In-sti-tute for Ad-vanced Study. 
 May 21, 2014.
  []
@@ -1532,29 +1540,10 @@ May 21, 2014.
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 27/35 
- []
-
-[27]
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
 []|\T1/cmss/m/it/10.95 (-20) 28/35 
  []
 
 [28]
-Underfull \hbox (badness 7133) in paragraph at lines 1221--1221
-[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
-s/m/n/10 (+20) . 2010. A Work-shop on Uses and In-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1221--1221
-\T1/cmss/m/n/10 (+20) ter-op-er-a-tion. Paris, Jan-uary 14-15. http://lib.stanf
-ord.edu/DMSS
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1562,6 +1551,18 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [29]
+Underfull \hbox (badness 7133) in paragraph at lines 1239--1239
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2010. A Work-shop on Uses and In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1239
+\T1/cmss/m/n/10 (+20) ter-op-er-a-tion. Paris, Jan-uary 14-15. http://lib.stanf
+ord.edu/DMSS
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1584,7 +1585,7 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
 
 [32]
 LaTeX Font Info:    Trying to load font information for T3+cmss on input line 1
-292.
+310.
  (/usr/share/texmf/tex/latex/tipa/t3cmss.fd
 File: t3cmss.fd 2001/12/31 TIPA font definitions
 )
@@ -1619,20 +1620,20 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 293F66C65FF8EC229CA7FE72556DBE8F;8039.
+(rerunfilecheck)             Checksum: F257A67EC0D888C0779E78D703FB7BD7;8134.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 136 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28671 strings out of 473197
- 541423 string characters out of 5718604
- 971338 words of memory out of 5000000
- 51033 multiletter control sequences out of 15000+600000
+ 28673 strings out of 473197
+ 541447 string characters out of 5718604
+ 960338 words of memory out of 5000000
+ 51034 multiletter control sequences out of 15000+600000
  597060 words of font info for 239 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,18n,129p,999b,720s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,18n,129p,999b,760s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/
 FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/fontawesome5/FontAwesome5Free-Regular.pfb></usr/share/texmf/fonts/type1/publi
@@ -1647,10 +1648,10 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb
 ></usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb>
-Output written on CV.pdf (35 pages, 416512 bytes).
+Output written on CV.pdf (35 pages, 417645 bytes).
 PDF statistics:
- 736 PDF objects out of 1000 (max. 8388607)
- 650 compressed objects within 7 object streams
- 80 named destinations out of 1000 (max. 500000)
- 56178 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 751 PDF objects out of 1000 (max. 8388607)
+ 665 compressed objects within 7 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 56186 words of extra memory for PDF output out of 61914 (max. 10000000)
 

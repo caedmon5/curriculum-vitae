@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  26 APR 2026 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  26 APR 2026 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -900,21 +900,21 @@ LaTeX Font Warning: Font shape `T1/cmss/m/sc' in size <10> not available
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 10/46 
+[]|\T1/cmss/m/it/10.95 (-20) 10/45 
  []
 
 [10]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 11/46 
+[]|\T1/cmss/m/it/10.95 (-20) 11/45 
  []
 
 [11]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 12/46 
+[]|\T1/cmss/m/it/10.95 (-20) 12/45 
  []
 
 [12]
@@ -927,28 +927,28 @@ ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 13/46 
+[]|\T1/cmss/m/it/10.95 (-20) 13/45 
  []
 
 [13]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 14/46 
+[]|\T1/cmss/m/it/10.95 (-20) 14/45 
  []
 
 [14]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 15/46 
+[]|\T1/cmss/m/it/10.95 (-20) 15/45 
  []
 
 [15]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 16/46 
+[]|\T1/cmss/m/it/10.95 (-20) 16/45 
  []
 
 [16]
@@ -973,14 +973,14 @@ May 21, 2014.
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 17/46 
+[]|\T1/cmss/m/it/10.95 (-20) 17/45 
  []
 
 [17]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 18/46 
+[]|\T1/cmss/m/it/10.95 (-20) 18/45 
  []
 
 [18]
@@ -999,21 +999,21 @@ ord.edu/DMSS
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 19/46 
+[]|\T1/cmss/m/it/10.95 (-20) 19/45 
  []
 
 [19]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 20/46 
+[]|\T1/cmss/m/it/10.95 (-20) 20/45 
  []
 
 [20]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 21/46 
+[]|\T1/cmss/m/it/10.95 (-20) 21/45 
  []
 
 [21]
@@ -1050,7 +1050,7 @@ and-the-digital-humanities-as-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 22/46 
+[]|\T1/cmss/m/it/10.95 (-20) 22/45 
  []
 
 [22]
@@ -1076,14 +1076,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1078--1078
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 23/46 
+[]|\T1/cmss/m/it/10.95 (-20) 23/45 
  []
 
 [23]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 24/46 
+[]|\T1/cmss/m/it/10.95 (-20) 24/45 
  []
 
 [24]
@@ -1177,6 +1177,13 @@ Underfull \hbox (badness 4981) in paragraph at lines 1121--1121
  []
 
 
+
+
+Overfull \hbox (4.89603pt too wide) has occurred while \output is active
+[]|\T1/cmss/m/it/10.95 (-20) 25/45 
+ []
+
+[25]
 Underfull \hbox (badness 5862) in paragraph at lines 1122--1122
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PEn-thu-si-asm for Uni-ver-sity's An-nual
@@ -1213,13 +1220,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1123--1123
  []
 
 
-
-
-Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 25/46 
- []
-
-[25]
 Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
 []|\T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cmss/m/n/10 (+20) . 2024. ^
 ^PCom-mu-ni-ca-tion and Lead-
@@ -1349,145 +1349,145 @@ ouns-a-good-idea-that-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 26/46 
+[]|\T1/cmss/m/it/10.95 (-20) 26/45 
  []
 
 [26]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 27/46 
+[]|\T1/cmss/m/it/10.95 (-20) 27/45 
  []
 
 [27]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 28/46 
+[]|\T1/cmss/m/it/10.95 (-20) 28/45 
  []
 
 [28]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 29/46 
+[]|\T1/cmss/m/it/10.95 (-20) 29/45 
  []
 
 [29]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 30/46 
+[]|\T1/cmss/m/it/10.95 (-20) 30/45 
  []
 
 [30]
 LaTeX Font Info:    Trying to load font information for T3+cmss on input line 1
-238.
+235.
 (/usr/share/texmf/tex/latex/tipa/t3cmss.fd
 File: t3cmss.fd 2001/12/31 TIPA font definitions
 )
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 31/46 
+[]|\T1/cmss/m/it/10.95 (-20) 31/45 
  []
 
 [31]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 32/46 
+[]|\T1/cmss/m/it/10.95 (-20) 32/45 
  []
 
 [32]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 33/46 
+[]|\T1/cmss/m/it/10.95 (-20) 33/45 
  []
 
 [33]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 34/46 
+[]|\T1/cmss/m/it/10.95 (-20) 34/45 
  []
 
 [34]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 35/46 
+[]|\T1/cmss/m/it/10.95 (-20) 35/45 
  []
 
 [35]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 36/46 
+[]|\T1/cmss/m/it/10.95 (-20) 36/45 
  []
 
 [36]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 37/46 
+[]|\T1/cmss/m/it/10.95 (-20) 37/45 
  []
 
 [37]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 38/46 
+[]|\T1/cmss/m/it/10.95 (-20) 38/45 
  []
 
 [38]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 39/46 
+[]|\T1/cmss/m/it/10.95 (-20) 39/45 
  []
 
 [39]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 40/46 
+[]|\T1/cmss/m/it/10.95 (-20) 40/45 
  []
 
 [40]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 41/46 
+[]|\T1/cmss/m/it/10.95 (-20) 41/45 
  []
 
 [41]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 42/46 
+[]|\T1/cmss/m/it/10.95 (-20) 42/45 
  []
 
 [42]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 43/46 
+[]|\T1/cmss/m/it/10.95 (-20) 43/45 
  []
 
 [43]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 44/46 
+[]|\T1/cmss/m/it/10.95 (-20) 44/45 
  []
 
 [44]
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
-[]|\T1/cmss/m/it/10.95 (-20) 45/46 
+[]|\T1/cmss/m/it/10.95 (-20) 45/45 
  []
 
 [45] (./CV.aux)
@@ -1499,28 +1499,19 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `CV.out':
-(rerunfilecheck)             Before: 929BA8C68C4B23BA8D2403F136D8FABD;7871
-(rerunfilecheck)             After:  53A04C25DEFBA8E2DCBA2C31F8D16DA5;7871.
+Package rerunfilecheck Info: File `CV.out' has not changed.
+(rerunfilecheck)             Checksum: 45890E309EA18FC134F50330ED6E841D;7708.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 136 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 28676 strings out of 473197
- 541152 string characters out of 5718604
- 974061 words of memory out of 5000000
- 51026 multiletter control sequences out of 15000+600000
- 597117 words of font info for 239 fonts, out of 8000000 for 9000
+ 28672 strings out of 473197
+ 541106 string characters out of 5718604
+ 974990 words of memory out of 5000000
+ 51025 multiletter control sequences out of 15000+600000
+ 596985 words of font info for 238 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,18n,129p,999b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/
@@ -1537,10 +1528,10 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb
 ></usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb>
-Output written on CV.pdf (45 pages, 459223 bytes).
+Output written on CV.pdf (45 pages, 458719 bytes).
 PDF statistics:
- 1253 PDF objects out of 1440 (max. 8388607)
- 1154 compressed objects within 12 object streams
- 92 named destinations out of 1000 (max. 500000)
- 56189 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1249 PDF objects out of 1440 (max. 8388607)
+ 1150 compressed objects within 12 object streams
+ 91 named destinations out of 1000 (max. 500000)
+ 56181 words of extra memory for PDF output out of 61914 (max. 10000000)
 

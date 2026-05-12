@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  12 MAY 2026 11:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.10)  12 MAY 2026 11:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1002,6 +1002,24 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [11]
+Underfull \hbox (badness 2435) in paragraph at lines 911--911
+\T1/cmss/m/n/10 (+20) Gadie, Robert*, Odeniyi, Vic-to-ria*, and Parvin, Shahina
+*. 2021. ^^PRead-
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 911--911
+\T1/cmss/m/n/10 (+20) ing Peer Re-view ^^U What a Dataset of Peer Re-view Re-po
+rts Can Teach Us
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 911--911
+\T1/cmss/m/n/10 (+20) about Chang-ing Re-search Cul-ture.^^Q \T1/cmss/m/sl/10 (
++20) Im-pact of So-cial Sci-ences (blog)\T1/cmss/m/n/10 (+20) , March
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1009,9 +1027,15 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [12]
-Underfull \hbox (badness 1158) in paragraph at lines 915--915
-[]|\T1/cmss/m/n/10 (+20) is \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cm
-ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
+Underfull \hbox (badness 10000) in paragraph at lines 914--914
+\T1/cmtt/m/n/10 articles / Excellence _ R _ Us _ University _ Research _ and _ 
+the _ Fetishisation _ of _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--925
+\T1/cmss/m/n/10 (+20) theres-no-next-about-it-stanley-fish-william-pannapacker-
+and-the-digital-humanities-as-
  []
 
 
@@ -1022,6 +1046,25 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [13]
+Underfull \hbox (badness 2884) in paragraph at lines 941--941
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2011. Re-view of June Tera-sawa, \T1/cmss/m/sl/10 (+20) Old En
+-
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 941--941
+\T1/cmss/m/sl/10 (+20) glish Me-tre: An In-tro-duc-tion\T1/cmss/m/n/10 (+20) . 
+Toronto Anglo-Saxon Se-ries. Toronto:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--941
+\T1/cmss/m/n/10 (+20) Uni-ver-sity of Toronto Press. \T1/cmss/m/sl/10 (+20) The
+ Me-dieval Re-view \T1/cmss/m/n/10 (+20) 2011-09-28.
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1029,6 +1072,12 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [14]
+Underfull \hbox (badness 1158) in paragraph at lines 955--955
+[]|\T1/cmss/m/n/10 (+20) is \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cm
+ss/m/n/10 (+20) , Bar-bara Bor-dalejo, Da-vide Pa-fumi*, and Jo-ce-lyn
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1043,24 +1092,6 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [16]
-Underfull \hbox (badness 3525) in paragraph at lines 972--972
-[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
-s/m/n/10 (+20) . 2014. ^^P`All To-gether Now...' Mo-bil-is-ing
- []
-
-
-Underfull \hbox (badness 3158) in paragraph at lines 973--973
-\T1/cmss/m/n/10 (+20) world-wide col-lab-o-ra-tive con-fer-ence on pri-vacy and
- surveil-lance in the dig-i-tal
- []
-
-
-Underfull \hbox (badness 2418) in paragraph at lines 973--973
-\T1/cmss/m/n/10 (+20) age. Hosted by the Kule In-sti-tute for Ad-vanced Study. 
-May 21, 2014.
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1075,15 +1106,21 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [18]
-Underfull \hbox (badness 7133) in paragraph at lines 1000--1000
+Underfull \hbox (badness 3525) in paragraph at lines 1012--1012
 []|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
-s/m/n/10 (+20) . 2010. A Work-shop on Uses and In-
+s/m/n/10 (+20) . 2014. ^^P`All To-gether Now...' Mo-bil-is-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1000--1000
-\T1/cmss/m/n/10 (+20) ter-op-er-a-tion. Paris, Jan-uary 14-15. http://lib.stanf
-ord.edu/DMSS
+Underfull \hbox (badness 3158) in paragraph at lines 1013--1013
+\T1/cmss/m/n/10 (+20) world-wide col-lab-o-ra-tive con-fer-ence on pri-vacy and
+ surveil-lance in the dig-i-tal
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 1013--1013
+\T1/cmss/m/n/10 (+20) age. Hosted by the Kule In-sti-tute for Ad-vanced Study. 
+May 21, 2014.
  []
 
 
@@ -1101,6 +1138,18 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [20]
+Underfull \hbox (badness 7133) in paragraph at lines 1040--1040
+[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
+s/m/n/10 (+20) . 2010. A Work-shop on Uses and In-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1040--1040
+\T1/cmss/m/n/10 (+20) ter-op-er-a-tion. Paris, Jan-uary 14-15. http://lib.stanf
+ord.edu/DMSS
+ []
+
+
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1108,36 +1157,6 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [21]
-Underfull \hbox (badness 2435) in paragraph at lines 1048--1048
-\T1/cmss/m/n/10 (+20) Gadie, Robert*, Odeniyi, Vic-to-ria*, and Parvin, Shahina
-*. 2021. ^^PRead-
- []
-
-
-Underfull \hbox (badness 1675) in paragraph at lines 1048--1048
-\T1/cmss/m/n/10 (+20) ing Peer Re-view ^^U What a Dataset of Peer Re-view Re-po
-rts Can Teach Us
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 1048--1048
-\T1/cmss/m/n/10 (+20) about Chang-ing Re-search Cul-ture.^^Q \T1/cmss/m/sl/10 (
-+20) Im-pact of So-cial Sci-ences (blog)\T1/cmss/m/n/10 (+20) , March
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1051--1051
-\T1/cmtt/m/n/10 articles / Excellence _ R _ Us _ University _ Research _ and _ 
-the _ Fetishisation _ of _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1062--1062
-\T1/cmss/m/n/10 (+20) theres-no-next-about-it-stanley-fish-william-pannapacker-
-and-the-digital-humanities-as-
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1145,25 +1164,6 @@ Overfull \hbox (4.89603pt too wide) has occurred while \output is active
  []
 
 [22]
-Underfull \hbox (badness 2884) in paragraph at lines 1078--1078
-[]|\T1/cmss/m/n/10 (+20) i \T1/cmss/bx/n/10 (+20) O'Donnell, Daniel Paul\T1/cms
-s/m/n/10 (+20) . 2011. Re-view of June Tera-sawa, \T1/cmss/m/sl/10 (+20) Old En
--
- []
-
-
-Underfull \hbox (badness 5985) in paragraph at lines 1078--1078
-\T1/cmss/m/sl/10 (+20) glish Me-tre: An In-tro-duc-tion\T1/cmss/m/n/10 (+20) . 
-Toronto Anglo-Saxon Se-ries. Toronto:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1078--1078
-\T1/cmss/m/n/10 (+20) Uni-ver-sity of Toronto Press. \T1/cmss/m/sl/10 (+20) The
- Me-dieval Re-view \T1/cmss/m/n/10 (+20) 2011-09-28.
- []
-
-
 
 
 Overfull \hbox (4.89603pt too wide) has occurred while \output is active
@@ -1592,7 +1592,7 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.17pt have occurred.
 
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: BF03E2C013872E01B262B0E241B62275;7708.
+(rerunfilecheck)             Checksum: D2C6FCC8720659FADAB968DBCA30D89D;7708.
  )
 (\end occurred inside a group at level 1)
 
@@ -1620,7 +1620,7 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb
 ></usr/share/texmf/fonts/type1/fkr/tipa/tipass10.pfb>
-Output written on CV.pdf (45 pages, 459216 bytes).
+Output written on CV.pdf (45 pages, 459254 bytes).
 PDF statistics:
  1251 PDF objects out of 1440 (max. 8388607)
  1152 compressed objects within 12 object streams

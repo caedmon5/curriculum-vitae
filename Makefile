@@ -12,7 +12,7 @@ $(OUTPUT): $(TEXFILE).tex
 	pdflatex $(TEXFILE).tex  # run twice for references
 
 cv: all
-	git add $(OUTPUT)
+	git add -A
 	@read -p "Enter commit message: " msg; \
 	if [ -z "$$msg" ]; then echo "Aborted: empty commit message"; exit 1; fi; \
 	git commit -m "$$msg"; \

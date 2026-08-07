@@ -1,6 +1,7 @@
 \documentclass[11pt,letterpaper,sans]{tex/moderncv/moderncv}
 
 \newcommand{\lastupdated}{\today}
+\InputIfFileExists{version.tex}{}{\newcommand{\cvversion}{unreleased}}
 
 \moderncvstyle{casual}
 \moderncvcolor{blue}
@@ -131,7 +132,7 @@
 \makecvtitle
 
 \vspace{-1em}
-\hfill {\small \textbf{Last updated:} \lastupdated}
+\hfill {\small \textbf{Last updated:} \lastupdated\ (Ver.~\cvversion)}
 
 \hfill {\small \textbf{URL} (latest PDF): \url{https://caedmon5.github.io/curriculum-vitae/}
 

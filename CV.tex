@@ -56,20 +56,19 @@
 \PassOptionsToPackage{hyphens}{url}
 
 
-% Standard LaTeX sections
-\pretocmd{\section}{\Needspace{8\baselineskip}}{}{}
-% \pretocmd{\subsection}{\Needspace{3\baselineskip}}{}{}
-\pretocmd{\subsubsection}{\Needspace{4\baselineskip}}{}{}
-
-% moderncv-specific commands
-\pretocmd{\cvsection}{\Needspace{8\baselineskip}}{}{}
-\pretocmd{\cvsubsection}{\Needspace{4\baselineskip}}{}{}
-\pretocmd{\cvsubsubsection}{\Needspace{4\baselineskip}}{}{}
+% Keep headings with their following content. moderncv defines \section and
+% \subsection as xparse document commands, which etoolbox's \pretocmd cannot
+% patch — it fails silently, so the old \pretocmd lines here never did
+% anything. LaTeX's cmd hooks do work on xparse commands. \subsection needs
+% no hook: it is re-implemented below with its own \Needspace.
+\AddToHook{cmd/section/before}{\Needspace{10\baselineskip}}
 
 \makeatletter
 \RenewDocumentCommand{\subsection}{sm}{ %
   % Reserve space to avoid the heading at the bottom of a page
-  \Needspace{4\baselineskip} %
+  % (enough for the heading plus a first entry, else the heading orphans
+  % when the unbreakable block after it jumps to the next page)
+  \Needspace{8\baselineskip} %
   % Vertical spacing before the heading
   \par\addvspace{1ex} %
   \phantomsection{} % reset the anchor for hyperrefs

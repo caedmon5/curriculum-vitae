@@ -17,13 +17,17 @@ $(OUTPUT): $(TEXFILE).tex version.tex
 version.tex:
 	printf '\\newcommand{\\cvversion}{%s}\n' '$(patsubst v%,%,$(VERSION))' > version.tex
 
-cv: all
-	git add -A
+# Read the message first, so a release builds with its own version number.
+# (Building before tagging made each PDF show the previous release's number.)
+cv:
 	@read -p "Enter commit message (start with vN.n.n: to tag and publish a release): " msg; \
 	if [ -z "$$msg" ]; then echo "Aborted: empty commit message"; exit 1; fi; \
+	ver=$$(printf '%s' "$$msg" | grep -oE '^v[0-9]+\.[0-9]+\.[0-9]+'); \
+	if [ -n "$$ver" ]; then $(MAKE) VERSION="$$ver" all || exit 1; \
+	else $(MAKE) all || exit 1; fi; \
+	git add -A; \
 	git commit -m "$$msg"; \
 	git push; \
-	ver=$$(printf '%s' "$$msg" | grep -oE '^v[0-9]+\.[0-9]+\.[0-9]+'); \
 	if [ -n "$$ver" ]; then \
 		echo "Tagging and publishing release $$ver ..."; \
 		git tag -a "$$ver" -m "$$msg"; \

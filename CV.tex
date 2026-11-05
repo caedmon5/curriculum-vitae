@@ -342,6 +342,19 @@ Fred C.\ Robinson.}}
 \section{\textbf{Academic Leadership}}
 \cvitem{\textbf{Summary}}{\textit{O’Donnell has led multiple academic and professional organisations, including the Confederation of Alberta Faculty Associations (CAFA), University of Lethbridge Faculty Association (ULFA), Future of Research Communication and E-Scholarship (Force11), Global Outlook::Digital Humanities (GO::DH), and the Text Encoding Initiative Consortium (TEI). He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has often been asked to take leadership during moments of structural transition and policy change.}}
 
+% Academic Leadership only: first row in roman (title stays bold), closed with a period,
+% so it stands apart from the italic descriptions beneath it.
+\begingroup
+\renewcommand*{\cventry}[7][.25em]{%
+  \cvitem[#1]{#2}{%
+    {\bfseries#3}%
+    \ifthenelse{\equal{#4}{}}{}{, #4}%
+    \ifthenelse{\equal{#5}{}}{}{, #5}%
+    \ifthenelse{\equal{#6}{}}{}{, #6}.%
+    \strut%
+    \ifx&#7&%
+    \else{\newline{}\begin{minipage}[t]{\linewidth}\small#7\end{minipage}}\fi}}
+
 \cventry
   {2024--}
   {Past President}
@@ -477,6 +490,7 @@ Fred C.\ Robinson.}}
   {}
   {}
   {\textit{Established a pioneering digital community of practice for medievalists working with digital media. Built the project’s infrastructure and journal.}}
+\endgroup
 
 \section{\textbf{Funding and Prizes}}
 

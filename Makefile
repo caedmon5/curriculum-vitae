@@ -3,7 +3,7 @@
 TEXFILE=CV
 OUTPUT=CV.pdf
 
-.PHONY: all clean cv short
+.PHONY: all clean cv compact
 
 all: $(OUTPUT)
 
@@ -13,10 +13,10 @@ $(OUTPUT): $(TEXFILE).tex version.tex
 	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex
 	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex  # run twice for references
 
-# Short version: same entries, without the \onlineonly summaries or the Appendix.
-short: version.tex
-	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-short $(TEXFILE).tex
-	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-short $(TEXFILE).tex
+# Compact version: same entries, without the \onlineonly summaries or the Appendix.
+compact: version.tex
+	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-compact $(TEXFILE).tex
+	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-compact $(TEXFILE).tex
 
 .PHONY: version.tex
 version.tex:

@@ -3,11 +3,11 @@
 \newcommand{\lastupdated}{\today}
 \InputIfFileExists{version.tex}{}{\newcommand{\cvversion}{unreleased}}
 
-% Two versions from one source. `make` builds the full online CV; `make short`
-% builds CV-short.pdf (same entries; no \onlineonly summaries, no Appendix).
-\newif\ifshortcv
-\ifnum\pdfstrcmp{\jobname}{CV-short}=0 \shortcvtrue\fi
-\newcommand{\onlineonly}[1]{\ifshortcv\else#1\fi}
+% Two versions from one source. `make` builds the full online CV; `make compact`
+% builds CV-compact.pdf (same entries; no \onlineonly summaries, no Appendix).
+\newif\ifcompactcv
+\ifnum\pdfstrcmp{\jobname}{CV-compact}=0 \compactcvtrue\fi
+\newcommand{\onlineonly}[1]{\ifcompactcv\else#1\fi}
 
 \moderncvstyle{casual}
 \moderncvcolor{blue}
@@ -144,7 +144,7 @@
 \makecvtitle
 
 \vspace{-1em}
-\hfill {\small \textbf{Last updated:} \lastupdated\ (Ver.~\cvversion\ifshortcv, short version\fi)}
+\hfill {\small \textbf{Last updated:} \lastupdated\ (Ver.~\cvversion\ifcompactcv, compact version\fi)}
 
 \hfill {\small \textbf{URL} (latest PDF): \url{https://caedmon5.github.io/curriculum-vitae/}
 
@@ -186,7 +186,7 @@ Fred C.\ Robinson.}}}
   {1989}
   {B.A. in English Language and Literature (with Distinction)}
   {St.~Michael’s College, University of Toronto}
-  {Toronto, Ontario, Canada}
+  {}
   {}
   {%
     \textbf{Specialisation:} English Language and Literature.\\
@@ -197,7 +197,7 @@ Fred C.\ Robinson.}}}
   {1993}
   {Graduate course in Old Frisian}
   {Rijksuniversiteit Leiden}
-  {Leiden, Netherlands}
+  {}
   {January-June}
   {}
 
@@ -213,7 +213,7 @@ Fred C.\ Robinson.}}}
      {1990}
      {Summer School in Old Irish}
      {University College Galway}
-     {Galway, Ireland}
+     {}
      {August}
      {Funded by Andrew W. Mellon Foundation}
 
@@ -221,7 +221,7 @@ Fred C.\ Robinson.}}}
    {1990}
    {Summer School in Modern Irish}
    {University College Galway}
-   {an Cheathrú Rua, Ireland}
+   {An Cheathrú Rua, Ireland}
    {}
    {Funded by Andrew W. Mellon Foundation}
  
@@ -229,7 +229,7 @@ Fred C.\ Robinson.}}}
     {1987}
     {French Immersion}
     {Université du Québec à Chicoutimi}
-    {Chicoutimi, Quebec, Canada}
+    {}
     {}
     {}
 
@@ -258,7 +258,7 @@ Fred C.\ Robinson.}}}
   {1997--}
   {Professor of English (Tenured)}
   {University of Lethbridge}
-  {Lethbridge, Alberta}
+  {}
   {}
   {\begin{itemize}
     \item Full Professor, 2010--
@@ -277,7 +277,7 @@ Fred C.\ Robinson.}}}
   {2015--}
   {Associate Member}
   {University Library Academic Staff, University of Lethbridge}
-  {Lethbridge, Alberta}
+  {}
   {}
   {}
 
@@ -285,7 +285,7 @@ Fred C.\ Robinson.}}}
   {2020--}
   {Affiliate Member}
   {Prentice Institute for Global Population, University of Lethbridge}
-  {Lethbridge, Alberta}
+  {}
   {}
   {}
 
@@ -341,7 +341,7 @@ Fred C.\ Robinson.}}}
   {1987--1989}
   {Research Assistant}
   {Dictionary of Old English, University of Toronto}
-  {Toronto, Ontario}
+  {}
   {}
   {}
 
@@ -365,7 +365,7 @@ Fred C.\ Robinson.}}}
   {2024--}
   {Past President}
   {Confederation of Alberta Faculty Associations (CAFA)}
-  {Alberta}
+  {}
   {}
   {\textit{Continued strategic advocacy. Helped establish quarterly meetings with the Deputy Minister and staff at the Ministry of Advanced Education (Alberta). Co-presenter to the Expert Panel on Post-Secondary Institution Funding and Alberta’s Competitiveness (Mintz Panel). Assisted in the production of podcasts and in writing op-eds and related public-relations material.}}
 
@@ -397,7 +397,7 @@ Fred C.\ Robinson.}}}
   {2023--2024}
   {President}
   {Confederation of Alberta Faculty Associations (CAFA)}
-  {Alberta}
+  {}
   {}
   {\textit{Assumed the role immediately following the loss of a major member (two-thirds of CAFA’s income). Rebuilt the organisation and expanded connections to other post-secondary and civil-society organisations in the province, western Canada, and nationally. Redesigned public- and government-relations practices, resulting in improved press coverage and regular meetings with government officials. Led a successful inter-sectoral lobbying effort on Bill 18 (with Rural Municipalities of Alberta and the University of Alberta). Helped found the Western Regional Council.}}
 
@@ -461,7 +461,7 @@ Fred C.\ Robinson.}}}
   {2010--2013}
   {Co-President}
   {Canadian Society for Digital Humanities (CSDH/SCHN)}
-  {Canada}
+  {}
   {}
   {\textit{Coordinated national digital humanities strategy and membership growth.}}
 
@@ -1210,7 +1210,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{[1]}{\textbf{O’Donnell, Daniel Paul}. 2004. “More Research Money Needed for Social Science and Humanities.” \textit{CBC Radio One}, March 15. Transcript: \href{http://bit.ly/akgKs9}{http://bit.ly/akgKs9}}
 
 \subsection*{\textbf{Selected Academic and Technology Blogs}}
-\cvitem{\textbf{Summary}}{\textit{O’Donnell regularly publishes blogs from his research projects and on issues in academia, the use of computers and other technology in humanities research and teaching, and academic governance and labour matters. Entries from research projects sometimes record the work of student research assistants. The entries below are from the last three years (2024--2026); \ifshortcv a complete list can be found in the appendix to \href{https://caedmon5.github.io/curriculum-vitae/}{his online CV}\else the complete list of blog entries appears in the Appendix\fi.}}
+\cvitem{\textbf{Summary}}{\textit{O’Donnell regularly publishes blogs from his research projects and on issues in academia, the use of computers and other technology in humanities research and teaching, and academic governance and labour matters. Entries from research projects sometimes record the work of student research assistants. The entries below are from the last three years (2024--2026); \ifcompactcv a complete list can be found in the appendix to \href{https://caedmon5.github.io/curriculum-vitae/}{his online CV}\else the complete list of blog entries appears in the Appendix\fi.}}
 
 \cvitem{[238]}{\textbf{O’Donnell, Daniel Paul}. 2026c. \href{https://people.uleth.ca/~daniel.odonnell/blog/how-to-draw-syntactic-trees}{“How to draw syntactic trees.”} February 1.}
 \cvitem{[237]}{\textbf{O’Donnell, Daniel Paul}. 2026b. \href{https://people.uleth.ca/~daniel.odonnell/blog/blast-from-the-past-mcewan-ian-the-innocent-knopf-canada-2014}{“Blast from the past: McEwan, Ian. The Innocent. Knopf Canada, 2014.”} January 31.}
@@ -1542,7 +1542,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{2005--2008}{Department Chair, Department of English, University of Lethbridge.}
 
 % Appendix: online version only.
-\ifshortcv\else
+\ifcompactcv\else
 \section{\textbf{Appendix}}
 
 \subsection*{\textbf{Academic and Technology Blogs (Complete List)}}

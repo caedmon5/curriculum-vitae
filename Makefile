@@ -3,7 +3,7 @@
 TEXFILE=CV
 OUTPUT=CV.pdf
 
-.PHONY: all clean cv
+.PHONY: all clean cv short
 
 all: $(OUTPUT)
 
@@ -12,6 +12,11 @@ VERSION ?= $(shell git describe --tags --always 2>/dev/null)
 $(OUTPUT): $(TEXFILE).tex version.tex
 	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex
 	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex  # run twice for references
+
+# Short version: same entries, without the \onlineonly summaries or the Appendix.
+short: version.tex
+	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-short $(TEXFILE).tex
+	pdflatex -interaction=nonstopmode -halt-on-error -jobname=CV-short $(TEXFILE).tex
 
 .PHONY: version.tex
 version.tex:

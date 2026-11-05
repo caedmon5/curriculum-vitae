@@ -3,6 +3,12 @@
 \newcommand{\lastupdated}{\today}
 \InputIfFileExists{version.tex}{}{\newcommand{\cvversion}{unreleased}}
 
+% Two versions from one source. `make` builds the full online CV; `make short`
+% builds CV-short.pdf (same entries; no \onlineonly summaries, no Appendix).
+\newif\ifshortcv
+\ifnum\pdfstrcmp{\jobname}{CV-short}=0 \shortcvtrue\fi
+\newcommand{\onlineonly}[1]{\ifshortcv\else#1\fi}
+
 \moderncvstyle{casual}
 \moderncvcolor{blue}
 \usepackage[
@@ -138,7 +144,7 @@
 \makecvtitle
 
 \vspace{-1em}
-\hfill {\small \textbf{Last updated:} \lastupdated\ (Ver.~\cvversion)}
+\hfill {\small \textbf{Last updated:} \lastupdated\ (Ver.~\cvversion\ifshortcv, short version\fi)}
 
 \hfill {\small \textbf{URL} (latest PDF): \url{https://caedmon5.github.io/curriculum-vitae/}
 
@@ -146,10 +152,10 @@
 
 \section{\textbf{Post Secondary Education}}
 
-% \cvitem{\textbf{Summary}}{\textit{O’Donnell completed his undergraduate studies at the University of Toronto in
-% English (specialist), Medieval Latin (minor), and Celtic Studies (minor). His MA and PhD are from Yale
-% University in English, where his research focused on variation in Old English poetry, supervised by
-% Fred C.\ Robinson.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell completed his undergraduate studies at the University of Toronto in
+English (specialist), Medieval Latin (minor), and Celtic Studies (minor). His MA and PhD are from Yale
+University in English, where his research focused on variation in Old English poetry, supervised by
+Fred C.\ Robinson.}}}
 \subsection*{\textbf{Degree programmes}}
 \cventry
   {1996}
@@ -229,7 +235,7 @@
 
 
 \section{\textbf{Languages studied}}
-% \cvitem{\textbf{Summary}}{\textit{O’Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (approx.\ C1), French (approx.\ B2), and German (reading), as well as a number of medieval and classical languages: Old English, Old Norse, Latin, Old Frisian, and Gothic.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell works in a range of modern and historical languages relevant to medieval studies and digital scholarship. These include English (native), Dutch (approx.\ C1), French (approx.\ B2), and German (reading), as well as a number of medieval and classical languages: Old English, Old Norse, Latin, Old Frisian, and Gothic.}}}
 \cvitem{\textbf{Note}}{\textit{CEFR equivalencies are informal self- and/or tutor-assessments rather than awarded.}}
 
 \cvitem{}{
@@ -246,7 +252,7 @@
 }
 
 \section{\textbf{Academic Positions}}
-% \cvitem{\textbf{Summary}}{\textit{O’Donnell has held a continuing faculty position at the University of Lethbridge since 1997 and is currently a tenured full professor of English. In 2018 he was offered but declined a position as tenured full professor of English at the University of Saskatchewan. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at the University of Saskatchewan and within the University Library. At the University of Toronto, he was the first undergraduate to hold a research position at the Dictionary of Old English.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell has held a continuing faculty position at the University of Lethbridge since 1997 and is currently a tenured full professor of English. In 2018 he was offered but declined a position as tenured full professor of English at the University of Saskatchewan. He has also taught at Louisiana State University, the University of York, and Yale University, and has held adjunct and affiliate roles at the University of Saskatchewan and within the University Library. At the University of Toronto, he was the first undergraduate to hold a research position at the Dictionary of Old English.}}}
 
 \cventry
   {1997--}
@@ -340,7 +346,7 @@
   {}
 
 \section{\textbf{Academic Leadership}}
-% \cvitem{\textbf{Summary}}{\textit{O’Donnell has led multiple academic and professional organisations, including the Confederation of Alberta Faculty Associations (CAFA), University of Lethbridge Faculty Association (ULFA), Future of Research Communication and E-Scholarship (Force11), Global Outlook::Digital Humanities (GO::DH), and the Text Encoding Initiative Consortium (TEI). He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has often been asked to take leadership during moments of structural transition and policy change.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell has led multiple academic and professional organisations, including the Confederation of Alberta Faculty Associations (CAFA), University of Lethbridge Faculty Association (ULFA), Future of Research Communication and E-Scholarship (Force11), Global Outlook::Digital Humanities (GO::DH), and the Text Encoding Initiative Consortium (TEI). He has chaired major digital infrastructure and policy boards, founded scholarly and advocacy groups, and served as department chair at Lethbridge. In these roles, he has often been asked to take leadership during moments of structural transition and policy change.}}}
 
 % Academic Leadership only: first row in roman (title stays bold), closed with a period,
 % so it stands apart from the italic descriptions beneath it.
@@ -672,11 +678,11 @@
 
 \subsection*{\textbf{Honours}}
 
-%\cvitem{\textbf{Summary}}{%
-%  \textit{O’Donnell has won numerous awards, fellowships and honours over his career, including his university’s nomination for the 2025 SSHRC Impact Prize Competition, nomination for its Teaching Award (2015--2017), and honourable mention for the 2007 MLA Most-Distinguished Scholarly Edition prize. As a graduate student, he was a Mellon Fellow in the Humanities, a SSHRC Doctoral Fellow, and a Yale University Fellow.}
-%}
+\onlineonly{\cvitem{\textbf{Summary}}{%
+ \textit{O’Donnell has won numerous awards, fellowships and honours over his career, including his university’s nomination for the 2025 SSHRC Impact Prize Competition, nomination for its Teaching Award (2015--2017), and honourable mention for the 2007 MLA Most-Distinguished Scholarly Edition prize. As a graduate student, he was a Mellon Fellow in the Humanities, a SSHRC Doctoral Fellow, and a Yale University Fellow.}
+}
 
-\vspace{1em}
+\vspace{1em}}
 
 \cventry
   {2025}
@@ -776,7 +782,7 @@
 
 \section{\textbf{Major Projects}}
 
-% \cvitem{\textbf{Summary}}{\textit{O’Donnell is Principal Investigator (PI) on several research initiatives focused on scholarly communication, data infrastructure, academic governance, and early medieval language and culture. These projects are supported by internal and external funding from various programmes. The training of Highly Qualified Personnel (HQP) is an important element in all these projects.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell is Principal Investigator (PI) on several research initiatives focused on scholarly communication, data infrastructure, academic governance, and early medieval language and culture. These projects are supported by internal and external funding from various programmes. The training of Highly Qualified Personnel (HQP) is an important element in all these projects.}}}
 
 \cventry
   {2024--}
@@ -838,7 +844,7 @@
 %\end{center}
 
 \subsection*{\textbf{Books}}
-%\cvitem{\textbf{Summary}}{\textit{O’Donnell has published monographs, editions, and edited collections with Cambridge University Press, Boydell \& Brewer/Medieval Academy of America, and the University of Alberta Press. His edition of} Cædmon’s Hymn \textit{(2005) was honourable mention for most distinguished critical edition (2007, MLA) and reprinted in an internet edition in 2018 (SEENET).}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell has published monographs, editions, and edited collections with Cambridge University Press, Boydell \& Brewer/Medieval Academy of America, and the University of Alberta Press. His edition of} Cædmon’s Hymn \textit{(2005) was honourable mention for most distinguished critical edition (2007, MLA) and reprinted in an internet edition in 2018 (SEENET).}}}
 
 \cvitem{[3]}{r Bordalejo, Barbara and \textbf{Daniel Paul O’Donnell}, eds. Contracted/Under review 2026. \textit{The Unessay Across the Disciplines: Practical Advice from Instructors in the Humanities, Social Sciences, and STEM}. University of Alberta Press.}
 \cvitem{}{\textit{Collection of contributions exploring the use and impact of the “unessay” from teachers and researchers in English, History, Anthropology, Political Science, Biology, Medical Education, and Writing Studies/Study of Teaching and Learning. Fourteen chapters. Seventeen authors (one student). 78,500 words.}}
@@ -883,7 +889,7 @@
 }
 
 \subsection*{\textbf{Articles and Chapters (Traditional)}}
-%\cvitem{\textbf{Summary}}{\textit{O’Donnell has published regularly as both a sole author and as part of teams in traditional scholarly venues including peer-reviewed journals and essay collections. In recent years, his authorship teams have regularly included graduate, and even undergraduate, student authors.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell has published regularly as both a sole author and as part of teams in traditional scholarly venues including peer-reviewed journals and essay collections. In recent years, his authorship teams have regularly included graduate, and even undergraduate, student authors.}}}
 \cvitem{[49]}{r Pafumi, Davide*, Jocelyn McKnight**, Nathan D. Woods, \textbf{Daniel Paul O’Donnell}. Accepted 2026. “Loose Screws? Testing Screwmeneutics as an Approach to Old English Digital Philology.” \textit{Digital Studies / Le champ numérique}.}
 \cvitem{[48]}{r Khalid, AKM Iftekhar*, Frank Onuh*, Barbara Bordalejo, \textbf{Daniel Paul O’Donnell}. Under review 2026. “Owing Our Souls to the Company Store: The digital platform economy as rentier capitalism.” \textit{Information \& Media}.}
 \cvitem{[47]}{r McKnight, Jocelyn**, \textbf{Daniel Paul O’Donnell}. Accepted and at press 2026. “What is a digital edition, really? The Electronic Cædmon’s Hymn at twenty-one.” \textit{The Code4Lib Journal}, Issue 62.}
@@ -1151,7 +1157,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 
 \InsertMark{cvkey}{off}
 \section{\textbf{Knowledge Mobilisation}}
-%\cvitem{\textbf{Summary}}{\textit{O’Donnell contributes to knowledge mobilisation through interviews, journalism, blogs, podcasts, and the organisation of scholarly conferences and summer schools. Notable conference work includes the Force11 Scholarly Communications Institute (FSCI) — which he proposed and organised in its first years in collaboration with UC San Diego and UCLA — the peer-reviewed and open Text Encoding Initiative Conference (which he adapted from the original invitation-only TEI annual meeting), the first University of Lagos Summer School in Digital Humanities (under the supervision of Professor ’Tunde Opeibi), and (under the leadership of Barbara Bordalejo) the annual Implicit Bias Workshops organised for the Alliance of Digital Humanities Organisations.}}
+\onlineonly{\cvitem{\textbf{Summary}}{\textit{O’Donnell contributes to knowledge mobilisation through interviews, journalism, blogs, podcasts, and the organisation of scholarly conferences and summer schools. Notable conference work includes the Force11 Scholarly Communications Institute (FSCI) — which he proposed and organised in its first years in collaboration with UC San Diego and UCLA — the peer-reviewed and open Text Encoding Initiative Conference (which he adapted from the original invitation-only TEI annual meeting), the first University of Lagos Summer School in Digital Humanities (under the supervision of Professor ’Tunde Opeibi), and (under the leadership of Barbara Bordalejo) the annual Implicit Bias Workshops organised for the Alliance of Digital Humanities Organisations.}}}
 
 \subsection*{\textbf{Interviews and Journalism about my Work}}
 \cvitem{\textbf{Summary}}{\textit{Interviews with O’Donnell (and his coauthors) about their work, including scholarly interviews and articles by journalists.}}
@@ -1204,7 +1210,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{[1]}{\textbf{O’Donnell, Daniel Paul}. 2004. “More Research Money Needed for Social Science and Humanities.” \textit{CBC Radio One}, March 15. Transcript: \href{http://bit.ly/akgKs9}{http://bit.ly/akgKs9}}
 
 \subsection*{\textbf{Selected Academic and Technology Blogs}}
-\cvitem{\textbf{Summary}}{\textit{O’Donnell regularly publishes blogs from his research projects and on issues in academia, the use of computers and other technology in humanities research and teaching, and academic governance and labour matters. Entries from research projects sometimes record the work of student research assistants. The entries below are from the last three years (2024--2026); a complete list can be found in the appendix to \href{https://caedmon5.github.io/curriculum-vitae/}{his online CV}.}}
+\cvitem{\textbf{Summary}}{\textit{O’Donnell regularly publishes blogs from his research projects and on issues in academia, the use of computers and other technology in humanities research and teaching, and academic governance and labour matters. Entries from research projects sometimes record the work of student research assistants. The entries below are from the last three years (2024--2026); \ifshortcv a complete list can be found in the appendix to \href{https://caedmon5.github.io/curriculum-vitae/}{his online CV}\else the complete list of blog entries appears in the Appendix\fi.}}
 
 \cvitem{[238]}{\textbf{O’Donnell, Daniel Paul}. 2026c. \href{https://people.uleth.ca/~daniel.odonnell/blog/how-to-draw-syntactic-trees}{“How to draw syntactic trees.”} February 1.}
 \cvitem{[237]}{\textbf{O’Donnell, Daniel Paul}. 2026b. \href{https://people.uleth.ca/~daniel.odonnell/blog/blast-from-the-past-mcewan-ian-the-innocent-knopf-canada-2014}{“Blast from the past: McEwan, Ian. The Innocent. Knopf Canada, 2014.”} January 31.}
@@ -1535,6 +1541,8 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{2023--2026}{Department Chair, Department of English, University of Lethbridge.}
 \cvitem{2005--2008}{Department Chair, Department of English, University of Lethbridge.}
 
+% Appendix: online version only.
+\ifshortcv\else
 \section{\textbf{Appendix}}
 
 \subsection*{\textbf{Academic and Technology Blogs (Complete List)}}
@@ -1777,5 +1785,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{[3]}{\textbf{O’Donnell, Daniel Paul}. 2006c. \href{https://people.uleth.ca/~daniel.odonnell/blog/two-things-i-wish-linux-distributions-could-improve}{“Two things I wish Linux distributions could improve.”} November 18.}
 \cvitem{[2]}{\textbf{O’Donnell, Daniel Paul}. 2006b. \href{https://people.uleth.ca/~daniel.odonnell/blog/textpattern}{“Textpattern.”} November 18.}
 \cvitem{[1]}{\textbf{O’Donnell, Daniel Paul}. 2006a. \href{https://people.uleth.ca/~daniel.odonnell/blog/using-ssh-to-access-multiple-machines-at-a-single-domain}{“Using SSH to Access Multiple Machines at a Single Domain.”} November 17.}
+
+\fi
 
 \end{document}

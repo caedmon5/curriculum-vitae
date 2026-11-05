@@ -55,6 +55,10 @@
 
 \PassOptionsToPackage{hyphens}{url}
 
+% moderncv leaves LaTeX's footnote layout undefined; supply the article-class one.
+\makeatletter
+\providecommand\@makefntext[1]{\parindent 1em\noindent\hb@xt@1.8em{\hss\@makefnmark}#1}
+\makeatother
 
 % Keep headings with their following content. moderncv defines \section and
 % \subsection as xparse document commands, which etoolbox's \pretocmd cannot
@@ -799,8 +803,9 @@ Fred C.\ Robinson.}}
 
 \cvheading{10\baselineskip}{\textbf{Research Communication}}
  \cvitem{\textbf{Summary}}{\textit{O’Donnell began his publication career as an undergraduate, with an article on the linguistics and translation of} Beowulf\textit{, and has continued to publish regularly since then on topics in Old English studies, textual criticism, the digital humanities, open science, diversity and equity studies, etc.}}
- \cvitem{}{\textit{While much of his work has been in traditional academic genres (books, peer reviewed articles, chapters, etc., he has also published in various novels forms, going back to his participation, in 1991, in an early attempt at using email to develop an academic publication (see Earl et al. 1990, below: Non-traditional publication forms).}}
- \cvitem{\textbf{Note}}{\textit{In this section, the following symbols used before an item: \textbf{r} = refereed; \textbf{i} = invited; \textbf{s} = student co-authors at time of writing. Names followed by an asterisk were graduate students at the time of publication/presentation; names followed by two asterisks were undergraduate students at the time of publication/presentation.}}
+ \cvitem{}{\textit{While much of his work has been in traditional academic genres (books, peer reviewed articles, chapters, etc.), he has also published in various novel forms, going back to his participation, in 1991, in an early attempt at using email to develop an academic publication (see Earl et al. 1990, below: Non-traditional publication forms).}\footnotemark}
+% Symbol key as a real footnote: \footnote inside \cvitem would be trapped in its minipage.
+\footnotetext{In this section, the following symbols used before an item: \textbf{r} = refereed; \textbf{i} = invited; \textbf{s} = student co-authors at time of writing. Names followed by an asterisk were graduate students at the time of publication/presentation; names followed by two asterisks were undergraduate students at the time of publication/presentation.}
 
 %\subsection*{\textbf{Citations}}
 %\cvitem{\textbf{}}{\textit{O’Donnell is a top-cited member of his department.}}
@@ -924,7 +929,7 @@ Author order: Random. \textsc{doi}: \url{https://doi.org/10.1057/palcomms.2016.1
 \cvitem{[10]}{s Eve, Martin Paul, \textbf{O’Donnell, Daniel Paul}, Neylon, Cameron, Moore, Samuel*, Gadie, Robert*, Odeniyi, Victoria*, and Parvin, Shahina*. 2021. “Reading Peer Review – What a Dataset of Peer Review Reports Can Teach Us about Changing Research Culture.” \textit{Impact of Social Sciences (blog)}, March 31. \href{https://blogs.lse.ac.uk/impac
      tofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture}{https://blogs.lse.ac.uk/impactofsocialsciences/2021/03/31/reading-peer-review-what-a-dataset-of-peer-review-reports-can-teach-us-about-changing-research-culture}.}
 \cvitem{[9]}{Bordalejo, Barbara, Karina Van Dalen-Oskam, Folgert Karsdorp, \textbf{Daniel Paul O’Donnell}, and Basten Stokhuysen. 2019. \textit{Check Your Privilege} (version 1). Online game. Amsterdam: Huygens Institute. \href{https://privilege.huc.knaw.nl/}{https://privilege.huc.knaw.nl/}.}
-\cvitem{[8]}{s Bosman, Jeroen, Bruno, Ian, Chapman, Chris, Greshake Tzovaras, Bastian, Jacobs, Nate*, Kramer, Bianca, Martone, Maryann, Murphy, Fiona, \textbf{O’Donnell, Daniel Paul}, Bar-Sinai, Michael, Hagestrom, Stephanie, Utley, Josh, and Veksler, Lusia. 2017. “The Scholarly Commons – Principles and Practices to Guide Research Communication.” \textit{OSF Preprints}. Author order: alphabetical. \textsc{doi}: \href{https://doi.org/10.17605/OSF.IO/6C2XT}{https://doi.org/10.17605/OSF.IO/6C2XT}.}
+\cvitem{[8]}{s Bosman, Jeroen, Bruno, Ian, Chapman, Chris, Greshake Tzovaras, Bastian, Jacobs, Nate*, Kramer, Bianca, Martone, Maryann, Murphy, Fiona, \textbf{O’Donnell, Daniel Paul}, Bar-Sinai, Michael, Hagstrom, Stephanie, Utley, Josh, and Veksler, Lusia. 2017. “The Scholarly Commons – Principles and Practices to Guide Research Communication.” \textit{OSF Preprints}. Author order: alphabetical. \textsc{doi}: \href{https://doi.org/10.17605/OSF.IO/6C2XT}{https://doi.org/10.17605/OSF.IO/6C2XT}.}
 \cvitem{[7]}{s Moore, Samuel*, Neylon, Cameron, Eve, Martin Paul, \textbf{O’Donnell, Daniel Paul}, and Pattinson, Damian. 2016. “Excellence R Us: University Research and the Fetishisation of Excellence.” [Preprint]. Author order: random. \url{https://figshare.com/articles/Excellence_R_Us_University_Research_and_the_Fetishisation_of_Excellence/3413821}. \textsc{doi}: \href{https://doi.org/10.6084/m9.figshare.3413821.v1}{https://doi.org/10.6084/m9.figshare.3413821.v1}.}
 \cvitem{}{%
 \textbf{Journalism about this article:}%

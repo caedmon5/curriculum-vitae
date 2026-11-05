@@ -10,8 +10,8 @@ all: $(OUTPUT)
 VERSION ?= $(shell git describe --tags --always 2>/dev/null)
 
 $(OUTPUT): $(TEXFILE).tex version.tex
-	pdflatex $(TEXFILE).tex
-	pdflatex $(TEXFILE).tex  # run twice for references
+	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex
+	pdflatex -interaction=nonstopmode -halt-on-error $(TEXFILE).tex  # run twice for references
 
 .PHONY: version.tex
 version.tex:
